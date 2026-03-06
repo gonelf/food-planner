@@ -1,0 +1,2148 @@
+[
+  {
+    "id": 1,
+    "title": "Bacalhau à Brás 'Verde' (com Alho Francês e Cenoura)",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "400g bacalhau demolhado desfiado (sem espinhas)",
+      "1 alho francês grande (em meias-luas finas)",
+      "2 cenouras raladas",
+      "4 ovos",
+      "200g batata palha (de preferência de forno/caseira)",
+      "Azeite, 2 dentes de alho, salsa picada q.b."
+    ],
+    "instructions": [
+      "Num tacho largo, refogar o alho picado e o alho francês no azeite até amolecer (5 min).",
+      "Adicionar a cenoura ralada e o bacalhau. Cozinhar mais 5 min.",
+      "Envolver a batata palha no preparado.",
+      "Bater os ovos e adicionar ao tacho com o lume desligado ou muito brando, mexendo rapidamente para o ovo cozinhar na textura de creme, sem secar.",
+      "Finalizar com salsa picada."
+    ],
+    "baby_adaptation": "Reter uma porção antes de misturar a batata palha de compra (devido ao sal/fritura). Para o bebé, coza um pouco de batata normal em cubos muito pequenos ou bata o ovo apenas com o refogado de bacalhau e legumes, garantindo textura super húmida. Rever minuciosamente as espinhas do bacalhau."
+  },
+  {
+    "id": 2,
+    "title": "Filetes de Pescada de Forno com Arroz de Ervilhas",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "4 a 6 filetes de pescada (frescos ou descongelados)",
+      "1 chávena de arroz carolino",
+      "1 chávena de ervilhas (congeladas)",
+      "1 cebola picada, 3 dentes de alho laminados",
+      "Azeite, sumo de limão, coentros frescos"
+    ],
+    "instructions": [
+      "Temperar os filetes com limão, azeite e alho laminado. Levar ao forno a 180ºC num tabuleiro durante 20 min.",
+      "Num tacho, refogar a cebola em azeite. Juntar o arroz e fritar 1 min.",
+      "Adicionar as ervilhas e 2.5 chávenas de água a ferver. Cozinhar tapado em lume brando por 15 min.",
+      "Servir os filetes por cima do arroz, polvilhado com coentros."
+    ],
+    "baby_adaptation": "Os filetes desfazem-se facilmente, ideal para mastigação iniciante. Esmagar as ervilhas com um garfo na porção do bebé para evitar risco de engasgo (formato esférico)."
+  },
+  {
+    "id": 3,
+    "title": "Empadão de Peixe e Espinafres",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Conforto"
+    ],
+    "time": "45 min",
+    "ingredients": [
+      "500g lombos de pescada ou sobras de peixe cozido",
+      "1 embalagem de espinafres frescos (200g)",
+      "800g batata doce ou normal, 1 c. de sopa de manteiga, um pouco de leite",
+      "1 cebola, azeite, 1 folha de louro, noz-moscada"
+    ],
+    "instructions": [
+      "Cozer as batatas e fazer um puré rústico com a manteiga, um pouco de leite e noz-moscada.",
+      "Cozer rapidamente o peixe (se cru), limpar peles/espinhas e lascar.",
+      "Refogar a cebola e o louro em azeite, juntar os espinafres até murcharem e envolver o peixe.",
+      "Num tabuleiro, colocar metade do puré, o recheio de peixe, e cobrir com o restante puré. (Opcional: pincelar com gema de ovo).",
+      "Levar ao forno a 200°C por 15 min até tostar."
+    ],
+    "baby_adaptation": "Refeição perfeitamente segura. Textura amanteigada ideal. Certificar que o peixe está limpo e os espinafres bem picados. Retirar a porção do bebé antes de adicionar sal ao puré e ao recheio."
+  },
+  {
+    "id": 4,
+    "title": "Salada Fria (ou Morna) de Feijão Frade com Cavala",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "1 frasco grande de feijão frade cozido (aprox. 400g)",
+      "2 latas ou frascos de cavala (conserva natural ou azeite)",
+      "2 ovos cozidos",
+      "1/2 cebola roxa picada finamente",
+      "Salsa fresca picada, azeite virgem extra, vinagre de maçã"
+    ],
+    "instructions": [
+      "Lavar e escorrer muito bem o feijão frade num passador.",
+      "Escorrer as conservas de cavala e lascar o peixe grosseiramente.",
+      "Numa taça grande, misturar o feijão, a cavala, os ovos cozidos picados e a cebola roxa.",
+      "Temperar com azeite, umas gotas de vinagre e muita salsa picada."
+    ],
+    "baby_adaptation": "Lavar o feijão frade retira grande parte do sódio da conserva. Esmagar ligeiramente os grãos de feijão (idealmente achatá-los com o dedo/garfo). Omitir a cebola roxa crua na porção do bebé (ou saltear os bocadinhos de cebola dele no micro-ondas com azeite para adoçar)."
+  },
+  {
+    "id": 5,
+    "title": "Arroz Malandrinho de Pota",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Conforto"
+    ],
+    "time": "40 min",
+    "ingredients": [
+      "600g tentáculos/tiras de pota limpos",
+      "1.5 chávena de arroz carolino",
+      "1 tomate maduro grande picado (ou 3 c. sopa polpa de tomate)",
+      "1/2 pimento vermelho em cubos minúsculos",
+      "1 cebola, 2 alhos, azeite, coentros frescos"
+    ],
+    "instructions": [
+      "Refogar a cebola e alho no azeite. Adicionar o tomate e pimento e deixar \"suar\".",
+      "Juntar a pota cortada em pequenos pedaços e cozinhar tapado em lume brando por 10 min.",
+      "Adicionar água a ferver (cerca de 4.5 chávenas) e o arroz.",
+      "Cozer em lume médio-brando, destapado, até o arroz abrir e estar num caldo cremoso (15 min).",
+      "Desligar, tapar 2 min e servir polvilhado de coentros."
+    ],
+    "baby_adaptation": "A pota pode ser um desafio na mastigação dependendo do dente. Corte a pota da tigela do bebé em pedacinhos minúsculos na tábua de corte. O caldo macio vai ajudá-lo a engolir facilmente. Servir ainda bem húmido."
+  },
+  {
+    "id": 6,
+    "title": "Hambúrgueres de Atum e Aveia no Forno",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Express"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "3 latas de atum ao natural (em água)",
+      "1 chávena de flocos de aveia finos",
+      "2 ovos",
+      "1 cenoura ralada finamente",
+      "Salsa picada",
+      "Acompanhamento: Arroz ou batata e legumes cozidos"
+    ],
+    "instructions": [
+      "Escorrer muito bem o atum (espremendo a água).",
+      "Numa taça, misturar o atum, a aveia, a cenoura ralada, a salsa e os ovos batidos.",
+      "Amassar com as mãos e moldar formato de hambúrgueres.",
+      "Colocar num tabuleiro de forno forrado a papel vegetal ou untado.",
+      "Assar a 190°C por 15-20 min, virando a meio."
+    ],
+    "baby_adaptation": "O atum em água tem menos sal que em azeite, sendo melhor para este fim (é sempre bom passá-lo por água filtrada num passador primeiro). Cortar o hambúrguer em tiras verticais para o bebé pegar facilmente com as mãos (Formato prático de \"dedo\")."
+  },
+  {
+    "id": 7,
+    "title": "Pescada Cozida 'Com Todos' Colorida",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Conforto"
+    ],
+    "time": "30 min",
+    "ingredients": [
+      "3-4 lombos de pescada grande (sem espinhas)",
+      "4 batatas médias",
+      "3 cenouras grandes",
+      "1/2 couve penca/lombarda arranjada em folhas ou agriões",
+      "Azeite virgem extra de muito boa qualidade"
+    ],
+    "instructions": [
+      "Descascar batatas e cenouras, cortar em metades ou palitos grossos. Cozer em água num tacho largo.",
+      "Quando os legumes estiverem a meio do cozimento (10min), introduzir a couve.",
+      "Faltando 8 min, colocar os lombos de pescada delicadamente por cima da couve. Tapar o tacho para o peixe cozer quase a vapor.",
+      "Escorrer e servir numa travessa. Regar o prato dos pais generosamente com azeite (e vinagre opcional)."
+    ],
+    "baby_adaptation": "Cortar a cenoura e batata em palitos do tamanho de um dedo indicador facilita para o bebé pegar e comer sozinho (BLW). A maçã da pescada lasca facilmente em \"moedas\" grandes para ele pegar. Fio leve de azeite em cru."
+  },
+  {
+    "id": 8,
+    "title": "Bifes de Atum Fresco de Cebolada",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "2-3 bifes de atum fresco",
+      "2 cebolas grandes em meias-luas",
+      "2 c. sopa de polpa de tomate ou 1 tomate em cubos",
+      "1 folha de louro, 1 dente de alho",
+      "Azeite, vinagre (opcional), acompanhado de puré de batata"
+    ],
+    "instructions": [
+      "Aquecer azeite com o alho e louro. Adicionar a cebola e deixar refogar até ficar translúcida.",
+      "Juntar o tomate, tapar e deixar a cebola estufar no próprio suco até ficar muito macia e doce (10 min).",
+      "Empurrar a cebola para os lados da frigideira. Selar os bifes de atum rapidamente (2 min de cada lado se gostarem rosa no meio)."
+    ],
+    "baby_adaptation": "O atum mal passado não é seguro para o bebé. Corte uma porção ou bife mais pequeno para o bebé, e deixe estufar mais 5 min mergulhado no meio do molho da cebolada até estar todo cozinhado, para que não fique seco."
+  },
+  {
+    "id": 9,
+    "title": "Açorda Leve de Pescada e Ovo",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "3 tranches ou medalhões de pescada",
+      "3 pães duros (de véspera ou carcaças)",
+      "3 dentes de alho esmagados, um grande molho de coentros",
+      "3 ovos",
+      "Azeite farto"
+    ],
+    "instructions": [
+      "Cozer a pescada em água com um dente de alho e um fio de azeite (7 min). Retirar a pescada e reservar a água da cozedura!",
+      "Num tacho, refogar os restantes alhos e caules de coentros em bastante azeite.",
+      "Adicionar o pão em pedaços e regar generosamente com o caldo do peixe coado. Mexer vigorosamente até ficar uma \"papa\" rústica.",
+      "Lascar a pescada para dentro do tacho.",
+      "Escalfar os ovos no caldo sobrante numa tacho a parte, e servir por cima com muitos coentros picados."
+    ],
+    "baby_adaptation": "Sirva ao bebé o ovo muito bem cozido (nunca ovo com gema líquida num bebé de 1 ano!). A textura da açorda é espetacular e uma maneira eficaz de comerem hidratos no fim do dia. Não adicionar sal à base de caldo, o pão e o azeite já têm muito sabor."
+  },
+  {
+    "id": 10,
+    "title": "Massada de Maruca",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Conforto"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "500g postas de maruca ou cação",
+      "2 chávenas de massas grossas (tipo cotovelos grandes ou búzios)",
+      "1 cebola, 1 alho, azeite, 1/2 pimento verde, 2 tomates maduros",
+      "Hortelã ou coentros frescos"
+    ],
+    "instructions": [
+      "Num tacho grande, refogar a cebola, alho, tomate picado e pimento em azeite, até fazer um molho espesso.",
+      "Adicionar o peixe inteiro e deixar cozinhar 10 min. (Retirar o peixe para um prato, limpar espinhas rigorosamente e lascar grosso. Reservar).",
+      "Na mesma água/caldo do tacho, colocar as massas (adicionar água a ferver se necessário) e cozer al dente.",
+      "2 minutos antes de prontas, envolver as lascas de peixe de volta. Servir com hortelã ou coentros."
+    ],
+    "baby_adaptation": "Os búzios ou cotovelos gigantes são excelentes formatos para o bebé caçar no prato com os dedos (estimula pinça motora e autonomia). A textura será molhada e muito apaladada pelo estufado de legumes."
+  },
+  {
+    "id": 11,
+    "title": "Peixe de Assadeira em Cama de Batata, Cebola e Pimento",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "45 min",
+    "ingredients": [
+      "3 postas altas de peixe branco (bacalhau fresco, pescada, corvina)",
+      "4 batatas cortadas em metades ou rodelas grossas",
+      "2 cebolas em meias-luas, 1 pimento em tiras",
+      "1 tomate em rodelas",
+      "Azeite, massa de pimentão doce (1 colher chá)"
+    ],
+    "instructions": [
+      "Num tabuleiro, dispor uma cama generosa de cebola, batata, pimento e tomate. ",
+      "Por cima colocar o peixe.",
+      "Diluir a massa de pimentão doce numa chávena (pequenina) de água e azeite generoso. Regar tudo.",
+      "Tapar o tabuleiro com papel de alumínio nos primeiros 30 min (forno 190°C), para estufar em cru. Retirar o papel no final por 15 min para corar."
+    ],
+    "baby_adaptation": "O ambiente fechado (alumínio) garante que o peixe absorve o vapor de forma excelente. Cortar a posta de peixe limpa no prato, e oferecer as batatas moles envoltas no tomate \"derretido\". Sem massa de pimentão doce na zona do bebé (para evitar sódio), colocar só tomate e azeite simples."
+  },
+  {
+    "id": 12,
+    "title": "Salada Quente de Grão e Salmão Assado",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "2 a 3 postas/lombos de salmão",
+      "1 frasco grande de grão de bico cozido (aprox 400g)",
+      "150g de agriões frescos ou espinafres baby",
+      "1 cebola recedida a meia-lua (suada) ou azeitonas picadas no dos adultos",
+      "Azeite, sumo de limão"
+    ],
+    "instructions": [
+      "Temperar o salmão e assar no forno ou fritadeira a ar a 180°C (12-15 min).",
+      "Num tacho pequeno, saltear ligeiramente os agriões com o grão de bico escorrido apenas para falbar (amornar).",
+      "Lascar o salmão para as taças de grão e legumes quentes. Temperar com sumo de limão e azeite cru."
+    ],
+    "baby_adaptation": "Esmagar ativamente os grãos de bico todos da porção do bebé com um garfo (fazer puré grosseiro). Pode esmagar logo o grão juntamente com o salmão lascado puro (sem espinhas/peles estaladiças)."
+  },
+  {
+    "id": 13,
+    "title": "Sopa Rica do Mar (Caldo Grosso)",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Conforto"
+    ],
+    "time": "40 min",
+    "ingredients": [
+      "Cabeças de peixe (que pede na peixaria: ex pescada) + 2 postas base pequenas peixe",
+      "Base de Legumes: 2 batatas, 2 cenouras, 1 corgete, 1 cebola",
+      "1 taça pequena de massinhas pevide ou arroz",
+      "Azeite, coentros"
+    ],
+    "instructions": [
+      "Ferver numa panela a água com as cabeças, limpar e retirar só o caldo e os pedacinhos muito limpos de carne de peixe resgatados do refugo (passar caldo pelo escorredor fino).",
+      "Na panela, introduzir a base de legumes com o pescada, ferver 15 min, retirar so o peixe das 2 postas. Colocar no formato liquidificador os legumes e triturar super denso em creme.",
+      "Juntar o caldo das cabeças, adicionar ao creme grosso. Ligar lume e colocar massinhas pevide durante 8 min. Juntar o peixe lascado grosso."
+    ],
+    "baby_adaptation": "As sopas pesadas da tradição portuguesa são super recheadoras e evitam um 2º prato pesado ao jantar."
+  },
+  {
+    "id": 14,
+    "title": "Pataniscas de Pescada no Forno com Arroz de Tomate",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Express"
+    ],
+    "time": "30 min",
+    "ingredients": [
+      "300g peixe desfiado escorrido",
+      "4 colheres sopa farinha trigo (ou aveia triturada)",
+      "2 ovos, 3/4 chávena água",
+      "Cebola ralada, salsa.",
+      "1 chávena arroz branco (já cozido com um pouco de tomate)"
+    ],
+    "instructions": [
+      "Misturar os ovos com a água, ir batendo a farinha aos poucos para um polme liso e muito líquido espesso. Adicionar o peixe, salsa e cebola muito esmagadinha.",
+      "Num tabuleiro forrado a película vegetal (oleada finamente a azeite), verter colheradas deste polme espalhando liso e fininho. ",
+      "Assar no Forno a 200°C 15 minutos e virar nos restantes 5. "
+    ],
+    "baby_adaptation": "Sem ser as fritas ao óleo tradicionais, o forno torna a iguaria saudável e de textura elástica boa, servido morno desfaz e as patas ou dedos dele seguram-na em forma meia lua."
+  },
+  {
+    "id": 15,
+    "title": "Patê de Sardinha Caseiro com Puré de Grão e Palitos",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "10 min",
+    "ingredients": [
+      "2 Latas de Sardinhas em Tomate",
+      "4 C. Sopa de grão de bico cozido e processado ou meio abacate",
+      "Fio de azeite extra bem verde e raspas meio limão",
+      "Pão tostado e Pepino/Cenouras crú em palito para molhar"
+    ],
+    "instructions": [
+      "Retirar sardinha da lata e limpar ativamente de escamas maiores/espinha densa se se vir inteira. ",
+      "Num prato e garfo, esmagar até puré com a base de grão até virar pasta cor rosa castanho lisa (o óleo próprio substitui maioneses!). Finalizar azeite fino e limão raspa."
+    ],
+    "baby_adaptation": "Não oferecer cenoura crua em palito (risco engasgo elevado). Cortar pepino em tiras longas espessas (sem sementes), ou palitos de pão torrado onde ele pode manusear este paté super rico em Omegas de retenção neuronal para bebé. Lanche excelente nutritivo."
+  },
+  {
+    "id": 16,
+    "title": "Noodles de Wok com Lulas e Legumes",
+    "category": "Peixe e Conservas",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "1 embalagem noodles (arroz seco ou udon/trigo moles)",
+      "400g lulas em argolas pequenas",
+      "1 cenoura juliana rija e 1 couve pak-choi",
+      "Fio de óleo de sésamo (adultos)"
+    ],
+    "instructions": [
+      "Ferver noodles 3 min em água quente, escorrer.",
+      "Wok/Frigideira fervente. Adicionar lulas com os legumes (3-4min rápidos).",
+      "Misturar massas e finalizar. "
+    ],
+    "baby_adaptation": "Retirar logo para prato do bebe porque lulas mais logo na frigideira ganham textura borracha (dão vómitos reflexivos os bebes). Cortar a massa bem fina e não lhe colocar molho de Soja, por causa do limite cloreto Sódio. O molho e sésamo só vai às travessas dos pais no fim."
+  },
+  {
+    "id": 17,
+    "title": "Salmão Glaceado Citrinos com Arroz Jasmim",
+    "category": "Peixe e Conservas",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "Postas Salmão gordo",
+      "Sumo e raspa de 1 laranja real e sumo maçã",
+      "Pedacinho fino gengibre",
+      "Arroz Jasmin (coze num banho à razão 1 chav arroz de 1,5 chav agua)"
+    ],
+    "instructions": [
+      "Diluir sumo, alho em pó, gengibre e deitar sobre tabuleiros c/ salmão.",
+      "Assar a 190° 15 minutos (forma uma cola glaceada aromática em cima). Servir com o arroz escorrido limpo."
+    ],
+    "baby_adaptation": "O cítrico carameliza ao calor e não é ardente; as notas doces ajudam-nos a apaixonarem-se por peixe. Retirar peles. O arroz oriental gruda um pouco, logo não fica \"areado\" o que os impede de se asfixiarem, faz bolas pastosas super seguras."
+  },
+  {
+    "id": 18,
+    "title": "Arroz Frito de Pescada e Ervilhas (Fried Rice)",
+    "category": "Peixe e Conservas",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "2 chávenas de arroz branco (com cozinhado de ontem de preferência frio de frigorífico)",
+      "1 ovo",
+      "2 tranches de pescada feitas e flocadas",
+      "1 taça pequena de ervilhas tortas ou congeladas"
+    ],
+    "instructions": [
+      "Frigideira larga. Estrelar/mexer o ovo cru rápido de modo a ficar desfeito em \"chuventes\"/esfarelado.",
+      "Adicionar arroz frio e desfazê-lo na wok na força máxima.",
+      "Adicionar o peixe puro em flocos soltos e a ervilha amolecida. 3 min saltear ativo ao tacho."
+    ],
+    "baby_adaptation": "A mistura ideal; hidratos cobertos das peliculas invisiveis do mexer de ovo de forma que comem uma montanha com prazer sem molhos fortes e com textura incrivel a caçar mimos da pescada."
+  },
+  {
+    "id": 19,
+    "title": "\"Sushi Bowl\" Falso de Salmão e Abacate",
+    "category": "Peixe e Conservas",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "Arroz próprio de sushi (redondo estripado dos amidos doces) - opcional normal servirá",
+      "Cubos salmão muito fininhos (brasear adultos; a vapor bébés 4 min)",
+      "Fatias de meio Abacate "
+    ],
+    "instructions": [
+      "Fazer taças ricas e bonitas de roda; fundo farto arroz morno neutro, fileiras alinhadas abacate, e peixe gordo a finalizar no topo. "
+    ],
+    "baby_adaptation": "Prato servido às camadas numa bowl plástica dele; não dar Salmão cru; certifique-se que foi a vapor em papel hermético na microondas ou panela rápida e as gorduras benéficas transpiraram e não se volatilizaram. Prato visual por excelência! Ensina comer a ver texturas nuas (educação p/ a neuro-visão da alimentação na pediatria)."
+  },
+  {
+    "id": 20,
+    "title": "Caril Amarelo Suave de Maruca com Leite de Coco",
+    "category": "Peixe e Conservas",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "30 min",
+    "ingredients": [
+      "500g cubos grandes de peixe branco rijo limpo",
+      "1 lata de leite de coco (não \"light/magro\" - usar completo p/ densidade)",
+      "1 colher café rasa de pó Curcuma Dourada (Açafrão das Índias)",
+      "1 cebola moída num prato para polpa base, azeitar suave."
+    ],
+    "instructions": [
+      "Refogar moinha da cebola com azeite pouco; introduzir colher pó de curcuma que ativa no azeite quente cor ouro vibrante.",
+      "Deitar o Leite côco. Ferver ligeiro. Baixar lume, enfiar o peixe branco para pochar 8 minutos no molho espesso tapado."
+    ],
+    "baby_adaptation": "A curcuma é zero picante, apenas terrosa doce e super anti-inflamatória de gengivas e dentes da criança. O molho denso amorenado não leva laticínio de vaca protegendo as cólicas lactantes dos bébes que os leites adaptados geram por contraste."
+  },
+  {
+    "id": 21,
+    "title": "Tikka Masala (Iogurte) Rápido com Brócolos",
+    "category": "Peixe e Conservas",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Uma Panela",
+      "Amigo do Congelador"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "Peixe leve a gosto",
+      "Base Masala rápida: 150ml Tomate Polpa + 1 Yagurt Grego natural sem adição açucares.",
+      "Brócolos baby cortados por floretes pequenos e pés raspados de fio lenhoso"
+    ],
+    "instructions": [
+      "Brócolos e peixe numa panela em leito molho do Tomate (água ferver de roda pequena q.b.) durante 10 a 15 min. No apagar fogão, mistura o creme do iogurte vivo em frio à mistura vermelha (fica rosa de chef)."
+    ],
+    "baby_adaptation": "A cremosidade deste molho rosa ácido e doce é brutal no disfarce dos legumes mais ocos como brócolos! As couves escondem nos poros esta essencia gorda láctea molhada adorável ao prato e super mole de engolir!"
+  },
+  {
+    "id": 22,
+    "title": "Dhal de Lentilhas Laranjas com Atum (Papa do Médio Oriente)",
+    "category": "Peixe e Conservas",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Conforto",
+      "Amigo do Congelador"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "2 Chávenas de Lentilhas vermelhas/laranjas pequenas",
+      "2 latas atum natural",
+      "Curcuma e coentros picados/cominhos doce terra"
+    ],
+    "instructions": [
+      "A lentilha vermelha ferve 15 a 20 min com o peso do dobro agua, sem casca visivel vai explodir num puré macio e dourado denso que apura aromas exóticos na cozinha. No fim mistura lata atum lavada."
+    ],
+    "baby_adaptation": "As lentilhas laranja são um segredo da nutrição maternal pediátrica - riquissimas ferro, fáceis de asimilar sem causar grandes gazes pois já estão semi-descascadas das películas em casca rija, fazendo a melhor sopa sólida proteíca que ele suporta ao almoço!"
+  },
+  {
+    "id": 23,
+    "title": "Koftas (Almôndegas/Kebab) de Salmão com Molho Hortelã",
+    "category": "Peixe e Conservas",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Uma Panela",
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "Moinha pão trigo (ou aveia pó) + Salmão Fresco Picado fino ",
+      "Ervas cheiro (salsa)",
+      "Molho adulto: Iogurte e pepino/hortelã sumarento "
+    ],
+    "instructions": [
+      "Ligar puré do peixe frio no frio com moinha ligante (pão macio) - moldar nas mãos rolos como kebabs compridos do tamanho formato bateria telemóvel pequena! Assar secos forno no papel base vegetal durante quinze m."
+    ],
+    "baby_adaptation": "Forma canuda excelente a morder sem perder. Não afogar em muito molho de menta iogurte que os pais usam porque o contraste gelado atrapalha bebés, pode colocar pequena lasca fina a enfeitar!"
+  },
+  {
+    "id": 24,
+    "title": "Orzotto de Tomate e Atum (Risotto rápido)",
+    "category": "Peixe e Conservas",
+    "origin": "Mediterrânica Geral",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "1 Chávena grande de massa Pevide grossa (Orzo italiano parecido com pinhão gigante/arroz)",
+      "1 Cebola refogada em fio azeitar, meia beringela ou courgette picada farta pequena.",
+      "Lata atum desfazer.",
+      "Final de natas queijo."
+    ],
+    "instructions": [
+      "Fritar pinguinho o Orzo base panela a rolar cebola, juntar conchas gradativas tomate ralado e caldos brancos peixe. Demora a embeber apenas 14 min a secar. Introduz corgete invisível misturada fina e muito peixe base salgada deslavada!"
+    ],
+    "baby_adaptation": "As massinhas caem logo para trás porque escorregam na polpa/creme, não precisam de 50 mastigações fortes cansativas, excelente receita à Sexta-feira estafante dos miúdos da creche caídos exaustos e que não querem já mastigar duro nada."
+  },
+  {
+    "id": 25,
+    "title": "Paella Rasa Rápida de Peixe Branco",
+    "category": "Peixe e Conservas",
+    "origin": "Mediterrânica Geral",
+    "dynamics": [
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "Arroz médio/Paelha",
+      "Fitas coloridas encarnadas pimento doce descascado finas ",
+      "Fio esmeraldo açafrão em pó leve, refogado espanhol chouricinha de oleos base e muito peixe gordo limpo."
+    ],
+    "instructions": [
+      "A panela bem chata tem a virtude espalhar fina as finuras de calor! Não de forma amontoada em tacho. Arroz cor de gemas espalhado com um caldinho doce assa devagar e os vegetais grelham suados amando!"
+    ],
+    "baby_adaptation": "Cuidado redobrado porque nesta o arroz seca por cima não o fazendo malandrino, deitar 1 pinguinha água fervedura quente em cima tigela antes comerem. O Peixe vai a gosto desfiado do que sobra as caldeiradas na peixaria, muito versátil. Sem caldos carne ou frango industrias (tóxicos/sódio a mais). Usar so base água ou refugas vapor caseiro!"
+  },
+  {
+    "id": 26,
+    "title": "Meia Desfeita de Grão com Ovo Cozido e Salsa",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "1 frasco grande de grão de bico cozido (aprox. 400g)",
+      "4 ovos cozidos",
+      "1/2 cebola finamente picada",
+      "Salsa fresca farta, azeite virgem extra, vinagre de vinho"
+    ],
+    "instructions": [
+      "Lavar o grão de bico abundantemente e escorrer. Aquecer ligeiramente se preferir a salada morna.",
+      "Cozer os ovos durante 10 min, descascar e picar grosseiramente.",
+      "Juntar o grão, a cebola picada (suada previamente se o estômago for sensível) e os ovos.",
+      "Envolver com azeite, um pouco de vinagre e muita salsa picada."
+    ],
+    "baby_adaptation": "Esmagar ativamente os grãos de bico com um garfo (fazer puré grosseiro ou lascas grandes). Omitir a cebola crua e o vinagre na porção do bebé. O ovo bem cozido picado fornece excelentes proteínas e gorduras cerebrais."
+  },
+  {
+    "id": 27,
+    "title": "Ervilhas Estufadas com Ovos Escalfados",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "400g ervilhas congeladas",
+      "4 ovos",
+      "1 cebola e 2 dentes de alho picados",
+      "2 colheres de sopa de polpa de tomate",
+      "Azeite, coentros frescos"
+    ],
+    "instructions": [
+      "Num tacho raso e largo, estufar a cebola e alho no azeite.",
+      "Adicionar a polpa de tomate e as ervilhas. Juntar meia chávena de água a ferver, tapar e deixar as ervilhas suarem (10 min).",
+      "Abrir pequenas 'covas' no molho das ervilhas e partir os ovos para dentro.",
+      "Tapar o tacho novamente e deixar cozinhar em lume brando até o ovo assentar (cerca de 5 a 7 min, dependendo de como preferem a gema).",
+      "Finalizar com coentros."
+    ],
+    "baby_adaptation": "Para o bebé, o ovo tem de estar 100% cozido (gema rija). Na prato do bebé, use o fundo de uma colher para esmagar todas as ervilhas de modo a retirar a película lisa e a forma redonda (prevenção de engasgo). O molho húmido fará deste prato um sucesso."
+  },
+  {
+    "id": 28,
+    "title": "Feijoada Rapida de Cogumelos, Cenoura e Couve",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Conforto",
+      "Amigo do Congelador"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "1 frasco grande de feijão vermelho ou manteiga",
+      "300g cogumelos laminados (brancos ou marrom)",
+      "2 cenouras em meias-luas finas",
+      "Couve lombarda ou repolho ripado",
+      "Cebola, alho, folha de louro, azeite, paprika doce"
+    ],
+    "instructions": [
+      "Fazer um refogado base com cebola, alho, louro e paprika doce no azeite.",
+      "Adicionar os cogumelos e cenoura, deixando amolecer por 5 min.",
+      "Juntar o couve e o feijão com cerca de 1/3 do líquido da lata. Adicionar mais um pouco de água se necessário.",
+      "Cozinhar em lume brando até a cenoura estar muito macia e o caldo super apurado e grosso (cerca de 20 min)."
+    ],
+    "baby_adaptation": "O feijão vermelho é macio de roer. Achatar o feijão da porção dele. Os cogumelos picados bem fininhos passam despercebidos na textura e dão um sabor 'umami' que imita perfeitamente carnes estufadas. Muito ferro na couve super cozida."
+  },
+  {
+    "id": 29,
+    "title": "Rancho Vegetariano com Grão e Macarronete",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Conforto",
+      "Amigo do Congelador"
+    ],
+    "time": "30 min",
+    "ingredients": [
+      "1 frasco de grão de bico cozido",
+      "1 chávena de massa macarronete grossa ou cotovelos",
+      "1/2 couve portuguesa cortada grosseiramente",
+      "1 cebola, 2 dentes alho, 2 cenouras em rodelas",
+      "Polpa de tomate, azeite"
+    ],
+    "instructions": [
+      "Refogar a cebola e alho em azeite com polpa de tomate. Juntar as cenouras e a couve.",
+      "Juntar caldo de legumes (ou água quente) e deixar levantar fervura (10 min).",
+      "Adicionar a massa. Deixar cozer quase até ao fim.",
+      "Dois minutos antes de apagar, envolver o grão cozido para absorver o caldo. O Rancho deve ficar bastante 'caldoso'."
+    ],
+    "baby_adaptation": "O macarronete grosso é excelente para agarrar. A couve tem de ficar muito, muito cozida, e de preferência cortada à tesoura em pedaços ínfimos no prato da criança. Grão espalmado com colher."
+  },
+  {
+    "id": 30,
+    "title": "Omelete de Forno com Espinafres e Queijo Fresco",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "6 ovos",
+      "1 embalagem de espinafres baby ou folhas de acelga",
+      "1 queijo fresco grande (ou requeijão macio)",
+      "1/2 colher de chá de orégãos",
+      "Azeite para untar"
+    ],
+    "instructions": [
+      "Bater os ovos numa taça grande.",
+      "Adicionar os espinafres (crus, murcham no forno), os orégãos e esfarelar o queijo fresco lá para dentro.",
+      "Verter tudo para um pirex debilmente untado com azeite.",
+      "Levar ao forno a 180ºC por 15-20 min até as bordas dourarem e o centro estar firme."
+    ],
+    "baby_adaptation": "Refeição em formato 'bolo', perfeita para cortar em pequenos quadrados e os bebés devorarem pelas mãos (BLW perfeito). Muito baixo em sódio, riquíssimo em cálcio, vitaminas verdes e proteínas macias."
+  },
+  {
+    "id": 31,
+    "title": "Lentilhas Castanhas Estufadas com Abóbora",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Conforto"
+    ],
+    "time": "40 min",
+    "ingredients": [
+      "1.5 chávenas lentilhas castanhas (secas, previamente bem lavadas)",
+      "300g abóbora manteiga aos cubos pequenos",
+      "1 alho francês picado, 1 cenoura picada",
+      "Louro, azeite, fio de creme vegetal/natas para finalizar"
+    ],
+    "instructions": [
+      "Fazer estufado inicial com alho francês, cenoura e louro no azeite.",
+      "Juntar as lentilhas e a abóbora e um volume de água quente que é o triplo das lentilhas.",
+      "Ferver em lume brando até as lentilhas abrirem e o molho reduzir drasticamente, formando um creme denso (25-30 min).",
+      "No fim, adicionar o fio de natas (ou leite/creme aveia) para amaciar o sabor."
+    ],
+    "baby_adaptation": "É uma papa de textura rústica deliciosa e perfeita para a noite, sem carnes maduras difíceis de digerir. A lentilha castanha aguenta a forma melhor do que a laranja, permitindo alguma textura nas papilas dele. Super saudável e adocicada pela abóbora."
+  },
+  {
+    "id": 32,
+    "title": "Salada Quente de Feijão Frade, Brócolos e Ovo",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "1 frasco de feijão frade bem lavado",
+      "1 cabeça de brócolos pequenos cortada em raminhos pequenos",
+      "3 ovos cozidos picados",
+      "Azeite farto e alho cru moidinho (para o molho adulto)"
+    ],
+    "instructions": [
+      "Cozer rapidamente os floretes de brócolos em água fervente (só até morderem no ponto, 5 a 6 min). Escorrer.",
+      "Misturar nos brócolos fumegantes o feijão frade (aquece também) e o ovo cozido picado.",
+      "No parto de servir para adultos, verter um molho rápido de azeite, alho muito picadinho e pouco vinagre."
+    ],
+    "baby_adaptation": "Brócolos são o rei para agarrar sozinhos nos lanches/jantares se cortados com o talo longo. Retirar a porção do bebé sem o molho de alho cru adulto (usar só um fio de azeite suave em cima do frade espalmado)."
+  },
+  {
+    "id": 33,
+    "title": "Empadão de Lentilhas e Cogumelos",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Conforto"
+    ],
+    "time": "45 min",
+    "ingredients": [
+      "1 chávena lentilhas castanhas cozidas (ou 1 frasco grande, bem lavado)",
+      "250g cogumelos picados como 'carne picada' na picadora",
+      "Polpa tomate, cebola, cenoura fininha e salsa",
+      "Batatas normais ou doces cozas",
+      "Leite e manteiga p/ puré"
+    ],
+    "instructions": [
+      "Fazer o puré de batata batendo leite e manteiga até amanteigado liso.",
+      "Ao lume, refogar a cebola, cenoura, e juntar os cogumelos bem picados (eles imitam perfeitamente o sabor ferroso e textura da vaca).",
+      "Juntar as lentilhas, polpa de tomate, salsa e reduzir líquido na sertã.",
+      "Montar no tabuleiro o puré-recheio-puré. Dourar no forno a 200°C 15 minutos."
+    ],
+    "baby_adaptation": "Assemelha-se a 100% num empadão infantil com todo o sabor mas sem impacto do ácido/urético das vermelhas para pequenos rins. Lentilhas são super-ferro, e a textura é zero-mastigação. Requer apenas ter cuidado se servido muito quente porque os cogumelos e puré retém temperaturas a escaldar."
+  },
+  {
+    "id": 34,
+    "title": "Brás Falso de Alho Francês e Grão",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "2 alhos franceses grandes (às meias-luas fininhas)",
+      "1 frasco pequeno de grão de bico cozido e esmagado à forqueta",
+      "4 ovos",
+      "Azeitonas descaroçadas em rodelas (só adultos), salsa, azeite"
+    ],
+    "instructions": [
+      "Suar lentamente o alho francês no azeite na frigideira funda até virar molíssimo de doce.",
+      "Introduzir a 'pasta' grossa de grão. Mexer para envolver 2 minutos.",
+      "Bater os ovos e adicionar aos legumes com o lume brando. Mexer sem parar até os ovos fazerem fios molhados.",
+      "Adicionar a azeitona no fim e envolver com salsa."
+    ],
+    "baby_adaptation": "Receita milagrosa. A cebola/alho-francês muito doces batidos com ovos cremosos escorregam na perfeição, e o grão esmagado não se engasga. Omitir azeitonas na porção da criança para que não engulam desmedidamente sódio."
+  },
+  {
+    "id": 35,
+    "title": "Arroz de Feijão Malandrinho com Pataniscas Veganas (Sem ovo)",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Conforto",
+      "Amigo do Congelador"
+    ],
+    "time": "45 min",
+    "ingredients": [
+      "1 lata pequena feijão vermelho, 1.5 chav Arroz Carolino, repolho fino arroz",
+      "Polme Vegano Patanisca: 1 chav Farinha Grão bico (ou trigo), água, salsa, cebola raladíssima em puré."
+    ],
+    "instructions": [
+      "Arroz: Refogar cebola, alho, 1 colher sopa tomate, juntar as folhinhas ripadas de couve. Arroz malandrino (1 de arroz para 3 de água forte), coze 15m. Juntar o feijão perto final p/ largar a goma que amarra o malandrino.",
+      "Patanisca: Misturar água e farinha de grão c/ a cebola num polme pastoso médio. Deitar colheradas em frigideira ligeiramente oleada ou tapete de forno e saltear dois lados até secar e tostar."
+    ],
+    "baby_adaptation": "Para alérgicos a ovo é excelente, mas mesmo sem serem, o rissol/patanisca de farinha grão tem um travo genial denso. Dar os feijões esmagados num caldo de arroz ultra caldoso. Uma ode à infância em Portugal."
+  },
+  {
+    "id": 36,
+    "title": "Açorda Alentejana de Ovos com Coentros",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "3 pães duros ou carcaças caseiras",
+      "4 dentes alho pelados, metade dum molho farfalhudo de coentros",
+      "4 ovos (1 por adulto + 1 ou dois pros putos/extras), azeite topo"
+    ],
+    "instructions": [
+      "Preparar um caldo fervendo água (aprox. 1,5L).",
+      "No almofariz (ou picadora) triturar o alho com os caules de coentros e algum azeite ou pouco sal. Deitar a pasta no fundo duma terrina quente com fatias pão duro por cima.",
+      "Escalfar os ovos no tacho da água 3 minutos e transferi-los com espumadeira para centro tarrina.",
+      "Deitar sobre a tarrina a água de escalfar borbulhante e fio farto azeite topo."
+    ],
+    "baby_adaptation": "NÓS não escalfamos para bebés pela contaminação cruzada gema crua. Ovo cozido longo cortado num pires, e a côdea e miolo empapado deste caldo herbáceo macio é conforto noturno dos avós aos netos sem estragarem dentinhos a mastigar e dormem calmíssimos."
+  },
+  {
+    "id": 37,
+    "title": "Salteado de Tofu à Portuguesa (Pimentão e Alho)",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "400g Bloco de Tofu Firme",
+      "Pimentão Doce fumado (colorau), Louro, Alho esmagados generosos",
+      "1/4 Broa de milho esfarelada farta",
+      "Azeite."
+    ],
+    "instructions": [
+      "Secar bloco de tofu entre papel absorvente deitando-lhe um livro pesado em cima (5min) para extrair água inútil e absorver marinadas. Cortar aos cubinhos.",
+      "Fritar num azeitoso intenso os dentes em camisa e louro na base, adicionar paprikas e envolto do tofu estalado de 5 lados de volta.",
+      "Desligar fogo, misturar migas broa salteadas na folha final."
+    ],
+    "baby_adaptation": "Tofu firme é o milagre terno! Imita a textura galinha para morder dos bébés com gengiva e limpa perfeitamente nas papilas de modo a extraírem cálcio gigante das rochas soja sem necessitarem esfarelar mós dentárias. Tirar os dele antes de entrar muita broa refogadinha caso esteja em reações de textura."
+  },
+  {
+    "id": 38,
+    "title": "Sopa Creme de Ervilhas e Cebola com Ovo Picado",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador"
+    ],
+    "time": "30 min",
+    "ingredients": [
+      "500g ervilhas congeladas",
+      "2 batatas pequenas e 1 aboborinha fina (corgete), 1 cebola roxa picada grande",
+      "2 ovos cozidos finissimos, salsa para salpicar."
+    ],
+    "instructions": [
+      "Triturar creme em panela alta (Ervilha+Batata+Corgete e pouco alho). ",
+      "A magia disto deve ser passada em escorre-sopa fino/chinês para extirpar a areazinha da pele da ervilha.",
+      "Aos adultos juntar picado os ovos no prato; os bebés devoram esta papa esverdeada que parece de paladares requintados de restaurantes num prato recheante."
+    ],
+    "baby_adaptation": "Ao remover o filtro granulado, previne enjoos aos miúdos de tenrra idade, o sabor doce das ervilhas bate em tudo e vai forrado a proteína com o ovinho polvilhado de neve em cima da canja creme."
+  },
+  {
+    "id": 39,
+    "title": "Massa Gratinada com Queijo e Legumes Escondidos",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela",
+      "Conforto"
+    ],
+    "time": "40 min",
+    "ingredients": [
+      "300g Fusili rústico ou laços de massa",
+      "Molho escondido: 1 batata, 1 cenoura, 1 abobora base, tudo passado a varinha",
+      "1 pacote Nata Leve vegetal de culinária e 1 queijo ralado ementhal em frio.",
+      "Pão ralado fino topo."
+    ],
+    "instructions": [
+      "Cozer massa 7 minutos só metade. Num wok cozer ligeiro e varinha os hidratos laranjas base escondendo bem. ",
+      "Envolver massa meia cozida neste vulcão cremoso num pirex misturar o ementhal que vai fundir viscoso dentro do vulcao todo com natinhas.",
+      "Esparramar crosta de bolos (Farinha ou pouco Pão) no forno 15 minutos ao topo."
+    ],
+    "baby_adaptation": "Este Molho denso e fibroso ilude perfeitamente para comerem esparguete em forma farto, escorregadio super denso sem secar nunca porque por baixo a bolha laranja vai mantre-o húmido e não quebra gengivas tenrinhas."
+  },
+  {
+    "id": 40,
+    "title": "Sopa Velha de Feijão e Hortaliça com Ovo",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "Caldo base triturado (feijão grande batido com 1 batata na água de ferver folha couve ou nabo)",
+      "Feijões inteiros",
+      "Hortaliça penca aos fiapos",
+      "Ovos (1 escalfa topo por pessoa no final a servir)"
+    ],
+    "instructions": [
+      "A Sopa densa beira-alta portuguesa. Caldo espessado e temperos. Colocam-se couve ripada 15 minutos. Envolve o feijão sobrante",
+      "Bate os ovos crús na panela ao apagar o lume e mexem-se em fios rendados pelo creme todo."
+    ],
+    "baby_adaptation": "Uma alternativa nutritiva perfeita, caldos espessos reconfortam, curam gripitos na cama, as hortaliças fervidas amolem sem entrave e os feijões não escapam na barriga."
+  },
+  {
+    "id": 41,
+    "title": "Salteado de Tofu e Brócolos com Sésamo",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "1 Bloco Tofu firme esmagado grosseiro com o garfo",
+      "Brócolos pequeninos em lascas cruas",
+      "Sumo Limão, Óleo deSésamo tostado, e pouquinho sumo laranja."
+    ],
+    "instructions": [
+      "Fritar brócolos e tofu despedaçado atirando golada sumo fruta pra não colar wok (2 min forte).",
+      "O sésamo de adulto finaliza quente (aromaterapia cozinha top!)."
+    ],
+    "baby_adaptation": "Evite os molhos de Ostras e Soja para não matar os rins do puto com sais enlatados asiaticos nas primeiras aproximações à Asia. Sésamo óleo suave é nutritísimo para os nervos, os brócolos e o abafado sumo caramelo ficam amados."
+  },
+  {
+    "id": 42,
+    "title": "Noodles Udon com Cogumelos Shiitake e Couve Pak-Choi",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "Massa Udon grossas asiaticas embalamento vácuo mola (2 pacotes)",
+      "1 Courgette fita grossa de descascador e folhas pak-choi fáceis.",
+      "Um punhado generoso frescura de Shiitake (Cogumelo japão fatiado grosso)."
+    ],
+    "instructions": [
+      "Saltos panela Wok! Massas Udon tem de alargar no calor a sertã com pingos fumegantes cogumelos húmidos.",
+      "Finalizam as folhas Pak Choi (em cru cozem so em chama final para textura sem ficar trapos mortos de lodo)"
+    ],
+    "baby_adaptation": "Os japoneses introduzem textura em minhoca espessa (Udon) pela preensão genial de pinça nos mais pequenos. Cortá-las em tirinhas tesoura. E os miúdos amam comer as minhocas massosas e adocicadas por um mini-molho abafado num caldo legumes rapido na Wok que engoliram os sabores da terra dos shittaques."
+  },
+  {
+    "id": 43,
+    "title": "Fried Rice de Legumes e Tofu Grelhado com Ovo",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "Arroz Basmati Frigorifico (sobras dia anteontem essencial porque perdeu goma, não amassa e fica brilhante frijo)",
+      "Ervilhas, 1 cenoura micromes, 2 ovos cruzados à chinês",
+      "Tofu lascadas em pequenos quadrados."
+    ],
+    "instructions": [
+      "Empurrar e puxar no wok quente a cenoura, ovinhos para chover a mistura mexido; atirar blocos e envolver base forte do arroz solto para saltarem nas bolas brancas sem colarem fundo panela."
+    ],
+    "baby_adaptation": "Tofu e arroz branco, super neutro pratos dias amuada para refeição que eles nem entendem ter havido mistura sabor amargoso mas com aporte total do proteina sem leite ovos."
+  },
+  {
+    "id": 44,
+    "title": "Caril Katsu Mago de Grão Japonês Rápido",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "Batatas,cenourinha tenra, e bloco mestre Katsu-curry douradinho japones (vende-se pastas curry base frutas adocicudo num bloco maçanzuda s/ grande arder).",
+      "Frasco Grão grande bicos"
+    ],
+    "instructions": [
+      "Cozinhar cenourinha, maçã descascada cru e batata doce agua ferver branda. Diluir meio quadrado magico e engolir grãos ao final no grosso espesso."
+    ],
+    "baby_adaptation": "Tem maçã na base picante do tempero e grão- O adocicado de especiaria ligeiramente melaçada adormeçe o bébé no colo. Papa conforto incrível misturada as colheres massudinho!"
+  },
+  {
+    "id": 45,
+    "title": "Dhal Clássico de Lentilhas Amarelas",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Conforto",
+      "Amigo do Congelador"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "1,5 chav lentilha Split Yellow (Moong Dhal)",
+      "Cominhos inteiros aloirados em alho manteiga no frio.",
+      "Tomate pedaçuda de lata, açafrões indianos (Curcuma pó)."
+    ],
+    "instructions": [
+      "Dhal se coze em tacho aberto, água ate explodirem em papa amarela doce. A mágica da índia é no fim Tarka (manteigas derretidas nalguns alhos, e especiaria atiradas ao estoiro quente por cima com coentros vivos a misturar nos ultimos barulhos quentes)."
+    ],
+    "baby_adaptation": "Proteína vegan rainha da Índia de nascença dos recém desmamados até idade crescer. Misturam leite de mãe às vezes! Para o teu moço só esmagadinho papa, ele digere as lentilhas sem gases. Super amigável às fraldas sensiveis de noite porque liberta cólicas da tensão gasosa e sacia pesadões pra sono!"
+  },
+  {
+    "id": 46,
+    "title": "Caril Creme de Grão e Espinafres Espessos",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "Leite coco farto completo, 1 colher sopa especiarias Garam Masala (fracas de cheiro, não use as vermelhas picantes!) extra Curcuma de amarelo.",
+      "Latas 2x Grão Bico lavados, e Folhas gigantes grossas Espinafre sujas inteiras que vão encolher e apanhar este molho de roda gigante."
+    ],
+    "instructions": [
+      "Fazer na Panela e esperar grudar sabores à fervura."
+    ],
+    "baby_adaptation": "Folhas grossas são difíceis, por isso picar os espinafres dele para o molho amarelo. Ele caça grãos a dedo na mesa cadeirão se permitirem liberdade, um excelente treino das pinçinhas grossas da palma na mesa a sujar toda amarela!"
+  },
+  {
+    "id": 47,
+    "title": "Falafel Falso de Forno com Molho Iogurte Suave",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Uma Panela",
+      "Express"
+    ],
+    "time": "30 min",
+    "ingredients": [
+      "Frasco Grão, meia cebola suada ou coentros picadora (magia é picar).",
+      "Pintura do ligante com farinha ligeira."
+    ],
+    "instructions": [
+      "Tritura-se, forma-se amêndoas castanhas. Tapete fornível assam no seco quente rápido. Dipping aos mergulhos no Iogurte fresco das terras do levante."
+    ],
+    "baby_adaptation": "Este não é frito a imersão na bomba calórico-gorda das lojinhas kebabs mas na ventoinhas das resistências domesticas. Menos rijos de partir crosta pra bebe trincar! Amargo molho grego fresquinho contrabate bem palatos da sede."
+  },
+  {
+    "id": 48,
+    "title": "Shakshuka de Ovos em 'Cama de Tomate Rústico'",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "Lata e meia tomates pedaços grossos com os caules pimentos",
+      "Ovos frescos rachados direto sobre o tapete pimento-tomate em ebulição.",
+      "Finalizam os toques coentros ou salsas fartas árabes ou poejos de fusão à nossa."
+    ],
+    "instructions": [
+      "Tomate tem de reduzir ate base pastosa ou vira so sopa molhada; logo fure o ovo aí sem tocar no meio fundo metal frigideiras mas sim em casulos tomate molhado para escalfa com a tampa vidro hermeticam.ente de fumegamentos e calor da induçao do vermelho."
+    ],
+    "baby_adaptation": "Como ovinhos da criança escalfamos ate a gema virar calhaus de secos e não lavas liquidas de amarelo pela prevenção saude alimentar infantil das 3ªs bactérias rurais de aviarios puros! Esmaga se com arroz! Adoram!"
+  },
+  {
+    "id": 49,
+    "title": "Risotto de Abóbora e Ervilhas Macias",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Mediterrânica Geral",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "Arroz Arbóreo grão duro ou Risoto Carnaróles",
+      "Abóbora pura triturado crua para puré líquido que junta à panela e rega caldos ate amido escorrer.",
+      "Ervilhas no pranto finais que quebram dentada doce aspeto cremoso abóbora.",
+      "Manteiga cubo com queijos duros para fechar (Mantecatura)."
+    ],
+    "instructions": [
+      "Trabalho de punhos finos dos fogões lentos; deitar água pouco e mexer redondo muito. Repetir. Ate arroz cremir sozinho do seu fécula."
+    ],
+    "baby_adaptation": "É papinha gourmet, risottos e miúdos andam perfeitamente nos melhores casamentos mundiais de digestões felizes!"
+  },
+  {
+    "id": 50,
+    "title": "Frittata Italiana Grossa de Legumes",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Mediterrânica Geral",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "8 Ovos granditos (frittata precisa encher altura)",
+      "Todo o resto do frigorifico legumista que grita na gaveta baía. Alhos, curgetes antigas ou brócolos tristonhos finissimos fatiados",
+      "Bocado ricota em pingos em branco topo"
+    ],
+    "instructions": [
+      "Saltear duro no metal que suporta fornos altos os legumes (usar os cabos metal pra poder enfiar frigideira direta com azeite fundo ao forno pra inchar estilo esponjas souffle em vez virar panquecas no prato sujo azeite na mesa!)"
+    ],
+    "baby_adaptation": "Ricota não tem sal forte de curas duras maturadores! Logo sem culpas pões queijinhos fofos doces aos altos montículos aos dedos da tenra idade em bocadões cortados desta nuveem formosa italiana quentita! Nutriçao máxima a sobras frigorifica em dia final sexta!"
+  },
+  {
+    "id": 51,
+    "title": "Frango no Forno Rápido com Arroz de Cenoura",
+    "category": "Carnes Brancas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "45 min",
+    "ingredients": [
+      "1 Frango inteiro partido em pedaços pequenos",
+      "1 chávena de Arroz Carolino, 1 Cenoura ralada",
+      "Massa de pimentão doce, 2 dentes de alho, azeite, sumo de limão",
+      "Salsa picada"
+    ],
+    "instructions": [
+      "Temperar o frango com alho esmagado, massa de pimentão, azeite e sumo de limão. Assar a 200ºC durante 35-40 min num tabuleiro.",
+      "Num tacho à parte, refogar a cenoura ralada num pouco de azeite e cebola picada. Juntar o arroz, fritar ligeiramente e adicionar 2.5 chávenas de água a ferver.",
+      "Cozinhar o arroz por 15 min em lume brando.",
+      "Servir o frango assado tostadinho com o arroz doce de cenoura."
+    ],
+    "baby_adaptation": "As pernas e sobrecoxas de frango assado (sem ossos soltos) são fáceis de desfiar ou dar à mão (BLW) para roer a cartilagem. O arroz de cenoura é muito doce e amigável para o bebé misturado com o caldo do tabuleiro sem a pele e sem muito sal."
+  },
+  {
+    "id": 52,
+    "title": "Jardineira de Peru Estufado com Ervilhas",
+    "category": "Carnes Brancas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela",
+      "Amigo do Congelador"
+    ],
+    "time": "40 min",
+    "ingredients": [
+      "500g carne de peru em cubos pequenos",
+      "3 batatas médias em cubos, 2 cenouras em rodelas grossas",
+      "1 chávena de ervilhas",
+      "Cebola, alho, polpa de tomate, louro e azeite",
+      "1 fio de vinho branco só para apurar o fundo (o álcool evapora)"
+    ],
+    "instructions": [
+      "Selar os cubos de carne num fundo de azeite com cebola picada, alho e louro.",
+      "Adicionar a polpa de tomate, as cenouras e batatas, envolvendo tudo 2 minutos.",
+      "Adicionar caldo (ou água quente) até cobrir ligeiramente. Tapar e estufar a lume brando 20 min.",
+      "Juntar as ervilhas nos últimos 10 min de cozedura. O molho deve ficar grosso no final."
+    ],
+    "baby_adaptation": "O peru fica muito tenro quando estufado longamente e cheio de humidade do tomate. Espalmar as ervilhas com um garfo no prato dele e amassar a batata rústica. Molho suculento excelente para quem recusa mastigar carnes secas."
+  },
+  {
+    "id": 53,
+    "title": "Arroz de Frango Malandrinho à Antiga",
+    "category": "Carnes Brancas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Conforto",
+      "Amigo do Congelador"
+    ],
+    "time": "45 min",
+    "ingredients": [
+      "Metade de um frango (preferencialmente do campo, com osso e pele para sabor)",
+      "1.5 chávenas de Arroz Carolino",
+      "Meio chouriço de carne (apenas para dar sabor ao fundo dos pais)",
+      "Cebola picada, azeite, 1 tomate maduro sem pele e sem sementes",
+      "Hortelã fresca ou coentros"
+    ],
+    "instructions": [
+      "Numa panela, cozer o frango em água e sal/louro durante 25 min. Retirar, desfiar tudo e filtrar o caldo.",
+      "Num tacho largo, fazer um refogar a cebola, tomate e umas rodelas de chouriço.",
+      "Juntar o arroz, fritar um pouco, e depois o caldo filtrado do frango a ferver (3 porções de caldo para 1 de arroz).",
+      "Cozinhar o arroz; 3 min antes do fim, envolver o frango desfiado. Servir imediatamente polvilhado com ervas."
+    ],
+    "baby_adaptation": "Antes de adicionar o chouriço adulto (que tem sal e fumados intensos), retire uma concha de arroz para um tachinho à parte com o frango desfado do bebé. O frango é desfiado aos fiapos soltos, fundindo-se no arroz super empapado e macio. Risco mínimo de engasgo se minucioso com ossos."
+  },
+  {
+    "id": 54,
+    "title": "Empadão Cremoso de Frango e Alho Francês",
+    "category": "Carnes Brancas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Conforto"
+    ],
+    "time": "50 min",
+    "ingredients": [
+      "400g sobras de frango cozido/assado desfiado ou bifes picados",
+      "2 alhos franceses grandes (às rodelas)",
+      "800g de puré de batata (caseiro, rústico com noz-moscada e leite)",
+      "1 cenoura ralada, azeite, 2 ovos batidos para fechar."
+    ],
+    "instructions": [
+      "Fazer estufado base: suar muito bem o alho francês até murchar e ficar sedoso e doce. Juntar a cenoura e depois a carne.",
+      "Espalhar num pirex metade do puré amanteigado, despejar o recheio (que deve estar húmido sem água) e cobrir com batata.",
+      "Pincelar com ovo para corar e levar 15 min ao forno alto (200ºc)."
+    ],
+    "baby_adaptation": "O alho francês suado imita cebola doce mas é muito amigável gastro-intestinalmente. Para um miúdo, a textura amanteigada e sem peças grandes resolve muito as noites difíceis. Sirva na tigela dele com moderação na temperatura retida no meio do puré."
+  },
+  {
+    "id": 55,
+    "title": "Frango Guisado com Macarrão (Rápido na Pressão/Tacho)",
+    "category": "Carnes Brancas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "6 coxas ou sobrecoxas de frango",
+      "2 chávenas de macarrão riscado ou cotovelos",
+      "2 c. sopa de polpa de tomate, 1 pimento pequeno",
+      "Vinho branco, cebola, alho, cubo caldo caseiro legumes"
+    ],
+    "instructions": [
+      "Num fundo generoso de azeite e cebola farta, dourar ativamente o frango. Juntar a polpa tomate e pimento.",
+      "Adicionar molho ligeiro e o caldo, tapar e cozer a carne 20 min até quase se soltar do osso.",
+      "No mesmo molho encarnado espesso, adicionar água se preciso e atirar a massa para dentro, cozendo os hidratos no sabor maravilhoso da carne nos 10 min finais."
+    ],
+    "baby_adaptation": "Massa em forma de tulipa/macarrão absorve o molho mas não derrete logo, excelente finger-food (ter em conta servir arrefecido). Se o frango estiver macio, solta do osso à fricção dos dedos dele."
+  },
+  {
+    "id": 56,
+    "title": "Bifinhos de Peru com Cogumelos Limpos",
+    "category": "Carnes Brancas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "4 bifinhos finos de peru",
+      "1 lata/frasco grande de cogumelos laminados ou 200g naturais frescos",
+      "Natas leves (ou creme alternativo vegetal soja/aveia)",
+      "Azeite, alho e 1 folha de louro, sumo limão"
+    ],
+    "instructions": [
+      "Temperar o peru muito rapidamente em alho e limão. Numa frigideira quente, selá-los rápido e retirar para prato.",
+      "Na mesma frigideira, atirar os cogumelos e saltear forte até secar e dourar.",
+      "Reduzir o lume, misturar o creme vegetal/natas e voltar os bifes lá para o centro 3 minutos a abafar o molho espesso branco."
+    ],
+    "baby_adaptation": "Bifes de peru ficam frequentemente 'sola de sapato'; a selagem ultra-rápida e o repouso no creme resolvem isso. Corte a carne do prato dele do tamanho de grãos de arroz longitudinalmente - engolir cogumelos tenros é super fácil depois."
+  },
+  {
+    "id": 57,
+    "title": "Falso Strogonoff de Frango em Tomate (Sem Natas Pesadas)",
+    "category": "Carnes Brancas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "500g de peito de frango picado/cubinhos",
+      "1 cebola e 2 alhos triturados, 1 copo grande de polpa de tomate rustico",
+      "2 colher sopa de iogurte grego natural no fim ou leite coco leve",
+      "Arroz branco a acompanhar"
+    ],
+    "instructions": [
+      "Fritar num fundo forte de cebola os pedacinhos muito curtos do frango e apimentar (adultos).",
+      "Reduzir, deitar o tomate natural, tapar estufar em lume mínimo 10 min.",
+      "Ao desligar, deitar o grego ou leite leve para cortar o ácido e dar cor-de-rosa famoso do strogonoff. Envolver vivo no prato fundo e arroz branco solto."
+    ],
+    "baby_adaptation": "Perfeito no arroz; O molho ácido é neutralizado a lácteo ou côco sem agredir a digestão de lactantes da noite. Cubos super sumarentos pequenos ajudam."
+  },
+  {
+    "id": 58,
+    "title": "Canja Rica e Amarela de Galinha do Campo",
+    "category": "Carnes Brancas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Conforto"
+    ],
+    "time": "60 min",
+    "ingredients": [
+      "Pedaços ricos com ossos de frango do campo",
+      "1 Cenoura, 1 raiz pequena de aipo, 1 cebola cravejada c/ cravinho (para retirar final)",
+      "Massinha de Letras ou Pevedes",
+      "Sal e hortelã fresca farta"
+    ],
+    "instructions": [
+      "Panela com carne de osso e legumes numa base larga submersa à força d'água 45 min lentos.",
+      "Filtrar as gorduras amarelas superficiais e limpar coador de legumes mortos. Sobra soro dourado.",
+      "Desfiar microscopicamente a pele e carnes e meter na base clara. Ferver dente com letrazinhas de massa.",
+      "Ao tapar desligado, espeta a hortelã."
+    ],
+    "baby_adaptation": "A nutrição pura. O soro amarelo de gordura óssea (colagénio de ave) é um tesouro estrutural para desenvolvimento musculo/neural do bebe sem o pesar do estomago. Pedaços mínimos carne evitam engasgo num prato muito líquido."
+  },
+  {
+    "id": 59,
+    "title": "Bolas de Frango Picado e Cenoura no Forno",
+    "category": "Carnes Brancas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Express",
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "500g peito de frango e ou peru crus e picados no processador talho",
+      "1 cenoura raladissima fina",
+      "2 c.sopa aveia e 1 ovo inteiro (fazer as bolinhas colarem)",
+      "Salsa farta picada e alho pó"
+    ],
+    "instructions": [
+      "Tudo amassado num pires, amolando e agarrando bolinhas firmadas mãos úmidas.",
+      "Dispor em tabuleiro forrado c/ tapete silicone ou vegetal. Pincela pinga azeite.",
+      "190ºC por 15 a 20 minutos de secura dourada exterior."
+    ],
+    "baby_adaptation": "Finger-Food de excelência para os mais pequenos. Sem estourar pão ralado perigoso a frituras pesadas. O ovo por dentro deixa a bolinha elástica e sumarenta para mastigarem perfeitamente à pressão de gengivas."
+  },
+  {
+    "id": 60,
+    "title": "Coxas de Frango Grelhadas Forno com Batata Doce",
+    "category": "Carnes Brancas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "40 min",
+    "ingredients": [
+      "8 Coxinhas de Frango limpas",
+      "3 Batatas Doces Oranges em palitos ou oitavos grossos",
+      "1 Cebola Roxa, Azeite farto, Pimentas (adulto) tomilho esparguinho."
+    ],
+    "instructions": [
+      "Manteiga / Azeite derretido num pincel. Pinta batata e pernas tudo ao granel em assadeira farta sem se acavalitar.",
+      "Forno 200º, 35m estourando até peles fritarem no seco e batatas doçarem a desfazer por dentro caramelizadas pelo amido roxo laranjado."
+    ],
+    "baby_adaptation": "Segurar num osso limpo farto assado limãozinho é o Santo Graal dos meninos 12M e 18M!. Ensina mapeamento boca/face incrivel. A batata doce mole assada vira doce e escorrega lindamente para um acompanhamento isento pão."
+  },
+  {
+    "id": 61,
+    "title": "Mil-Folhas Falso (Bacalhau/Broa) em Versão de Frango Desfiado",
+    "category": "Carnes Brancas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Conforto",
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "Sobras de Franco desfiado puro sem osso",
+      "200g Espinafres caixas tenros, sumo d'alho azeites farto",
+      "Um punhado 1 Broa de milho estracalhada em torrões areia"
+    ],
+    "instructions": [
+      "Numa salteia rápida o espinafre suado ao fundo em fios alhos.",
+      "Faz base e espeta os lascos da ave todos a cobrir.",
+      "No topo as migas areais salteadas e misturadas num banho do azeite, douram o topo do prato."
+    ],
+    "baby_adaptation": "Tire o espinafres dele cedo para não ficarem tipo pastilha dura verde. O milho molhado pela base é tenro, doce com o franguinho desfeito, um milagre disfarçado num prato 'à adulto' muito tradicional mas feito ave saudável."
+  },
+  {
+    "id": 62,
+    "title": "Rolo de Carne Branca (Peru) Recheado",
+    "category": "Carnes Brancas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "50 min",
+    "ingredients": [
+      "600g carne de peru magra rigorosamente picada",
+      "Emulação de farinheira/chouriça (cenoura fina, pão, ovo ligante amargo alhos)",
+      "Base recheio: fatias curgete ou espinafres compridos no meio."
+    ],
+    "instructions": [
+      "Esticar carne crua num plástico filme e forrar interior espinafres curgete e fatias tenras e fininhas ovinhos cozidos em metades.",
+      "Enrolar rolo grosso firmar mãos molhadas. Assar panela tabuleiro 40 minutos rodeado de caldos tomate agua vinho."
+    ],
+    "baby_adaptation": "As 'salsichas gigantes caseiras' das rolos forno comem-se moles porque moer destrói as fibras duras do peru. O corte da faca para discos revela um arco iris lindo e cativa as crianças para os comer."
+  },
+  {
+    "id": 63,
+    "title": "Salteado de Frango com Brócolos e Caju",
+    "category": "Carnes Brancas",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "2 peitos de frango em fatias ultra-finas longitudinais",
+      "1 cabeça de brócolos e 1/2 chávena de cajus sem sal",
+      "Sumo lima, gengibre ralado 1 c. chá (só o molho espremido), c. chá molho soja baixo teor Sódio (só adultos), e óleo sésamo."
+    ],
+    "instructions": [
+      "Fritar brócolos rápidos em wok 3 min com os cajus tostados e deitar fora reserva para taça.",
+      "Na wok estalada gordura queimar a fogo alto e rapido as lascas brancas da ave espessura papel q n seca.",
+      "Mistura tudo rápido e desliga para molhar adulto com Sésamo/Soja pingas."
+    ],
+    "baby_adaptation": "Evitar oleaginosas (caju) inteiras a < 3 anos (Afixias gravissimas!). Caju triturado ou pasta ou manteiga caju diluída para eles untar com brócolo e as lascas desfeitas frango suadas adjetivam muito paladares. Não dar soja!"
+  },
+  {
+    "id": 64,
+    "title": "Noodles Asian-Style de Frango Rápido",
+    "category": "Carnes Brancas",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "2 Ovos massa trigo Noodles Asian Pack",
+      "Tiras finíssimas curtas Peito/Perna Frango",
+      "Julianas finas fáceis tipo Courgette, Cenoura rapada aos descascadores e couves bico em fitas finas"
+    ],
+    "instructions": [
+      "Saltear no wok forte e intenso os vegetais juliana fina a suar ao vapor.",
+      "Retirar e tostar brancamente os frangos fitados.",
+      "Ferver 3 minutos água viva na sertã em separado das massas. Escorrer rudo fundo wok tapadas a sésamo no adulto e limão puro em criança."
+    ],
+    "baby_adaptation": "Noodles partidos pela metade ou tesoura a 3 cortes é a chave nas moléstias gasosas gaso-intestinais dos escorregos rápidos pela gula! Couves fitadas misturamn de modo que ele não repara comer!"
+  },
+  {
+    "id": 65,
+    "title": "Frango 'Teriyaki Falso' com Arroz Jasmim",
+    "category": "Carnes Brancas",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Uma Panela",
+      "Express"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "Franguinho cubos médios grossos pra salteia forte",
+      "O teriyaki baby: Sumo de ananás pêssego caseiro adocicado puro diluído pouquinho alho pasta em lume com pouquinho farinha milho pra colar denso de amido tipo xarope em vez usar açucares mortiferos.",
+      "Sementinhas finas para os pais topo e jasmim aromateado base."
+    ],
+    "instructions": [
+      "Frita se carne crua rápido p/ marcar, deita os caldos em cru e xarope adocese com o sumo e engrossa logo na wok. Brilhante molha frango castanho laranja caramelo incrivelmente tenro!"
+    ],
+    "baby_adaptation": "Estes molhos brilhantes são fetiches das crianças, ficam encantadas no adocicado, e este falso doce é das frutas fervidas ao açucar em vez da calda preta Teriyaka de sal Sódio grave! Espetacular introdução e segura."
+  },
+  {
+    "id": 66,
+    "title": "Caril de Frango e Manga com Leite de Coco",
+    "category": "Carnes Brancas",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Uma Panela",
+      "Amigo do Congelador"
+    ],
+    "time": "30 min",
+    "ingredients": [
+      "Cubos grossos fartos de frango macio (sobrecoxas ideal em vez de peito morto) ",
+      "1 manga doce madura ou metade maçã picada pra misturas, 1 lata espessa leite côco cremoso real",
+      "Curcuma base ouro, gengibre cheiro alhoso, e canela fiozinho final."
+    ],
+    "instructions": [
+      "Base curcuma numa moinha moída alhos gengibre e pasta manga triturada varinha azeitas as bases aromas amarelo intenso.",
+      "Salteias os cubos nessa poça aromas 4 minutos e inundas com toda lata gorda do leite coco ferver ameno abafado tampas 20 min ate oleos subirem"
+    ],
+    "baby_adaptation": "A fruta tropical como a manga adoçante neste caril cremosamente quente é uma experiência sem perigo (nada de piripiri nem cardamonomo adulto forte). Eles misturam um basmati branquinho nele e a festa dos 12 meses adormece qualquer teimoso gulosos."
+  },
+  {
+    "id": 67,
+    "title": "Butter Chicken 'Falso' (Frango Tikka Masala Suave)",
+    "category": "Carnes Brancas",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Conforto",
+      "Amigo do Congelador"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "Frango aos pedaços braseado rápido com pinga limão seco.",
+      "Masala: Iogurtes gregos e Tomate passata e pouquinho pasta amêndoa moidissima em farinha se tolerado alergologia. Coentros frescos muitos topo adulto."
+    ],
+    "instructions": [
+      "Retirar carnes torradas p/ pratos e colocar molheira iogurte com tomate nas panelas num guisados rosas a cozinhar 15 minutos até reduzir espumo branco",
+      "Mergulha as carnes asseclas e ficam sumarentas embebendo rosa masala. Coentrar"
+    ],
+    "baby_adaptation": "Iogurte e passata anula se; O laticinio da vaca é pesado? Substitui se natinha aveia que espessa também. O sabor tomate acrimo e rosa não tem acido da India forte."
+  },
+  {
+    "id": 68,
+    "title": "Kebabs de Peru Assados no Forno com Molho Iogurte e Hortelã",
+    "category": "Carnes Brancas",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Uma Panela/Tabuleiro",
+      "Express"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "Peru picado espremido na água (peça se talho peru de perna super suculento s/ agua peitos)",
+      "Pão ralado fino ou mandioca ligante, hortelã e cominhos leve adocicamentos arábes.",
+      "Pauzinhos de finos assar e tzatziki bebès a lado prato (iogurte e raspas pepino água base misturada)."
+    ],
+    "instructions": [
+      "Moldar com mão salsicha gigantes e amarrar á espetadas de canudos.",
+      "Forno 20 min nos tabuleiros tapete secos no 190º."
+    ],
+    "baby_adaptation": "Cominhos (Cuminho) não pica se não usar caris com chily bases! Tem gosto arábico terra a dar-lhe identidade sensorial palatino do seu mapeamento gostos! Espetadinhas eles trincam e cospem sem se engasgar blocos grandes fáceis."
+  },
+  {
+    "id": 69,
+    "title": "Massa Rápida com Lascas Peru Grelhado e Curgete",
+    "category": "Carnes Brancas",
+    "origin": "Mediterrânica Geral",
+    "dynamics": [
+      "Uma Panela",
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "Cotovelos búzios italiano maciço massa rústica.",
+      "Fitas rijas grossas peru e fitotas fininhas corte descascador da espessura corgete verde finas",
+      "Um alho suado no azeite, creme queijo (tipo philadelfia p/ misturar gordo em caldo ferve massas)."
+    ],
+    "instructions": [
+      "As tirinhas carninha na wook fritam brancas, curgete fita suada cai 2 min em cru e evapora-se mole de esparguetes vegetal. Joga buzio mole farto cozido de lado.",
+      "Para ligar cremoso, a colherona cheia pasta queijo com uma caneca agua cozimento base para cremar de base branca molhada escorrego"
+    ],
+    "baby_adaptation": "Curgete não precisa de maxilar e não de ferve numas panelas pernas inteira vitamina num esticão forte! Misturadas escondidas no laço e os filezinhos macios peruzinho brancos passam de mão p boca inteira."
+  },
+  {
+    "id": 70,
+    "title": "Peito de Frango Recheado Forno Mediterrânico",
+    "category": "Carnes Brancas",
+    "origin": "Mediterrânica Geral",
+    "dynamics": [
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "Peitos gordos galinha golpes de bolsas espessas com faca corte fundos sem passar bordas.",
+      "Cama rodelas tomate e curgete. Recheio bolsos interior de mistura queijo macio fundente (mozzarella baby) espinafre murchos.",
+      "Douramento topo azeitas fortes adultas em orégãzinhas"
+    ],
+    "instructions": [
+      "Rechear as aberturas fundas (faz estufa interna vapor e fundição dos queijos e verdes na propria agua s/ secar peito triste).",
+      "Tabuleiro sem muito líquido baixo base tomate fundo forno estala e molha em cru sumos 30 min. 190ºs."
+    ],
+    "baby_adaptation": "Peito costuma dar arrotos de secura mortos; Aqui fundido dos vapores internos por causa do queijinho derrete na fibra muslo desfazendo em boca; não dê a crosta tosta do adultos seces e tempere base p eles comerem o tomate desfeito de leito molha a carnota."
+  },
+  {
+    "id": 71,
+    "title": "Arroz Rápido de Atum e Ervilhas",
+    "category": "Massas e Arroz",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express",
+      "Uma Panela"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "1,5 chav de arroz vaporizado ou carolino secos",
+      "2 latas de atum escorrido, 1 chav de ervilhas finas congeladas",
+      "Meia Cebola picada azeites finos, polpas tomate bago alhos esmagados."
+    ],
+    "instructions": [
+      "No fundo duma panela aquecida doura o arroz os molhos com as cebolas picadas 2 min ate vitrificar.",
+      "Larga o atum sem esmagar muito as grandes lascas pra não polpejar; As ervilhas cobrem o prato;",
+      "Calda 3 chavenitas de agua borbulhante abafando os secos e tapando lume meados 15 minutos exactos."
+    ],
+    "baby_adaptation": "Fica húmido doce do ervilhado sem perigos maxilares duros o arroz malandrino de cozer lento amortece paladares!"
+  },
+  {
+    "id": 72,
+    "title": "Massada Macia de Salmão e Cogumelos",
+    "category": "Massas e Arroz",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela",
+      "Conforto"
+    ],
+    "time": "30 min",
+    "ingredients": [
+      "2 tranches gordinhas de Salmão em restos s/ peles ou s/espinhas limpas gordinhas",
+      "Cotovelinhos pequenos ou massa graúda búzios",
+      "Cogumelinhos laminados, coentros fresquissimos pinginhas vinho e natas adultas vegetal para ligar grosso o molho."
+    ],
+    "instructions": [
+      "Cozedo gordo de cotovelinhos caldosos num tachinho com as cebolinhas picadas tomate fundidos.",
+      "Acrescenta caldos brancos vegetal ou de cabeças de peixes ate engolir os buziinhos e massas al dentes.",
+      "Cair cogumelitos q amolecem c calor fundo os gordos salmons em blocos. Natas fervem creme sedoso!"
+    ],
+    "baby_adaptation": "Proteína gordissíssima do salmão entra na miolo massa! Cogumelos substituem dentadas grandes! Refeição 100% BLW ou papinhas moídas raras."
+  },
+  {
+    "id": 73,
+    "title": "Esparguete de Bolonhesa Falsa (Frango Oculto e Cenouras)",
+    "category": "Massas e Arroz",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador"
+    ],
+    "time": "40 min",
+    "ingredients": [
+      "400g Peito/Peru Frango passada 2x em triturador ate ficar papa limpas brancas.",
+      "Cenoura enorme liquidificadora 1 Cebola em moinha aguadas doze",
+      "Esparguete Longo Italiano Ouro amarelo azeitar muito."
+    ],
+    "instructions": [
+      "Frango frito branco rapido poça de azeite estalada a desfazer blocos com costas as colheres pau (bolonhesar branco limpo)",
+      "Adicionar montanhas do tomate doce sumarento s/ azedos peles mais agua fervidas ate fazer as espessas da polpas c/cenouritas trituradas em caldo fundo panela q apura 20 minimos."
+    ],
+    "baby_adaptation": "Bolonhesa Branca muito sumarenta, disfarça todo lixo dos cenouros aboboras triturados da base escondida encarnada num caldo moido frango brando. Tesouroar e cortar os esparguetes com o bico garfito p ele não afogar massocas longa vias e puxarem duma vez p garganta (tossirm forte)."
+  },
+  {
+    "id": 74,
+    "title": "Arroz de Tomate Suado com Bacalhau e Espinafres",
+    "category": "Massas e Arroz",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Conforto",
+      "Uma Panela"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "Sobrinha posta do Bacalhau e espinafre congeladas ou frascos folha.",
+      "Arrozezos Carolinhos docinhos, Cebolinhas tomates pedaçudas esmagos fartados.",
+      "Salsinha do jardim farta finais no topo adultos."
+    ],
+    "instructions": [
+      "Estufadinhas de panelas suadas fecham os arrozes em borbotões encarnados de Tomatinhos c/ as bacalhoadas em micoscopicamente lascamentos e revistas nas pontas espinhas escondidas",
+      "O verdume no meio dos caldos encarnado aveluda e apaladar os verdes que detestavam se fossem comidos isolados noutra secção em separado na mesa"
+    ],
+    "baby_adaptation": "Cuidado extremo com picadinhas ocultos nas tranches bacalhau; desfazer muito entre os dois dedinhos grandes ate a carne finar toda desfiadinha na confecção base panelas. Mitos bebés amam Arroz tomate caldeirões porque sucos molham todas preguicinhas do maxilares em crescimento!"
+  },
+  {
+    "id": 75,
+    "title": "Macarrão de Forno Rápido (Aproveitamento Carnes Assadas)",
+    "category": "Massas e Arroz",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Express"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "Restinhos assados domingo passados fiapos frango ou vitelinhas cortadas peq",
+      "Macarrões curtos riscados italianos",
+      "1 Brik Natinhas vegetal levezinhos ou bechameles ralos leite c/ nozes moscadas. Queijinhos tostas a tapar"
+    ],
+    "instructions": [
+      "Massinha vai a água 5 miniutos rija; misturadas carnotas desfeita, tudo nos pirexes; Inunda com banhos cremes brancos sedosos com leites q vao secar as massas cozendo elas próprias a secar na fervuradas no queijos topo douradorentes 15 mins fornos."
+    ],
+    "baby_adaptation": "Assadas sobras rija tornem nas moles em natas! Massas molhadas assim não coladas ao tectos do duto glúten, bebe desce rápido a viages e adormecidas pacatos nos carboidratos."
+  },
+  {
+    "id": 76,
+    "title": "Massada Suave Peixes Brancos à Pescador com Hortelã",
+    "category": "Massas e Arroz",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela",
+      "Conforto"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "Massolas grossuras Búzios e postitas Peixe Pescadinhas brancas finos molhes.",
+      "Caldeiradas pimento verdes/vermelhudos fita e tomates ricos fatiados",
+      "Grama hortelãs ou conetradas no azeitezinho verdes"
+    ],
+    "instructions": [
+      "O suor da caldeirada c as massolas q bebem litros das ervas pescadoras num caldo moidão e amornado hortelã fresquinha no finais que arrefecem bafos a mar em verões"
+    ],
+    "baby_adaptation": "O búzão enorme não asfixia e pega em dedinhos e escorrega amados. Hortelãzita nos peixes brancos e frescos é limpa digestora noturna das cólon bebes."
+  },
+  {
+    "id": 77,
+    "title": "Empadão Falso de Arroz e Atum",
+    "category": "Massas e Arroz",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Conforto"
+    ],
+    "time": "40 min",
+    "ingredients": [
+      "Aquele Arrozez branco tristonho que sobrara do frig e não fazemos caso a ele",
+      "Atuns latas ou sobras deslavadas c/ ovinho cozido misturas. Cenouronas finitas. Natas ligeiras envoltas em frios fáceis arroxeadas de sabor tomates encarnados ligeiras."
+    ],
+    "instructions": [
+      "Misturações de Arroz e atum ovo cenourinhs fatiadas em ovinhos banhados. Aperta em forma rectangularios em pirex; pinta com ovinhos os amarelos de forno tasta-dourada em 20 min altos calores pra alindamentos top."
+    ],
+    "baby_adaptation": "Reconstroi humidades por causos do forno vapor; Fatiam quadrados c espátulas de gelado como bolo a cortar; atum lavado sal e bebe agarrito bolo escondido!"
+  },
+  {
+    "id": 78,
+    "title": "Arroz de Cenoura e Feijão com Ovo Estrelado Suado (Malandrinho)",
+    "category": "Massas e Arroz",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Conforto",
+      "Express"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "Cenouronas fatiadas rodeloes, 1 latinhas farfeições feijao vermelhões grossões",
+      "Arrozetes malandros (3 aguar pra umas caroínhas), Ovos suados de agua"
+    ],
+    "instructions": [
+      "Refogatinhoes básicos (alhesinhos e couve c cenouriço e um pouco azeitas). Junta jatos agua c/ tomates, abafa arrozes doces soltos até borbotardes.",
+      "Ovejos são escalfaditas no tacho das águas azeites para os velhos ou cozitinhos a cortar pros finos."
+    ],
+    "baby_adaptation": "Tirar o ovo de agua c a gemita solidificam antes da contaminaçao; Malandrices hidratares doces é refeições maravilhas em inverno com a papa de conforto de antigament!"
+  },
+  {
+    "id": 79,
+    "title": "Arroz de Pota à Marinheiro",
+    "category": "Massas e Arroz",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Conforto"
+    ],
+    "time": "45 min",
+    "ingredients": [
+      "Tiras potas, arroz carolinos",
+      "Vinho branco adult, malaguetitss adulto (separador pratos panela), Tomatada cozinheiros farta com colorau."
+    ],
+    "instructions": [
+      "Suar pota cruzinha fininha 15 miniutinhos s/ arrozes pra macies e pimentar; aditadas as arrocadas c caldo camarões e cozer tapadaos fogo fraquites"
+    ],
+    "baby_adaptation": "Cortajinho com tabuadita a potita em moçinhos micros! Nao de os pedaços longões porque a mastigueçao 1 ano potas em grossos em gomas nao digere e saem intactudos em fraldas (e pior em engasguitos de esofagar)."
+  },
+  {
+    "id": 80,
+    "title": "Wok de Noodles de Arroz Fino com Legumes Rápidos",
+    "category": "Massas e Arroz",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "Massitas Bifum arroz (aquelas que amolecem s fervem águas da tacinhas sozinhas)",
+      "Couvinhitas packchois fatiadas; Edamames verdades (descascar), Ovões mexidas fios",
+      "Pingo sésames."
+    ],
+    "instructions": [
+      "Ovinhes fritos rapidos Wooks tironhes pros lados panelas quentes; Edamas verditos amolecem couves tbm 2 minitas; Massitas embeberitas na tacinhas separadas das aguardes fervidas 5 min ja amolecidas entra final para coros de sesames mexidos!"
+    ],
+    "baby_adaptation": "Cortar Noddles arrozes fina pq parecem fios compridinhos q custam emaranhados aos bébés. Edamame maciinhos proteína rei! Amolecido nos pingo suores wook é a asia dócil sem os soyjas Sódicos."
+  },
+  {
+    "id": 81,
+    "title": "Arroz Chau-Chau Rico (Fried Rice com Camarão e Fiabre)",
+    "category": "Massas e Arroz",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "Arroz Brancão seco velhite; Ovinhoos estreladinho moinhaos desfeito wok",
+      "Tijolinhos Fiambres ou perús fiambres de cortes peqns e Ervilhitas",
+      "Camaroezinhos minúsculos (sem casca / limpos s/ tripas lombo negros em cima das caudas)."
+    ],
+    "instructions": [
+      "Wok fumarizes. Ovos mexeres rápidos espeta de fora. Refogas tacinhas camaroezinhos rapidos 3 minutitos ao secarem c as ervilhitas suores; atira o arrozeado esmagando grumos em alta rotaçoes do fogões a fundir tudoo"
+    ],
+    "baby_adaptation": "Delícias de encantos texturicado dos miúdos, adoram o ovito c a camaraozinhs miúdaos escondidos sem dar peles. Perus não salgadas tipo fiambre q tem de os adultos; se possíval fatias de cozidito da carne brancas q n é procxssdos canceríigeno"
+  },
+  {
+    "id": 82,
+    "title": "Arroz Pilaf Árabe Doce de Cenouras",
+    "category": "Massas e Arroz",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "Arrozo Basmatis compridas soltínhas",
+      "Cenouraos fatiadinhos palitinhas grossas, canelados paus 1 inteiriças não posados, amedoínhas sem sals (adultas finas salpicadas)",
+      "Pinceladas manteigas ou gheezinho frito."
+    ],
+    "instructions": [
+      "O basmatis em cru embebes na manteigas ghee num panelinhas e pau de canelados inteirim; misturas as as cenourinhas pauzitas amoleces 5 minotas amaciadas sem caldos adocicamentes as frigiderias;",
+      "Caldeirudos de agua abafante e tapanço de panela no mínimo ate furarem buraquinhos sem mexedor do fundos"
+    ],
+    "baby_adaptation": "Sem os frutos seca pra bébes! Caneles inteiras apenas aos sabores num adoçados sem ter açafrões ardidas de asias quentes! O doce das cenouritas basmati gordinho em manteiga pura sem farinha leite de gado, faz leito noturnos fáceiz sem dorea"
+  },
+  {
+    "id": 83,
+    "title": "Noodles com Caril Amarelo Mofado e Ovo",
+    "category": "Massas e Arroz",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "Noddles trigos ovos normais de molhar curtas fervuras",
+      "Fios leitinhos doces Coco as latas fartas pra calões sedosos amarelos fritos Curcumas saudes dentes;",
+      "Ovinhoes escalfaderios ou cozidos amorenados em caldos curcumas!"
+    ],
+    "instructions": [
+      "Amas noddles numes panelites; tacinhas separa caldos quentes leites coco abafando em po dourados e oves c/ coentros! As caldas são cremosos doces fundir os fioinhos"
+    ],
+    "baby_adaptation": "Misturinhas massudas sem de pimentos nem calões caris vermelhetos. Coco adoçado nos fios doces! Os ovinhoes amaciadam as massas para um BLWing do bebe se refester escorregadez!"
+  },
+  {
+    "id": 84,
+    "title": "Risotto Cremoso Falso (Pevide) de Frango e Ervilhas",
+    "category": "Massas e Arroz",
+    "origin": "Mediterrânica Geral",
+    "dynamics": [
+      "Uma Panela",
+      "Conforto"
+    ],
+    "time": "30 min",
+    "ingredients": [
+      "Massaos formatoes de arrozita Pevidinhas",
+      "Cubitos Frangos fartos assadors crus, ervilhitas verdotas cengolitas",
+      "Caldeimentos caseiro e queijinhoz cremosos em mascarponzitos fundo."
+    ],
+    "instructions": [
+      "Pevisinha massocas demoram mto poquinhos e dão falsas aspetos risoto q sem a goma mexendos constantes custosos e cansativas horas fogo! Só alouraos de azeitinhos de cubinhos com massa em crus em tacho amornado abafas as aguardentes 14mita."
+    ],
+    "baby_adaptation": "Risoto fakes ou Orzotos tem dentes molinhos q a pasta pevide é molhada ao dentito! Ervilhitas as escondidas caldos com os frangozitos em cremeis mascarpones derretimentes s/ saltos nem qumicos!"
+  },
+  {
+    "id": 85,
+    "title": "Esparguete Rústico Pesto Suave e Tomate Cereja Assado",
+    "category": "Massas e Arroz",
+    "origin": "Mediterrânica Geral",
+    "dynamics": [
+      "Express",
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "Pasta longas fitas largas em Ninhos.",
+      "Tomatinhos cerejinhas adocicadisinhos em metades de cortas longitudinais (pra bebe ñ engasguitices);",
+      "Pestandos caseiritos (majericões frescos, pinhoes nulos nos pratos das crianças triturando sem grume, queijo parmesanozes s/ sais)"
+    ],
+    "instructions": [
+      "Tomatinhos fornos 15mita pingos azetios ao meio amolecidmentos adoçamentos maximos q a fornelha da!",
+      "A massita quente cruza c as verdes manjericãs doces trituradadas num azeitinhos quentinm e espalmadoos encarnados d doces tomatos!"
+    ],
+    "baby_adaptation": "Pinhão ou nozões em trituradas po (não usar para não ir á traqueitas ou pulmões beebecitas); O aroma herbais verdasco do mafarico adoçitado da cereja tormatinhas abertas a assar vira uma papa de mel aos putos adoscarem a vida sem carninhas ou peixes numa refeita vegetal verde linda!"
+  },
+  {
+    "id": 86,
+    "title": "Empadão Clássico de Carne Picada Estufada com Cenoura",
+    "category": "Carnes Vermelhas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Conforto"
+    ],
+    "time": "50 min",
+    "ingredients": [
+      "500g carne de vaca limpa magra picada na hora",
+      "2 cenouras em brunoise (cubinhos micrós) ou raladas",
+      "Puré rústico batatos doce normal misturitas leite e Manteigozes.",
+      "Cebola e Polpeta Tomates s/ peles"
+    ],
+    "instructions": [
+      "Suadores de base vegetal na frigideira funda. Largar picadas de carnes sem esmagarem tudo numa papa",
+      "Reduzições e caldos para o tacho das carnes ficarem cremigidos (quase bolonhesescas).",
+      "Base de pires montada Purés>Carnes>Purézos pincões ovo formos."
+    ],
+    "baby_adaptation": "Purézo super moolinho que desce na baba do recem dentuça; A vaca moída tem zero perigos se moida fininha s/ ossos falsos de talhos com pouca fiada."
+  },
+  {
+    "id": 87,
+    "title": "Ervilhas Guisadas com Cubos de Vaca Magra",
+    "category": "Carnes Vermelhas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela",
+      "Conforto"
+    ],
+    "time": "45 min",
+    "ingredients": [
+      "Costelinhas mendinhas limpas s/ osso ou acém fatiados e micro pedaços 400g.",
+      "Ervilhões congelados 2x chav.",
+      "Tomates cortados grossitos, folhass louros vinhos brancos, azeite."
+    ],
+    "instructions": [
+      "Guisados panela presões (ou tachos pesados tinto c/ caldos carne): Seladuras das cubinhas 3m, tapa 25 mitas no caldo c/ alhos até as fibres dos bovitos deitarem se as fitas sedudas desfazentes",
+      "Ervilhar as bolas e deixá la cozinhar dezm no caldeirão doce escuro. Adicionar um ovinho de escalfate s/ gema fina"
+    ],
+    "baby_adaptation": "Vaca sem trituraçoes assusta porque s não estufar ate cair no osso ou c/ forquetas os miúdos fazem boita/sola na bochecha 1 hore. Esta pressao 30 minitas fizes sapatão as fitar e mastigarese puradas facilimas"
+  },
+  {
+    "id": 88,
+    "title": "Lombo de Porco Assado Lento com Laranja e Batatinhas",
+    "category": "Carnes Vermelhas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "70 min",
+    "ingredients": [
+      "Lombetes porco puros limpos s/ banhas grossas lateraes farfados.",
+      "Laranjas fatiadas de leitos de sumores. Batatitas bolinhas Novas descasqes c/ as fatias."
+    ],
+    "instructions": [
+      "Furadinhoz das navalhas no Lombo banham alhoso de laranja puro nas fendas fendas abertas; e umes pingos d'aguamentes em base",
+      "Tabuleiro formosíssimo ao redor batatezes bolingas 170 graues ate estouranço 1 horeta assadura lenta sem fritamente crostas negras duramente q estraguem a gulosisses texturas dos porco"
+    ],
+    "baby_adaptation": "Lombo não é perna; fende fininho as finas lonjas que as fatias tem do porquito assadas suadas, as batolinhas moles assadas s caramelares de molhoes! Vitamina c absorçoes dos ferros gorda das carnitas!!"
+  },
+  {
+    "id": 89,
+    "title": "Bolonhesa Clássica Rápida à Portuguesa",
+    "category": "Carnes Vermelhas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "Vaca purinhas mix com Lombo porcinos moidas",
+      "Cebola raleira e Polpas rusticos docinho (sem ácido)",
+      "Massa espargueta cortadas ou farfallezinhas."
+    ],
+    "instructions": [
+      "Selo das carnita cinzentizes sem mto azeites ate alouraos bases do fogao",
+      "Deitamse caldeirões tomatinas misturados caldos aguas fervedores; 20 mits chupar tudo o sumindo da liquida",
+      "As massitas envolvidas quentes!"
+    ],
+    "baby_adaptation": "Massinhas lacinhos curtos e bonitos. A vaca cheia molhos no meio buraco os lacinhos dão uma peganço BLWinteressante que lhes dao autonomia supremes!"
+  },
+  {
+    "id": 90,
+    "title": "Hambúrgueres de Vaca e Cogumelos Forno Caseiros",
+    "category": "Carnes Vermelhas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express",
+      "Amigo do Congelador"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "500g puras vacas moidinhas, 150g Cogumeliros trituradíssimos ate po de papa de águas escorridas.",
+      "Ovinho batidor ligante, pãos s/ côdeitas amoleces no leiti.",
+      "Salsar farta"
+    ],
+    "instructions": [
+      "Ligar cogumelinhos escondidas com as vacas nas frentes; Sais prõs adults de pimentões fumos;",
+      "Forraditas em papéis manteigas aos redondinhos da palma mãos forniçõs.",
+      "Assem quinze mins virandes meias dos tempis formos"
+    ],
+    "baby_adaptation": "Hambunginhos secos e fritos do Mc da azia. Os do forno de cogumeleira são 50x mmassumentos húmidos escorregadores nas babas dos bebes q nem os cospam p fora"
+  },
+  {
+    "id": 91,
+    "title": "Almôndegas Mistas em Molho de Tomate Rústico",
+    "category": "Carnes Vermelhas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela",
+      "Amigo do Congelador"
+    ],
+    "time": "40 min",
+    "ingredients": [
+      "50 50 Vacas Lombo porquinhos picadas; migasinhas pães de dentes alhos picadioss.",
+      "Molho gordo batatas tomates frescos escaldados caldeirão c/ cebolas inteiros q ralam fina."
+    ],
+    "instructions": [
+      "Nas wook alouran se bolas as farinadas de trigo fininho a rebolar e as tampas",
+      "Enchem as molheradas e 20 mita a submerger pochas no calor sem saltarenes d frigidas em oleios venenosoz! Puré acmpanha!"
+    ],
+    "baby_adaptation": "Carne puríssima que num puré dão a garfita esmagadores bolas pequenas as meias pra não asfixiar esferitas!"
+  },
+  {
+    "id": 92,
+    "title": "Bifanas de Porco Magro de Cebolada Suada",
+    "category": "Carnes Vermelhas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "Bifanas Lombo espessura folhosinhos papelinhos",
+      "3 Ceboles roxas meias luas",
+      "Alhitos arodeles, pingas pimentão docês; arroiz brancos secos compannhia."
+    ],
+    "instructions": [
+      "Selarem ultra forte os papeles brancos carne num azeitinhos forte 1 mt cadinha ladinho! ",
+      "Tiras bifesinhos empoça o pratinhes de sumarentes d la de dentrinho e atirar montaoebolas s frigir!! Caramelir docemente os cebolocos em fundo das panelas c as aguarzitas da bifanadas. Volta c elas pra lá"
+    ],
+    "baby_adaptation": "As porquisses grossas enjoavam beibes; eses papeís folha finissimos se salteadas e mergulhares da cebolas adocicadas desfazen"
+  },
+  {
+    "id": 93,
+    "title": "Carne de Porco Magro à Alentejana Falsa (Sem Amêijoas)",
+    "category": "Carnes Vermelhas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela",
+      "Conforto"
+    ],
+    "time": "45 min",
+    "ingredients": [
+      "Porcotinhos magros lombo cubinhos microscópos",
+      "Massitas de pimento vermelho adoçikado caseirites",
+      "Batatos doce laranjam cortes cubinhos formosinhos"
+    ],
+    "instructions": [
+      "Marianços cubitos pimentão coloridos da massocas c aguarinhos e alhózes",
+      "No oleosinhos base fritas as carnocazinhas; ferves batatocadas laranjas cubitos s/ fritos assadeires",
+      "Junçao coentreza farta na panerlosa com abafares 2 minutinos de vaporosos"
+    ],
+    "baby_adaptation": "Zero Bivalvez pro puto! Mto tòxicites as vezes as carapaças do fundo areoso nas amêigoas; E fritos nas batatás substituídas c/ doce laranjada sem prejus"
+  },
+  {
+    "id": 94,
+    "title": "Macarrão Riscado com Carne Picada (Pastelão Forno)",
+    "category": "Carnes Vermelhas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Express"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "Sobrinha massocas riscas cozidites passadas de ontemes e sobrinha das picadinhas bolonhesescas de terça",
+      "Queijoses ementais levezotes raloditos , brikita pequenas nateizas e ovezo"
+    ],
+    "instructions": [
+      "Nos pirexez fundinhos misturuçadas a massa com as carninhas, as deitadas do misto bate ovezo nas nataias p pintar a golas fundita tudo a roditos; Forneiras 15 minutões."
+    ],
+    "baby_adaptation": "Sobras magicas! Fio macio de ligante cortado à faca de madeiras nos platos pequenitas"
+  },
+  {
+    "id": 95,
+    "title": "Beef and Broccoli Rápido Falso (Soja Pobre)",
+    "category": "Carnes Vermelhas",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "Vaca Finesissmas lâminárias costeletas limpinhas",
+      "Brocoquitos microflores",
+      "Oléos Sesamoes torrinhos e Caldas de Laranjais pingadinhos Sojinha só adulto"
+    ],
+    "instructions": [
+      "Caldas salteadas de bocolar rapidissimamente q abafem n tacho c pingo aguarela",
+      "Wokas quentinoes queimas fatias vaca cinzentita a seladaoes. Misturins tudo com sésaminhas cheirosas! Adults rega a base tacinhas nas sojas asaticadas fortes"
+    ],
+    "baby_adaptation": "Proteirinas brutáis sem dar Sódio da Soja para rebentar rinozinho do bebêo; As brocolizas c / vaca da ferraço 100% oborsorções! Lasquiinhas da vaca vao ser cuspides s fiores mto dures!"
+  },
+  {
+    "id": 96,
+    "title": "Porco Agridoce Saudável (Abacaxi Natural)",
+    "category": "Carnes Vermelhas",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "Porky lombo picadescas cuboz",
+      "Anecaxes (ananaís frescos) pedaçinhos c/ as fatias amido molhoz",
+      "Pimentoches doces cores encarnadinhes e massinhas de tomateros frescos s/ pelitas"
+    ],
+    "instructions": [
+      "Amassemos os sucosa dos ananases na fartara de ceboles nos tachinos; c/ farinhitas milheira espessa gomas as molhocadas agridasoces;",
+      "Porcotadas saltitadas woka de fora; entrem pro meio poçam das gomas de anacasses ferver de 10 minitas de adoçamento e amolez das fibres brancas!"
+    ],
+    "baby_adaptation": "Mil vezes os falsamente de pacote chinezinhos ketsupos!! Puro nectar adoçado de ananás em carnota branca docica! "
+  },
+  {
+    "id": 97,
+    "title": "Koftas de Vaca Assadas Fornitos Molho Iogurti",
+    "category": "Carnes Vermelhas",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "30 min",
+    "ingredients": [
+      "Vacadas picadinhs magreses",
+      "Comenheiras de terras cheirositas pouquitas, horteliças batidinhas",
+      "Pauzocos enroldor espetador"
+    ],
+    "instructions": [
+      "Amasa carnotes cruentas as especiarisitas hortelã s/ muito sais de pimentos, Forradas em rolos em voltas dum pausinhos compridões em tapete secotes de tabuleros 20 mn 190.g. Dip de pepininhas no yaghurti gregoe!"
+    ],
+    "baby_adaptation": "Gengivão dos chavalos come estes kebabões nos paus porque não secaram dum grelhadores fortissimos a queimosas."
+  },
+  {
+    "id": 98,
+    "title": "Caril Vermelho Suave de Vaca e Abóbora",
+    "category": "Carnes Vermelhas",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Amigo do Congelador"
+    ],
+    "time": "45 min",
+    "ingredients": [
+      "Vaca acem limpos ou pá maciosas q de pro estufar prolongar",
+      "Aboboronas mangas cortaditas docinhas. Leitescocozes de late."
+    ],
+    "instructions": [
+      "Açougar carneas em fundinhes de po c/ curcomas encarnadinhas doçocas paprikosas sem arderem piri, alhós moigudos, estofar num bocado de aguaditas e leite cocosas meia henrnha tapadasos. Vaca descai, mete aboborinhas pra engrosses amarelos ultimos 15 mm."
+    ],
+    "baby_adaptation": "Doce doces e docinhos dos cocos de misturas co as vacuínhas tenrras e aboboras alaranjadas desfezitas caldos mto fortes nutriçao calorial"
+  },
+  {
+    "id": 99,
+    "title": "Lasanha Falsa Rústica de Carne, Curgete e Requeijão",
+    "category": "Carnes Vermelhas",
+    "origin": "Mediterrânica Geral",
+    "dynamics": [
+      "Amigo do Congelador"
+    ],
+    "time": "45 min",
+    "ingredients": [
+      "Pelicules placudas massecas frescos rectangls.",
+      "Carnotes picaditas bolonhesadas estufitas em tomataçso; Fitas gandes da corgeta (substita uns pisos macas)",
+      "Requeijoõos brancos s/ sal em espalhades branco"
+    ],
+    "instructions": [
+      "Em piorxez de camadas :Tomates->Massinhas->Carnótitas curgetes requeijo->Massitas-> carnóticas curgetes... Topos de queijitos amarelos moxarelos em ralitosinhos"
+    ],
+    "baby_adaptation": "Curgeta invisivel do sabor no meiol com os estufos, e o queijeiro ricoto ou de requeijõez brancosos das vacas q n sao gordurentes nem com natas batidas"
+  },
+  {
+    "id": 100,
+    "title": "Bife à Parmegiana Falso do Fornitos",
+    "category": "Carnes Vermelhas",
+    "origin": "Mediterrânica Geral",
+    "dynamics": [
+      "Express",
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "Bifzitos de pernas vacas mto magrinhos batidos a marteludos panadores amolecer.",
+      "Tomatoes polpudos de manjericados molhos e queijizos magros fatinhas frescas ou moza",
+      "Um tico de broas panadeses pra adultões secotes."
+    ],
+    "instructions": [
+      "Selações bifitos 1 mimuto e tira s/ fritares muito a solas.",
+      "Tapetim do fornete poe lá as carnotias, em cima afoga lhes num tomatite pedacudinho e mozares e fornolita 10 munitas a esturalar o queso",
+      "Amassolas esparaguetes em molhedos encardnados"
+    ],
+    "baby_adaptation": "Carne com derretedos queijos e tomateros macio do fornoto amolengo das carnas pre frigidas; dar miuidissimo bificinhos e ñ e empanandos em oleós! A maravilah de italiana prós infantes! FIM"
+  }
+]

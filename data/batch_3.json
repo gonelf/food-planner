@@ -1,0 +1,246 @@
+[
+  {
+    "id": 21,
+    "title": "Tikka Masala Rápido com Brócolos",
+    "category": "Peixe e Conservas",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Uma Panela",
+      "Amigo do Congelador"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "400g de peixe branco firme cortado em cubos (tamboril ou maruca)",
+      "Base Masala rápida: 150ml polpa de tomate rústica + 1 Iogurte Grego natural (temperatura ambiente)",
+      "1 c. de chá de Garam Masala e 1/2 c. de chá de cominhos em pó",
+      "Brócolos baby cortados em floretes pequenos, alho e gengibre fresco ralado"
+    ],
+    "instructions": [
+      "Numa panela, salteie o alho e o gengibre ralado com as especiarias até libertarem os seus óleos essenciais (1 min).",
+      "Junte a polpa de tomate e deixe apurar até escurecer ligeiramente. Adicione os brócolos e o peixe, cobrindo com o molho e uma gota de água quente. Tape 10 min.",
+      "O truque fatal para não talhar o iogurte: desligue o lume completamente. Junte duas colheres do molho quente ao iogurte frio numa taça para o temperar (igualar temperaturas), e só depois verta o iogurte para o tacho. O molho ficará de um rosa sedoso de chef."
+    ],
+    "baby_adaptation": "As especiarias limpas (sem picante) são fantásticas para a diversificação do palato! A cremosidade deste molho rosa ácido e doce é brutal no disfarce dos legumes mais ocos como brócolos. Super mole de engolir!",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Tikka+Masala"
+  },
+  {
+    "id": 22,
+    "title": "Dhal de Lentilhas Laranjas com Atum (Papa do Médio Oriente)",
+    "category": "Peixe e Conservas",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Conforto",
+      "Amigo do Congelador"
+    ],
+    "time": "30 min",
+    "ingredients": [
+      "2 Chávenas de Lentilhas vermelhas/laranjas",
+      "2 latas de atum ao natural firme",
+      "Óleo de coco (ou azeite), sementes de mostarda, alho e lascas de gengibre",
+      "Cúrcuma (açafrão-da-índia) e coentros frescos picados"
+    ],
+    "instructions": [
+      "Elevar a lentilha requere bases aromáticas: num tacho, faça estalar as sementes de mostarda e o gengibre no óleo de coco quente. Junte a Cúrcuma.",
+      "Verta as lentilhas com o dobro do seu peso em água ou caldo vegetal. Ferva suavemente 15 a 20 min. Sem casca visível, elas vão explodir num puré macio e dourado denso.",
+      "No final, envolva os suculentos flocos de atum (sem água) e muitos coentros."
+    ],
+    "baby_adaptation": "As lentilhas laranja são um segredo da nutrição maternal - riquíssimas em ferro e sem a pele rija que causa gases. Esta é a papa caseira perfeita, repleta de proteínas, para as gengivas pequenas.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Dhal+Lentilhas"
+  },
+  {
+    "id": 23,
+    "title": "Koftas (Almôndegas/Kebab) de Salmão com Molho de Hortelã",
+    "category": "Peixe e Conservas",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Uma Panela",
+      "Express"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "400g Salmão Fresco (sem espinhas/pele) cortado à faca super fininho",
+      "Miolo de pão esfarelado (ou panko), 1 gema de ovo",
+      "Raspa de limão, cominhos e salsa",
+      "Molho adulto: Iogurte grego, pepino ralado s/ água e hortelã fresca picada"
+    ],
+    "instructions": [
+      "Dica: corte o peixe na faca para preservar textura, não triture em pasta! Numa taça fria, una intimamente o salmão com o pão, a raspa fina de limão, o ovo, e os cominhos.",
+      "Molde com as mãos rolos ao estilo Kebab (cerca de 8 cm). Coloque no frio 15 m para firmarem a gordura.",
+      "Asse num tabuleiro forrado e levemente untado no forno a 200°C cerca de 10-12 minutos (não mais, o salmão seca rápido)."
+    ],
+    "baby_adaptation": "A forma canuda destas Koftas é excelente para a mão da criança morder sem perder. Não afogue em molho frio de hortelã na porção da criança para não causar choques térmicos com a carne quente.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Koftas"
+  },
+  {
+    "id": 24,
+    "title": "Orzotto de Tomate e Atum (Risotto Rápido de Massa)",
+    "category": "Peixe e Conservas",
+    "origin": "Mediterrânica Geral",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "1 Chávena cheia de massa orzo (pevide grossa)",
+      "1 Cebola refogada finíssima, 1/2 courgette ou beringela em micro-cubos",
+      "2 latas de atum em postas gorda",
+      "Caldo quente vegetal, 2 c. sopa polpa de tomate",
+      "1 colherada sumarenta de mascarpone ou natas gordas, parmesão ralado"
+    ],
+    "instructions": [
+      "Trate a massa como o nobre Risotto: frite ligeiramente o Orzo na base de azeite e cebola quente durante 2 minutos a rolar no tacho.",
+      "Vá juntando líquido fervente pouco a pouco: adicione o tomate e conchas do caldo. A meio introduza a courgette invisível.",
+      "A absorção total demora apenas os gloriosos 14 min em ebulição calma. Apague o lume! Envolva as natas/mascarpone e o atum para que se desfaça sozinho na glândula do tacho.",
+      "Coroar no prato de parmesão ralado na hora."
+    ],
+    "baby_adaptation": "As massinhas orzo caem sozinhas para a garganta escorregando na polpa sem requerer mastigações difíceis. Uma textura luxuosa, húmida e calórica.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Orzotto"
+  },
+  {
+    "id": 25,
+    "title": "Paella Rasa Rápida de Peixe Branco",
+    "category": "Peixe e Conservas",
+    "origin": "Mediterrânica Geral",
+    "dynamics": [
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "1.5 ch. de arroz médio e carolino para paelha",
+      "Fitas coloridas de pimentões assados ou descascados finas",
+      "Caldo sublime de marisco ou peixe caseiro",
+      "Fios majestosos de açafrão em pó leve ou corante, azeite fundo, postas de peixe gordo limpo"
+    ],
+    "instructions": [
+      "Uma paella real precisa de largura: Use a sua maior e mais achatada frigideira que vá ao forno ou fique no fogão. Faça a base forte do azeite com pimentos suados e o arroz amarelo.",
+      "Regra vitalícia do Chef espanhol: Quando colocar o caldo aromático sobre o arroz, NUNCA mais mexa a colher no tacho! Deixe a fervura cozer devagar por 18 min até formar o 'Socarrat' - o estaladiço do fundo.",
+      "A 5 minutos do fim, deponha as lascas ricas do peixe escolhido por cima, abafando rapidamente se a água secar. Sirva quente da chapa."
+    ],
+    "baby_adaptation": "O arroz seco na paella e tostado pode precisar de uma ou duas colheres do caldo quente misturadas na taça do bebé, para evitar a asfixia das gomas grossas da Paelha original. O peixe sem ser mexido fica inteiro para ser decifrado no prato.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Paella"
+  },
+  {
+    "id": 26,
+    "title": "Meia Desfeita de Grão Rica com Ovo Cozido e Pimentão",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "1 frasco grande de grão de bico bio cozido (400g)",
+      "4 ovos L",
+      "1/2 cebola roxa finamente picada, 1 dente de alho esmagado",
+      "1 c. café de Pimentão Doce Fumado (Paprika)",
+      "Salsa fresca farta picada n'hora, azeite virgem extra perfumado, vinagre de maçã/vinho"
+    ],
+    "instructions": [
+      "Coza ovos à precisão militar: 9 min se gosta de firme porém elástico. Descasque sob água fria e lasque grosseiramente.",
+      "Aqueça uma sertã ao rubro apenas com um fio mestre de azeite e deite o grão escorrido e o alho e pimentão fumado. Salteie os grãos em fogo vivo por curtos 3min para criar capa tostada de sabor umami.",
+      "Retire para a travessa fria, lance a cebola, os ovos, azeite vivo do galheteiro, um jacto ríspido e cortante de vinagre e salsa em manto. Envolva respeitando o ovo."
+    ],
+    "baby_adaptation": "A meia desfeita bebé exige garfo! Esmague as bolotas do grão ativamente até virar um puré texturado. Omita da taça da criança a acidez severa do vinagre cru e da cebola.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Meia+Desfeita+Gr%C3%A3o"
+  },
+  {
+    "id": 27,
+    "title": "Ervilhas Estufadas com Ovos Escalfados e Fumados",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "400g ervilhas extra finas congeladas",
+      "4 ovos grandes com gema laranja",
+      "1 rica cebola e 2 belos dentes de alho picados",
+      "Pimentão doce fumado espanhol (para emular os fumos rústicos do chouriço ausente)",
+      "2 colheres largas de polpa de tomate em pedaços maduros, coentros/hortelã"
+    ],
+    "instructions": [
+      "Num tacho raso mas comprido de paredes, estufe a cebola e alho suave num vale de azeite temperado do pimentão fumado (que fingirá carnes presuntas nesta refeição verde).",
+      "Adicione o tomate, logo as belas ervilhas gélidas. Verta só meia chávena de caldo quente (para não empoçar), tape e deixe o vapor atuar (10 min).",
+      "Abra pequenas concavidades delicadas no tapete de ervilhas, partindo lá para dentro um ovo inteiro. Tape com paciência o tacho sem mexer, deixando a temperatura média pochar esses ovos na humidade doce das ervilhas (5 a 8 min). Finalize de coentros limpos."
+    ],
+    "baby_adaptation": "Perigo do escalfado pediátrico! O ovo do menor, deve cozer rijo os 10/12 min sem centro pastoso de riscos salmonelos! Esmague ervilhas na sua base destapando a armadilha esférica ao engolir.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Ervilhas+com+Ovos"
+  },
+  {
+    "id": 28,
+    "title": "Feijoada Rápida Umami de Cogumelos e Couve",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Conforto",
+      "Amigo do Congelador"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "1 frasco ou lata XL de feijão vermelho robusto",
+      "300g mistura de cogumelos (brancos e portobello) fatias largas",
+      "1 folha de louro grossa, 1 colher de sobremesa de molho de soja escuro (segredo Umami)",
+      "2 cenouras ralas em meias-luas finas, folha repolho ou couve tenra",
+      "Alho picado, cominhos moidos na hora, azeite."
+    ],
+    "instructions": [
+      "Esta feijoada sem patas de porco ganha o seu peso nos cogumelos. No ferro quente: Azeite, alho e louros! Deixe dourar bem o cogumelo até minguar as águas, desfaça com o pingo de soja e os cominhos que gritam Terra.",
+      "Introduza a cenoura, as talhadas de couve rasgadas pelas mãos e o feijão com alguma pouca do líquido tinto da lata que liga os espessos. Afogue em caldo água quente fervente.",
+      "Reduza fogo médio e deixe tudo espessar durante um longo murmúrio de 20 min."
+    ],
+    "baby_adaptation": "O feijão vermelho rústico costuma ter de ser partido para BLW. Retire o feijão do bébe sem que leve excesso do molho soja usado no cogumelo. O cogumelo passa perfeitamente como carninha tenra ao morder da gengiva dele.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Feijoada+Vegetariana"
+  },
+  {
+    "id": 29,
+    "title": "Rancho Vegetariano Profundo com Grão e Macarronete",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Conforto",
+      "Amigo do Congelador"
+    ],
+    "time": "35 min",
+    "ingredients": [
+      "1 lata grão do médio cozido",
+      "1.5 chávenas de rigoroso macarronete ou pevide grande/cotovelo raiado",
+      "A base clássica: 1 cebola roxa, três valentes dentes de alho, maciço azeite bom",
+      "1 malga das de sopa c/ tiras minuciosas de couve galega ou lombarda fina sem pés grossos.",
+      "Tomate picado limpo, Pimentão Doce, Caldo vegetal forte escuro"
+    ],
+    "instructions": [
+      "Para a profundeza rústica do campo: Refogar demorado o azeite, cebola, e alho e estalar colher Pimentão. Verta o tomate cru até virar compota e anexe a couve.",
+      "Sature a panela fartamente com 1 litro d'água guarnecida de caldo vegetal. Em levantando bolhas pesadas grandes na couve (10 min), deposite a massa crua dentro.",
+      "Dez minutos coze a massa. Só dois min do final é que atira as bolotas grossas do grão cozido apenas à absorção superficial do amido no molho denso.",
+      "Este prato finaliza-se com muito de molho grosso 'caldoso' (nunca enxuto)."
+    ],
+    "baby_adaptation": "O macarronete comprido é ouro de exploração ao tacto pediátrico na aprendizagem. Cingir com toda a acção do esmagar o feijão ou o grão se tem 10 meses apenas.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Rancho"
+  },
+  {
+    "id": 30,
+    "title": "Omelete Alta de Forno com Espinafres Escondidos",
+    "category": "Base de Leguminosas / Vegetariano",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela",
+      "Express"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "6 grandes ovos (tamanho XL)",
+      "1 generosa embalagem espinafres fresquíssimos ou folha acelga",
+      "1 queijo fresco macio do dia ou bela ricotta densa (+-200g)",
+      "1 fio de nata magra ou leite gordo, orégãos flor, azeite limpo"
+    ],
+    "instructions": [
+      "Passo essencial da Frittata de respeito que salva Omeletes escorridas: Numa frigideira sem mais nada, sue numa valente golpada os espinafres crus por 1 minutinho c/ sal até cederem tamanho e LARGAR ÁGUA! Escorra essa água negra vital.",
+      "Bata leve e fofo os ovoados com pontinha leite natas. Faca descer com chuva densa os pedaços d'um requeijão/fresco pelas mãos, salpique espeleologia verde com flocos de oregãos.",
+      "Misture ao banho de ovo os espinafres enxutos secos temperados.",
+      "Travessa média p/ altura volumétria alta forrada em lencinho de Azeite. Ao Forninho 180° graus até ao esplendor tostar das bolhas de ar na cobertura (15 a 18 mi)."
+    ],
+    "baby_adaptation": "Formato de um fabuloso bolo macio de cálcio, sem a menor das fritos nos óleos duros mergulhados. Uma facada no quadradinho perfeito serve-lhes à justa nas medidas pinças e enche o aporte sem mastigaçao dentária sequer.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Omelete+de+Forno"
+  }
+]

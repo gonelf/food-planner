@@ -1,0 +1,235 @@
+[
+  {
+    "id": 11,
+    "title": "Peixe de Assadeira em Cama de Batata, Cebola e Pimento",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "45 min",
+    "ingredients": [
+      "3 postas altas de peixe branco (bacalhau fresco, pescada, corvina)",
+      "4 batatas cortadas em grossas rodelas perfeitamente iguais",
+      "2 cebolas em meias-luas carnudas, 1 pimento vermelho em tiras",
+      "2 tomates maduros em rodelas fartas",
+      "Azeite virgem extra generoso, 1 clh. chá massa de pimento, 3 alhos secos"
+    ],
+    "instructions": [
+      "O chef ensina a suar as batatas: Num tabuleiro, esfregue a cama com azeite e alho picado.",
+      "Disponha primeiro as cebolas, o pimento, as batatas, e afogue com o tomate por cima.",
+      "Massagem no peixe: dilúia a massa de pimentão doce num pingo de água quente e azeite e barre as postas de peixe. Coloque a coroa de peixe sobre a cama de legumes.",
+      "Tape o tabuleiro 100% hermético com folha de alumínio para as primeiras 30 min (forno 190°C), transformando-o num vaporizador caseiro. Retire o papel nos dramáticos de 15 min finais para tostar."
+    ],
+    "baby_adaptation": "O encerramento no alumínio garante a total maciez das fibras do peixe branco para gengivas do seu bebé. Tire a sua crosta, e esmague tomate puro. Omita a massa de pimentão da área onde estava o lombo dele por conta do nível brutal de sais ocultos nas massas compradas.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Peixe+no+Forno"
+  },
+  {
+    "id": 12,
+    "title": "Salada Quente de Grão e Salmão Assado",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "2 a 3 postas de salmão ricas",
+      "1 frasco grande de grão de bico bio cozido e bem lavado",
+      "150g de agriões frescos ou espinafres de folha pequena",
+      "1/2 cebola roxa marinada em vinagre e azeite ou 1 punhado de azeitonas (para os adultos)",
+      "Azeite virgem frutado, sumo de limão fresco, moinho de pimenta"
+    ],
+    "instructions": [
+      "Temperar o salmão vivo no limão. Assar numa fritadeira a ar potente ou forno a 180°C durante 12-15 min até a crosta da pele começar a estalar lindamente.",
+      "Numa taça profunda, envolva e salteie no quentinho só 1 min o grão de bico limpo no azeite quente com os agriões crus (apenas para murchar subtil e perfumar).",
+      "Lascar a carne amanteigada do salmão por cima e adubar a travessa toda de sumo de limão."
+    ],
+    "baby_adaptation": "Esmague à compaixão num prato de chumbo todo o grão do bebé - textura de papa grosseira - até não haver esferas. Lasque a meio um lombo macio e livre de espinhas dele da parte da barriga. Um festim de gordura boa para o neuro-desenvolvimento dele.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Salada+Quente+Salm%C3%A3o"
+  },
+  {
+    "id": 13,
+    "title": "Sopa Rica do Mar (Caldo Grosso)",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Conforto"
+    ],
+    "time": "40 min",
+    "ingredients": [
+      "Cabeças de peixe ou osso suculento de pescada ou corvina fresca + 2 lombos",
+      "A base dos purés: 2 batatas doces grandes, 2 cenouras doces, 1 cebola",
+      "Uma taça de arroz agulha bem firme (para acabar)",
+      "Azeite verde, montes de coentros com o pé incluído"
+    ],
+    "instructions": [
+      "O Segredo está no fumet: Ferva agressivamente as cabeças 15 minutos e passe todas a coador de malha ultra-fina, ficando só com um caldo divinal castanho (sem perigo de uma miniatural espinha!).",
+      "Noutra panela asse/suade a cebola e os restantes legumes. Preencha com o mágico Fumet puro, coza os lombos 8 min lá num canto e depois tire à segurança as carnes dos lombos limpos.",
+      "Triture magicamente os legumes no caldo até atingir o famoso puré-creme liso. No lume brando verter o arroz cru de agulha as folhinhas e coza 12 min. Para fim majestoso: incorpore peixe puro dentro."
+    ],
+    "baby_adaptation": "Estas sopas lusitanas ultra-fechadas evitam qualquer 2º prato pesado no jantar pois são a própria energia completa da ceia. A textura da papa macia do arroz afogado tem um palato super tolerado pelos mais esquisitos.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Sopa+do+Mar"
+  },
+  {
+    "id": 14,
+    "title": "Pataniscas de Pescada no Forno com Arroz de Tomate",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Amigo do Congelador",
+      "Express"
+    ],
+    "time": "30 min",
+    "ingredients": [
+      "300g de pescada super seca ou flocada ou em sobras",
+      "4 c. sopa fartas de farinha de trigo (ou de aveia de granulometria areada)",
+      "2 ovos biológicos, 3/4 de chávena de água com gás sibilante fria (o truque do chef para o leve/estaladiço!)",
+      "1 cebola e 1 alho ralados até escorrer sumo (crucial para o aroma de patanisca original), muita salsa",
+      "1 chávena de arroz branco perfumado a molho de tomates de cacho assados"
+    ],
+    "instructions": [
+      "Prepare a magia na massa pão: Bata a farinha no rimo aos ovos líquidos, desaperte c/ água com gás fresca até cair um polme como natas lisas e muito pesadas. Inunda de cebola escorrida, salsa verdejante e do peixe escamado.",
+      "Azeite uma boa chapa estática ou pão de forma rasa e estenda finassímas colheradas sem tocar.",
+      "Vai ao inferno do forno 200°C p/ 10 minutos ou na frigideira quente. Esvazie a estalagem no seu maravilhoso arroz de tomates molhado em caldos de sopa."
+    ],
+    "baby_adaptation": "Fuga às fritadeiras do óleo imerso, mas com a delícia intacta da Patanisca nacional elástica, fácil de pregar aos dedos escorregadiços e onde eles trituram muito paladar e proteica escondida com 0 choro.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Pataniscas"
+  },
+  {
+    "id": 15,
+    "title": "Patê de Sardinha Caseiro com Puré de Grão",
+    "category": "Peixe e Conservas",
+    "origin": "Portuguesa",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "10 min",
+    "ingredients": [
+      "2 Latas de Sardinhas conservadas nos melhores sucos do Tomate ou limpas numa boa azeitona",
+      "4 C. Sopa de grão de bico limpo a despontar (ou a textura macia de meio abacate tenro como substituto vegetal sem ovo maionesado)",
+      "Raspa da fina e perfumada casca de meio limão sem chegar à capa branca e 1 fiozinho de dijon (adultos)"
+    ],
+    "instructions": [
+      "Drene o excesso de líquido vermelho ou óleo da boa sardinha, mas não descante tudo. Destruía activamente os filetes abertos tirando aquela espinha dura com amor aos seus filhos primeiro.",
+      "Triture ou morda agressivamente dentro num esmagador de puré a essência do grão/abacate com uma facada de dijon até que o seu prato cor-de-telha fique cremoso sedoso à farta sem adição de queijos gordos.",
+      "Finalize coroando do tal aroma fino rasado de Limao."
+    ],
+    "baby_adaptation": "Negoçação nula de oferecer palitos crocados crus mortíferos de asfixia em cenouras para a criança de meses. Larga tirinha grossa cortada e recheada nos óleos ómega fortíssimos que este rei de sardinhas puras esconde para nutrir encéfalos infantis.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Pat%C3%A9+Sardinha"
+  },
+  {
+    "id": 16,
+    "title": "Noodles de Wok com Lulas e Legumes",
+    "category": "Peixe e Conservas",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "1 pacote noodles (tipo soba/udon pesados ou esparguete se esgotados)",
+      "400g argolas pequenas de lula mimada extra limpa",
+      "1 cenoura firme p/ corte minucioso juliana à navalha e 1 couve vigorosa bok ou pak-choi farta",
+      "Gengibre ralado fininho, Fio de óleo exótico sésamo torrão (adultos)"
+    ],
+    "instructions": [
+      "Submerja noodles por 3 min em banho super fervente para escorrer sedosos.",
+      "Chef manda que a wok seja labareda! Gengibre ralado entra 20seg e frita, lulas vêm dar o estalido de 3 minutos vivos ao saltear, caso passem da contagem vira pneu elástico horrendo ao cravar.",
+      "Jorram vegetais para que não amoleçam demais ao Wok. Retira para as massas!"
+    ],
+    "baby_adaptation": "Corte ou pique na miúda tesourada de cozinha a tenacidade lula na porção do baby e remova molho saturados Soja para ele por a questão do perigoso Sódio de garrafa antes desta atingir a comida toda no wok final adulto.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Lulas"
+  },
+  {
+    "id": 17,
+    "title": "Salmão Glaceado Citrinos com Arroz Jasmim",
+    "category": "Peixe e Conservas",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Uma Panela/Tabuleiro"
+    ],
+    "time": "25 min",
+    "ingredients": [
+      "Postas altas e ricas de bom Salmão",
+      "Sumo sumarento rasgado de 1 laranja algarvia doce real",
+      "1 pequeno botão ralado limpo a miúdo de gengibre exótico (para os pais)",
+      "1 medida d'arroz perfumado chinês Jasmim e 1 c/ mel (opcional p/ douradura) "
+    ],
+    "instructions": [
+      "O Glacé asiático: Uma pasta com 1 dente alho pó e raspass sumptuosa de laranja na taça fina mergulhada com Salmão. Deslizar por o tabuleiro assadeira quente dos açúcares. Assado alto a 190° até borbulhagem fina espessa prender, uns dez minutos (mel escurece cor).",
+      "Para um Jasnim sedoso/pegajoso exótico da Ásia, febre rápida n'um leito apertado da panela em 1 c água meia por arroz puro tapado!"
+    ],
+    "baby_adaptation": "As maravilhas do cítrico sem picante nenhum com uma das melhores proteínas que o mercado cego serve à pediatria da papa caseira. Como o próprio jasmim Oriental faz esferas empapadas grossas sozinhas ao se pegar é soberaníssimo a combater afogamento farinado nos mais inexperientes mastigantes (bola pegajosa).",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Salm%C3%A3o+Forno"
+  },
+  {
+    "id": 18,
+    "title": "Arroz Frito de Pescada e Ervilhas (Fried Rice)",
+    "category": "Peixe e Conservas",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "15 min",
+    "ingredients": [
+      "2 chávenas fartas de sobra de arroz vaporoso seco e rijo no frio de arca gélida de véspera",
+      "2 Ovos vivos de classe estalada ao sol",
+      "Tranches das grandes sobras brancas da pescada, agora na glória desmanchadas doces sem pele.",
+      "Ervilhinhas geladas a estalar tortas rudes ou um punhado limpo do saco",
+      "Oleo Sésamo torrão no fundo salgado d'um prato."
+    ],
+    "instructions": [
+      "Técnica extrema do Chef: Panela em inferno. Entra colher pequenina de oleo até deitar mini pó cinzento do fumo. Entram ovos crus à bofetada nas brasas e roda violenta dum garfo no ovos por 20 segundos em esfarrapos ou nuvens amarelas (nada de secar omelete).",
+      "Puxa na calharia os hidratos rijos frios do arroz de ontem separando as pedras gélidas! Gela os 2 minutos esturjindo com os amidos ao lume. Incorpora peixe vivo na nuvem, ervilhas molhas de frescor.",
+      "Acrescenta uma pincelada pinga pinga fina molho sésamo à base adulta da tábua de jantar com soja."
+    ],
+    "baby_adaptation": "Uma arma culinária! O ovo picado protege/isola microscópico os carboidratos na panela seca permitindo os petizes agarrar e colher montanhas inteiras a devorar limpas (Textura irresistivel para cérebro infatil). Risco limpo zero d'espinhagem c/ sobras pescada fina.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Arroz+Frito"
+  },
+  {
+    "id": 19,
+    "title": "\"Sushi Bowl\" Falso de Salmão e Abacate",
+    "category": "Peixe e Conservas",
+    "origin": "Fusão Asiática",
+    "dynamics": [
+      "Express"
+    ],
+    "time": "20 min",
+    "ingredients": [
+      "O arroz de estirpe pura própria curta tipo calrose/sushi amornado aos ventos doce, 100% puro ",
+      "Dados pequenos, frescos do belo atlântico em salmão brilhante do meio ou da garrafura gorda da bariga. (Para adulto braseiam o maçarico em cru ou para bebes ferve à vapor do hermético mcroondas - 4min).",
+      "Frutas maravilhosas com lascas firmes do supremo abacate mole das laterais. Sementes tostadas limpas sesamo final para os granditos."
+    ],
+    "instructions": [
+      "Como não moldamos, enlatar num lindo prato plano, espalmando a dose fria/morna leve. Temperar o de adultos por ventura a doçura tradicional com pingo molhos, salpicado os gomos ou leque das fatias perfeitas em harmonia cromática de gordo verde claro de roda.",
+      "Topar majestosamente do salmão que deve fundir a meio!"
+    ],
+    "baby_adaptation": "Nunca deitar peixe de águas pescas em crús brutos a infantes com menos que 4 ou 5 verões de imunidades maduras gástricas! É mandatário a hermética febre no papilote, mantendo salmão ultra rosado por cozedura e os amidos fofinhos p/ a educação ocular e colorida prato dele (As cores comem!).",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Sushi+Bowl"
+  },
+  {
+    "id": 20,
+    "title": "Caril Amarelo Suave de Maruca com Leite de Coco",
+    "category": "Peixe e Conservas",
+    "origin": "Índia e Médio Oriente",
+    "dynamics": [
+      "Uma Panela"
+    ],
+    "time": "30 min",
+    "ingredients": [
+      "500g suculento de carnes brancas firmes Maruca ou Cação bem ripados a posta c/ amor e sem sangue negro na peixaria.",
+      "1 luxúriosa ou lata das que pesam do fundo do gordo Leite coco verdadeiro asiático 80%.",
+      "O Ouro de mesa: 1 colher a transbordadar pó açafrão purificado (Curcuma das indices terrenas), 1 lima esganada e coentrozinhos rasgados em festa fina",
+      "1 doce moído de dentes macios da cebola."
+    ],
+    "instructions": [
+      "A poção: Ferver leve ao azeite fino moinha cebola e logo à tina atirar a forte Cúrcuma moída quente q ativará ao explodir o paladar em amarelo eferoscente brilhante (O ingrediente mestre do açafrão em contacto c/ oleaginosos quentes).",
+      "Aliviar de chofre do puro creme espesso das amêndoas do côco deitado da lata e ferver gulosos cheirosos fumos.",
+      "Reduzir tudo para mergulhar por imersão peixes crús doces pochar afogados dez ou oitos limpos minutos d'alegrias. Findo! A lima por cima corta-me os óleos de coco!"
+    ],
+    "baby_adaptation": "Uma medicina milenar dos velhos do Oriente na travessa de sua criancinha! Não pica rigoroso zero fogos do chili, apenas terra perfumosa. Como não leva pingo nenhuns leite vacas é bálsamo não constipador dos gases lácteos da digestão infantil de transição. É perfeito na macieza mole de deglutição aos recém-dentes.",
+    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Caril"
+  }
+]
