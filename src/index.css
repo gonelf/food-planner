@@ -312,6 +312,12 @@ ul {
   animation: fadeIn 0.4s ease forwards;
 }
 
+/* Mobile Bottom Navigation (hidden on desktop) */
+.mobile-bottom-nav {
+  display: none;
+}
+
+/* ======== TABLET (769px – 1200px) ======== */
 @media (max-width: 1200px) {
   .app-layout {
     flex-direction: column;
@@ -319,10 +325,149 @@ ul {
     height: auto;
     min-height: 100vh;
   }
-  
+
   .app-sidebar, .app-main, .app-right-panel {
     width: 100%;
     height: 80vh;
     flex-shrink: 0;
+  }
+}
+
+/* ======== MOBILE (max 768px) ======== */
+@media (max-width: 768px) {
+  body {
+    /* Avoid fixed-attachment repaint bugs on iOS Safari */
+    background-attachment: scroll;
+  }
+
+  ::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+  }
+
+  .app-layout {
+    flex-direction: column;
+    overflow: hidden;
+    height: 100vh;
+    padding: 0;
+    gap: 0;
+  }
+
+  /* --- Tab visibility controlled by class on app-layout --- */
+  .tab-recipes .app-main,
+  .tab-recipes .app-right-panel {
+    display: none;
+  }
+
+  .tab-planner .app-sidebar,
+  .tab-planner .app-right-panel {
+    display: none;
+  }
+
+  .tab-shopping .app-sidebar,
+  .tab-shopping .app-main {
+    display: none;
+  }
+
+  /* Active panel fills height above tab bar */
+  .app-sidebar,
+  .app-main,
+  .app-right-panel {
+    width: 100%;
+    height: calc(100vh - 64px);
+    flex-shrink: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  /* Compact panel headers */
+  .panel-header {
+    padding: 14px 16px;
+    gap: 10px;
+  }
+
+  /* Allow header row to wrap on small screens */
+  .panel-header.panel-header-top {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  /* Planner action buttons on mobile */
+  .planner-actions {
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .planner-actions .btn-primary,
+  .planner-actions .btn-secondary {
+    font-size: 0.8rem;
+    padding: 8px 12px;
+  }
+
+  /* Planner grid: reduce padding */
+  .planner-grid {
+    padding: 12px !important;
+    gap: 10px !important;
+  }
+
+  /* Bottom navigation bar */
+  .mobile-bottom-nav {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 64px;
+    background: var(--bg-secondary);
+    border-top: 1px solid var(--border-subtle);
+    box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.08);
+    z-index: 200;
+  }
+
+  .mobile-tab-btn {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    font-size: 0.6rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+    cursor: pointer;
+    padding: 8px 4px;
+    border: none;
+    background: none;
+    font-family: var(--font-sans);
+    transition: color 0.2s ease;
+  }
+
+  .mobile-tab-btn.active {
+    color: var(--accent-primary);
+  }
+
+  /* Modal: bottom sheet on mobile */
+  .modal-overlay {
+    padding: 0 !important;
+    align-items: flex-end !important;
+  }
+
+  .modal-content {
+    max-width: 100% !important;
+    max-height: 92vh !important;
+    border-radius: 24px 24px 0 0 !important;
+  }
+}
+
+/* ======== SMALL MOBILE (max 480px) ======== */
+@media (max-width: 480px) {
+  .panel-header {
+    padding: 12px;
+  }
+
+  .panel-title {
+    font-size: 1.1rem;
   }
 }
