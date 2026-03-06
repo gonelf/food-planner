@@ -125,34 +125,17 @@ export const PlannerProvider = ({ children }) => {
 
     let selectedRecipes = [];
 
-    const getOverlapScore = (recipe, pool) => {
-      if (pool.length === 0) return 0;
-      const poolIngredients = pool.flatMap(r => r.ingredients).join(" ").toLowerCase();
-      let score = 0;
-      recipe.ingredients.forEach(ing => {
-        const words = ing.toLowerCase().replace(/[.,;()]/g, '').split(/\s+/).filter(w => w.length > 3);
-        words.forEach(w => {
-          if (poolIngredients.includes(w)) score += 1;
-        });
-      });
-      return score;
-    };
-
     Object.keys(quotas).forEach(cat => {
       let catRecipes = [...recipesByCategory[cat]];
-      // Random shuffle initially
-      catRecipes.sort(() => Math.random() - 0.5);
+      // Fisher-Yates shuffle for true randomness
+      for (let i = catRecipes.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [catRecipes[i], catRecipes[j]] = [catRecipes[j], catRecipes[i]];
+      }
 
       for (let i = 0; i < quotas[cat]; i++) {
         if (catRecipes.length === 0) break;
-
-        if (selectedRecipes.length === 0) {
-          selectedRecipes.push(catRecipes.pop());
-        } else {
-          // Sort remaining so the highest overlap score is at the end
-          catRecipes.sort((a, b) => getOverlapScore(a, selectedRecipes) - getOverlapScore(b, selectedRecipes));
-          selectedRecipes.push(catRecipes.pop());
-        }
+        selectedRecipes.push(catRecipes.pop());
       }
     });
 
