@@ -52,6 +52,7 @@ const CUT_UNITS = {
   'posta de bacalhau':  { singular: 'posta',  plural: 'postas',  weightPerUnit: 200 },
   'lombo de pescada':   { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
   'filete de pescada':  { singular: 'filete', plural: 'filetes', weightPerUnit: 150 },
+  'tranche de salmão':  { singular: 'tranche', plural: 'tranches', weightPerUnit: 150 },
   'lombo de corvina':   { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
   'lombo de robalo':    { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
   'lombo de dourada':   { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
@@ -157,6 +158,8 @@ const UNIT_PATTERNS = [
   { re: /^latas?\b\s*(?:de\s+)?/i,                 unit: 'lata',           type: 'count' },
   { re: /^frascos?\b\s*(?:de\s+)?/i,               unit: 'frasco',         type: 'count' },
   { re: /^embalagens?\b\s*(?:de\s+)?/i,            unit: 'embalagem',      type: 'count' },
+  { re: /^unidades?\b\s*(?:de\s+)?/i,              unit: 'un',             type: 'count',   factor: 1 },
+  { re: /^unid\.\s*(?:de\s+)?/i,                   unit: 'un',             type: 'count',   factor: 1 },
   { re: /^dentes?\s+de\s+/i,                       unit: 'dente',          type: 'garlic' },
   { re: /^folhas?\b\s*(?:de\s+)?/i,                unit: 'folha',          type: 'count' },
   { re: /^pacotes?\b\s*(?:de\s+)?/i,               unit: 'pacote',         type: 'count' },
@@ -424,8 +427,20 @@ function aggregateItems(items) {
       } else if (!baseA && !baseB) {
         // Both plain counts – just add
         existing.quantity += item.quantity;
+      } else {
+        // Mixed units: for cut-type ingredients, convert counts to grams so they aggregate
+        const cutInfo = CUT_UNITS[key];
+        if (cutInfo) {
+          const gramsA = existing.sumBase
+            ?? (baseA?.baseUnit === 'g' ? baseA.valueInBase : existing.quantity * cutInfo.weightPerUnit);
+          const gramsB = baseB?.baseUnit === 'g'
+            ? baseB.valueInBase
+            : item.quantity * cutInfo.weightPerUnit;
+          existing.sumBase = gramsA + gramsB;
+          existing.sumUnit = 'g';
+        }
+        // Non-cut mixed units – keep first occurrence
       }
-      // Mixed (e.g. one in g, one in count) – keep first occurrence
     }
   }
 
@@ -516,7 +531,7 @@ const INGREDIENT_CATEGORIES = [
 function categoriseIngredient(name) {
   const lower = name.toLowerCase();
   for (const cat of INGREDIENT_CATEGORIES) {
-    if (cat.keywords.some(kw => lower.includes(kw))) {
+    if (cat.keywords.some(kw => new RegExp(`(?<![a-záéíóúâêîôûãõç])${kw}(?![a-záéíóúâêîôûãõç])`, 'i').test(lower))) {
       return cat.id;
     }
   }
