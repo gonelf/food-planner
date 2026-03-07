@@ -1,2390 +1,353 @@
 [
   {
     "id": 1,
-    "title": "Bacalhau à Brás 'Verde' (com Alho Francês e Cenoura)",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela"
-    ],
-    "time": "25 min",
+    "title": "Salmão com molho picante e mel",
     "ingredients": [
-      "400g bacalhau demolhado desfiado (sem espinhas e peles)",
-      "1 alho francês grande (cortado em finas meias-luas)",
-      "2 cenouras raladas num ralador grosso",
-      "6 ovos (para garantir um rácio cremoso de excelência)",
-      "200g batata palha (frita em casa ou de boa qualidade de forno)",
-      "Azeite virgem extra q.b., 3 dentes de alho picados, 1 folha de louro",
-      "Salsa fresca finamente picada e azeitonas pretas (opcional para o fim)"
+      "2 c. de sopa de alho picado",
+      "4 c. de sopa de molho de soja",
+      "4 c. de sopa de mel",
+      "3 c. de sopa de molho teriyaki",
+      "3 c. de sopa de óleo de sésamo",
+      "1 c. de sopa de malagueta seca",
+      "1 unid. de filete de salmão",
+      "1 c. de sopa de sal",
+      "200 g de arroz para sushi",
+      "q.b. de cebolinho",
+      "q.b. de sementes de sésamo"
     ],
-    "instructions": [
-      "Num tacho largo, aqueça um fio generoso de azeite e aromatize com o louro. Refogue o alho picado e o alho francês até este amolecer e 'suar' (cerca de 5 a 7 minutos).",
-      "Adicione a cenoura ralada e o bacalhau desfiado. Deixe cozinhar e apurar sabores por cerca de 5 minutos.",
-      "Retire a folha de louro. Envolva a batata palha suavemente no preparado.",
-      "Bata os ovos ligeiramente numa taça. O grande segredo: desligue o lume ou coloque no mínimo. Verta os ovos e mexa rapidamente a partir do fundo para garantir um creme aveludado sem que os ovos talhem.",
-      "Finalize imediatamente com salsa picada e azeitonas às rodelas."
-    ],
-    "baby_adaptation": "Retire uma porção de alho francês e bacalhau antes de misturar a batata palha de compra (devido ao sal e à fritura). Para o bebé, coza um pouco de batata normal em cubos muito pequenos, ou bata o ovo apenas com o refogado de bacalhau e legumes, garantindo uma textura super húmida. Verifique minuciosamente as espinhas do bacalhau antes de o oferecer ao bebé.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Bacalhau+%C3%A0+Br%C3%A1s"
+    "preparation": [
+      "Numa taça, misture os dentes de alho picados com o molho de soja, o mel, o molho teriyaki, o óleo de sésamo e a malagueta seca. Reserve.",
+      "Coloque o salmão num tabuleiro de forno, seque-o bem e tempere com sal.",
+      "Regue o salmão com metade da mistura e deixe pelo menos 15 minutos a marinar ou uma hora, se tiver tempo.",
+      "Leve ao forno a 180 ºC por 20 minutos.",
+      "Cozinhe o arroz conforme as instruções da embalagem.",
+      "Sirva o salmão com o restante molho picante, o arroz e finalize com cebolinho picado e sementes de sésamo."
+    ]
   },
   {
     "id": 2,
-    "title": "Filetes de Pescada de Forno com Arroz de Ervilhas",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "35 min",
+    "title": "Cachorro de sushi",
     "ingredients": [
-      "4 a 6 filetes de pescada (frescos ou descongelados de qualidade, secos em papel de cozinha)",
-      "1 chávena de arroz carolino (lavado previamente)",
-      "1 chávena de ervilhas congeladas extrafinas",
-      "1 cebola média picada fina, 3 dentes de alho esmagados",
-      "1 colher de sopa de manteiga com sal",
-      "Azeite virgem extra, sumo de meio limão, coentros frescos e um pingo de vinho branco (opcional)"
+      "100 g arroz para sushi",
+      "150 ml água",
+      "1 c. de café sal",
+      "15 ml vinagre de arroz",
+      "7 g açúcar",
+      "1 unid. alga nori",
+      "50 g queijo creme",
+      "2 c. de sopa farinha",
+      "80 ml água",
+      "40 g panko",
+      "1 unid. lombo de salmão",
+      "1 c. de sobremesa azeite",
+      "5 g cebolinho"
     ],
-    "instructions": [
-      "Marine ligeiramente os filetes com limão, azeite, alho laminado e um toque de vinho branco. Leve ao forno a 180 °C num tabuleiro durante cerca de 18 a 20 minutos para não secarem em demasia.",
-      "Num tacho, refogue a cebola em azeite até ficar translúcida. Junte o arroz e 'frite-o' no azeite por 1 minuto para selar os bagos.",
-      "Adicione as ervilhas e 2,5 chávenas de água a ferver (para um aspeto semi-malandrinho) e deixe cozinhar tapado em lume brando por 15 minutos.",
-      "No último minuto do arroz, envolva uma colher de manteiga para glacear. Sirva os filetes por cima do arroz e termine com coentros rasgados."
-    ],
-    "baby_adaptation": "Os filetes desfazem-se facilmente, sendo ideais para a mastigação iniciante. Esmague as ervilhas e aplane-as com um garfo na porção do bebé para evitar risco de engasgo (formato esférico). Não ofereça a porção onde caiu o vinho sem garantir que o molho ferveu bem.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Filetes+de+Pescada+de+Forno+com+Arroz+de+Ervilhas"
+    "preparation": [
+      "Lave o arroz até a água sair quase transparente. Cozinhe o arroz juntamente com o sal e os 150ml de água durante 12 minutos em lume baixo. Transfira o arroz para uma taça e adicione o açúcar e o vinagre, mexa delicadamente para incorporar, sem amassar o arroz. Reserve.",
+      "Com o arroz arrefecido, estenda a alga nori na esteira e espalhe o arroz pela nori. Recheie com queijo creme e feche o rolo de sushi.",
+      "Prepare o polme com a farinha e a água. Passe o rolo de sushi pelo polme e de seguida pelo panko. Frite em óleo até ficar dourado. Reserve.",
+      "Entretanto corte o salmão em cubos e o cebolinho em tiras.",
+      "Tempere o salmão com azeite e braseie com um maçarico.",
+      "Corte o rolo panado a meio e recheie com o salmão braseado e cebolinho. Pode adicionar molho teriyaki ao seu cachorro de sushi para um toque diferente."
+    ]
   },
   {
     "id": 3,
-    "title": "Empadão de Peixe e Espinafres",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Conforto"
-    ],
-    "time": "45 min",
+    "title": "Salmão grelhado com molho de iogurte com curcuma",
     "ingredients": [
-      "500g de lombos de pescada ou bacalhau fresco (sobras de bom peixe)",
-      "1 embalagem de espinafres frescos baby (200g)",
-      "800g de batata (mistura de batata-doce e batata normal para textura)",
-      "2 colheres de sopa de manteiga, cerca de 100 ml de leite quente e 1 gema de ovo",
-      "1 cebola grande, azeite, 1 folha de louro, noz-moscada fresca ralada"
+      "2 unid. (300 g) tranche de salmão",
+      "3 c. de café sal",
+      "q.b. pimenta",
+      "1 c. de sopa azeite virgem extra",
+      "1 emb. (200 g) bimi",
+      "1 unid. (125 g) iogurte natural inteiro probiótico sólido",
+      "1 unid. (150 g) laranja (sumo e raspa)",
+      "1 c. de sopa mostarda",
+      "1 c. de chá curcuma",
+      "30 g espinafre em folha"
     ],
-    "instructions": [
-      "Coza as batatas. Reduza-as a puré e, ainda morno, adicione a manteiga, o leite aquecido, a gema de ovo e a noz-moscada para um creme aveludado.",
-      "Se o peixe estiver cru, coza-o em água aromática (cebola e louro) e desfaça-o em lascas perfeitas (verifique peles e espinhas).",
-      "Refogue a cebola picada fina e o louro num fio de azeite generoso. Adicione os espinafres, mexa até murcharem, e envolva as lascas do peixe. Tempere a gosto.",
-      "Disponha as camadas num tabuleiro: base de puré, cama rica de peixe e cubra com puré. Alise a superfície e pincele levemente com gema de ovo misturada com um pingo de leite.",
-      "Leve ao forno a 200 °C durante 15 a 20 minutos até obter uma crosta irresistivelmente tostada."
-    ],
-    "baby_adaptation": "Refeição perfeitamente segura e de textura amanteigada ideal. Certifique-se de forma exaustiva que o peixe está bem limpo de espinhas e que os espinafres estão bem picados para fios curtos. Retire a porção do bebé antes de adicionar sal ao puré dos adultos.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Empad%C3%A3o+de+Peixe"
+    "preparation": [
+      "Tempere o salmão com duas colheres de café de sal, pimenta e alho.",
+      "Aqueça uma frigideira antiaderente com o azeite e cozinhe o salmão durante 3 minutos de cada lado.",
+      "Deite num tacho um pouco de água e junte os bimis cortados em pedaços. Leve a cozer em lume médio de forma a que fiquem crocantes e verdes, por 10 minutos.",
+      "Para o molho, misture numa taça o iogurte com sumo e raspa de meia laranja, a mostarda, a curcuma, o restante sal e pimenta.",
+      "Corte a restante laranja em fatias.",
+      "Disponha os bimis escorridos numa travessa, assim como os espinafres, as fatias de laranja e o salmão.",
+      "Regue com o molho e mais um pouco de pimenta."
+    ]
   },
   {
     "id": 4,
-    "title": "Salada Fria (ou Morna) de Feijão Frade com Cavala",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "15 min",
+    "title": "Salmão com limão e espargos",
     "ingredients": [
-      "1 frasco grande de feijão frade bem cozido, pele fina (aprox. 400g)",
-      "2 latas ou frascos de filetes de cavala ou carapau em azeite de qualidade",
-      "3 ovos cozidos a temperatura controlada (gemas cremosas)",
-      "1/2 cebola roxa em rodelas finas, 1/2 pimento verde pequeno em picadinho",
-      "Salsa fresca farta, azeite virgem extra perfumado, vinagre de vinho ou de maçã e 1 colher de chá de mostarda Dijon (para emulsionar)"
+      "4 posta (600 g) salmão",
+      "1 unid. limão (raspa e sumo)",
+      "1 c. de chá sal",
+      "q.b. pimenta",
+      "500 g batata para assar",
+      "1 unid. (150 g) cebola",
+      "3 dente alho",
+      "1 c. de chá tomilho",
+      "2 c. de sopa azeite virgem extra",
+      "3 c. de sopa vinho branco",
+      "500 g espargos verdes",
+      "q.b. coentros"
     ],
-    "instructions": [
-      "Passe o feijão frade generosamente por água corrente para eliminar a gosma ou sais residuais e escorra muito bem.",
-      "Escorra o excesso de óleo ou azeite das conservas. Lasque o peixe deixando os pedaços mais ou menos intactos.",
-      "Pique a cebola roxa e o pimento, e corte os ovos em cubos regulares.",
-      "Numa taça (ou molheira à parte), prepare um vinagrete robusto misturando o azeite, o vinagre e a mostarda Dijon; bata bem à vara de arames.",
-      "Monte a salada envolvendo suavemente todos os ingredientes secos, regue com a vinagreta e finalize com muita salsa picada por toda a travessa."
-    ],
-    "baby_adaptation": "Omita o tempero ácido da porção do bebé. Lavar o feijão frade ajuda na digestibilidade. Esmague os frades ativamente (aplane-os com o garfo). Omita a cebola crua e o pimento da porção do bebé.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Salada+de+Feij%C3%A3o+Frade+com+Atum+ou+Cavala"
+    "preparation": [
+      "Pré-aqueça o forno a 180 ºC, na função ventilada.",
+      "Tempere o salmão com a raspa e sumo de meio limão, metade do sal, o alho em pó e pimenta a gosto. Reserve.",
+      "Lave as batatas e corte-as ao meio ou em quartos, conforme o tamanho. Descasque a cebola e os dentes de alho, corte a cebola em meias-luas e pique os dentes de alho.",
+      "Num tabuleiro de forno, misture a cebola, os alhos e as batatas com o tomilho e o restante sal.",
+      "Regue com o azeite e com o vinho branco e leve ao forno a assar durante 20 minutos.",
+      "Entretanto lave os espargos, elimine as bases fibrosas e corte-os ao meio.",
+      "Disponha os espargos e as postas de salmão no tabuleiro entre as batatas, regue com a marinada e leve ao forno durante mais 20 minutos.",
+      "Na altura de servir, salpique com coentros e decore com o restante limão cortado em rodelas."
+    ]
   },
   {
     "id": 5,
-    "title": "Arroz Malandrinho de Pota",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Conforto"
-    ],
-    "time": "40 min",
+    "title": "Crepe de espinafres com salmão",
     "ingredients": [
-      "600g de tentáculos ou tiras de pota (previamente limpos)",
-      "1,5 chávenas de arroz carolino autêntico (não agulha!)",
-      "1 tomate maduro carnudo aos cubos e 2 colheres de sopa de polpa de tomate rústica",
-      "1/2 pimento vermelho em cubos minúsculos",
-      "1 cebola média, 2 dentes de alho, azeite farto, um cálice de vinho branco, coentros com raiz"
+      "2 unid. (300 g) lombo de salmão",
+      "1 c. de sobremesa sal",
+      "q.b. pimenta",
+      "1 c. de sobremesa paprika",
+      "q.b. orégão",
+      "q.b. alecrim seco",
+      "3 c. de sopa azeite virgem extra",
+      "1 unid. (200 g) queijo cottage",
+      "1 emb. (150 g) agrião",
+      "150 g tomate-cereja",
+      "150 g couve-roxa",
+      "1 unid. ovo M",
+      "120 g aveia instantânea",
+      "230 ml leite meio-gordo",
+      "50 g espinafres em folha",
+      "1 c. de café sal",
+      "q.b. pimenta"
     ],
-    "instructions": [
-      "Faça um belo refogado com azeite, cebola, alhos picados e as raízes fininhas dos coentros (onde mora o sabor!).",
-      "Adicione o tomate e o pimento e, quando estiverem a formar um creme, refresque com o vinho branco e deixe evaporar o álcool.",
-      "Junte a pota cortada em pequenos dados. Deixe 'suar' e cozinhar tapado em lume muito brando por 10 minutos.",
-      "Meça a água fervente: num verdadeiro malandrinho, queremos cerca de 4,5 a 5 partes de água para 1 de arroz.",
-      "Coza o arroz destapado por cerca de 14 a 15 minutos. Pare enquanto o bago tem resistência — ele continuará a cozer fora do lume. Sirva com abundantes coentros para o aroma final."
-    ],
-    "baby_adaptation": "Para combater a firmeza elástica da pota, faça uma picagem fina da carne na porção do bebé. O caldo fará o resto ao ajudar na deglutição. Evite as raízes dos coentros no prato da criança.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Arroz+de+Pota"
+    "preparation": [
+      "Tempere os lombos de salmão com sal, pimenta, alho em pó, paprika, orégãos e alecrim. Regue com uma colher de sopa de azeite e esfregue bem. Leve à air fryer por 15 minutos a 190 ºC.",
+      "Enquanto isso, prepare a massa de crepe. Coloque todos os ingredientes num liquidificador e triture até obter uma massa homogénea e líquida.",
+      "Unte uma frigideira de crepes com o azeite, quando estiver quente, deite nela uma concha de massa e espalhe bem. Quando aparecerem bolhas na superfície da massa vire e deixe cozinhar por mais meio minuto. Repita este processo até terminar a massa.",
+      "Para o recheio espalhe em metade de cada crepe um pouco de queijo cottage e por cima disponha o agrião, a couve-roxa, o tomate e o salmão fatiado."
+    ]
   },
   {
     "id": 6,
-    "title": "Hambúrgueres de Atum e Aveia no Forno",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Express"
-    ],
-    "time": "25 min",
+    "title": "Espetadas de salmão com molho agridoce",
     "ingredients": [
-      "3 latas de atum ao natural (em água)",
-      "1 chávena de flocos de aveia finos",
-      "2 ovos M",
-      "1 cenoura pequena ralada finamente",
-      "Salsa picada, um fio de sumo de limão, 1 colher de chá rasa de paprika (doce ou fumada)",
-      "Acompanhamento: arroz solto ou legumes cozidos a vapor"
+      "2 c. de sopa de molho agridoce",
+      "2 c. de sopa de azeite",
+      "1 c. de sopa de gengibre picado",
+      "1 unid. de lima (sumo e raspa)",
+      "600 g de lombo de salmão",
+      "150 g de alho-francês laminado",
+      "q.b. de coentros",
+      "q.b. de pimenta"
     ],
-    "instructions": [
-      "O segredo está na humidade: escorra bem o atum retirando parte da água, mas sem desidratar totalmente, para manter o hambúrguer esponjoso.",
-      "Numa taça funda, misture o atum, a aveia, a cenoura finamente ralada, os ovos previamente batidos, o sumo de limão e a paprika.",
-      "Amasse vigorosamente com a mão até aglutinar bem a massa. Molde discos no tamanho desejado.",
-      "Coloque num tabuleiro de forno forrado a papel vegetal pincelado com um fio de azeite.",
-      "Asse a 190 °C durante 15 a 20 minutos, virando gentilmente a meio do processo para tostar de ambos os lados e manter o interior fofo."
-    ],
-    "baby_adaptation": "O atum em água tem menos sódio, sendo mais adequado para BLW (recomenda-se lavá-lo bem por um passador para retirar a salmoura do fabricante). O formato de disco espesso é excelente — corte um pedaço alongado para facilitar o agarre.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Hamb%C3%BArgueres+de+Atum"
+    "preparation": [
+      "Numa taça, misture o molho agridoce, o azeite, o gengibre e o sumo de lima.",
+      "Pincele os lombos de salmão com esta mistura e coloque-os num espeto largo. Grelhe durante cerca de 3 minutos de cada lado.",
+      "Sirva as espetadas com o alho-francês e polvilhe com a raspa de lima e os coentros. Tempere a gosto com pimenta."
+    ]
   },
   {
     "id": 7,
-    "title": "Pescada Cozida 'Com Todos' Colorida",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Conforto"
-    ],
-    "time": "30 min",
+    "title": "Salmão com molho de agrião",
     "ingredients": [
-      "3-4 lombos altos de pescada do Chile ou lombo de bacalhau fresco",
-      "4 a 5 batatas médias lisas para cozer (olho-de-perdiz, por exemplo)",
-      "3 cenouras grandes cortadas a rigor",
-      "1/2 couve-penca ou lombarda em pedaços grosseiros, ou agriões",
-      "2 ovos (para os adultos, a cozer junto)",
-      "Azeite virgem extra aromático, vinagre de vinho tinto à moda antiga (para o molho)"
+      "600 g de lombo de salmão",
+      "1 c. de sopa de gengibre ralado",
+      "q.b. de pimenta",
+      "1 c. de sopa de azeite virgem extra",
+      "150 g de agrião",
+      "1 dente de alho",
+      "1 unid. de limão",
+      "120 g de ameixa",
+      "150 g de pepino",
+      "100 g de tremoço",
+      "50 g de cebola roxa",
+      "1 c. de sopa de hortelã fresca",
+      "1 c. de sopa de manjericão fresco",
+      "1 c. de sopa de azeite virgem extra",
+      "1 c. de sopa de vinagre"
     ],
-    "instructions": [
-      "Recomenda-se uma cozedura escalonada! Num tacho largo com água a ferver temperada, descasque e lance primeiro as cenouras grandes.",
-      "Dez minutos depois, junte as batatas e os ovos com casca lavada. Passados 5 minutos, adicione a couve ripada.",
-      "Finalmente, quando tudo estiver praticamente no ponto (uns 8 minutos para o fim), encoste as postas de peixe sobre os legumes.",
-      "Desligue quando a pescada estiver lascada mas suculenta, e escorra para a grande travessa de servir da família. Regue generosamente com azeite virgem extra à mesa."
-    ],
-    "baby_adaptation": "A couve-penca tem fibras compridas que dificultam a deglutição — ofereça, por isso, a carne da posta de pescada em lasca suculenta e as cenouras no formato de meia-lua comprida para BLW. Regue com um fio fino de azeite virgem cru.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Pescada+Cozida"
+    "preparation": [
+      "Tempere o lombo de salmão com gengibre e pimenta.",
+      "Aqueça o azeite numa frigideira antiaderente e cozinhe o salmão durante 2 minutos de cada lado. Retire e reserve.",
+      "Para o molho, coloque num liquidificador todos os ingredientes e triture até obter um molho consistente. Reserve no frio até servir.",
+      "Para a salada, corte as ameixas em gomos e o pepino em cubos. Ponha numa taça.",
+      "Retire a casca aos tremoços e adicione à salada.",
+      "Junte a cebola, a hortelã e o manjericão picados. Tempere com o azeite e o vinagre e envolva. Sirva o salmão regado com o molho e polvilhado com pimenta. Acompanhe com a salada."
+    ]
   },
   {
     "id": 8,
-    "title": "Bifes de Atum Fresco de Cebolada",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "20 min",
+    "title": "Salmão cremoso com tomate e espinafres",
     "ingredients": [
-      "2-3 bifes de atum fresco e vermelho (lombo limpo)",
-      "2 cebolas brancas grandes em meias-luas finas",
-      "3 colheres de sopa de polpa de tomate concentrada e um dente de alho",
-      "1 folha de louro pequena e um toque de vinagre ou vinho branco",
-      "Azeite virgem, acompanhado de um majestoso puré de batata rico"
+      "600 g de lombo de salmão",
+      "1 c. de sopa de alho picado congelado",
+      "2 c. de chá de sal",
+      "q.b. de mix de pimentas",
+      "2 c. de sopa de azeite",
+      "150 g de tomate-cereja",
+      "200 ml de natas sem lactose",
+      "170 g de espinafres"
     ],
-    "instructions": [
-      "Um atum ressecado é o maior pecado da cozinha. Vamos estufar longamente as cebolas, mas ser cirúrgicos com o atum.",
-      "Numa boa frigideira, aqueça o azeite, desfaça o alho com o louro e lance toda a montanha de cebolas para um refogado calmo.",
-      "Quando as cebolas estiverem moles, acrescente o tomate e o vinagre ou vinho e deixe estufar mais 10 minutos, produzindo uma cebolada brilhante e caramelizada.",
-      "Afaste a cebolada para as laterais. No centro da frigideira bem quente, marque o bife de atum estritamente 1 a 1,5 minutos de cada lado — deve ficar rosado por dentro."
-    ],
-    "baby_adaptation": "O atum mal passado (rosado por dentro) é estritamente proibido para bebés do ponto de vista pediátrico e alergológico. Pegue numa parte lateral mais pequena só para o bebé e deixe-a cozinhar bem embebida no fundo de tomate da cebolada.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Atum+de+Cebolada"
+    "preparation": [
+      "Tempere os tranches com alho, metade do sal e pimenta. Aqueça o azeite numa frigideira e cozinhe o salmão durante 2 minutos de cada lado. Retire e reserve.",
+      "Adicione à mesma frigideira o tomate cereja, deixe cozinhar por mais alguns minutos e adicione as natas e em seguida, aos poucos os espinafres e por fim o restante sal.",
+      "Volte a colocar os tranches de salmão e deixe apurar por mais 4 minutos."
+    ]
   },
   {
     "id": 9,
-    "title": "Açorda Leve de Pescada e Ovo",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "20 min",
+    "title": "Salmão com espargos e batata-doce",
     "ingredients": [
-      "3 tranches ou medalhões de bacalhau fresco ou pescada da posta",
-      "3 pães saloios com miolo fofo endurecido do dia anterior",
-      "4 dentes de alho vigorosos e um ramo farto de coentros (usar os talos também)",
-      "3 a 4 ovos caseiros ou de campo",
-      "Uma dose valente do seu melhor azeite"
+      "600 g de batata-doce laranja",
+      "160 g de espargos",
+      "2 unid. de lombo de salmão",
+      "2 unid. de limão",
+      "2 c. de sopa de azeite",
+      "1 c. de chá de ervas aromáticas",
+      "1 c. de sobremesa de sal"
     ],
-    "instructions": [
-      "O rei disto é o pão e o caldo: coza gentilmente a pescada 7 minutos apenas com um pouco de cebola e alho. Guarde 100% desta valiosa água em reserva quente.",
-      "No tacho, aqueça meio copo de azeite com o alho picado grosseiramente e os talos de coentros para largar os aromas no azeite.",
-      "Esmague o pão rústico em pedaços na panela e comece a ensopar com o caldo de peixe em fio, mexendo para formar as migas cremosas.",
-      "Desfie o peixe branco em lascas e mergulhe os ovos escalfados mesmo no seio macio da panela (destapado fica perfeito). Tape no final e aguarde 5 minutos.",
-      "Finalize com abundantes folhas de coentros antes de pousar o prato quente na mesa."
-    ],
-    "baby_adaptation": "Gemas escalfadas semi-líquidas são deliciosas, mas vetadas a menores de 2 anos! Retire a dose do bebé e garanta cozedura térmica completa do ovo até à total firmeza da gema. Reduza os coentros na porção da criança.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=A%C3%A7orda+de+Pescada"
+    "preparation": [
+      "Num prato, tempere os lombos de salmão com sal e limão.",
+      "Tempere a batata-doce às rodelas com azeite a gosto e sal. Leve a batata à Air Fryer a 185 ºC durante 7 minutos e deixe cozinhar.",
+      "Acrescente o salmão e os espargos à Air Fryer e cozinhe por mais 8 minutos.",
+      "Numa trituradora, triture algumas ervas aromáticas e pincele por cima do salmão."
+    ]
   },
   {
     "id": 10,
-    "title": "Massada de Maruca",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Conforto"
-    ],
-    "time": "35 min",
+    "title": "Salmão com legumes e massa",
     "ingredients": [
-      "500g postas de maruca ou garoupa",
-      "2 chávenas de massa grossa de trigo duro (tipo cotovelos grandes ou búzios)",
-      "1 cebola média, 2 dentes de alho maduros, azeite q.b.",
-      "1/2 pimento verde, 2 tomates rubros maduros ralados (ou 4 colheres de sopa de polpa de tomate)",
-      "Um raminho de hortelã e um cálice de vinho branco"
+      "150 g de lombo de salmão limpo",
+      "1 c. de chá de sal",
+      "q.b. de pimenta",
+      "1 c. de chá de caril em pó",
+      "1 dente de alho",
+      "¼ unid. de malagueta piripíri",
+      "1 c. de sopa de vinagre de sidra",
+      "1 c. de sopa de azeite",
+      "70 g de alho-francês em rodelas",
+      "70 g de cenoura em palitos ou meias rodelas",
+      "100 g de polpa de tomate com cebola e alho",
+      "200 g de sobras de massa cozida (penne, fusilli, tagliatelli)",
+      "½ unid. de lima (sumo)",
+      "2 c. de sopa de aneto picado"
     ],
-    "instructions": [
-      "Pique a cebola finamente. Num tacho de fundo espesso, crie uma base pastosa com azeite, cebola, o tomate ralado e o pimento suado. Refresque com o vinho branco.",
-      "Coloque as postas com os ossos cartilaginosos no molho, tapadas, durante 10 minutos (assim o peixe transmite o colagénio da espinha ao caldo). Retire o peixe, desfie-o bem e descarte as espinhas.",
-      "Acrescente água a ferver ao caldo, rectifique os temperos e mergulhe a massa para cozer. Cumpra o tempo indicado na embalagem para al dente.",
-      "Nos últimos 2 minutos, junte as folhas grossas de hortelã e o peixe desfiado, deixando apenas que absorvam os molhos quentes."
-    ],
-    "baby_adaptation": "Excelente prato para os mais pequenos. Os cotovelos grandes, recheados de umami do tomate e do peixe, são perfeitos para a pontinha dos dedos e de fácil mastigação para gengivas.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Massada+de+Maruca"
+    "preparation": [
+      "Tempere o salmão com metade do sal e pimenta e polvilhe de ambos os lados com o caril. Junte o alho espremido, a malagueta cortada em rodelas e o vinagre de sidra e deixe marinar.",
+      "Aqueça o azeite numa frigideira larga antiaderente e aloure o salmão de todos os lados, em lume forte. Reduza o lume e cozinhe por mais 1 ou 2 minutos, até começar a abrir lasca. Retire e reserve.",
+      "Adicione o alho-francês e a cenoura à frigideira e salteie, mexendo frequentemente, até o alho-francês amolecer.",
+      "Junte a polpa de tomate, misture e ferva em lume brando. Adicione o tomate e salteie por mais 1 ou 2 minutos, mexendo ocasionalmente.",
+      "Por fim, junte a massa cozida e o salmão em lascas, envolvendo delicadamente com os legumes. Regue com o sumo da lima e salpique com o aneto."
+    ]
   },
   {
     "id": 11,
-    "title": "Peixe de Assadeira em Cama de Batata, Cebola e Pimento",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "45 min",
+    "title": "Salmão grelhado com especiarias",
     "ingredients": [
-      "3 postas altas de peixe branco (bacalhau fresco, pescada, corvina)",
-      "4 batatas cortadas em rodelas grossas e uniformes",
-      "2 cebolas em meias-luas carnudas, 1 pimento vermelho em tiras",
-      "2 tomates maduros em rodelas generosas",
-      "Azeite virgem extra generoso, 1 colher de chá de massa de pimentão, 3 dentes de alho"
+      "1 c. de chá de cominhos em pó",
+      "q.b. de pimenta",
+      "1 c. de chá de paprika",
+      "3 c. de chá de sal",
+      "200 g (2 unid.) de limão (raspa e sumo)",
+      "600 g (4 unid.) de tranche de salmão",
+      "2 c. de sopa de azeite virgem extra",
+      "200 g de cuscuz",
+      "1 emb. (400 g) de legumes grelhados congelados",
+      "200 g de iogurte grego",
+      "q.b. de hortelã fresca"
     ],
-    "instructions": [
-      "Numa assadeira, esfregue o fundo com azeite e alho picado.",
-      "Disponha primeiro as cebolas, o pimento, as batatas e cubra com o tomate por cima.",
-      "Dilua a massa de pimentão doce num pingo de água quente e azeite e barre as postas de peixe. Coloque o peixe sobre a cama de legumes.",
-      "Tape o tabuleiro completamente com folha de alumínio para os primeiros 30 minutos (forno a 190 °C), transformando-o num vaporizador caseiro. Retire o papel nos derradeiros 15 minutos para tostar."
-    ],
-    "baby_adaptation": "O encerramento no alumínio garante a total maciez das fibras do peixe branco para as gengivas do bebé. Retire a sua porção e esmague o tomate puro. Omita a massa de pimentão da zona onde estava o seu lombo, dado o elevado teor de sal das massas de compra.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Peixe+no+Forno"
+    "preparation": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Misture numa taça a colher de sobremesa de alho em pó, os cominhos, pimenta, a paprika, uma colher de chá de sal e raspa de um limão.",
+      "Esfregue as tranches de salmão com a mistura anterior. Regue com metade do azeite e leve ao forno por 15 minutos.",
+      "Cozinhe o cuscuz com uma colher de chá de sal e os legumes, seguindo as indicações das embalagens.",
+      "Para o molho de iogurte, misture numa taça o iogurte com o sumo e a raspa do restante limão e os restantes alho em pó e sal, e hortelã picada (reserve alguma para decorar).",
+      "Sirva o salmão sobre o cuscuz e acompanhe com os legumes. Regue com o molho de iogurte e polvilhe com a restante hortelã."
+    ]
   },
   {
     "id": 12,
-    "title": "Salada Quente de Grão e Salmão Assado",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "20 min",
+    "title": "Tártaro de salmão e pepino",
     "ingredients": [
-      "2 a 3 postas de salmão ricas",
-      "1 frasco grande de grão-de-bico biológico cozido e bem lavado",
-      "150g de agriões frescos ou espinafres de folha pequena",
-      "1/2 cebola roxa marinada em vinagre e azeite, ou 1 punhado de azeitonas (para os adultos)",
-      "Azeite virgem frutado, sumo de limão fresco, pimenta preta moída"
+      "3 unid. lombo de salmão fresco",
+      "2 unid. chalota",
+      "2 c. de sopa cebolinho fresco",
+      "2 c. de sopa coentros frescos picados",
+      "1 unid. limão (sumo)",
+      "2 unid. lima (sumo)",
+      "1 c. de chá flor de sal",
+      "1 c. de chá pimenta rosa em grão",
+      "300 g pepino",
+      "300 g pêssego",
+      "250 g quinoa + arroz integral"
     ],
-    "instructions": [
-      "Tempere o salmão com limão. Asse numa fritadeira a ar ou forno a 180 °C durante 12 a 15 minutos até a pele começar a estalar.",
-      "Numa taça funda, aqueça o grão de bico limpo no azeite quente durante 1 minuto, com os agriões crus (apenas para murchar subtilmente e perfumar).",
-      "Lasque a carne amanteigada do salmão por cima e regue a travessa com sumo de limão."
-    ],
-    "baby_adaptation": "Esmague bem todo o grão do bebé — textura de papa grosseira — até não restarem esferas inteiras. Lasque um lombo macio e livre de espinhas da parte mais central do peixe. Excelente fonte de gorduras boas para o neurodesenvolvimento.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Salada+Quente+Salm%C3%A3o"
+    "preparation": [
+      "Corte os lombos de salmão em cubos médios e coloque-os numa taça.",
+      "Adicione as chalotas descascadas e picadas, o cebolinho e os coentros picados.",
+      "Tempere com os sumos de limão e de lima, com a flor de sal e a pimenta-rosa. Leve ao frio por 20 minutos.",
+      "Retire do frio. Junte o pepino e os pêssegos cortados em cubos.",
+      "Sirva o tártaro em copos sobre uma camada de quinoa e arroz previamente cozidos."
+    ]
   },
   {
     "id": 13,
-    "title": "Sopa Rica do Mar (Caldo Grosso)",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Conforto"
-    ],
-    "time": "40 min",
+    "title": "Salmão no forno com legumes",
     "ingredients": [
-      "Cabeças de peixe ou osso suculento de pescada ou corvina fresca, mais 2 lombos",
-      "A base dos purés: 2 batatas-doces grandes, 2 cenouras, 1 cebola",
-      "Uma chávena de arroz agulha bem firme (para acabar)",
-      "Azeite, montes de coentros com o pé incluído"
+      "600 g de lombo de salmão",
+      "1 c. de sopa de alho picado congelado",
+      "q.b. de sal",
+      "q.b. de mix de pimentas",
+      "1 unid. de laranja (sumo e raspa)",
+      "2 c. de sopa de azeite",
+      "2 c. de sopa de cebolinho picado",
+      "200 g de legumes ao vapor congelados"
     ],
-    "instructions": [
-      "O segredo está no fumet: ferva as cabeças agressivamente durante 15 minutos e passe pelo coador de malha fina, ficando apenas com um caldo divinal (sem risco de qualquer espinha!).",
-      "Noutra panela, sue a cebola e os restantes legumes. Preencha com o fumet puro, coza os lombos 8 minutos num canto e depois retire-os limpos de pele e espinhas.",
-      "Triture os legumes no caldo até obter um puré-creme liso. Em lume brando, deite o arroz agulha cru e coza durante 12 minutos. Para o majestoso final, incorpore o peixe limpo desfiado."
-    ],
-    "baby_adaptation": "Estas sopas lusas ultra-completas evitam qualquer segundo prato pesado no jantar, pois são a própria energia completa da refeição. A textura de papa macia do arroz afogado no caldo é muito tolerada pelos mais esquisitos.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Sopa+do+Mar"
+    "preparation": [
+      "Numa folha de prata ou papel vegetal, coloque o tranche de salmão e um pouco da mistura dos legumes. Tempere tudo com sal, pimenta, alho, a raspa e o sumo de laranja, regue com azeite e polvilhe com cebolinho.",
+      "Embrulhe tudo no papel e leve ao forno pré aquecido a 190 ºC por cerca de 15 minutos."
+    ]
   },
   {
     "id": 14,
-    "title": "Pataniscas de Pescada no Forno com Arroz de Tomate",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Express"
-    ],
-    "time": "30 min",
+    "title": "Salmão grelhado com manga e lima",
     "ingredients": [
-      "300g de pescada bem seca, esfarelada ou em sobras",
-      "4 colheres de sopa fartas de farinha de trigo (ou de aveia)",
-      "2 ovos biológicos, 3/4 de chávena de água com gás bem fria (o truque para ficarem leves e estaladiças!)",
-      "1 cebola e 1 alho ralados até escorrer sumo (crucial para o aroma de patanisca original), muita salsa",
-      "1 chávena de arroz branco perfumado a molho de tomates de cacho assados"
+      "1 unid. filete de salmão",
+      "q.b. sal",
+      "1 unid. limão (sumo)",
+      "1 unid. manga",
+      "½ unid. cebola roxa",
+      "¼ unid. pimento vermelho",
+      "q.b. azeite",
+      "1 unid. lima (sumo)",
+      "q.b. coentros",
+      "q.b. salsa"
     ],
-    "instructions": [
-      "Prepare a massa: bata a farinha com os ovos líquidos e afrouixe com a água com gás fria até obter um polme como natas lisas. Incorpore a cebola escorrida, a salsa e o peixe esfarelado.",
-      "Pincele com azeite uma chapa antiaderente ou uma forma rasa e estenda colheradas finas sem as tocar.",
-      "Leve ao forno a 200 °C durante 10 minutos ou asse na frigideira quente. Sirva sobre o arroz de tomate molhado nos caldos da sopa."
-    ],
-    "baby_adaptation": "Sem imersão em óleo, mas com toda a delícia da patanisca nacional — elástica, fácil de agarrar pelos dedinhos escorregadios, com proteína escondida e sem choro.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Pataniscas"
+    "preparation": [
+      "Tempere o salmão com sal a gosto, o sumo de limão e o alho em pó. Deixe marinar cerca de 15 minutos.",
+      "Numa taça, coloque a manga descascada e cortada em cubinhos, a cebola roxa picada finamente, o pimento vermelho em cubos pequenos e regue tudo com um fio de azeite. Junte o sumo de lima, coentros picados a gosto e misture muito bem. Reserve por 10 minutos.",
+      "Grelhe o salmão num grelhador elétrico ou a carvão e quando estiver no ponto sirva-o coberto com a mistura de manga. Polvilhe com salsa a gosto."
+    ]
   },
   {
     "id": 15,
-    "title": "Patê de Sardinha Caseiro com Puré de Grão",
-    "category": "Peixe e Conservas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "10 min",
-    "ingredients": [
-      "2 latas de sardinhas em tomate ou em azeite de qualidade",
-      "4 colheres de sopa de grão-de-bico cozido e escorrido (ou meio abacate tenro como substituto vegetal)",
-      "Raspa fina de meio limão (sem chegar à parte branca) e 1 fio de mostarda Dijon (para adultos)"
-    ],
-    "instructions": [
-      "Escorra o excesso de líquido ou óleo da sardinha, mas não descarte tudo. Desfaça ativamente os filetes abertos, retirando a espinha central com cuidado.",
-      "Triture ou esmague o grão ou o abacate com um garfo ou esmagador de purés, com um toque de mostarda Dijon, até obter um creme sedoso sem necessidade de adicionar queijos gordos.",
-      "Finalize coroando com a raspa perfumada de limão."
-    ],
-    "baby_adaptation": "Não ofereça palitos crus de cenoura inteiros a bebés — representam risco de asfixia. Ofereça tiras grossas do patê, ricas nos ómega-3 que as sardinhas escondem e que são fundamentais para o desenvolvimento cerebral infantil.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Pat%C3%A9+Sardinha"
-  },
-  {
-    "id": 16,
-    "title": "Noodles de Wok com Lulas e Legumes",
-    "category": "Peixe e Conservas",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "15 min",
-    "ingredients": [
-      "1 pacote de noodles (tipo soba ou udon, ou esparguete se necessário)",
-      "400g de argolas pequenas de lula bem limpas",
-      "1 cenoura firme em juliana fina e 1 couve bok-choi ou pak-choi farta",
-      "Gengibre fresco ralado, fio de óleo de sésamo tostado (para adultos)"
-    ],
-    "instructions": [
-      "Mergulhe os noodles durante 3 minutos em água a ferver abundante, depois escorra e reserve.",
-      "O wok tem de estar em lume forte! Entre o gengibre ralado 20 segundos. Junte as lulas e salteie durante 3 minutos vivos — se passarem deste tempo, ficam rijas.",
-      "Adicione os vegetais para que não amoleçam em demasia no wok. Misture com a massa escorrida e sirva de imediato."
-    ],
-    "baby_adaptation": "Corte ou pique finamente as lulas na porção do bebé e retire-a antes de adicionar o molho de soja ao wok — o sódio é excessivo para os rins infantis.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Lulas"
-  },
-  {
-    "id": 17,
-    "title": "Salmão Glaceado de Citrinos com Arroz de Jasmim",
-    "category": "Peixe e Conservas",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "Postas altas de salmão de qualidade",
-      "Sumo de 1 laranja doce",
-      "1 botão pequeno de gengibre fresco ralado (para os adultos)",
-      "1 medida de arroz perfumado de jasmim e 1 colher de chá de mel (opcional para dourar)"
-    ],
-    "instructions": [
-      "Prepare o glacé asiático: numa taça, misture o sumo de laranja, a raspa da casca, 1 dente de alho em pó e um fio de mel. Marine o salmão nesta mistura e leve ao forno numa assadeira a 190 °C durante cerca de 10 minutos, até o glacé borbulhar e prender na superfície.",
-      "Para o arroz de jasmim sedoso, coza numa panela tapada com proporção de 1 medida de arroz para 1,5 de água, em lume brando durante 12 minutos. Depois de apagar o lume, deixe repousar tapado 5 minutos."
-    ],
-    "baby_adaptation": "O cítrico suave sem picante combina muito bem com a proteína de alta qualidade do salmão. O arroz de jasmim, pela sua textura pegajosa quando cozido, reduz o risco de engasgo — as bolas compactas que forma sozinho são fáceis de manusear pelos mastigadores inexperientes.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Salm%C3%A3o+Forno"
-  },
-  {
-    "id": 18,
-    "title": "Arroz Frito de Pescada e Ervilhas (Fried Rice)",
-    "category": "Peixe e Conservas",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "15 min",
-    "ingredients": [
-      "2 chávenas fartas de arroz vaporizado seco e frio de véspera (guardado no frigorífico)",
-      "2 ovos",
-      "Sobras de pescada branca, já sem pele, desmanchadas em lascas",
-      "Ervilhas congeladas extrafinas",
-      "Fio de óleo de sésamo"
-    ],
-    "instructions": [
-      "Técnica do chef: coloque a panela em lume fortíssimo. Entre com uma colher pequena de óleo até começar a fumegar. Junte os ovos crus e mexa vigorosamente durante 20 segundos, criando fragmentos ou nuvens amarelas soltas (não deixe secar como omelete).",
-      "Junte o arroz frio do frigorífico e separe os grumos. Deixe fritar 2 minutos, incorporando o peixe em lascas e as ervilhas ainda congeladas.",
-      "Acrescente um fio fino de óleo de sésamo na porção adulta, junto com um toque de molho de soja, e sirva de imediato."
-    ],
-    "baby_adaptation": "O ovo picado envolve os hidratos de carbono do arroz, permitindo que os mais pequenos agarrem e comam com facilidade. Riscos de espinhas nulos com sobras de pescada bem verificadas. Não acrescente molho de soja na porção do bebé.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Arroz+Frito"
-  },
-  {
-    "id": 19,
-    "title": "\"Sushi Bowl\" Falso de Salmão e Abacate",
-    "category": "Peixe e Conservas",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "Arroz de grão curto tipo calrose ou sushi, cozido e morno",
-      "Dados pequenos de salmão fresco (para adultos pode ser usado cru; para bebés, cozinhe a vapor 4 minutos em recipiente hermético)",
-      "Lascas de abacate maduro. Sementes de sésamo tostadas para os adultos."
-    ],
-    "instructions": [
-      "Num prato plano, estenda o arroz morno em camada leve. Tempere a versão adulta com um fio de molho de soja e arrume os gomos de abacate e as lascas de salmão em harmonia.",
-      "Coloque o salmão no centro do prato, que deve fundir ligeiramente com o calor do arroz."
-    ],
-    "baby_adaptation": "Nunca ofereça peixe cru a crianças com menos de 4 a 5 anos de idade! É obrigatório cozer o salmão em papelote hermético ou a vapor, mantendo-o rosado por dentro mas termicamente seguro. As cores apelativas do prato estimulam a curiosidade alimentar da criança.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Sushi+Bowl"
-  },
-  {
-    "id": 20,
-    "title": "Caril Amarelo Suave de Maruca com Leite de Coco",
-    "category": "Peixe e Conservas",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Uma Panela"
-    ],
-    "time": "30 min",
-    "ingredients": [
-      "500g de maruca ou cação em postas limpas, sem pele nem sangue",
-      "1 lata de leite de coco de qualidade (mínimo 80% coco)",
-      "1 colher de chá bem cheia de cúrcuma (açafrão-das-índias) em pó, 1 lima espremida e coentros frescos rasgados",
-      "1 cebola média em rodelas, azeite q.b."
-    ],
-    "instructions": [
-      "A poção de ouro: aqueça o azeite, sue a cebola e deite a cúrcuma moída em pó — este especia activa os seus óleos essenciais e liberta o sabor intenso em contacto com a gordura quente.",
-      "Verta o leite de coco e deixe ferver suavemente durante alguns minutos, criando um molho aromático.",
-      "Reduza o lume e mergulhe o peixe cru no molho, deixando-o pochar tapado durante 8 a 10 minutos. Finalize com o sumo de lima a cortar a riqueza do coco."
-    ],
-    "baby_adaptation": "Uma preparação milenar na tradição culinária oriental, agora na mesa da criança! Não pica — a cúrcuma é apenas perfumosa e anti-inflamatória. Como não leva leite de vaca, é também mais suave para a digestão infantil. Perfeita pela maciez de deglutição para as primeiras dentições.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Caril"
-  },
-  {
-    "id": 21,
-    "title": "Tikka Masala Rápido com Brócolos",
-    "category": "Peixe e Conservas",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Uma Panela",
-      "Amigo do Congelador"
-    ],
-    "time": "35 min",
-    "ingredients": [
-      "400g de peixe branco firme cortado em cubos (tamboril ou maruca)",
-      "Base masala rápida: 150 ml de polpa de tomate rústica + 1 iogurte grego natural (à temperatura ambiente)",
-      "1 colher de chá de Garam Masala e 1/2 colher de chá de cominhos em pó",
-      "Brócolos cortados em floretes pequenos, alho e gengibre fresco ralado"
-    ],
-    "instructions": [
-      "Numa panela, salteie o alho e o gengibre ralado com as especiarias até libertarem os seus óleos essenciais (1 minuto).",
-      "Junte a polpa de tomate e deixe apurar até escurecer ligeiramente. Adicione os brócolos e o peixe, cobrindo com o molho e uma gota de água quente. Tape durante 10 minutos.",
-      "O truque para não talhar o iogurte: desligue o lume completamente. Junte duas colheres do molho quente ao iogurte frio numa taça para igualar as temperaturas, e só depois verta o iogurte para o tacho. O molho ficará de um rosa sedoso digno de chef."
-    ],
-    "baby_adaptation": "As especiarias limpas (sem picante) são fantásticas para a diversificação do palato! A cremosidade deste molho rosa, doce e ácido, é excelente para disfarçar legumes como os brócolos. Super macio de engolir!",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Tikka+Masala"
-  },
-  {
-    "id": 22,
-    "title": "Dhal de Lentilhas Laranjas com Atum (Papa do Médio Oriente)",
-    "category": "Peixe e Conservas",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Conforto",
-      "Amigo do Congelador"
-    ],
-    "time": "30 min",
-    "ingredients": [
-      "2 chávenas de lentilhas vermelhas ou laranjas",
-      "2 latas de atum ao natural firme",
-      "Óleo de coco (ou azeite), sementes de mostarda, alho e gengibre fresco laminado",
-      "Cúrcuma (açafrão-das-índias) e coentros frescos picados"
-    ],
-    "instructions": [
-      "Elevar a lentilha requer bases aromáticas: num tacho, faça estalar as sementes de mostarda e o gengibre no óleo de coco quente. Junte a cúrcuma.",
-      "Verta as lentilhas com o dobro do seu peso em água ou caldo vegetal. Ferva suavemente 15 a 20 minutos. Sem casca visível, elas vão explodir num puré macio e dourado denso.",
-      "No final, envolva os suculentos flocos de atum (sem água) e muitos coentros."
-    ],
-    "baby_adaptation": "As lentilhas laranjas são um segredo da nutrição — riquíssimas em ferro e sem a pele rija que causa gases. Esta é a papa caseira perfeita, repleta de proteínas, para as gengivas pequenas.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Dhal+Lentilhas"
-  },
-  {
-    "id": 23,
-    "title": "Koftas (Almôndegas/Kebab) de Salmão com Molho de Hortelã",
-    "category": "Peixe e Conservas",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Uma Panela",
-      "Express"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "400g de salmão fresco (sem espinhas nem pele), picado à faca bem fininho",
-      "Miolo de pão esfarelado (ou panko), 1 gema de ovo",
-      "Raspa de limão, cominhos e salsa",
-      "Molho adulto: iogurte grego, pepino ralado e escorrido, hortelã fresca picada"
-    ],
-    "instructions": [
-      "Dica: pique o peixe à faca para preservar a textura, em vez de o triturar até pasta! Numa taça fria, una intimamente o salmão com o pão, a raspa fina de limão, o ovo e os cominhos.",
-      "Molde com as mãos rolos ao estilo kebab (cerca de 8 cm). Coloque no frio durante 15 minutos para firmarem.",
-      "Asse num tabuleiro forrado e levemente untado no forno a 200 °C durante 10 a 12 minutos (não mais, o salmão seca rapidamente)."
-    ],
-    "baby_adaptation": "A forma alongada destas koftas é excelente para a mão da criança morder sem perder. Não afogue a porção da criança no molho frio de hortelã, para evitar o choque térmico com a carne quente.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Koftas"
-  },
-  {
-    "id": 24,
-    "title": "Orzotto de Tomate e Atum (Risotto Rápido de Massa)",
-    "category": "Peixe e Conservas",
-    "origin": "Mediterrânica Geral",
-    "dynamics": [
-      "Uma Panela"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "1 chávena cheia de massa orzo (pevide grossa)",
-      "1 cebola refogada muito finamente, 1/2 courgette ou beringela em cubos pequenos",
-      "2 latas de atum em posta gorda",
-      "Caldo quente vegetal, 2 colheres de sopa de polpa de tomate",
-      "1 colherada de mascarpone ou natas gordas, queijo parmesão ralado"
-    ],
-    "instructions": [
-      "Trate a massa como um nobre risotto: frite ligeiramente o orzo na base de azeite e cebola quente durante 2 minutos, a rolar no tacho.",
-      "Vá juntando o líquido fervente pouco a pouco: adicione o tomate e conchas de caldo. A meio, introduza a courgette.",
-      "A absorção total demora apenas 14 minutos em ebulição calma. Apague o lume! Envolva o mascarpone ou as natas e o atum, deixando que este se desfaça pelo calor retido no tacho.",
-      "Coroe cada prato com parmesão ralado na hora."
-    ],
-    "baby_adaptation": "As massinhas orzo escorregam pela garganta sem requerer mastigações difíceis. Uma textura luxuosa, húmida e calórica.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Orzotto"
-  },
-  {
-    "id": 25,
-    "title": "Paella Rasa Rápida de Peixe Branco",
-    "category": "Peixe e Conservas",
-    "origin": "Mediterrânica Geral",
-    "dynamics": [
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "35 min",
-    "ingredients": [
-      "1,5 chávenas de arroz médio e carolino para paelha",
-      "Tiras coloridas de pimentos assados e descascados",
-      "Caldo sublime de marisco ou de peixe caseiro",
-      "Fios de açafrão em pistilos (ou colorau para substituto), azeite, postas de peixe limpo"
-    ],
-    "instructions": [
-      "Uma paella real precisa de largura: use a sua maior e mais achatada frigideira que vá ao forno ou fique no fogão. Faça a base com azeite, pimentos suados e o arroz.",
-      "Regra vitalícia do chef espanhol: quando colocar o caldo aromático sobre o arroz, NUNCA mais mexa a colher no tacho! Deixe a fervura cozer devagar durante 18 minutos até formar o 'socarrat' — o estaladiço do fundo.",
-      "A 5 minutos do fim, disponha as lascas ricas do peixe escolhido por cima, abafando rapidamente se a água secar. Sirva quente diretamente da chapa."
-    ],
-    "baby_adaptation": "O arroz seco e tostado da paella pode precisar de uma ou duas colheres de caldo quente misturadas na taça do bebé, para evitar o engasgo com os bagos mais granulosos. O peixe, por não ser mexido, mantém-se inteiro e fácil de identificar no prato.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Paella"
-  },
-  {
-    "id": 26,
-    "title": "Meia Desfeita de Grão Rica com Ovo Cozido e Pimentão",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "15 min",
-    "ingredients": [
-      "1 frasco grande de grão-de-bico biológico cozido (400g)",
-      "4 ovos L",
-      "1/2 cebola roxa finamente picada, 1 dente de alho esmagado",
-      "1 colher de café de pimentão doce fumado (paprika)",
-      "Salsa fresca farta picada na hora, azeite virgem extra perfumado, vinagre de maçã ou de vinho"
-    ],
-    "instructions": [
-      "Coza os ovos à precisão: 9 minutos para uma gema firme mas elástica. Descasque sob água fria e lasque grosseiramente.",
-      "Aqueça uma sertã ao rubro apenas com um fio de azeite e deite o grão escorrido, o alho e o pimentão fumado. Salteie em fogo vivo durante 3 minutos curtos para criar uma capa tostada e umami.",
-      "Retire para a travessa, lance a cebola, os ovos, um fio de azeite do galheteiro, um jacto de vinagre e salsa em manto. Envolva respeitando o ovo."
-    ],
-    "baby_adaptation": "A meia desfeita do bebé exige garfo! Esmague o grão ativamente até virar um puré com textura. Omita da taça da criança a acidez do vinagre cru e a cebola crua.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Meia+Desfeita+Gr%C3%A3o"
-  },
-  {
-    "id": 27,
-    "title": "Ervilhas Estufadas com Ovos Escalfados e Fumados",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "400g de ervilhas extrafinas congeladas",
-      "4 ovos grandes com gema laranja",
-      "1 cebola e 2 dentes de alho picados",
-      "Pimentão doce fumado espanhol (para emular os fumos rústicos do chouriço ausente)",
-      "2 colheres de polpa de tomate em pedaços maduros, coentros ou hortelã"
-    ],
-    "instructions": [
-      "Num tacho raso de paredes altas, estute a cebola e o alho suavemente num fundo de azeite temperado com o pimentão fumado (que fingirá carnes presuntas nesta refeição verde).",
-      "Adicione o tomate e de seguida as ervilhas ainda congeladas. Verta apenas meia chávena de caldo quente (para não empoçar), tape e deixe o vapor atuar durante 10 minutos.",
-      "Abra pequenas concavidades delicadas no tapete de ervilhas e parta um ovo inteiro em cada uma. Tape o tacho com paciência sem mexer, deixando o calor médio pochar os ovos na humidade doce das ervilhas (5 a 8 minutos). Finalize com coentros frescos."
-    ],
-    "baby_adaptation": "Cuidado com o ovo escalfado para bebés! O ovo do bebé deve cozer bem — 10 a 12 minutos — sem centro pastoso, para eliminar qualquer risco de salmonella. Esmague as ervilhas para evitar o engasgo com as esferas inteiras.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Ervilhas+com+Ovos"
-  },
-  {
-    "id": 28,
-    "title": "Feijoada Rápida Umami de Cogumelos e Couve",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Conforto",
-      "Amigo do Congelador"
-    ],
-    "time": "35 min",
-    "ingredients": [
-      "1 frasco ou lata XL de feijão vermelho robusto",
-      "300g de mistura de cogumelos (brancos e portobello) em fatias largas",
-      "1 folha de louro, 1 colher de sobremesa de molho de soja escuro (segredo umami)",
-      "2 cenouras em meias-luas finas, folha de repolho ou couve tenra",
-      "Alho picado, cominhos moídos, azeite"
-    ],
-    "instructions": [
-      "Esta feijoada sem enchidos ganha o seu peso nos cogumelos. Num tacho quente: azeite, alho e louro! Deixe dourar bem o cogumelo até minguar as suas águas, deglace com o molho de soja e os cominhos.",
-      "Introduza a cenoura, a couve rasgada pelas mãos e o feijão com um pouco do líquido da lata para ajudar a ligar o molho. Cubra com caldo ou água quente.",
-      "Reduza para lume médio e deixe tudo espessar durante um longo murmúrio de 20 minutos."
-    ],
-    "baby_adaptation": "O feijão vermelho rústico deve ser partido para BLW. Retire a porção do bebé antes de adicionar o molho de soja ao cogumelo. O cogumelo bem cozido passa perfeitamente como carne tenra ao morder das gengivas.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Feijoada+Vegetariana"
-  },
-  {
-    "id": 29,
-    "title": "Rancho Vegetariano Profundo com Grão e Macarronete",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Conforto",
-      "Amigo do Congelador"
-    ],
-    "time": "35 min",
-    "ingredients": [
-      "1 lata de grão-de-bico cozido",
-      "1,5 chávenas de macarronete ou massa pevide grande/cotovelo raiado",
-      "A base clássica: 1 cebola roxa, 3 dentes de alho, azeite bom",
-      "1 malga de couve galega ou lombarda fina em tiras, sem os talos mais grossos",
-      "Tomate picado, pimentão doce, caldo vegetal forte"
-    ],
-    "instructions": [
-      "Para a profundidade rústica do campo: refogue demorado o azeite, a cebola e o alho e espolete uma colher de pimentão. Verta o tomate cru até virar compota e adicione a couve.",
-      "Encha a panela fartamente com 1 litro de água com caldo vegetal. Quando levantarem grandes borbulhas (uns 10 minutos), deposite a massa crua dentro.",
-      "Deixe cozer a massa durante 10 minutos. Só 2 minutos antes do final junte o grão cozido, apenas para que absorva superficialmente o sabor do molho denso.",
-      "Este prato termina com bastante molho caldoso — nunca enxuto."
-    ],
-    "baby_adaptation": "O macarronete comprido é ouro de exploração ao tacto para os mais pequenos. Se a criança tiver apenas 10 meses, esmague bem o grão antes de servir.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Rancho"
-  },
-  {
-    "id": 30,
-    "title": "Omelete Alta de Forno com Espinafres Escondidos",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela",
-      "Express"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "6 ovos grandes (tamanho XL)",
-      "1 embalagem generosa de espinafres frescos ou folhas de acelga",
-      "1 queijo fresco macio do dia ou ricotta densa (+/- 200g)",
-      "1 fio de nata magra ou leite gordo, orégãos secos, azeite"
-    ],
-    "instructions": [
-      "Passo essencial da frittata que salva omeletes escorridas: numa frigideira sem gordura, sue os espinafres crus durante 1 minuto com uma pitada de sal até cederem de tamanho e largarem a água. Escorra essa água.",
-      "Bata levemente os ovos com um pingo de leite ou natas. Desfaça o queijo fresco ou a ricotta em pedaços pelas mãos e polvilhe com orégãos secos.",
-      "Misture os espinafres bem escorridos e secos no banho de ovo.",
-      "Deite numa travessa média forrada e untada com azeite. Leve ao forno a 180 °C até a superfície estufar e tostar ligeiramente (15 a 18 minutos)."
-    ],
-    "baby_adaptation": "Um fabuloso bolo macio de proteína e cálcio, sem qualquer frito em óleo. Um quadradinho perfeito cabe exatamente na medida da pinça dos dedos do bebé e enche o aporte nutricional sem necessidade de mastigação dentária.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Omelete+de+Forno"
-  },
-  {
-    "id": 31,
-    "title": "Lentilhas Castanhas Estufadas com Abóbora Caramelizada",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Conforto"
-    ],
-    "time": "40 min",
-    "ingredients": [
-      "1,5 chávenas de lentilhas castanhas pequenas (secas, bem lavadas)",
-      "300g de abóbora manteiga em cubos regulares pequenos",
-      "1 alho francês picado, 1 cenoura picada fina, 1 dente de alho",
-      "1/2 colher de chá de cominhos em pó, louro, azeite",
-      "Um fio de natas vegetais ou creme de aveia e salsa picada"
-    ],
-    "instructions": [
-      "O segredo do chef: numa panela, salteie vigorosamente a abóbora no azeite com os cominhos até as bordas caramelizarem ligeiramente. Retire e reserve.",
-      "Na mesma panela, adicione o alho francês, a cenoura e o louro, estufando no fundo aromático.",
-      "Junte as lentilhas e três vezes o seu volume em água ou caldo vegetal quente. Ferva durante 20 minutos.",
-      "Devolva a abóbora à panela nos últimos 10 minutos para que não se desfaça totalmente, mantendo a textura. Finalize com um fio de natas e a salsa."
-    ],
-    "baby_adaptation": "Uma papa rústica e adocicada. A abóbora desfaz-se suavemente, mas a lentilha castanha aguenta o suficiente para a criança praticar a mastigação macia. Rico em ferro vegetal.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Lentilhas+com+Ab%C3%B3bora"
-  },
-  {
-    "id": 32,
-    "title": "Salada Quente de Feijão Frade, Brócolos a Vapor e Ovo",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "15 min",
-    "ingredients": [
-      "1 frasco de feijão frade bem lavado (400g)",
-      "1 cabeça de brócolos cortada em floretes bem definidos",
-      "3 ovos cozidos a 9 minutos, picados em gomos",
-      "1 punhado de amêndoas torradas laminadas (para os adultos)",
-      "Molho: azeite farto, alho cru esmagado, vinagre e pitada de sal grosso"
-    ],
-    "instructions": [
-      "Cozedura à chef: não mergulhe os brócolos em água a ferver! Coza-os a vapor durante 5 minutos até ficarem num verde elétrico vibrante e com textura 'al dente'.",
-      "Numa taça farta, junte os brócolos quentes ao feijão frade à temperatura ambiente (o contraste é excelente) e adicione o ovo cozido.",
-      "Regue a travessa dos adultos com o vinagrete robusto e coroe com as amêndoas para o elemento crocante."
-    ],
-    "baby_adaptation": "Retire a porção da criança antes de juntar as amêndoas (risco elevado de engasgo). Os brócolos em flor a vapor agarram-se impecavelmente na mão do bebé, e a textura macia das flores desfaz-se na gengiva.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Salada+Br%C3%B3colos"
-  },
-  {
-    "id": 33,
-    "title": "Empadão Profundo de Lentilhas e Cogumelos",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Conforto"
-    ],
-    "time": "45 min",
-    "ingredients": [
-      "1 chávena de lentilhas castanhas cozidas (ou frasco bem lavado)",
-      "300g de cogumelos portobello ou cremini picados na picadora, ao estilo de carne picada",
-      "2 colheres de sopa de molho de soja, 1 colher de sopa de polpa de tomate concentrada",
-      "Cebola picada, cenoura ralada fina e salsa",
-      "Base de puré: batatas cozidas batidas com manteiga, leite quente e noz-moscada",
-      "Opcional: queijo curado ralado no topo para gratinar"
-    ],
-    "instructions": [
-      "No puré, o leite quente é crucial para a sedosidade (nunca use leite gelado do frigorífico).",
-      "No tacho largo, sue a cebola e a cenoura fina. Junte os cogumelos picados e o molho de soja. A caramelização do cogumelo escuro vai mimetizar carnes estufadas.",
-      "Acrescente o tomate, a salsa e as lentilhas. Deixe o líquido evaporar para um recheio coeso.",
-      "Monte em camadas de puré-recheio-puré, cubra com queijo curado e doure no forno a 200 °C."
-    ],
-    "baby_adaptation": "Autêntica nutrição infantil: textura idêntica à da carne, mas sem esforço renal! Evite colocar o molho de soja na totalidade se a dose for exclusivamente para o bebé.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Empad%C3%A3o+de+Lentilhas"
-  },
-  {
-    "id": 34,
-    "title": "Brás Falso (Cremoso) de Alho Francês e Grão",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "2 a 3 alhos franceses (só a parte branca e verde clara) em meias-luas finíssimas",
-      "1 frasco padrão de grão-de-bico biológico, passado à forquilha (semi-puré)",
-      "6 ovos (rácio cremoso não negociável)",
-      "1 dente de alho picado, azeite generoso",
-      "Salsa farta, uma poeira fina de pimenta preta (adultos) e azeitonas"
-    ],
-    "instructions": [
-      "Na frigideira funda, murche o alho francês no azeite com o alho, em lume lento, uns belos 8 minutos, para atingir o máximo de doçura e volume rendido.",
-      "Incorpore a pasta rústica do grão, envolva até reaquecer bem (2 minutos).",
-      "Baixe o lume para o mínimo. Bata os ovos levemente. Desligue a base! Verta os ovos rapidamente e mexa com a colher de pau a partir do fundo (absorvendo apenas a humidade, nunca a secura de omelete).",
-      "Finalize de imediato com coentros ou salsa na travessa."
-    ],
-    "baby_adaptation": "Uma textura tipo 'baba-de-camelo' quente que escorrega! A macieza e densidade deste prato é ideal para os dias em que recusam alimentos inteiros. As azeitonas apenas após os dois anos.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Br%C3%A1s+Vegetariano"
-  },
-  {
-    "id": 35,
-    "title": "Arroz de Feijão Malandrinho com Pataniscas Veganas Estaladiças",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Conforto",
-      "Amigo do Congelador"
-    ],
-    "time": "45 min",
-    "ingredients": [
-      "1 lata média de feijão vermelho ou manteiga, 1,5 chávenas de arroz carolino",
-      "Repolho fresco em pedaços fofinhos, 1 folha de louro, vinagre de vinho",
-      "Patanisca leve: 1 chávena de farinha de grão, água com gás bem fria, salsa farta e meia cebola ralada (sem ovos)"
-    ],
-    "instructions": [
-      "O malandrinho: refogue a cebola, o alho, o louro e 1 colher de tomate. Verta o feijão com alguma da sua calda. Junte 4 partes de líquido para 1 de arroz. Ferva 7 minutos com o repolho. Deposite o arroz e ferva por 15 minutos, apagando ainda ligeiramente encruado. Um pingo de vinagre no arroz liga as gomas de forma brilhante.",
-      "Para os fritos vegan: bata a farinha de grão com água com gás bem gelada. Junte o puré de cebola bem espremida e a salsa. Numa chapa larga untada com azeite, crie discos finíssimos e salteie em calor forte até tostar as bordas."
-    ],
-    "baby_adaptation": "O amido do arroz envolvido no feijão caldoso evita qualquer engasgo com o bago. As pataniscas fofas veganas desfazem-se lindamente com os dedinhos pegajosos do bebé.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Arroz+Feij%C3%A3o"
-  },
-  {
-    "id": 36,
-    "title": "Açorda Alentejana Farta com Coentros",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "15 min",
-    "ingredients": [
-      "3 boas fatias de pão alentejano rijo de dois dias",
-      "4 dentes de alho vigorosos, 1 grande punhado de coentros frescos",
-      "4 ovos XL e flor de sal",
-      "1 dl de azeite virgem extra de topo de gama (a base de tudo)"
-    ],
-    "instructions": [
-      "Ferva 1,5 litros de água numa panela funda.",
-      "Num almofariz ou copo, pise sem perdão os alhos com o sal grosso, os caules de coentros e um fio de azeite até produzir uma pasta verde crua espantosa. O chef não refoga este azeite!",
-      "Escalfe os ovos em água sem ferver vigorosamente, apenas em brando, por 3 minutos (gema fofa).",
-      "Na terrina funda, disponha o pão, verta a pasta verde e regue com a água quente em que escalfou os ovos. Coloque os ovos no centro. Mexa para envolver o miolo no azeite."
-    ],
-    "baby_adaptation": "Para bebés, não ofereça o ovo escalfado — coza-o rijo na casca durante 10 minutos. O pão amolecido da açorda, cheiroso a coentros, serve de papa suave e digestiva para a refeição da noite.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=A%C3%A7orda+Alentejana"
-  },
-  {
-    "id": 37,
-    "title": "Tofu à Portuguesa na Frigideira com Broa",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "400g de bloco de tofu firme",
-      "Marinada chef: sumo de 1/2 limão, pimentão doce fumado (colorau), 1 dente de alho com casca, 1 colher de chá de vinho branco",
-      "Meia broa de milho amarela esfarelada em migalhas pelas mãos",
-      "Louro e azeite"
-    ],
-    "instructions": [
-      "Expulse a água: pressione o bloco de tofu entre panos limpos com algum peso durante alguns minutos. Corte em dados perfeitos.",
-      "Aqueça um fio de azeite na frigideira com o dente de alho com casca e o louro. Coloque os cubos de tofu e sacuda a frigideira sob lume forte.",
-      "Polvilhe tudo com o pimentão e o vinho branco, que vai caramelizar levemente no fundo. Toste de 4 lados.",
-      "Retire o tofu e, na gordura que ficou na frigideira, doure a broa de milho esfarelada. Corone o tofu com as migalhas tostadas à mesa."
-    ],
-    "baby_adaptation": "Uma obra-prima proteica. A textura do tofu firme actua como um bife macio nas pequenas mandíbulas: limpo e liso no paladar, sem a resistência fibrosa da carne.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Tofu"
-  },
-  {
-    "id": 38,
-    "title": "Creme de Ervilhas Sedoso com Ovo Mimosa",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador"
-    ],
-    "time": "30 min",
-    "ingredients": [
-      "600g de ervilhas doces congeladas",
-      "1 batata pequena tipo agulha, 1 courgette, 1 alho francês picado (parte branca)",
-      "2 ovos cozidos, um fio de natas frescas, hortelã"
-    ],
-    "instructions": [
-      "Sue a base do alho francês na gordura — este passo é crítico para o creme. Adicione a courgette, a batata e as ervilhas.",
-      "Ferva em pouca água ou caldo, apenas até ao nível dos vegetais. Triture intensivamente num liquidificador potente durante 3 minutos.",
-      "A exigência do chef para aveludar a sopa: passe o creme verde obtido pelo crivo (passador de chinês) para reter as películas das ervilhas. Fica com uma textura de seda.",
-      "Adorne no prato dos adultos o ovo cozido picado (tipo mimosa) e um raminho de hortelã quente."
-    ],
-    "baby_adaptation": "Este filtro cremoso elimina para os mais pequenos as películas finas que os incomodam, garantindo um manjar adocicado, repleto das vantagens do verde, com a proteína sólida da gema do ovo a decorar o topo.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Creme+Ervilhas"
-  },
-  {
-    "id": 39,
-    "title": "Fusilli Gratinado e Camuflado de Legumes",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela",
-      "Conforto"
-    ],
-    "time": "40 min",
-    "ingredients": [
-      "300g de massa fusilli estriado ou penne rugoso",
-      "Molho camuflagem: 1 courgette cortada, 1 cenoura, 1 fatia de abóbora amarela batida muito fina",
-      "1 embalagem de natas vegetais espessas (soja ou aveia), uma pitada generosa de noz-moscada",
-      "Queijo emmental ralado grosso (ou curado) e pão panko tostado"
-    ],
-    "instructions": [
-      "No tacho, coza a massa al dente — uns 3 minutos antes do tempo do pacote — para não inchar demasiado no forno.",
-      "No copo triturador ou panela, coza brevemente e triture os legumes laranja nas natas com a noz-moscada até obter um creme liso.",
-      "Misture o creme espesso e suave com a massa escorrida (a massa submerge inteira).",
-      "Verta para um pirex fundo, cubra com emmental generoso e uma poeira fina de panko. Leve ao forno a 200 °C durante 12 minutos até gratinar."
-    ],
-    "baby_adaptation": "Uma artimanha pediátrica: legumes rechaçados encontram o seu fim nestes fios densos de vitaminas camufladas sob massa atrativa. Húmida por dentro, permite uma mastigação gentil para a fase das massas.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Massa+Gratinada"
-  },
-  {
-    "id": 40,
-    "title": "Sopa da Pedra de Feijão, Couve-Galega e Azeite Puro",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador"
-    ],
-    "time": "35 min",
-    "ingredients": [
-      "Fundo: feijão manteiga triturado até molho esbranquiçado (passe uma lata com 1 batata pequena ou nabo, com a varinha mágica e caldo)",
-      "Feijões carnudos inteiros reservados para morder",
-      "Couve galega fresca cortada em tiras finas ao estilo de caldo verde",
-      "1 colher de chá de pimentão fumado e um bom fio de azeite lagareiro"
-    ],
-    "instructions": [
-      "Prepare este prato de sustento: em panela alta, aqueça a base pastosa de feijão triturado, sem ossos nem aparas animais. Dê alma com uma colher de pimentão doce fumado espanhol, que evoca o sabor da linguiça sem a usar.",
-      "Deposite as tiras verdes de couve e deixe ferver em lume médio durante 18 a 22 minutos. Junte os grãos de feijão inteiros apenas nos últimos minutos para que não percam a cor.",
-      "Antes de servir, verta um fio generoso de azeite fino no topo da sopa."
-    ],
-    "baby_adaptation": "Sem enchidos gordos que sobrecarregam o fígado precoce, esta é uma das ceias mais puras de fibra e nutrição para bebés em transição alimentar. A espessura fantástica do feijão é muito apreciada pelos mais pequenos.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Sopa+de+Feij%C3%A3o"
-  },
-  {
-    "id": 41,
-    "title": "Salteado de Tofu Firme e Brócolos com Sésamo",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "1 bloco de tofu firme (prensado e cortado em cubos)",
-      "Brócolos pequenos cortados em floretes",
-      "Um dente de alho e uma lasca de gengibre fresco picados",
-      "Sumo de limão, 1 colher de chá de óleo de sésamo tostado e 2 colheres de sopa de molho de soja (para adultos)"
-    ],
-    "instructions": [
-      "Aqueça o wok fortemente. Seque bem o tofu com papel de cozinha e salteie no óleo de sésamo até formar uma crosta dourada. Reserve.",
-      "No mesmo wok, junte o alho e o gengibre (só uns segundos). Atire os brócolos e salpique com sumo de limão e colheres de água para criar vapor súbito sem fritar em demasia (3 minutos).",
-      "Devolva o tofu ao wok. Os adultos podem regar com um pouco de molho de soja e sementes de sésamo num final efusivo."
-    ],
-    "baby_adaptation": "Evite os molhos de ostras e soja para não sobrecarregar os rins do bebé com sódio. O óleo de sésamo simples é riquíssimo em ómega-3, e o sumo cítrico caramelizado tornará as arvorezinhas dos brócolos muito apelativas.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Tofu+Br%C3%B3colos"
-  },
-  {
-    "id": 42,
-    "title": "Noodles Udon com Cogumelos Shiitake e Couve Pak-Choi",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "15 min",
-    "ingredients": [
-      "Massa udon asiática fresca de vácuo (2 pacotes macios)",
-      "1 courgette em fitas grossas de descascador e folhas de pak-choi",
-      "200g de cogumelos shiitake frescos fatiados",
-      "2 talos de cebolinho fresco picado, 1 colher de sopa de mirin ou vinho do Porto branco leve"
-    ],
-    "instructions": [
-      "Salteado no wok em lume forte! Refogue os shiitakes intensamente até perderem a água, deglaçando com o mirin.",
-      "Adicione as fitas de courgette e a massa udon espessa, deixando a massa absorver o caldo terroso dos cogumelos.",
-      "Apenas no minuto final junte a pak-choi tenra — ela deve murchar ligeiramente, guardando a crocância viva no caule verde."
-    ],
-    "baby_adaptation": "As espessas minhocas udon são uma ferramenta genial para praticar a preensão motora grossa. Corte-as num tamanho gerível com uma tesoura, para que os mais pequenos as apanhem diretamente do prato.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Udon+Cogumelos"
-  },
-  {
-    "id": 43,
-    "title": "Fried Rice de Legumes e Tofu Grelhado com Ovo",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "15 min",
-    "ingredients": [
-      "2 a 3 chávenas de arroz basmati solto (previamente cozido e guardado no frio de véspera para perder humidade)",
-      "1 chávena de ervilhas extrafinas e 1 cenoura ralada no crivo grosso",
-      "2 a 3 ovos M bem batidos",
-      "Tofu firme lascado em pequenos pedaços dourados, óleo de sésamo"
-    ],
-    "instructions": [
-      "Ordem do chef: wok quente, ovos para dentro, mexendo freneticamente durante 20 segundos. Retire para uma taça.",
-      "Adicione as ervilhas, a cenoura e os blocos de tofu no wok a chiar, seguido da montanha de arroz frio. O calor seco desfaz os grumos.",
-      "Salteie vigorosamente, atirando a mistura pelos ares no wok. Reincorpore o ovo e regue com um fio do aromático óleo de sésamo cru na travessa."
-    ],
-    "baby_adaptation": "Como o ovo envolve o cereal e o tofu neutro, a criança sorve tudo como se fosse apenas arroz branco. Não salgue a porção do bebé com molho de soja.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Fried+Rice"
-  },
-  {
-    "id": 44,
-    "title": "Caril Japonês Rápido de Grão de Bico",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Uma Panela"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "2 batatas médias, 2 cenouras tenras, meia cebola",
-      "1 tablete de caril japonês (tipo Katsu-curry, não ardente)",
-      "1 frasco de grão-de-bico biológico (bem escorrido e escaldado)"
-    ],
-    "instructions": [
-      "A cozinha japonesa não refoga especiarias a seco — faz caldos puros: salteie primeiro a cebola devagar até ficar doce e translúcida.",
-      "Acrescente a batata e a cenoura em pequenos dados e cubra com água. Ferva as raízes até ficarem bem macias.",
-      "Retire a panela do lume. Dilua gradualmente o tablete de caril japonês no caldo quente (vai espessar imediatamente o caldo num molho castanho liso e brilhante).",
-      "Integre os grãos de bico na poção e volte ao lume brando apenas 2 minutos."
-    ],
-    "baby_adaptation": "Estes tabletes têm base de maçã e mel (típico nipónico), gerando um tempero levemente adocicado e muito reconfortante. Esmague completamente os grãos na porção da criança. O molho é suave e reconfortante.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Caril+Japon%C3%AAs"
-  },
-  {
-    "id": 45,
-    "title": "Dhal Clássico de Lentilhas Amarelas",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Conforto",
-      "Amigo do Congelador"
-    ],
-    "time": "30 min",
-    "ingredients": [
-      "1,5 chávenas de lentilhas amarelas divididas (Moong Dhal)",
-      "A infusão (tarka): 1 colher de sopa de manteiga clarificada (ghee), 1 colher de chá de cominhos em semente e sementes de mostarda",
-      "1 tomate maduro em pedaços polpudos ou tomate de lata natural, 1 dente de alho picado",
-      "Coentros fartos e 1 colher rasa de cúrcuma (açafrão-das-índias)"
-    ],
-    "instructions": [
-      "Coza as lentilhas num tacho grande aberto com um pouco de cúrcuma e água quente — o triplo do volume do grão. Ferva durante 18 minutos até explodirem num amarelo-doce brilhante, como papa de milho.",
-      "No final reside a alma indiana — fazemos a 'tarka': numa sertã pequena, coloque a ghee bem quente com as sementes, que vão estalar, e o alho finíssimo.",
-      "Verta este ouro reluzente e estridulante dentro do tacho de papa de lentilhas. Junte as folhas de coentros no remate final, tapado, para uma infusão sublime."
-    ],
-    "baby_adaptation": "A rainha absoluta proteica e digestiva sem laticínios da tradição indiana. Papa fina, macia, que não causa gases como as películas dos feijões vermelhos. A ghee reconforta. Oferece-se sempre!",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Dhal+Lentilhas"
-  },
-  {
-    "id": 46,
-    "title": "Caril Creme de Grão e Espinafres Espessos",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Uma Panela"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "1 lata de leite de coco inteiro cremoso (80-90% coco)",
-      "1 colher de sopa de especiarias Garam Masala doces",
-      "2 frascos de grão-de-bico (400g x2)",
-      "Folhas frescas de espinafre (engolidas na cor e no sabor do grão)",
-      "1 dente de alho, azeite ou óleo de coco, polpa tenra de um tomate maduro"
-    ],
-    "instructions": [
-      "Frite os aromas! Num fio de azeite, a pó de Garam Masala e o dente de alho num sustento vivo. Junte a polpa de tomate e deixe apurar.",
-      "Verta o leite de coco e deixe as especiarias soltarem os seus aromas no tacho.",
-      "Adicione o grão e ferva durante 10 minutos. Antes de apagar, junte todo o saco de espinafres com as costas de uma colher — eles reduzem a um quinto do volume perante os seus olhos."
-    ],
-    "baby_adaptation": "Como o espinafre ferve e cria fios compridos, recomenda-se cortar as folhas cruas previamente antes de as deitar a ferver, para a porção do bebé. A textura do grão escuro e doce do coco é uma festa formadora para a motricidade fina à mesa.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Caril+Gr%C3%A3o"
-  },
-  {
-    "id": 47,
-    "title": "Falafel Falso de Forno com Molho Iogurte Suave",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Uma Panela",
-      "Express"
-    ],
-    "time": "30 min",
-    "ingredients": [
-      "1 frasco de grão-de-bico biológico sem sal, 1 cebola suada em azeite",
-      "1 colher de chá de cominhos maduros, um toque rústico de coentros frescos",
-      "2 colheres de farinha de aveia ou trigo para absorver a humidade e prender o recheio",
-      "1 iogurte natural grego sem açúcar adicionado"
-    ],
-    "instructions": [
-      "Sem usar trituradoras: pulse apenas uns segundos a leguminosa na picadora até obter uma massa coesa e granulosa, mas não uma pasta. Prove o tempero.",
-      "Com a farinha, molde esferas tenras levemente aplanadas com a palma da mão oleada e disponha-as num papel sulfurizado. Leve ao forno bem quente durante 20 minutos.",
-      "Sirva frio ou quentinho no sublime contraste com o mergulho no molho de iogurte fresco."
-    ],
-    "baby_adaptation": "Um falafel que fugiu das frituras das lojinhas de kebab, mas manteve toda a maciez. Sem a crosta frita cimentada, desfaz-se lindamente nas pontas da língua nos mergulhos frescos e ácidos do iogurte grego.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Falafel"
-  },
-  {
-    "id": 48,
-    "title": "Shakshuka de Ovos em 'Cama de Tomate Rústico'",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Uma Panela",
-      "Express"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "1 lata grande de tomate pelado inteiro",
-      "Pimentos vermelhos macios em tiras e meia cebola para a cama",
-      "Cúrcuma, alho, uma nota de poejo ou salsa e cominhos em pó",
-      "4 ovos grandes de aviário livre"
-    ],
-    "instructions": [
-      "Base de mestre: numa frigideira ampla que vá à mesa, salteie os cominhos e o alho. O pimento e o tomate suam até evaporar as águas, virando uma base pastosa e encorpada.",
-      "Com uma colher de pau, rasgue pequenos ninhos nas entranhas vermelhas e deposite ali dentro, com amor e cuidado, um ovo por cada ninho.",
-      "A tampa hermética ou folha de alumínio nos mágicos 5 minutos finais deixará a clara cozer a abafo, enquanto a gema fica fluida — a correr pelo prato ao primeiro garfo."
-    ],
-    "baby_adaptation": "Atenção às bactérias nocivas na gema crua em menores! Assegure a solidificação total da gema, ou cozinhe o ovo do bebé num prato paralelo até à coagulação completa. A doçura e a cor deste prato estimulam a curiosidade dos mais pequenos.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Shakshuka+Ovos"
-  },
-  {
-    "id": 49,
-    "title": "Risotto de Abóbora Assada e Ervilhas Macias",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Mediterrânica Geral",
-    "dynamics": [
-      "Uma Panela",
-      "Conforto"
-    ],
-    "time": "40 min",
-    "ingredients": [
-      "1,5 chávenas de arroz arbóreo de grão gordo e perolado",
-      "Abóbora assada previamente ao forno para apurar a doçura, batida em puré liso",
-      "1 chávena de ervilhas bebé finas e doces",
-      "Manteiga em noz e queijo parmesão ralado na hora para a 'mantecatura' final"
-    ],
-    "instructions": [
-      "Num tacho largo ao lume médio, toste o nobre arroz no azeite durante 20 segundos até os bagos ficarem translúcidos e brilhantes.",
-      "A dança do risotto: junte uma concha de caldo quente e mexa afadigosamente o fundo até a humidade desaparecer. Mais uma concha… e girar! Tudo vai libertando a fécula branca do grão durante 16 longos minutos.",
-      "A 2 minutos do fim, envolva o puré de abóbora assada e as ervilhas frescas vivas.",
-      "Fora do lume: os cubos gelados de manteiga e o parmesão ralado dão a doçura branca da mantecatura envolvente e cremosa."
-    ],
-    "baby_adaptation": "O risotto oferece texturas perfeitas — macio, hidratado e calórico — num único pacote. É fácil de comer com colher pelo bebé e perfeitamente adequado para as digestões suaves dos estômagos mais pequenos.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Risotto+Ab%C3%B3bora"
-  },
-  {
-    "id": 50,
-    "title": "Frittata Italiana Grossa de Legumes",
-    "category": "Base de Leguminosas / Vegetariano",
-    "origin": "Mediterrânica Geral",
-    "dynamics": [
-      "Uma Panela",
-      "Express"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "8 ovos (a frittata precisa de estrutura e volume real)",
-      "Sobras dignas de aproveitamento: alho, meias courgettes e brócolos em fatias finas transparentes",
-      "Bocados puros de ricotta em colheradas para o topo assado"
-    ],
-    "instructions": [
-      "Numa frigideira com pega de metal (que vá ao forno): salteie em bom azeite as rodelas vegetais finas durante 2 minutos, para os brócolos tostarem e perderem a humidade excessiva.",
-      "Verta a inundação de ovos batidos que choca com o fundo quente. Deixe curar apenas nas bordas na chapa do fogão por 2 minutos, até criar encrostações douradas nos lados.",
-      "Disponha colheradas generosas de ricotta por cima e transfira a frigideira para o forno a 200 °C (para insuflar como um soufflé espléndido sem a gordura das panquecas). Asse até dourar e firmar — cerca de 8 minutos."
-    ],
-    "baby_adaptation": "A ricotta pura não tem sal excessivo nem gorduras maturadas que irritam. Podem ser entregues pequenos blocos ao bebé deste pastel riquíssimo, cortado em fatias finas e nutritivas.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Omelete+Italiana"
-  },
-  {
-    "id": 51,
-    "title": "Frango no Forno Rápido com Arroz de Cenoura Amanteigado",
-    "category": "Carnes Brancas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "45 min",
-    "ingredients": [
-      "1 frango inteiro cortado em pedaços miúdos (limpo de excessos de pele)",
-      "1 chávena de arroz carolino e 1 cenoura doce ralada e 1 dente de alho",
-      "Marinada: massa de pimentão doce, 2 dentes de alho, azeite, sumo de meio limão e 1 cálice curto de vinho branco",
-      "Salsa picada e 1 noz de manteiga"
-    ],
-    "instructions": [
-      "Massaje o frango activamente com a marinada (se possível, deixe repousar 15 minutos). Asse a 200 °C durante 35 a 40 minutos, regando a meio com o próprio molho para dourar as peles.",
-      "O segredo do arroz doce: refogue a cenoura ralada num fundo de azeite e alho picado até largar o corante laranja natural. Junte o arroz e frite os bagos até vidrarem.",
-      "Adicione 2,5 chávenas de água a ferver e coza tapado durante 15 minutos.",
-      "Assim que apagar o lume, enterre a noz de manteiga no arroz e tape durante 2 minutos para aveludar."
-    ],
-    "baby_adaptation": "As pernas e sobrecoxas assadas (sem ossinhos perdidos) são sublimes para BLW pois o bebé treina o maxilar a rasgar fibras moles. O arroz amanteigado de cenoura é doce — evite transferir o vinho ou sal excessivo do tabuleiro adulto.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Frango+Forno"
-  },
-  {
-    "id": 52,
-    "title": "Jardineira de Peru Estufado Lento com Ervilhas",
-    "category": "Carnes Brancas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela",
-      "Amigo do Congelador"
-    ],
-    "time": "45 min",
-    "ingredients": [
-      "500g de carne de peru (perna ou peito) em cubos suculentos",
-      "3 batatas brancas médias em cubos, 2 cenouras em rodelas grossas",
-      "1 chávena cheia de ervilhas extrafinas",
-      "Cebola, alho, 3 colheres de polpa rústica de tomate, louro e azeite",
-      "1 colher de café de pimentão fumado e 1 copo de vinho branco"
-    ],
-    "instructions": [
-      "Selar bem os sucos: doure vigorosamente num tacho quente o peru temperado (apenas com azeite, cebola, alho e pimentão).",
-      "Refresque o fundo com o vinho branco, deixando o álcool evaporar.",
-      "Envolva a polpa de tomate, junte as batatas e as cenouras e cubra até três quartos com água a ferver.",
-      "Tape, reduza o lume e deixe cozer durante 20 minutos. Junte a ervilha apenas nos últimos 8 minutos para abrir a cor e manter a frescura. O molho deve ligar grosso."
-    ],
-    "baby_adaptation": "O peru de longo estufamento derrete na boca. Esmague as ervilhas contra a superfície com o garfo para prevenir o engasgo com as esferas inteiras. Junte abundante molho para que o bebé molhe as gengivas antes das texturas secas.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Jardineira+Peru"
-  },
-  {
-    "id": 53,
-    "title": "Arroz de Frango Malandrinho com Caldo Caseiro",
-    "category": "Carnes Brancas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Conforto",
-      "Amigo do Congelador"
-    ],
-    "time": "50 min",
-    "ingredients": [
-      "Meio frango do campo com ossos e pele",
-      "O fumet: meia cebola com casca, 1 cenoura e 1 talo de aipo (ou alho francês)",
-      "1,5 chávenas de arroz carolino",
-      "Fundo refogado: cebola picada, azeite, 1 tomate maduro carnudo, um disco de chouriço",
-      "Erva-mãe: hortelã-pimenta tenra"
-    ],
-    "instructions": [
-      "A base é a alma: ferva a carne do frango numa panela com água e os legumes do fumet (a pele dá o colagénio gordo) durante 30 minutos. Retire tudo, filtre o néctar amarelado para obter o caldo. Desfie a carne finamente à mão.",
-      "No tacho, sue a cebola com o tomate e o bocado de chouriço (para defumar a gordura). Junte os bagos e torre-os ligeiramente.",
-      "Acrescente 4,5 medidas de caldo a ferver para o feitiço malandrinho. A 3 minutos do fim, integre as carnes soltas e as folhas de hortelã."
-    ],
-    "baby_adaptation": "Este prato tem risco zero desde que o peito e a perna sejam bem limpos de ossículos escondidos. Retire o disco de chouriço antes de servir ao bebé para evitar o excesso de nitratos. A macieza do arroz hidrata-o no estômago à perfeição.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Arroz+Frango"
-  },
-  {
-    "id": 54,
-    "title": "Empadão Dourado de Frango e Alho Francês",
-    "category": "Carnes Brancas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Conforto"
-    ],
-    "time": "50 min",
-    "ingredients": [
-      "400g de carnes brancas desfiadas finas (sobras de bom frango)",
-      "2 alhos franceses volumosos (partes tenras em rodelas muito finas)",
-      "800g de batata velha e amarela, 2 colheres de sopa de manteiga, 1 copo de leite gordo morno, 2 gemas de ovo (1 para o puré, 1 para a cobertura)",
-      "Azeite, noz-moscada acabadinha de ralar"
-    ],
-    "instructions": [
-      "Noz-moscada e sedosidade: passe as batatas cozidas escorridas no passe-vite. Junte no tacho suave a manteiga, o leite quente e uma gema de ovo para brilhar. Amasse.",
-      "Na frigideira, sue religiosamente o alho francês até este entregar todos os açúcares lentos em calda translúcida. Envolva a ave desfiada.",
-      "Num tabuleiro fundo: puré-recheio-puré. Pincele vigorosamente toda a superfície de puré com gema temperada. Leve ao forno alto durante 15 minutos até dourar."
-    ],
-    "baby_adaptation": "As maravilhas do puré caseiro não têm natas ácidas. O alho francês doce é a transição vegetal ideal para os que fogem das cebolas. Desfaz-se completamente sem qualquer esforço do bebé.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Empad%C3%A3o+Frango"
-  },
-  {
-    "id": 55,
-    "title": "Frango Guisado a Tinto com Macarrão de Absorção",
-    "category": "Carnes Brancas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela"
-    ],
-    "time": "40 min",
-    "ingredients": [
-      "6 coxas polpudas de frango limpas",
-      "2 chávenas de cotovelos ou macarrão oco por dentro",
-      "Um naco de cebola e 2 dentes de alho, 3 colheres de sopa de concentrado de tomate",
-      "Um esguicho generoso de vinho tinto"
-    ],
-    "instructions": [
-      "Sele bem as coxas com a pele no azeite até cantarem no fundo. Refresque de imediato com o vinho tinto (deglace e raspe os fundos caramelizados).",
-      "Deposite o tomate concentrado e o caldo quente em quantidade de submersão. Deixe cozer em lume lento durante uns belos 25 minutos até os ossos largarem o colagénio.",
-      "Quando o guisado estiver denso, deite a massa macarrão e force-a a cozer submersa e tapada nos sucos avermelhados da panela."
-    ],
-    "baby_adaptation": "O álcool do vinho evapora completamente a 100 °C. Tire as carnes brancas macias que se descolam facilmente do osso para oferecer ao bebé, sem risco de engasgo.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Guisado+Frango"
-  },
-  {
-    "id": 56,
-    "title": "Bifinhos Extra-Tenros de Peru com Cogumelos Ricos",
-    "category": "Carnes Brancas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "4 a 5 bifinhos finíssimos de peru (batidos e esticados, livres de nervos)",
-      "200g de cogumelos frescos marrons escuros",
-      "200 ml de natas frescas ou creme de soja como alternativa",
-      "Azeite, manteiga, 1 dente de alho esborrachado e sumo de limão"
-    ],
-    "instructions": [
-      "O segredo do peito macio: tempere brevemente e sele os bifes numa frigideira a alta temperatura, 2 minutos de cada lado, mal passados, secando de imediato. Retire o bife e mantenha o fundo da frigideira.",
-      "Derreta a manteiga e junte os cogumelos com o alho. Salteie até chorarem e secarem!",
-      "Verta as natas e reduza até ficarem espessas. Integre o bife apenas 2 minutos para aquecer neste molho amendoado."
-    ],
-    "baby_adaptation": "Para evitar a textura de sola que a ave por vezes apresenta, os cortes finíssimos longitudinais facilitam a mastigação. Os cogumelos macios no molho lácteo deslizam facilmente.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Bifes+Peru+Cogumelos"
-  },
-  {
-    "id": 57,
-    "title": "Strogonoff Vermelho Original Rápido (Sem Natas)",
-    "category": "Carnes Brancas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "500g de peitos de frango em tiras perfeitas",
-      "1 cebola picada fina, 1 colher de sobremesa de mostarda Dijon ou à antiga com grão",
-      "1 chávena de polpa de tomate natural (tomates pelados inteiros ligeiramente esmagados)",
-      "2 colheres de sopa de iogurte grego natural"
-    ],
-    "instructions": [
-      "Doure as tiras de frango numa frigideira larga com um fio de azeite e a cebola, até ficarem coradas por fora e perfumadas.",
-      "Acrescente a mostarda dijon e a polpa de tomate. Apure durante 8 minutos em lume médio, até criar um molho espesso e ácido suave.",
-      "Fora do lume (para não talhar), adicione o iogurte grego e mexa bem para rosear e aveludar o molho."
-    ],
-    "baby_adaptation": "Famoso prato das crianças exigentes. A densidade de sabor sem exageros ácidos funciona muito bem se o iogurte for gordo e inteiro. Retire a pimenta preta da porção do bebé antes de servir.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Strogonoff+Frango"
-  },
-  {
-    "id": 58,
-    "title": "Canja Rica e Amarela de Galinha do Campo com Ovo",
-    "category": "Carnes Brancas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Conforto"
-    ],
-    "time": "60 min",
-    "ingredients": [
-      "Metade de uma galinha do campo (a pata com carcaça dá colagénio e cor dourada)",
-      "1 cebola intacta com um cravinho nela fincado, 1 talo de aipo verde",
-      "1 chávena pequena de pevides tostadas ou massa de cabelo-de-anjo",
-      "3 gemas de ovo e abundante hortelã fresca"
-    ],
-    "instructions": [
-      "Nesta panela magna mergulham as carnes, a cebola cravada e água fria em borbulhar sonolento durante 50 minutos. As espumas cinzentas que sobem à superfície vão sendo retiradas com uma escumadeira.",
-      "Filtre o caldo coando, remova os ossos finos escondidos e desfie o músculo dourado.",
-      "No caldo filtrado, coza a massa ou as pevides. No epílogo, bata as três gemas numa taça com um pingo de caldo quente para as temperar. Escorra lentamente para dentro do caldo, mexendo continuamente para a canja não talhar."
-    ],
-    "baby_adaptation": "Este não é um caldo sem substância! A galinha dourada tem calorias saudáveis e propriedades reconstituintes. Remova todos os ossos com muito cuidado — é a prioridade. As folhas de hortelã devem ser picadas para não criar risco de engasgo.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Canja"
-  },
-  {
-    "id": 59,
-    "title": "Bolinhas de Frango Macias com Queijo Rústico",
-    "category": "Carnes Brancas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Express",
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "500g de frango ou peru triturado grosso (carne branca limpa)",
-      "3 colheres fartas de queijo curado ralado ou mozzarella para manter a macieza, 1 cenoura ralada",
-      "1 ovo para unir a mistura, erva-doce ligeira"
-    ],
-    "instructions": [
-      "Misture tudo com as mãos limpas até obter uma massa coesa, húmida e aromática. Unte os dedos e molde almôndegas do calibre de uma bola de golfe.",
-      "Estenda num tabuleiro forrado a papel vegetal com um fio de azeite. Leve ao forno a 190 °C até tostar e dourar."
-    ],
-    "baby_adaptation": "Uma almôndega perfeita — sem côdea frita perigosa de farinha e pão. O queijo fundido, com a cenoura a manter a humidade, é macio e escorrega facilmente. Feito à medida da pinça minúscula das mãos livres do bebé.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Alm%C3%B4ndegas+Frango"
-  },
-  {
-    "id": 60,
-    "title": "Coxas de Frango Meladas no Forno com Batata Doce",
-    "category": "Carnes Brancas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "40 min",
-    "ingredients": [
-      "8 coxas e pernas de frango frescas",
-      "Marinada chef: 1 colher de mel de flores, azeite, pimentão doce defumado, 2 dentes de alho ralados",
-      "3 batatas-doces laranjas grandes, cortadas em quartos"
-    ],
-    "instructions": [
-      "Marine o frango nas banheiras doces com pimentão, rodando bem as peças na tigela durante meia hora, se possível. Pincele as batatas com azeite na assadeira do forno.",
-      "Empilhe tudo! Leve ao forno a 200 °C. Durante o assar, os bordos da pele escurecem caramelizados, as batatas-doces espumam os seus sucos e a pele fina fica glaceada sem qualquer imersão em gordura."
-    ],
-    "baby_adaptation": "Uma coxa num osso de haste grossa é um dos instrumentos de exploração alimentar mais ricos para o bebé. Ao morder, descobrem as gengivas, a pele doce e caramelizada. A doçura é a lei da boca infantil em todo o mundo. Não transfira os temperos picantes dos adultos para a sua porção.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Frango+Batata+Doce"
-  },
-  {
-    "id": 61,
-    "title": "Mil-Folhas Falso de Frango Desfiado e Broa de Milho",
-    "category": "Carnes Brancas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Conforto",
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "35 min",
-    "ingredients": [
-      "Sobras limpas de frango assado ou cozido, totalmente desfiado",
-      "200g de espinafres baby frescos, 3 dentes de alho picados, azeite virgem extra",
-      "1/2 broa de milho amarela esfarelada em migalhas pelas mãos",
-      "1 colher de café de pimentão doce fumado (para mimetizar a profundidade do bacalhau tradicional)"
-    ],
-    "instructions": [
-      "Numa sertã larga, sue o espinafre com azeite e alho apenas até murchar e ficar verde-vivo (1 minuto). Espalhe no fundo do tabuleiro.",
-      "Cubra com as lascas da ave e envolva tudo com um fio do azeite temperado com o pimentão fumado.",
-      "Para a crosta crocante: amasse as migalhas da broa com azeite e alho e cubra todo o tabuleiro. Leve ao forno a 200 °C até o topo dourar como areia tostada."
-    ],
-    "baby_adaptation": "Retire o espinafre da porção da criança mal mude de cor, para evitar fios indigestos. O milho da broa, molhado pelos sucos da ave no fundo, fica extremamente tenro, formando um prato reconfortante e pediátrico.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Broa+Milho+Frango"
-  },
-  {
-    "id": 62,
-    "title": "Rolo de Peru Recheado e Suculento",
-    "category": "Carnes Brancas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "50 min",
-    "ingredients": [
-      "600g de carne de peru picada duas vezes no talho (para não fragmentar em demasia)",
-      "Cenoura ralada, meia cebola suada, 1 ovo, pão ralado ou miolo de pão ensopado em leite (o grande ligante humedecedor)",
-      "Recheio: folhas de espinafre, fatias de queijo flamengo e courgette fina"
-    ],
-    "instructions": [
-      "Amasse a carne activamente com o pão ensopado, o ovo e os aromas para obter uma farça coesa que não seque no forno.",
-      "Estique a carne sobre película aderente, formando um retângulo plano. Disponha a courgette, o queijo e o espinafre no centro.",
-      "Enrole firmemente com a ajuda da película. Retire o plástico e asse num tabuleiro forrado, rodeado por um fundo de tomate, vinho branco e água (45 minutos a 190 °C)."
-    ],
-    "baby_adaptation": "O corte em fatias ou rodelas do rolo recheado é visualmente atrativo (fatias arco-íris) e a carne moída com miolo de pão desfaz-se facilmente sem necessitar da força mastigatória dos bifes. Altamente recomendado.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Rolo+de+Carne"
-  },
-  {
-    "id": 63,
-    "title": "Salteado Oriental de Frango 'Veludo' com Brócolos",
-    "category": "Carnes Brancas",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "2 peitos de frango em fatias ultra-finas (cortar semi-congelado ajuda muito)",
-      "Marinada de veludo: 1 colher de sopa de Maizena, 1 colher de sopa de óleo de sésamo, gota de sumo de limão",
-      "1 cabeça pequena de brócolos e 1/2 chávena de cajus naturais (só para adultos)",
-      "1 colher de sopa de molho de soja escuro, gengibre fresco raspado"
-    ],
-    "instructions": [
-      "A técnica de veludar (velveting): envolva o frango na marinada de Maizena. Isto cria uma barreira protetora que impede as fatias finas de secarem, deixando-as macias e suculentas.",
-      "No wok fumegante, salteie os brócolos num fio de água para vaporizar durante 3 minutos e retire.",
-      "Com óleo fresco, frite o frango super-rápido espalhando as lascas (2 minutos). Volte a juntar tudo, apague o lume e verta a soja e os cajus estaladiços."
-    ],
-    "baby_adaptation": "Evite os cajus inteiros (risco de asfixia!). Pode usar o caju desfeito em pó para manter o sabor, mas remova os molhos com soja da dose da criança. As lascas veludadas cortam-se soltas com um garfo.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Frango+Br%C3%B3colos"
-  },
-  {
-    "id": 64,
-    "title": "Noodles Wok Estaladiços de Frango Asiático",
-    "category": "Carnes Brancas",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "15 min",
-    "ingredients": [
-      "2 pacotes de noodles de ovo e trigo finos",
-      "Tiras finas de frango, juliana de cenoura, courgette e couve lombarda",
-      "Óleo de sésamo, molho de soja claro e molho de ostras (uma pinga para adultos)"
-    ],
-    "instructions": [
-      "Aqueça a água dos noodles com uma gota de óleo de sésamo para não grudarem.",
-      "Wok em lume fortíssimo: sele o frango até ficar castanho dourado. Verta toda a juliana de legumes. O vapor dos vegetais ajudará a manter o frango tenro.",
-      "Atire a massa escorrida de imediato, misture vigorosamente de baixo para cima com a tenaz durante 2 minutos, juntando o molho de soja (e ostras para adultos). Sirva quente na malga familiar."
-    ],
-    "baby_adaptation": "Corte os noodles em pedaços curtos com tesoura e retire a juliana inteira de vegetais compridos antes de servir ao bebé. Retire da wok a porção do bebé antes de adicionar os molhos salgados orientais.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Noodles+Frango"
-  },
-  {
-    "id": 65,
-    "title": "Frango 'Glaceado Natural' (Teriyaki Falso) com Arroz Jasmim",
-    "category": "Carnes Brancas",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Uma Panela",
-      "Express"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "Peitos de frango em cubos grossos para saltear",
-      "O glacé: 200 ml de sumo de ananás ou pêssego natural sem açúcar, 1 colher de chá de alho moído e gengibre, 1 colher de sobremesa de Maizena diluída em água fria",
-      "Sementes finas de sésamo torradas e arroz de jasmim"
-    ],
-    "instructions": [
-      "Frite os cubos de frango na frigideira até marcar uma crosta dourada.",
-      "Misture o sumo natural com o alho e o gengibre e verta sobre a carne a ferver.",
-      "Adicione a Maizena diluída e mexa depressa: o sumo frutal encorpa magicamente num xarope dourado brilhante. Reduza até o frango ficar colado a este doce glacé asiático."
-    ],
-    "baby_adaptation": "Sem sal da soja nem acidez agressiva. As gomas dos amidos coladas à fruta formam uma pasta melada que as crianças adoram misturada em bolas de arroz jasmim. Magnífico e isento de fritos.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Frango+Teriyaki"
-  },
-  {
-    "id": 66,
-    "title": "Caril Amarelo de Frango com Creme de Manga Real",
-    "category": "Carnes Brancas",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Uma Panela",
-      "Amigo do Congelador"
-    ],
-    "time": "35 min",
-    "ingredients": [
-      "600g de sobrecoxas de frango limpas com ou sem osso (muito mais suculentas do que o peito)",
-      "1 manga doce e maduríssima triturada até puré denso",
-      "1 lata de leite de coco forte e cremoso",
-      "Cúrcuma, alho, 1 fio final de sumo de lima fresca"
-    ],
-    "instructions": [
-      "Faça um refogado brilhante no óleo com a cúrcuma moída e o alho esmagado para libertarem os óleos perfumados amarelos.",
-      "Sele os cubos de frango até ganharem a crosta amarela (5 minutos).",
-      "Inunde a panela com a lata espessa de coco e o puré luxuoso da manga inteira. Deixe cozinhar tapado em borbulhar lento (25 minutos) até o colagénio da sobrecoxa fundir no molho.",
-      "Remate com o sumo de lima espremido no molho, que corta a riqueza tropical."
-    ],
-    "baby_adaptation": "Este caril tropical quente, isento de pimentas e chilis, eleva paladares frutais muito associados a purés infantis. Excepcional pela redução fina da manga fundida à ave.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Caril+Frango+Manga"
-  },
-  {
-    "id": 67,
-    "title": "Butter Chicken 'Falso' e Iogurte Suave",
-    "category": "Carnes Brancas",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Conforto",
-      "Amigo do Congelador"
-    ],
-    "time": "40 min",
-    "ingredients": [
-      "Pedaços de frango macio (coxa sem osso), sumo de limão",
-      "Masala base: 2 iogurtes gregos limpos e 1 frasco de passata de tomate doce",
-      "1 noz valente de manteiga e pasta de caju opcional, coentros",
-      "Marinada: 1 parte do iogurte com alho e um toque suave de especiarias doces"
-    ],
-    "instructions": [
-      "O segredo é deixar a ave repousar no banho de iogurte prévio. Aqueça uma chapa alta sem gordura e sele activamente (criando crosta ligeiramente chamuscada). Reserve o frango.",
-      "Na panela base: verta o molho de passata de tomate limpo e o restante do iogurte. Deixe cozer em conjunto 15 minutos até soltar um creme rosado pastoso.",
-      "No grande final: o frango regressa à panela, com uma grossa colher brilhante de manteiga fina. Apague o lume e deixe o veludo fluir."
-    ],
-    "baby_adaptation": "Absolutamente macio e doce do tomate suado longo. A acidez desapareceu no assar prolongado em lume brando com os laticínios ricos. Sem picante.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Butter+Chicken"
-  },
-  {
-    "id": 68,
-    "title": "Kebabs de Peru Sumarentos no Forno",
-    "category": "Carnes Brancas",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Uma Panela/Tabuleiro",
-      "Express"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "500g de carne de peru picada fina (peça suculenta da perna)",
-      "1 cebola média, pão ralado leve e cominhos moídos",
-      "Molho tzatziki leve: iogurte grego, hortelã fresca picada fina, pepino ralado e escorrido",
-      "Paus de madeira finos para as espetadas"
-    ],
-    "instructions": [
-      "O truque da suculência das aves do Médio Oriente: rale a cebola na picadora fina e junte toda essa pasta molhada húmida na carne com as especiarias. O suco da cebola hidrata o peru magro no calor brutal do forno.",
-      "Crie salsichas em rolo à volta dos paus longos de madeira, apertando-as com força.",
-      "Asse durante 20 minutos a 190 °C num tabuleiro untado, com ventilação."
-    ],
-    "baby_adaptation": "A textura da carne picada liberta o bebé de grandes esforços mastigatórios. Molhar o rolo no iogurte tzatziki ensina as papilas a contrastes incríveis da culinária mundial.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Kebab+Peru"
-  },
-  {
-    "id": 69,
-    "title": "Búzios Italianos com Lascas de Peru e Curgete",
-    "category": "Carnes Brancas",
-    "origin": "Mediterrânica Geral",
-    "dynamics": [
-      "Uma Panela",
-      "Express"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "300g de cotovelos ou búzios grossos com espirais profundas",
-      "1 bife de peru batido, cortado em tiras finas",
-      "1 courgette fatiada ultra-finamente com o descascador (fitas vegetais transparentes)",
-      "2 colheres de queijo-creme branco gordo, azeite, alho esmagado"
-    ],
-    "instructions": [
-      "Coza a massa al dente. Numa frigideira à parte, sue as tiras de peru brancas com o alho e junte rapidamente a courgette em fitas (ela derrete e fina-se em 2 minutos no vapor do azeite).",
-      "Verta os búzios de massa com meia concha da água amilácea da cozedura.",
-      "Junte o queijo-creme, tape 1 minuto sem lume e mexa o creme quente sem grumos para ligar tudo numa ligação divinal."
-    ],
-    "baby_adaptation": "O queijo-creme fundido abraça a lasca de carne em redor da massa, fazendo os alimentos deslizar suavemente sem colarem ao céu da boca dos bebés em plena aprendizagem alimentar.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Massa+Peru+Curgete"
-  },
-  {
-    "id": 70,
-    "title": "Peito de Frango Escalmado e Recheado do Mediterrâneo",
-    "category": "Carnes Brancas",
-    "origin": "Mediterrânica Geral",
-    "dynamics": [
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "35 min",
-    "ingredients": [
-      "2 a 3 peitos de frango grossos abertos ao meio tipo borboleta e ligeiramente espalmados",
-      "Recheio central: fatias finas de tomate maduro, bolas de mozzarella suave em água, manjericão fresco",
-      "Courgettes finas e azeite perfumado com orégãos"
-    ],
-    "instructions": [
-      "Bata levemente os peitos para uniformizar a espessura e acelerar a cozedura.",
-      "Coloque fatias finas dos recheios nos bolsos ou entalhes do músculo. Pincele com azeite e orégãos na superfície.",
-      "Asse rodeado de batatas soltas e tomates maduros na assadeira a 190 °C durante cerca de 30 minutos. Os tomates na base evitam o famoso 'secar' fatal do peito de frango."
-    ],
-    "baby_adaptation": "Um peito espalmado ganha maciez em relação aos blocos grossos fibrosos. A mozzarella é branda, isenta de sal excessivo e derrete de forma envolvente. Sirva picadinho na base com os legumes desfeitos em puré amolecido.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Peito+Frango+Recheado"
-  },
-  {
-    "id": 71,
-    "title": "Arroz Malandrinho de Atum e Ervilhas",
-    "category": "Massas e Arroz",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express",
-      "Uma Panela"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "1,5 chávenas de arroz carolino autêntico (não vaporizado!)",
-      "2 latas de atum em posta grossa conservado em azeite, 1 chávena de ervilhas finas",
-      "1 cebola picada fina, 2 colheres de sopa de polpa de tomate concentrada, 2 dentes de alho",
-      "Coentros frescos"
-    ],
-    "instructions": [
-      "Refogado mestre: aqueça o azeite da própria lata de atum (se for de qualidade) com a cebola picada, o alho e o tomate até vitrificar (3 minutos).",
-      "Deite o arroz a fritar para absorver o fundo. Adicione as ervilhas.",
-      "Verta 4 a 4,5 chávenas de água a ferver para o malandrinho. Tape em lume brando durante 14 minutos.",
-      "Só no último minuto deixe cair o atum em lascas para não se desfazer. Misture com coentros vivos e sirva a ferver."
-    ],
-    "baby_adaptation": "Fica húmido e super doce do creme de ervilhas e cebola. Se usar água simples não sobrecarrega os pequenos rins. O arroz malandrinho bem cozido é perfeito — basta desfiar mais finamente o atum na porção da criança.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Arroz+Atum"
-  },
-  {
-    "id": 72,
-    "title": "Búzios Cremosos de Salmão, Cogumelos e Natas",
-    "category": "Massas e Arroz",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela",
-      "Conforto"
-    ],
-    "time": "30 min",
-    "ingredients": [
-      "2 tranches gordas de salmão limpo, sem peles e espinhas (ou sobras ricas)",
-      "Cotovelos grandes ou massa graúda (búzios ou conchas)",
-      "150g de cogumelos frescos laminados, 1 embalagem de natas culinárias (ou alternativa vegetal)",
-      "Coentros, um pingo de vinho branco aromático, 1 dente de alho"
-    ],
-    "instructions": [
-      "Sue intensamente os cogumelos a seco com o alho até amolecerem. Deglaçe com o vinho.",
-      "Adicione a massa, cubra com caldo leve de legumes fervente e coza tapado durante 10 minutos.",
-      "Quando a água evaporar quase na totalidade e a massa estiver húmida mas al dente, verta as natas.",
-      "De imediato, enterre os bocados gordos de salmão no creme e apague o lume. Em 3 minutos o salmão lasca sozinho pelo calor retido! Termine com um manto de coentros."
-    ],
-    "baby_adaptation": "A textura super escorregadia desta massada é perfeita para BLW. A própria gordura rosada do salmão liberta-se para o miolo da massa. Os cogumelos mimetizam texturas suaves carnívoras e engolam-se com facilidade.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Massa+Salm%C3%A3o"
-  },
-  {
-    "id": 73,
-    "title": "Esparguete de Bolonhesa Sedosa (Frango e Legumes Escondidos)",
-    "category": "Massas e Arroz",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador"
-    ],
-    "time": "40 min",
-    "ingredients": [
-      "400g de peito e perna de frango picado fino ou triturado em casa",
-      "1 cenoura volumosa e meia courgette",
-      "1 cebola e 2 caules de aipo, 500 ml de polpa de tomate rica",
-      "Esparguete longo italiano de qualidade"
-    ],
-    "instructions": [
-      "O truque visual do chef: liquefique inteiramente a cenoura, a courgette e o aipo na polpa de tomate. Nada de grumos de cores a boiar — tudo deve parecer estritamente molho vermelho natural.",
-      "Salteie bem a carne branca picada, temperada, até acastanhar, soltando todos os caramelos na base da frigideira.",
-      "Afogue com o molho vermelho dos legumes triturados e ferva durante lentos e plácidos 25 minutos para espessar e adoçar sem acidez. Envolva na massa recém-cozida."
-    ],
-    "baby_adaptation": "Bolonhesa branca, incrivelmente sumarenta e sedosa, que camufla uma tonelada de vitaminas sob o disfarce rubro da tomatada. Para o bebé, corte o esparguete com tesoura em pedaços curtos.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Esparguete+Bolonhesa"
-  },
-  {
-    "id": 74,
-    "title": "Arroz de Tomate Suado e Lento com Bacalhau e Espinafres",
-    "category": "Massas e Arroz",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Conforto",
-      "Uma Panela"
-    ],
-    "time": "35 min",
-    "ingredients": [
-      "2 a 3 postas do melhor bacalhau (demolhado e já lascado, sem falhas)",
-      "200g de espinafres frescos, azeite de lagar robusto",
-      "1,5 chávenas de arroz carolino, 1 chávena de tomates de cacho esmagados",
-      "Salsa e 1 raminho de coentros"
-    ],
-    "instructions": [
-      "A base de estufado suado fecha o arroz gordo com o tomate e os alhos: deixe a pomada vermelha apurar antes de juntar a água fervente.",
-      "A três quartos do cozimento plácido do arroz (por volta dos 11 minutos), encoste as lascas primorosas de bacalhau macio para aquecerem a vapor no próprio caldo espesso, sem mexer muito.",
-      "Desligue com alguma calda líquida excedente. Cubra imediatamente com as folhas frescas de espinafre, que murcham verdes em cima da travessa fumegante."
-    ],
-    "baby_adaptation": "Verifique minuciosamente as espinhas do bacalhau. Desfaça as lascas até obter fios finos entre os dedos, se necessário, ou ofereça do topo limpo. A doçura molhada do arroz facilita a deglutição.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Arroz+Bacalhau"
-  },
-  {
-    "id": 75,
-    "title": "Macarrão de Forno Rápido (Reaproveitamento de Carnes Assadas)",
-    "category": "Massas e Arroz",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Express"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "Sobras de carnes assadas do domingo (aves com os sucos do tabuleiro)",
-      "2 chávenas de penne ou rigatoni",
-      "Para a cama láctea: 1 base suave de natas misturadas com leite",
-      "Noz-moscada farta raspada e 1 pacote de emmental ou flamengo ralado"
-    ],
-    "instructions": [
-      "O choque da macieza: coza a massa muito firme, apenas 5 minutos. Escorra.",
-      "Desfaça bem todos os pedaços de carne assada. Misture os fios de carne à massa.",
-      "Mergulhe tudo num pirex inundado pelo banho sedoso lácteo (mistura de natas e leite temperados com noz-moscada).",
-      "Cova o queijo sobre os bicos de massa e leve ao forno fortíssimo a 210 °C durante 15 minutos. O banho lácteo evapora, cozendo o macarrão nos sucos gordos finais!"
-    ],
-    "baby_adaptation": "A carne de assado do dia anterior por vezes seca, mas afogada nas natas e ao forno renasce mais tenra do que no dia em que foi feita. É uma das pastas de tubo mais fáceis de agarrar pela mãozinha inteira do bebé.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Massa+Forno"
-  },
-  {
-    "id": 76,
-    "title": "Massada Suave de Peixe Branco à Pescador com Hortelã",
-    "category": "Massas e Arroz",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela",
-      "Conforto"
-    ],
-    "time": "35 min",
-    "ingredients": [
-      "Cotovelos ou búzios largos. Caldo rico de peixe (peça as cabeças na peixaria!)",
-      "3 postas fartas de corvina, maruca ou pescada grossa, limpas",
-      "Pimentos vermelhos doces, cebola e 1 bom punhado de tomate sumarento fatiado",
-      "Meio molho de hortelã verde fresca para o topo (imperativo rústico português)"
-    ],
-    "instructions": [
-      "Primeiro, estude a base de pimentos finamente suados e tomate até estufar bem.",
-      "Adicione o caldo de peixe quente para os cotovelos cozinharem soltos no sabor do mar.",
-      "Coza o peixe num canto do tacho e, depois de cozido, retire-o, desfie-o livre de espinhas e devolva-o à panela. Junte a massa e deixe cozer al dente.",
-      "O remate de hortelã viva desfolhada no topo traz a frescura mentolada sobre a riqueza salgada do caldo de peixe."
-    ],
-    "baby_adaptation": "Retire as espinhas com todo o cuidado antes de servir. A hortelã com peixes brancos tem propriedades digestivas clássicas, muito benéficas para os mais sensíveis.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Massada+Peixe"
-  },
-  {
-    "id": 77,
-    "title": "Empadão Sublime Falso de Arroz e Atum",
-    "category": "Massas e Arroz",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Conforto"
-    ],
-    "time": "40 min",
-    "ingredients": [
-      "Arroz solto branco frio (sobras de véspera)",
-      "3 latas de atum, 1 cebola e azeite para reavivar",
-      "3 ovos cozidos picados e 1 cenoura tenra em meias-luas curtas",
-      "Para ligar e criar crosta: 2 ovos crus batidos"
-    ],
-    "instructions": [
-      "Faça um estufadinho revigorante: o atum com a cebola em azeite até ficar quente, envolvendo as cenouras finas e os ovos cozidos em gomos.",
-      "Como num falso empadão, deite metade do arroz numa camada base no tabuleiro. O recheio grosso oceânico desce ao centro.",
-      "Cubra com a segunda camada de arroz. Verta os dois ovos crus batidos para cimentar o conjunto.",
-      "Leve ao forno a 195 °C até dourar, cerca de 20 minutos."
-    ],
-    "baby_adaptation": "Uma criação nutritiva de arroz fofo assado com ovo. Cortado em quadrados ou retângulos finos, é fácil de agarrar pelo bebé e adequado para refeições sem louça.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Empad%C3%A3o+Arroz"
-  },
-  {
-    "id": 78,
-    "title": "Arroz de Cenoura Suado e Feijão com Ovo Escalfado (Malandrinho)",
-    "category": "Massas e Arroz",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Conforto",
-      "Express"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "2 cenouras laranjas descascadas em rodelas e 1 lata de feijão manteiga ou encarnado",
-      "Arroz carolino (proporção de 3 partes de água para 1 de arroz)",
-      "1 ovo por pessoa para escalfar no topo"
-    ],
-    "instructions": [
-      "Refogue o alho e as cenouras no azeite até o caroteno tingir levemente a gordura.",
-      "Acrescente água com um pouco de tomate concentrado, deite o arroz e junte o feijão inteiro para suarem em conjunto.",
-      "Sete minutos antes de terminar a cozedura, abra pequenas cavidades no arroz ainda caldoso com as costas de uma colher e parta ali dentro os ovos crus, com a gema intacta. Tape e deixe o vapor escalfar os ovos até a clara coagular e a gema ficar ainda fofa."
-    ],
-    "baby_adaptation": "Sem gema crua para o bebé: retire a sua porção de arroz e feijão antes de escalfar os ovos. Coza o ovo do bebé separadamente até à coagulação completa da gema, ou misture a gema no calor do arroz até cozer na totalidade.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Arroz+Feij%C3%A3o"
-  },
-  {
-    "id": 79,
-    "title": "Arroz de Pota Macio e Intenso à Marinheiro",
-    "category": "Massas e Arroz",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Conforto"
-    ],
-    "time": "45 min",
-    "ingredients": [
-      "600g de tiras ou argolas de pota limpas",
-      "1 chávena de arroz agulha ou carolino",
-      "Molho base: pimentos encarnados suados, tomate maduro e caldo de peixe aromático",
-      "Coentros rasgados. 1 malagueta separada para os adultos que apreciem picante"
-    ],
-    "instructions": [
-      "Regra do cefalópode: sele as potas secas numa frigideira quente, sem água, durante 15 minutos, até ficarem macias sem pingar.",
-      "Afogue nos sucos marinhos aromáticos de pimento, tomate suado e alho, e deite o arroz a cozer submerso no caldo profundo.",
-      "Mantenha lume lento e tapado até o arroz absorver o molho encarnado. Não deixe secar — o prato deve ficar bem caldoso."
-    ],
-    "baby_adaptation": "Dada a firmeza natural da pota, pique-a muito finamente na porção do bebé. O caldo de tomate grosso e macio do arroz facilita muito a deglutição. Um sonho servido com coentros frescos.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Arroz+Pota"
-  },
-  {
-    "id": 80,
-    "title": "Wok Vibrante de Noodles de Arroz Fino com Edamames e Ovo",
-    "category": "Massas e Arroz",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "15 min",
-    "ingredients": [
-      "1 pacote de massa de arroz fina (bifum) translúcida",
-      "Folhas de pak-choi rasgadas e 1 punhado de edamames sem casca",
-      "2 ovos para mexer em fio no wok",
-      "Um fio de óleo de sésamo, gengibre fresco e alho fino (para adultos)"
-    ],
-    "instructions": [
-      "As massas translúcidas não precisam de ferver: coloque-as numa taça com água fumegante, tapadas, durante 5 minutos para amolecerem sem se colarem.",
-      "Bata os ovos e lance-os em fio numa wok bem quente, mexendo rapidamente para criar fios amarelos soltos. Retire.",
-      "Sue em vapor forte os edamames e a pak-choi. Junte a massa escorrida. Rode com a tenaz no ar para criar uma textura solta. Finalize com os fios de ovo, um fio de óleo de sésamo e sementes tostadas."
-    ],
-    "baby_adaptation": "Corte os noodles translúcidos com tesoura em pedaços curtos para evitar engasgo. Os edamames macios e proteicos substituem bem os laticínios em bebés intolerantes. Não adicione molho de soja na porção infantil.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Wok+Noodles"
-  },
-  {
-    "id": 81,
-    "title": "Arroz Chau-Chau Rico (com Camarão Miúdo e Fiambre de Peru)",
-    "category": "Massas e Arroz",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "15 min",
-    "ingredients": [
-      "2,5 chávenas de arroz branco frio de véspera (guardado no frigorífico)",
-      "2 ovos M, 1 chávena de ervilhas extrafinas doces",
-      "100g de fiambre de peru ou frango picado em cubos",
-      "Miolo de camarão calibre 80/100 (descongelado e enxuto em papel)",
-      "Óleo de sésamo, azeite, 1 fio de molho de soja suave"
-    ],
-    "instructions": [
-      "Wok a 220 °C a fumar. Faça os ovos mexidos instantâneos: verta-os batidos no óleo de sésamo e mexa velozmente em 10 segundos. Retire-os para um prato.",
-      "Com a wok desimpedida, salteie os camarões e as ervilhas durante 2 minutos no máximo (para não ficarem rijos). Junte o fiambre.",
-      "Atire a montanha densa de arroz frio, estalando e desfazendo os grumos. Reincorpore o ovo, borrife a soja à roda da wok para caramelizar as bordas."
-    ],
-    "baby_adaptation": "Uma delícia que mistura texturas ricas. Pique muito bem as proteínas se for para bebés com dificuldade mastigatória. Se possível, compre o camarão biológico cozido e limpo para evitar contaminações. Não salgue com molho de soja na porção infantil.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Arroz+Chau+Chau"
-  },
-  {
-    "id": 82,
-    "title": "Arroz Pilaf Árabe Doce Amanteigado com Cenouras",
-    "category": "Massas e Arroz",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Uma Panela",
-      "Conforto"
-    ],
-    "time": "30 min",
-    "ingredients": [
-      "1,5 chávenas cheias de arroz basmati (previamente demolhado 10 minutos e lavado)",
-      "2 cenouras raladas num crivo largo ou em juliana finíssima",
-      "1 pau de canela inteiro, 2 cravinhos e 1 vagem de cardamomo (só para libertar os óleos essenciais, a retirar antes de servir)",
-      "Amêndoas laminadas torradas sem sal (opcional, para adultos)",
-      "2 nozes de manteiga ou ghee indiana"
-    ],
-    "instructions": [
-      "O segredo do pilaf é a tosta: num tacho tapado, aqueça a ghee com as especiarias inteiras para despertarem. Lance as cenouras e sue-as até largarem a doçura.",
-      "Adicione o arroz basmati escorrido e mexa até os bagos ficarem transparentes e brilhantes na gordura.",
-      "Regue com 3 chávenas estritasde água quente. NUNCA mexa a partir daqui. Reduza o lume para um fervilhar invisível durante 15 minutos, tapado. No fim, solte o arroz com as costas de um garfo e sirva com as amêndoas torradas por cima."
-    ],
-    "baby_adaptation": "Proibição expressa de frutos secos inteiros para bebés! Ofereça o arroz perfumado quente. As cenourinhas dissolvidas doces formam uma almofada macia e os condimentos em pau (canela, cravinho, cardamomo) não são engolidos nem picam.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Arroz+Pilaf"
-  },
-  {
-    "id": 83,
-    "title": "Noodles com Molho Creme de Caril Amarelo e Ovo",
-    "category": "Massas e Arroz",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "Massa noodles de ovo e trigo em ninho",
-      "1 lata generosa de leite de coco denso (elevada percentagem de gordura)",
-      "1 dente de alho, 1 colher de chá de cúrcuma (açafrão-das-índias), 1 colher de especiarias suaves Masala",
-      "Ovos M para escalfar no tacho ou cozer no topo"
-    ],
-    "instructions": [
-      "Sue as especiarias com o dente de alho num fundo de gordura de coco.",
-      "Verta o leite de coco em fio brando — ficará um lago aveludado e soberbo de cor amarela dourada. Deixe espessar durante 10 minutos.",
-      "Coza a massa à parte e escalfe os ovos no molho de coco nos últimos minutos, para que a gema embeba o interior dos noodles."
-    ],
-    "baby_adaptation": "A massa macia adoçada pelo caril de coco e o amarelo dourado da cúrcuma formam uma refeição sem sal excessivo. A macieza do molho espesso ensina o bebé a mastigar os noodles sem engasgo.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Noodles+Caril"
-  },
-  {
-    "id": 84,
-    "title": "Orzotto Falso Cremoso de Massa Pevide, Frango e Ervilha",
-    "category": "Massas e Arroz",
-    "origin": "Mediterrânica Geral",
-    "dynamics": [
-      "Uma Panela",
-      "Conforto"
-    ],
-    "time": "30 min",
-    "ingredients": [
-      "1 pacote de massa pevide (orzo)",
-      "Cubos de frango refogados sem osso, ou lascas de frango assado das sobras",
-      "2 chávenas de ervilhas biológicas bem macias",
-      "Para ligar: 2 colheres de sopa de mascarpone e 6 conchas de caldo de galinha caseiro quente"
-    ],
-    "instructions": [
-      "A massa pevide imita o risotto na perfeição se refogar o grão cru no azeite com o frango durante alguns minutos dourados.",
-      "Verta como um maestro duas conchas de caldo quente de cada vez, mexendo com zelo em movimento redondo constante para chocar o amido fora da massa para o molho (à maneira do risotto).",
-      "Feche aos 14 minutos com as ervilhas frescas no topo e bolas densas de mascarpone para fundir num orzotto cremoso e quente."
-    ],
-    "baby_adaptation": "Esta massa pequenina engana e faz mimetismos cremosíssimos como arroz, mas ainda mais macia para as primeiras dentições! O mascarpone envolve a proteína do frango sem sal excessivo. Um milagre que arranca sorrisos.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Orzotto"
-  },
-  {
-    "id": 85,
-    "title": "Esparguete Rústico Pesto Suave e Tomate Cereja Assado",
-    "category": "Massas e Arroz",
-    "origin": "Mediterrânica Geral",
-    "dynamics": [
-      "Express",
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "Bavette ou esparguete de ovos italianos secos",
-      "2 chávenas de tomates cereja, cortados ao meio",
-      "Pesto base verde: folhas frescas de manjericão, alho, azeite superior e parmesão"
-    ],
-    "instructions": [
-      "Os tomatinhos em metades vão ao forno a 190 °C durante 15 minutos borrifados com azeite, perdendo a acidez para exalar um molhinho denso e doce.",
-      "No copo da varinha mágica, macere as folhas frescas de manjericão com alho, queijo e azeite numa pasta pesto viva — nunca cozinhada!",
-      "Ligue as fitas de massa cozida e escorrida com o pesto aromático cru, dispondo os tomatinhos quentes assados por cima."
-    ],
-    "baby_adaptation": "Por precaução alergénica, não use pinhões nem amêndoas no pesto para o bebé. Use apenas as ervas, o queijo mole e o azeite para um molho suave. Os tomatinhos assados no forno ficam doces e amolecidos, sem acidez.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Massa+Pesto+Tomate"
-  },
-  {
-    "id": 86,
-    "title": "Empadão Clássico de Carne Picada Estufada com Cenoura",
-    "category": "Carnes Vermelhas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Conforto"
-    ],
-    "time": "50 min",
-    "ingredients": [
-      "500g de carne de vaca magra picada na hora no talho",
-      "2 cenouras raladas finas, meia cebola",
-      "Puré macio: batatas velhas amarelas, manteiga, leite gordo quente, 1 gema de ovo e noz-moscada",
-      "1 gema para pincelar a cobertura"
-    ],
-    "instructions": [
-      "Estue a carne picada temperada com a cebola e os legumes ralados, o tomate e um pingo de vinho para destravar a acidez. Cozinhe em lume lento durante 25 minutos até obter um recheio coeso e saboroso.",
-      "Esmague as batatas cozidas com um passa-vite e ligue com a manteiga, o leite quente e a gema de ovo para um puré aveludado e sedoso.",
-      "Monte em camadas num tabuleiro: puré, recheio encarnado, chapéu de puré. Pincele a cobertura com gema de ovo. Leve ao forno alto até a crosta de cima rachar dourada, cerca de 15 minutos."
-    ],
-    "baby_adaptation": "Cimento fofo nutricional infalível para as primeiras dentições! A vaca picada não tem ossos; e o puré aveludado não parte com a colher de plástico do bebé. Prove sempre a temperatura antes de oferecer ao bebé — o empadão retém muito calor no interior.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Empad%C3%A3o+Carne"
-  },
-  {
-    "id": 87,
-    "title": "Ervilhas Guisadas Lentas com Cubos de Vaca Macios",
-    "category": "Carnes Vermelhas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela",
-      "Conforto"
-    ],
-    "time": "55 min",
-    "ingredients": [
-      "500g de vaca para estufar (acém ou rabadilha) em cubos pequenos",
-      "3 chávenas de ervilhas congeladas doces e 2 pimentos finos",
-      "Alho, polpa de tomate e um copo de vinho tinto (o álcool evapora na cozedura longa)"
-    ],
-    "instructions": [
-      "O segredo de uma vaca guisada que derrete no maxilar: sele os cubos de carne a fogo alto no azeite até caramelizarem bem por fora. Retire as gorduras excessivas e junte os pimentos suados e o tomate.",
-      "Bata com caldo quente de carne, tape e cozinhe em lume lentíssimo durante 40 minutos — até a carne ficar em fios macios e tenros.",
-      "Só depois de a carne estar completamente macia é que se juntam as ervilhas, que cozem apenas 8 minutos tapadas para preservar a cor e a frescura."
-    ],
-    "baby_adaptation": "A vaca que normalmente resiste nas bochechas transforma-se, com este tempo longo de pressão e calor, em fios doces que se desfazem. Esmague as ervilhas com o garfo na porção do bebé para evitar o engasgo com as esferas.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Ervilhas+Vaca"
-  },
-  {
-    "id": 88,
-    "title": "Lombo de Porco Assado em Estufa de Laranja e Batatinhas",
-    "category": "Carnes Vermelhas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "75 min",
-    "ingredients": [
-      "1 lombo de porco limpo de gorduras excessivas, com pequenos furos para penetrar os aromas",
-      "1,5 kg de batatas pequenas descascadas (ou com casca fina, se frescas)",
-      "Marinada de ouro: sumo de 3 laranjas espremidas + raspa da casca, dentes de alho nos furos, alecrim verde",
-      "Pimentão doce espanhol"
-    ],
-    "instructions": [
-      "Os cítricos amaciam os músculos densos da carne, quebrando as proteínas que tornam os lombos secos e sem graça. Marine pelo menos 2 horas antes, massajando bem os aromas nos furos e por fora.",
-      "Disponha as batatinhas à volta sem as amontoar e encharque tudo com o sumo de laranja da marinada no pirex a 180 °C. Cozinhe tapado com folha de alumínio durante 1 hora e 15 minutos, obtendo uma crosta dourada e caramelizada no final."
-    ],
-    "baby_adaptation": "Este prato meloso, com a acidez doçante da laranja no forno e as batatas macias, ensina os mais novos que a carne pode ser doce e suculenta. Para BLW, corte em tiras longas e desfie. O sumo de laranja amolece ao máximo a carne.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Lombo+Porco+Assado"
-  },
-  {
-    "id": 89,
-    "title": "Bolonhesa Farta Rápida à Portuguesa",
-    "category": "Carnes Vermelhas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Conforto"
-    ],
-    "time": "40 min",
-    "ingredients": [
-      "Mistura clássica de carne picada de vaca com um pouco de porco gordo (do talho)",
-      "Base de sofrito: alho finíssimo, cenoura ralada grossa, cebola e tomates maduros em pedaços",
-      "Fitas de massa larga ou laços (farfalle) para acompanhar"
-    ],
-    "instructions": [
-      "O segredo do salteado sem água: a carne é frita a seco num pico de calor forte, sem caldo, para caramelizar e secar.",
-      "Depois, enterram-se os tomates grossos num de caldo quente misto com um pingo de vinho sem álcool; o tempo é dos mestres bolonheses: mínimo 25 minutos em redução lenta que desfaz tudo num vermelho melado e sumarento sem acidez.",
-      "Vire tudo sobre o esparguete ou laços já feitos al dente."
-    ],
-    "baby_adaptation": "Esconderijo máximo! Todos os legumes se disfarçam nos tomates maduros e caldosos, que os dentes infantis mastigam facilmente se a carne estiver bem picada. Fácil de comer com babete e com as mãos na massa.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Bolonhesa"
-  },
-  {
-    "id": 90,
-    "title": "Hambúrgueres Caseiros de Vaca e Cogumelos Assados",
-    "category": "Carnes Vermelhas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express",
-      "Amigo do Congelador"
-    ],
-    "time": "30 min",
-    "ingredients": [
-      "550g de carne de vaca magra picada",
-      "150g de cogumelos marrons triturados finamente (escorridos da água)",
-      "1 ovo para ligar, pão ralado seco para absorver os líquidos, salsa picada fina"
-    ],
-    "instructions": [
-      "O truque para hambúrgueres suculentos sem fritar: use a pasta dos cogumelos picados misturada directamente na carne crua e no pão mole. Evite fritar a seco em gordura excessiva.",
-      "Molde na palma oleada discos grossos e perfeitos num tabuleiro forrado a papel vegetal. Leve ao forno a calor forte durante 17 minutos até dourar no topo. Pode gratinar com queijo nos últimos 2 minutos."
-    ],
-    "baby_adaptation": "Ao contrário das friturasoleosas tradicionais, este hambúrguer com cogumelos desfaz-se na língua. Evite o pão frito ao lado — sirva apenas com puré de batata e legumes, sem calorias de gorduras trans.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Hamb%C3%BArgueres"
-  },
-  {
-    "id": 91,
-    "title": "Almôndegas Mistas em Molho de Tomate Rústico",
-    "category": "Carnes Vermelhas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela",
-      "Amigo do Congelador"
-    ],
-    "time": "40 min",
-    "ingredients": [
-      "50% vaca lombo / 50% porco picados, migalhas de pão demolhado, dentes de alho picados e 1 ovo inteiro",
-      "Molho caldo vivo: 1 frasco de polpa de tomate rústico, cebola inteira, azeite"
-    ],
-    "instructions": [
-      "Molde com as mãos molhadas à dimensão de bolas de ping-pong. Não frite! Sele apenas do lado de fora numa frigideira com uma pincelada de azeite até dourarem a crosta (4 minutos).",
-      "Faça o molho: rale a cebola no azeite, deite a polpa de tomate rústico e afogue as almôndegas inteiramente num banho a ferver baixinho, tapadas, durante 25 minutos."
-    ],
-    "baby_adaptation": "A carne que ferve no molho fica muito pura, e como levou pão na farça interior, as esferas não ficam duras. Desfaça-as apenas com o garfo no meio de um puré ou esparguete cortado para evitar texturas redondas intactas perigosas.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Alm%C3%B4ndegas+Tomate"
-  },
-  {
-    "id": 92,
-    "title": "Bifanas de Porco Magro Suadas em Cebolada Doce",
-    "category": "Carnes Vermelhas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "Bifanas de lombo finíssimas cortadas tipo papel no talho (magras)",
-      "3 cebolas roxas grandes em meias-luas transparentes",
-      "Alho às rodelas, 1 colher de chá de pimentão doce; arroz branco solto para acompanhar"
-    ],
-    "instructions": [
-      "Aqueça a frigideira até deitar fumo. Coloque com pinça os papéis de carne durante 1 minuto de cada lado e retire logo de seguida para um prato, recolhendo os sucos sem endurecer a carne.",
-      "No fundo oleado que ficou, atire a montanha de cebolas, raspe o fundo, e deixe-as derreter e caramelizar até ficarem doces e moles.",
-      "Reincorpore as bifanas e o molho vermelho delas apenas 2 minutos nesse banho abafado e perfumado."
-    ],
-    "baby_adaptation": "Os cortes grossos de porco são uma provação mastigatória para os mais novos. Estes papéis finíssimos mimetizam texturas que se desfazem na cebolada adocicada sem enjoar de banha.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Bifanas+Cebolada"
-  },
-  {
-    "id": 93,
-    "title": "Carne de Porco Magra à Alentejana (Substituto de Amêijoas)",
-    "category": "Carnes Vermelhas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Uma Panela",
-      "Conforto"
-    ],
-    "time": "45 min",
-    "ingredients": [
-      "Lombinhos de porco magro em cubos pequenos e limpos",
-      "Marinada clássica: massa de pimento vermelho natural, alho, 1 fio de vinho branco, louro",
-      "2 batatas-doces laranjas assadas cortadas em cubos",
-      "Coentros tenros vivos"
-    ],
-    "instructions": [
-      "Marine bem os cubos na mistura aromática de pimentão doce e alho durante pelo menos 30 minutos.",
-      "Escorra o vinho; frite a carne vigorosamente no azeite quente até tostar e caramelizar por fora. Retire o excesso de gordura.",
-      "Junte as batatas-doces macias e uma esguichada do vinho da marinada para criar a goma brilhante nas carnes. Finalize com coentros abundantes, tapado, para impregnar com os vapores."
-    ],
-    "baby_adaptation": "Zero bivalves para bebés! O risco de hepatite ou contaminações por amêijoas não compensa em tenra idade. As batatas-doces pelo sabor adocicado substituem as conchas com brilhantismo, empurrando o tenro porco do prato.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Carne+Porco+Alentejana"
-  },
-  {
-    "id": 94,
-    "title": "Pastelão de Forno de Macarrão Riscado com Bolonhesa",
-    "category": "Carnes Vermelhas",
-    "origin": "Portuguesa",
-    "dynamics": [
-      "Amigo do Congelador",
-      "Express"
-    ],
-    "time": "35 min",
-    "ingredients": [
-      "Sobras de massa riscada (penne ou macarrão) já cozida, 400g de sobras de bolonhesa caseira",
-      "Mistura de ligação: 1/2 embalagem de natas leves batidas com 1 ovo. Queijo emmental magro ralado."
-    ],
-    "instructions": [
-      "Num pirex generoso, misture com vigor as massas frias nos sucos estufados densos da bolonhesa de véspera.",
-      "Cubra os espaços brancos com a mistura espessa de natas e ovo para fazer a massa agregar (solidifica no calor, unindo tudo sem falhar os cortes).",
-      "Distribua queijo amarelo pelo topo e cozinhe a 200 °C durante 15 minutos até a tampa estalar em castanho de forno."
-    ],
-    "baby_adaptation": "Os tubos de massa molhados não asfixiam, pois este bolo de sobras assado permite que a fatia se sustente e amoleça todo o miolo amiláceo. Corte à faca em pedaços quadrados manuseáveis.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Massada+Forno"
-  },
-  {
-    "id": 95,
-    "title": "Beef and Broccoli Rápido e Limpo (Sem Soja Base)",
-    "category": "Carnes Vermelhas",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "20 min",
-    "ingredients": [
-      "250g de vaca em corte finíssimo perpendicular à fibra (bifes extra-finos)",
-      "Brócolos separados em floretes pequenos e limpos",
-      "Sésamo tostado, sumo e raspa de 1 laranja forte e sumarenta",
-      "Salpico de soja (apenas para a dose do prato adulto)"
-    ],
-    "instructions": [
-      "O brócolo verde vivo: escalde os floretes com dois dedos de água no fundo de uma frigideira tapada durante 3 minutos. Murcham sem perder a crocância tenra. Retire para uma tigela.",
-      "A selagem relâmpago: vaca limpa a calor fortíssimo, não mais de 30 a 40 segundos de cada lado, até tostar na wok.",
-      "Incorpore o brócolo verde com o sumo caramelizante de laranja e um fio de óleo de sésamo virgem."
-    ],
-    "baby_adaptation": "Os molhos negros com alto teor de sódio não podem tocar no estômago do bebé. O sumo natural quente de laranja liga os amidos à perfeição com as carnes em fios macios de extrema macieza. Lasquinhas inteiras serão mastigadas formosamente.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Vaca+Br%C3%B3colos"
-  },
-  {
-    "id": 96,
-    "title": "Porco Agridoce Saudável (com Ananás Natural em Cubos)",
-    "category": "Carnes Vermelhas",
-    "origin": "Fusão Asiática",
-    "dynamics": [
-      "Express"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "Lombinhos de porco em cubos perfeitos",
-      "Cubos frescos de ananás e sumo puro de metade do fruto batido",
-      "Pimentos doces vermelhos limpos; 1 colher de sopa de amido de milho para engrossar; 1 colher de chá de vinagre de maçã"
-    ],
-    "instructions": [
-      "O molho agridoce sem química: bata o sumo de ananás com o amido de milho, o vinagre de maçã e pincele na carne, salteando intensivamente durante 5 minutos.",
-      "Refogue os pimentos doces coloridos e atire o ananás fresco ao centro para suar as gomas tenras que o fruto esconde.",
-      "Verta os sumos frutados para a wok quente com o porco, activando a fervura grossa e translúcida castanho-agridoce que cola às lascas asiáticas."
-    ],
-    "baby_adaptation": "O autêntico agridoce, isento de ketchup industrial e banhos de óleo: porco tenro com açúcar doce frutal que em pedaços picados não amedronta os bebés. A cor amarela reluzente e o sabor doce farão as delicias dos mais pequenos.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Porco+Agridoce"
-  },
-  {
-    "id": 97,
-    "title": "Koftas de Vaca Assadas Finas com Molho Fresco",
-    "category": "Carnes Vermelhas",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "30 min",
-    "ingredients": [
-      "500g de carne de vaca moída limpa, de talho de confiança",
-      "Meia cebola ralada para humidade interior, 1 colher de chá de cominhos em pó e pimentão doce suave",
-      "Pauzinhos de madeira grossos demolhados em água",
-      "Dip suave tzatziki: iogurte grego, hortelã fresca e 1/2 pepino ralado e escorrido"
-    ],
-    "instructions": [
-      "O líquido da cebola triturada embebe inteiramente a carne, evitando que os kebabs sequem no forno. Enrole em forma de charuto com a mão oleada nas espetadas.",
-      "Disponha suspensas entre as abas do tabuleiro com folha de alumínio a gotejar os sucos (tipo churrasco indirecto no forno). A 200 °C durante 25 minutos.",
-      "Mergulhe nas águas brancas e frescas do tzatziki à mesa."
-    ],
-    "baby_adaptation": "A carne de vaca de boa qualidade, sem nervos, desfaz-se lindamente. Os mergulhos no tzatziki de iogurte e hortelã sem sal ajudam à palatização e refrescam o sabor suave das especiarias.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Koftas"
-  },
-  {
-    "id": 98,
-    "title": "Caril Vermelho Suave de Vaca Inteira e Abóbora Fundida",
-    "category": "Carnes Vermelhas",
-    "origin": "Índia e Médio Oriente",
-    "dynamics": [
-      "Amigo do Congelador"
-    ],
-    "time": "60 min",
-    "ingredients": [
-      "Vaca de acém ou chambão em cubos (corte ideal para guisados longos)",
-      "2 chávenas de abóbora laranja limpa em cortes pequenos",
-      "Especiarias de caril vermelho não picante (base Garam Masala) e 1 lata de leite de coco gordo inteiro"
-    ],
-    "instructions": [
-      "A base grossa de ferro sela a carne na cúrcuma e especiarias doces vermelhas em azeite e alho fumegante, libertando os aromas indianos.",
-      "Inunde com o leite de coco, tape bem e cozinhe em lume brando durante 45 minutos — as reduções longas que rasam as fibras bovinas.",
-      "Quando a carne estiver macia ao cutelo, junte os pedaços de abóbora amarela e cozinhe mais 15 minutos, até a abóbora derreter e espessar o molho num creme exótico e quente."
-    ],
-    "baby_adaptation": "Com tempo e calor lento, a carne de vaca desfaz-se em fios finos e sedosos. Os cubos de abóbora derretem-se adoçando o molho, num caril doce que as mãos pequeninas agarram facilmente.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Caril+Vermelho"
-  },
-  {
-    "id": 99,
-    "title": "Lasanha Rústica Falsa de Carne, Courgette e Requeijão",
-    "category": "Carnes Vermelhas",
-    "origin": "Mediterrânica Geral",
-    "dynamics": [
-      "Amigo do Congelador"
-    ],
-    "time": "45 min",
-    "ingredients": [
-      "Folhas de massa fresca rectangulares (não necessitam de cozedura prévia)",
-      "Bolonhesa carnuda estufada, bem espessa",
-      "1 courgette comprida em tiras longitudinais finas (de mandolina ou faca). 1 embalagem de requeijão de vaca magro, 1 bola de mozzarella fresca fina"
-    ],
-    "instructions": [
-      "Num pirex, monte as camadas rústicas: fio de bolonhesa no fundo; as tiras finas de courgette que ao morder imitam a textura da massa mas eliminam o pão; folhas de massa.",
-      "O creme de requeijão substitui o bechamel pesado: esfareле o requeijão mole e barre com as costas de uma colher entre as camadas.",
-      "Distribua a mozzarella por cima e leve ao forno a 190 °C durante 35 minutos até gratinar e dourar."
-    ],
-    "baby_adaptation": "Evite o bechamel frito com manteiga e amidos trans — este requeijão fresco e leve é muito mais suave para o sistema digestivo dos bebés. As tiras finas de courgette disfarçam-se de massa verde e adocicada, sem acidez.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Lasanha+Carne"
-  },
-  {
-    "id": 100,
-    "title": "Bife à Parmegiana Falso de Forno Dourado",
-    "category": "Carnes Vermelhas",
-    "origin": "Mediterrânica Geral",
-    "dynamics": [
-      "Express",
-      "Uma Panela/Tabuleiro"
-    ],
-    "time": "25 min",
-    "ingredients": [
-      "Bifes de alcatra finos, bem batidos para rebentar as fibras e amaciar",
-      "A cama rubra: passata de tomate com folhinhas de manjericão fresco",
-      "Bolas de mozzarella fresca fatiadas; massa rústica al dente para acompanhar"
-    ],
-    "instructions": [
-      "Não panar nem afogar em pão e óleos profundos! Tempere e sele as carnes numa chapa muito quente durante 40 segundos de cada lado para caramelizar. Retire e estenda num tabuleiro.",
-      "Deite coroas ricas de passata de tomate e rodelas de mozzarella por cima de todos os bifes. Leve ao forno a temperatura alta a derreter o queijo, cerca de 10 minutos.",
-      "Sirva empoçado sobre uma cama larga de massa com o molho de tomate derretido na carne."
-    ],
-    "baby_adaptation": "Uma maravilha sem a crosta de pão frito que raspa as mucosas. A carne macia com o queijo fresco e o tomate suave formam um conjunto doce e sem acidez. Sirva picadinho com a massa para as primeiras garfadas independentes do bebé.",
-    "pingo_doce_link": "https://www.pingodoce.pt/on/demandware.store/Sites-pingo-doce-Site/default/Search-Show?q=Bife+Parmegiana"
+    "title": "Folhado de salmão",
+    "ingredients": [
+      "600 g de lombo de salmão",
+      "q.b. de sal",
+      "q.b. de mix de pimentas",
+      "360 g de esparregado",
+      "460 g de massa folhada",
+      "1 unid. de ovo"
+    ],
+    "preparation": [
+      "Divida a massa folhada em dois. Em cada metade coloque um pouco de esparregado (preparado conforme as instruções da embalagem) e por cima, coloque o tranche de salmão temperado com alho, sal e pimenta.",
+      "Embrulhe o salmão com a massa folhada, dê uns golpes na parte de cima e pincele com gema batida. Leve ao forno pré-aquecido a 200 ºC durante cerca de 15 minutos ou até dourados."
+    ]
   }
 ]
