@@ -10,10 +10,36 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "Sobras limpas de frango assado ou cozido, totalmente desfiado",
-      "200g de espinafres baby frescos, 3 dentes de alho picados, azeite virgem extra",
-      "1/2 broa de milho amarela esfarelada em migalhas pelas mãos",
-      "1 colher de café de pimentão doce fumado (para mimetizar a profundidade do bacalhau tradicional)"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sobras limpas de frango",
+        "prep": "assado ou cozido, totalmente desfiado"
+      },
+      {
+        "qty": "200",
+        "unit": "g",
+        "name": "espinafres baby",
+        "prep": null
+      },
+      {
+        "qty": "3",
+        "unit": "dente",
+        "name": "alho",
+        "prep": "picados, azeite virgem extra"
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "broa de milho amarela esfarelada em migalhas pelas mãos",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de café de pimentão doce fumado",
+        "prep": "para mimetizar a profundidade do bacalhau tradicional"
+      }
     ],
     "instructions": [
       "Numa sertã larga, sue o espinafre com azeite e alho apenas até murchar e ficar verde-vivo (1 minuto). Espalhe no fundo do tabuleiro.",
@@ -34,9 +60,24 @@
     ],
     "time": "50 min",
     "ingredients": [
-      "600g de carne de peru picada duas vezes no talho (para não fragmentar em demasia)",
-      "Cenoura ralada, meia cebola suada, 1 ovo, pão ralado ou miolo de pão ensopado em leite (o grande ligante humedecedor)",
-      "Recheio: folhas de espinafre, fatias de queijo flamengo e courgette fina"
+      {
+        "qty": "600",
+        "unit": "g",
+        "name": "carne de peru",
+        "prep": "picada duas vezes no talho para não fragmentar em demasia"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cenoura",
+        "prep": "ralada, meia cebola suada, 1 ovo, pão ralado ou miolo de pão ensopado em leite o grande ligante humedecedor"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "recheio: folhas de espinafre",
+        "prep": null
+      }
     ],
     "instructions": [
       "Amasse a carne activamente com o pão ensopado, o ovo e os aromas para obter uma farça coesa que não seque no forno.",
@@ -56,10 +97,30 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "2 peitos de frango em fatias ultra-finas (cortar semi-congelado ajuda muito)",
-      "Marinada de veludo: 1 colher de sopa de Maizena, 1 colher de sopa de óleo de sésamo, gota de sumo de limão",
-      "1 cabeça pequena de brócolos e 1/2 chávena de cajus naturais (só para adultos)",
-      "1 colher de sopa de molho de soja escuro, gengibre fresco raspado"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "peitos de frango em fatias ultra-finas",
+        "prep": "cortar semi-congelado ajuda muito"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada de veludo: 1 colher de sopa de maizena",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cabeça de brócolos e 1/2 chávena de cajus naturais",
+        "prep": "só para adultos"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sopa de molho de soja escuro",
+        "prep": null
+      }
     ],
     "instructions": [
       "A técnica de veludar (velveting): envolva o frango na marinada de Maizena. Isto cria uma barreira protetora que impede as fatias finas de secarem, deixando-as macias e suculentas.",
@@ -79,9 +140,24 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "2 pacotes de noodles de ovo e trigo finos",
-      "Tiras finas de frango, juliana de cenoura, courgette e couve lombarda",
-      "Óleo de sésamo, molho de soja claro e molho de ostras (uma pinga para adultos)"
+      {
+        "qty": "2",
+        "unit": "pacote",
+        "name": "noodles de ovo e trigo",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "tiras de frango",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "óleo de sésamo",
+        "prep": "uma pinga para adultos"
+      }
     ],
     "instructions": [
       "Aqueça a água dos noodles com uma gota de óleo de sésamo para não grudarem.",
@@ -102,9 +178,36 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "Peitos de frango em cubos grossos para saltear",
-      "O glacé: 200 ml de sumo de ananás ou pêssego natural sem açúcar, 1 colher de chá de alho moído e gengibre, 1 colher de sobremesa de Maizena diluída em água fria",
-      "Sementes finas de sésamo torradas e arroz de jasmim"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "peitos de frango",
+        "prep": "em cubos grossos para saltear"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "o glacé: 200 ml de sumo de ananás ou pêssego natural sem açúcar",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de alho moído e gengibre",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sobremesa de maizena diluída em água fria",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sementes de sésamo torradas e arroz de jasmim",
+        "prep": null
+      }
     ],
     "instructions": [
       "Frite os cubos de frango na frigideira até marcar uma crosta dourada.",
@@ -125,10 +228,30 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "600g de sobrecoxas de frango limpas com ou sem osso (muito mais suculentas do que o peito)",
-      "1 manga doce e maduríssima triturada até puré denso",
-      "1 lata de leite de coco forte e cremoso",
-      "Cúrcuma, alho, 1 fio final de sumo de lima fresca"
+      {
+        "qty": "600",
+        "unit": "g",
+        "name": "sobrecoxas de frango limpas com ou sem osso",
+        "prep": "muito mais suculentas do que o peito"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "manga doce e maduríssima triturada até puré denso",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "leite de coco forte e cremoso",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cúrcuma",
+        "prep": null
+      }
     ],
     "instructions": [
       "Faça um refogado brilhante no óleo com a cúrcuma moída e o alho esmagado para libertarem os óleos perfumados amarelos.",
@@ -150,10 +273,30 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "Pedaços de frango macio (coxa sem osso), sumo de limão",
-      "Masala base: 2 iogurtes gregos limpos e 1 frasco de passata de tomate doce",
-      "1 noz valente de manteiga e pasta de caju opcional, coentros",
-      "Marinada: 1 parte do iogurte com alho e um toque suave de especiarias doces"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pedaços de frango macio",
+        "prep": "coxa sem osso"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "masala base: 2 iogurtes gregos limpos e 1 frasco de passata de tomate doce",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "noz valente de manteiga e pasta de caju opcional",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada: 1 parte do iogurte com alho e um toque suave de especiarias doces",
+        "prep": null
+      }
     ],
     "instructions": [
       "O segredo é deixar a ave repousar no banho de iogurte prévio. Aqueça uma chapa alta sem gordura e sele activamente (criando crosta ligeiramente chamuscada). Reserve o frango.",
@@ -174,10 +317,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "500g de carne de peru picada fina (peça suculenta da perna)",
-      "1 cebola média, pão ralado leve e cominhos moídos",
-      "Molho tzatziki leve: iogurte grego, hortelã fresca picada fina, pepino ralado e escorrido",
-      "Paus de madeira finos para as espetadas"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "carne de peru",
+        "prep": "picada fina peça suculenta da perna"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "ralado leve e cominhos moídos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "molho tzatziki leve: iogurte grego",
+        "prep": "picada fina, pepino ralado e escorrido"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "paus de madeira para as espetadas",
+        "prep": null
+      }
     ],
     "instructions": [
       "O truque da suculência das aves do Médio Oriente: rale a cebola na picadora fina e junte toda essa pasta molhada húmida na carne com as especiarias. O suco da cebola hidrata o peru magro no calor brutal do forno.",
@@ -198,10 +361,30 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "300g de cotovelos ou búzios grossos com espirais profundas",
-      "1 bife de peru batido, cortado em tiras finas",
-      "1 courgette fatiada ultra-finamente com o descascador (fitas vegetais transparentes)",
-      "2 colheres de queijo-creme branco gordo, azeite, alho esmagado"
+      {
+        "qty": "300",
+        "unit": "g",
+        "name": "cotovelos ou búzios com espirais profundas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "bife de peru batido",
+        "prep": "cortado em tiras finas"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "courgette",
+        "prep": "fatiada ultra-finamente com o descascador fitas vegetais transparentes"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "colheres de queijo-creme branco gordo",
+        "prep": "esmagado"
+      }
     ],
     "instructions": [
       "Coza a massa al dente. Numa frigideira à parte, sue as tiras de peru brancas com o alho e junte rapidamente a courgette em fitas (ela derrete e fina-se em 2 minutos no vapor do azeite).",
@@ -221,9 +404,24 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "2 a 3 peitos de frango grossos abertos ao meio tipo borboleta e ligeiramente espalmados",
-      "Recheio central: fatias finas de tomate maduro, bolas de mozzarella suave em água, manjericão fresco",
-      "Courgettes finas e azeite perfumado com orégãos"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "a 3 peitos de frango abertos ao meio tipo borboleta e ligeiramente espalmados",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "recheio central: fatias de tomate",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "courgettes e azeite perfumado com orégãos",
+        "prep": null
+      }
     ],
     "instructions": [
       "Bata levemente os peitos para uniformizar a espessura e acelerar a cozedura.",

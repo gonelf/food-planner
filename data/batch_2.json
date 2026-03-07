@@ -9,11 +9,54 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "3 postas altas de peixe branco (bacalhau fresco, pescada, corvina)",
-      "4 batatas cortadas em rodelas grossas e uniformes",
-      "2 cebolas em meias-luas carnudas, 1 pimento vermelho em tiras",
-      "2 tomates maduros em rodelas generosas",
-      "Azeite virgem extra generoso, 1 colher de chá de massa de pimentão, 3 dentes de alho"
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "postas de peixe branco",
+        "prep": "bacalhau fresco, pescada, corvina"
+      },
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "batatas",
+        "prep": "cortadas em rodelas grossas e uniformes"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cebolas",
+        "prep": "em meias-luas carnudas"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "pimento vermelho",
+        "prep": "em tiras"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "tomates",
+        "prep": "em rodelas generosas"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite virgem extra generoso",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de massa de pimentão",
+        "prep": null
+      },
+      {
+        "qty": "3",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      }
     ],
     "instructions": [
       "Numa assadeira, esfregue o fundo com azeite e alho picado.",
@@ -34,11 +77,36 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "2 a 3 postas de salmão ricas",
-      "1 frasco grande de grão-de-bico biológico cozido e bem lavado",
-      "150g de agriões frescos ou espinafres de folha pequena",
-      "1/2 cebola roxa marinada em vinagre e azeite, ou 1 punhado de azeitonas (para os adultos)",
-      "Azeite virgem frutado, sumo de limão fresco, pimenta preta moída"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "a 3 postas de salmão ricas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "grande de grão-de-bico biológico",
+        "prep": "cozido e bem lavado"
+      },
+      {
+        "qty": "150",
+        "unit": "g",
+        "name": "agriões ou espinafres de folha",
+        "prep": null
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "cebola roxa",
+        "prep": "marinada em vinagre e azeite, ou 1 punhado de azeitonas para os adultos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite virgem frutado",
+        "prep": null
+      }
     ],
     "instructions": [
       "Tempere o salmão com limão. Asse numa fritadeira a ar ou forno a 180 °C durante 12 a 15 minutos até a pele começar a estalar.",
@@ -59,10 +127,42 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "Cabeças de peixe ou osso suculento de pescada ou corvina fresca, mais 2 lombos",
-      "A base dos purés: 2 batatas-doces grandes, 2 cenouras, 1 cebola",
-      "Uma chávena de arroz agulha bem firme (para acabar)",
-      "Azeite, montes de coentros com o pé incluído"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cabeças de peixe ou osso suculento de pescada ou corvina fresca",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "a base dos purés: 2 batatas-doces",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "arroz agulha bem firme",
+        "prep": "para acabar"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite",
+        "prep": null
+      }
     ],
     "instructions": [
       "O segredo está no fumet: ferva as cabeças agressivamente durante 15 minutos e passe pelo coador de malha fina, ficando apenas com um caldo divinal (sem risco de qualquer espinha!).",
@@ -83,11 +183,42 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "300g de pescada bem seca, esfarelada ou em sobras",
-      "4 colheres de sopa fartas de farinha de trigo (ou de aveia)",
-      "2 ovos biológicos, 3/4 de chávena de água com gás bem fria (o truque para ficarem leves e estaladiças!)",
-      "1 cebola e 1 alho ralados até escorrer sumo (crucial para o aroma de patanisca original), muita salsa",
-      "1 chávena de arroz branco perfumado a molho de tomates de cacho assados"
+      {
+        "qty": "300",
+        "unit": "g",
+        "name": "pescada bem seca",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": "colher de sopa",
+        "name": "fartas de farinha de trigo",
+        "prep": "ou de aveia"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos biológicos",
+        "prep": null
+      },
+      {
+        "qty": "3/4",
+        "unit": "chávena",
+        "name": "água com gás bem fria",
+        "prep": "o truque para ficarem leves e estaladiças!"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola e 1 alho",
+        "prep": "ralados até escorrer sumo, muita salsa crucial para o aroma de patanisca original"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "arroz branco perfumado a molho de tomates de cacho",
+        "prep": "assados"
+      }
     ],
     "instructions": [
       "Prepare a massa: bata a farinha com os ovos líquidos e afrouixe com a água com gás fria até obter um polme como natas lisas. Incorpore a cebola escorrida, a salsa e o peixe esfarelado.",
@@ -107,9 +238,24 @@
     ],
     "time": "10 min",
     "ingredients": [
-      "2 latas de sardinhas em tomate ou em azeite de qualidade",
-      "4 colheres de sopa de grão-de-bico cozido e escorrido (ou meio abacate tenro como substituto vegetal)",
-      "Raspa fina de meio limão (sem chegar à parte branca) e 1 fio de mostarda Dijon (para adultos)"
+      {
+        "qty": "2",
+        "unit": "lata",
+        "name": "sardinhas em tomate ou",
+        "prep": "em azeite de qualidade"
+      },
+      {
+        "qty": "4",
+        "unit": "colher de sopa",
+        "name": "grão-de-bico",
+        "prep": "cozido e escorrido ou meio abacate tenro como substituto vegetal"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "raspa de meio limão e 1 fio de mostarda dijon",
+        "prep": "sem chegar à parte branca para adultos"
+      }
     ],
     "instructions": [
       "Escorra o excesso de líquido ou óleo da sardinha, mas não descarte tudo. Desfaça ativamente os filetes abertos, retirando a espinha central com cuidado.",
@@ -129,10 +275,30 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "1 pacote de noodles (tipo soba ou udon, ou esparguete se necessário)",
-      "400g de argolas pequenas de lula bem limpas",
-      "1 cenoura firme em juliana fina e 1 couve bok-choi ou pak-choi farta",
-      "Gengibre fresco ralado, fio de óleo de sésamo tostado (para adultos)"
+      {
+        "qty": "1",
+        "unit": "pacote",
+        "name": "noodles",
+        "prep": "tipo soba ou udon, ou esparguete se necessário"
+      },
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "argolas de lula bem limpas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cenoura firme",
+        "prep": "em juliana fina e 1 couve bok-choi ou pak-choi farta"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "gengibre",
+        "prep": "ralado, fio de óleo de sésamo tostado para adultos"
+      }
     ],
     "instructions": [
       "Mergulhe os noodles durante 3 minutos em água a ferver abundante, depois escorra e reserve.",
@@ -152,10 +318,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "Postas altas de salmão de qualidade",
-      "Sumo de 1 laranja doce",
-      "1 botão pequeno de gengibre fresco ralado (para os adultos)",
-      "1 medida de arroz perfumado de jasmim e 1 colher de chá de mel (opcional para dourar)"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "postas de salmão de qualidade",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sumo de 1 laranja doce",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "botão de gengibre",
+        "prep": "ralado para os adultos"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "arroz perfumado de jasmim e 1 colher de chá de mel",
+        "prep": "opcional para dourar"
+      }
     ],
     "instructions": [
       "Prepare o glacé asiático: numa taça, misture o sumo de laranja, a raspa da casca, 1 dente de alho em pó e um fio de mel. Marine o salmão nesta mistura e leve ao forno numa assadeira a 190 °C durante cerca de 10 minutos, até o glacé borbulhar e prender na superfície.",
@@ -174,11 +360,36 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "2 chávenas fartas de arroz vaporizado seco e frio de véspera (guardado no frigorífico)",
-      "2 ovos",
-      "Sobras de pescada branca, já sem pele, desmanchadas em lascas",
-      "Ervilhas congeladas extrafinas",
-      "Fio de óleo de sésamo"
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "fartas de arroz vaporizado e",
+        "prep": "de véspera guardado no frigorífico"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sobras de pescada branca",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "ervilhas congeladas extrafinas",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "fio de óleo de sésamo",
+        "prep": null
+      }
     ],
     "instructions": [
       "Técnica do chef: coloque a panela em lume fortíssimo. Entre com uma colher pequena de óleo até começar a fumegar. Junte os ovos crus e mexa vigorosamente durante 20 segundos, criando fragmentos ou nuvens amarelas soltas (não deixe secar como omelete).",
@@ -198,9 +409,24 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "Arroz de grão curto tipo calrose ou sushi, cozido e morno",
-      "Dados pequenos de salmão fresco (para adultos pode ser usado cru; para bebés, cozinhe a vapor 4 minutos em recipiente hermético)",
-      "Lascas de abacate maduro. Sementes de sésamo tostadas para os adultos."
+      {
+        "qty": null,
+        "unit": null,
+        "name": "arroz de grão curto tipo calrose ou sushi",
+        "prep": "cozido e morno"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "dados de salmão",
+        "prep": "para adultos pode ser usado cru; para bebés, cozinhe a vapor 4 minutos em recipiente hermético"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "lascas de abacate. sementes de sésamo tostadas para os adultos.",
+        "prep": null
+      }
     ],
     "instructions": [
       "Num prato plano, estenda o arroz morno em camada leve. Tempere a versão adulta com um fio de molho de soja e arrume os gomos de abacate e as lascas de salmão em harmonia.",
@@ -219,10 +445,42 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "500g de maruca ou cação em postas limpas, sem pele nem sangue",
-      "1 lata de leite de coco de qualidade (mínimo 80% coco)",
-      "1 colher de chá bem cheia de cúrcuma (açafrão-das-índias) em pó, 1 lima espremida e coentros frescos rasgados",
-      "1 cebola média em rodelas, azeite q.b."
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "maruca ou cação em postas limpas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "leite de coco de qualidade",
+        "prep": "mínimo 80% coco"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá bem cheia de cúrcuma em pó",
+        "prep": "açafrão-das-índias"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "lima espremida e coentros rasgados",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "em rodelas"
+      },
+      {
+        "qty": "q.b.",
+        "unit": null,
+        "name": "azeite",
+        "prep": null
+      }
     ],
     "instructions": [
       "A poção de ouro: aqueça o azeite, sue a cebola e deite a cúrcuma moída em pó — este especia activa os seus óleos essenciais e liberta o sabor intenso em contacto com a gordura quente.",

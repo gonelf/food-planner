@@ -1,13 +1,13 @@
 /**
  * ingredientParser.js
  *
- * Parses free-form Portuguese ingredient strings into structured shopping items:
- * - Splits multi-ingredient strings (e.g. "Azeite q.b., 3 dentes de alho, 1 folha de louro")
- * - Extracts quantity + unit from each item
- * - Normalises ingredient names (removes prep instructions, maps rice types, etc.)
- * - Converts cups/spoons to grams or ml
- * - Aggregates identical ingredients, summing quantities
- * - Formats the result as a human-readable "300 g de tomate cherry" string
+ * Converts recipe ingredients into shopping list items.
+ *
+ * Supports two ingredient formats:
+ *   - Structured objects: { qty, unit, name, prep }  ← new, preferred
+ *   - Legacy free-text strings                        ← kept for compatibility
+ *
+ * Pipeline: parse → normalise name → aggregate → format for display
  */
 
 // ─── Rice type normalisation ──────────────────────────────────────────────────
@@ -339,7 +339,69 @@ function formatIngredient(item) {
   return `${qtyStr} ${unitDisplay} de ${name}`;
 }
 
-// ─── PARSING A SINGLE ITEM ────────────────────────────────────────────────────
+// ─── STRUCTURED INGREDIENT PARSING ───────────────────────────────────────────
+
+// Maps the unit strings used in the structured recipe format to internal types.
+const UNIT_TYPE_MAP = {
+  'g':              { type: 'weight', factor: 1 },
+  'kg':             { type: 'weight', factor: 1000 },
+  'ml':             { type: 'volume', factor: 1 },
+  'dl':             { type: 'volume', factor: 100 },
+  'L':              { type: 'volume', factor: 1000 },
+  'chávena':        { type: 'cup' },
+  'copo':           { type: 'cup' },
+  'colher de sopa': { type: 'spoon' },
+  'colher de chá':  { type: 'spoon' },
+  'lata':           { type: 'count' },
+  'frasco':         { type: 'count' },
+  'embalagem':      { type: 'count' },
+  'dente':          { type: 'garlic' },
+  'folha':          { type: 'count' },
+  'pacote':         { type: 'count' },
+  'pote':           { type: 'count' },
+};
+
+/**
+ * Converts a structured ingredient object { qty, unit, name, prep } into the
+ * internal parsed form used by aggregateItems / formatIngredient.
+ * The `prep` field is intentionally ignored for shopping list purposes.
+ */
+function parseStructuredItem({ qty, unit, name }) {
+  const normName = normaliseIngredientName(name || '');
+  if (!normName || normName.length < 2) return null;
+
+  // q.b. or missing quantity
+  if (!qty || qty === 'q.b.') {
+    return { name: normName, quantity: null, unit: null, type: qty === 'q.b.' ? 'qb' : 'nounit', factor: 1 };
+  }
+
+  // Parse qty string → number
+  let quantity;
+  if (qty.includes('/')) {
+    const [a, b] = qty.split('/').map(Number);
+    quantity = a / b;
+  } else if (/[-–]/.test(qty)) {
+    const parts = qty.split(/[-–]/).map(Number);
+    quantity = (parts[0] + parts[1]) / 2;
+  } else {
+    quantity = parseFloat(String(qty).replace(',', '.'));
+  }
+  if (isNaN(quantity)) {
+    return { name: normName, quantity: null, unit: null, type: 'nounit', factor: 1 };
+  }
+
+  // Map unit string → type/factor
+  const unitInfo = unit ? UNIT_TYPE_MAP[unit] : null;
+  return {
+    name:     normName,
+    quantity,
+    unit:     unit || 'un',
+    type:     unitInfo ? unitInfo.type : 'count',
+    factor:   unitInfo ? (unitInfo.factor || 1) : 1,
+  };
+}
+
+// ─── LEGACY STRING PARSING ────────────────────────────────────────────────────
 
 function parseSingleItem(text) {
   if (!text || text.length < 2) return null;
@@ -397,22 +459,30 @@ function aggregateItems(items) {
 // ─── PUBLIC API ───────────────────────────────────────────────────────────────
 
 /**
- * Takes all raw ingredient strings from the weekly planner and returns an
- * array of shopping list items ready for display.
+ * Takes all ingredients from the weekly planner and returns shopping list items.
  *
- * Each item: { name, displayText, originalText, quantity, unit, type }
+ * Accepts:
+ *   - Structured objects { qty, unit, name, prep }  (new format)
+ *   - Free-text strings                              (legacy format)
+ *
+ * Each returned item: { name, displayText, quantity, unit, type }
  */
-export function buildShoppingList(allIngredientStrings) {
-  // 1. Split multi-ingredient strings and flatten
-  const split = allIngredientStrings.flatMap(text => splitIngredientText(text));
+export function buildShoppingList(allIngredients) {
+  // 1. Parse each ingredient (structured or legacy string)
+  const parsed = allIngredients
+    .flatMap(ing => {
+      if (ing && typeof ing === 'object') {
+        const item = parseStructuredItem(ing);
+        return item ? [item] : [];
+      }
+      // Legacy: split multi-ingredient strings then parse each
+      return splitIngredientText(String(ing)).map(parseSingleItem).filter(Boolean);
+    });
 
-  // 2. Parse each into structured form
-  const parsed = split.map(parseSingleItem).filter(Boolean);
-
-  // 3. Aggregate identical ingredients
+  // 2. Aggregate identical ingredients
   const aggregated = aggregateItems(parsed);
 
-  // 4. Add display text
+  // 3. Add display text
   return aggregated.map(item => ({
     ...item,
     displayText: formatIngredient(item),

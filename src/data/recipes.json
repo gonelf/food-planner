@@ -9,13 +9,60 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "400g bacalhau demolhado desfiado (sem espinhas e peles)",
-      "1 alho francês grande (cortado em finas meias-luas)",
-      "2 cenouras raladas num ralador grosso",
-      "6 ovos (para garantir um rácio cremoso de excelência)",
-      "200g batata palha (frita em casa ou de boa qualidade de forno)",
-      "Azeite virgem extra q.b., 3 dentes de alho picados, 1 folha de louro",
-      "Salsa fresca finamente picada e azeitonas pretas (opcional para o fim)"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "bacalhau",
+        "prep": "demolhado desfiado sem espinhas e peles"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "alho francês",
+        "prep": "cortado em finas meias-luas"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras",
+        "prep": "raladas num ralador grosso"
+      },
+      {
+        "qty": "6",
+        "unit": null,
+        "name": "ovos",
+        "prep": "para garantir um rácio cremoso de excelência"
+      },
+      {
+        "qty": "200",
+        "unit": "g",
+        "name": "batata palha",
+        "prep": "frita em casa ou de boa qualidade de forno"
+      },
+      {
+        "qty": "q.b.",
+        "unit": null,
+        "name": "azeite virgem extra",
+        "prep": null
+      },
+      {
+        "qty": "3",
+        "unit": "dente",
+        "name": "alho",
+        "prep": "picados"
+      },
+      {
+        "qty": "1",
+        "unit": "folha",
+        "name": "louro",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa fresca",
+        "prep": "picada e azeitonas pretas opcional para o fim"
+      }
     ],
     "instructions": [
       "Num tacho largo, aqueça um fio generoso de azeite e aromatize com o louro. Refogue o alho picado e o alho francês até este amolecer e 'suar' (cerca de 5 a 7 minutos).",
@@ -37,12 +84,48 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "4 a 6 filetes de pescada (frescos ou descongelados de qualidade, secos em papel de cozinha)",
-      "1 chávena de arroz carolino (lavado previamente)",
-      "1 chávena de ervilhas congeladas extrafinas",
-      "1 cebola média picada fina, 3 dentes de alho esmagados",
-      "1 colher de sopa de manteiga com sal",
-      "Azeite virgem extra, sumo de meio limão, coentros frescos e um pingo de vinho branco (opcional)"
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "a 6 filetes de pescada",
+        "prep": "frescos ou descongelados de qualidade, secos em papel de cozinha"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "arroz carolino",
+        "prep": "lavado previamente"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "ervilhas congeladas extrafinas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "picada fina"
+      },
+      {
+        "qty": "3",
+        "unit": "dente",
+        "name": "alho",
+        "prep": "esmagados"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sopa de manteiga com sal",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite virgem extra",
+        "prep": "opcional"
+      }
     ],
     "instructions": [
       "Marine ligeiramente os filetes com limão, azeite, alho laminado e um toque de vinho branco. Leve ao forno a 180 °C num tabuleiro durante cerca de 18 a 20 minutos para não secarem em demasia.",
@@ -64,11 +147,48 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "500g de lombos de pescada ou bacalhau fresco (sobras de bom peixe)",
-      "1 embalagem de espinafres frescos baby (200g)",
-      "800g de batata (mistura de batata-doce e batata normal para textura)",
-      "2 colheres de sopa de manteiga, cerca de 100 ml de leite quente e 1 gema de ovo",
-      "1 cebola grande, azeite, 1 folha de louro, noz-moscada fresca ralada"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "lombos de pescada ou bacalhau",
+        "prep": "sobras de bom peixe"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "embalagem de espinafres baby",
+        "prep": "200g"
+      },
+      {
+        "qty": "800",
+        "unit": "g",
+        "name": "batata",
+        "prep": "mistura de batata-doce e batata normal para textura"
+      },
+      {
+        "qty": "2",
+        "unit": "colher de sopa",
+        "name": "manteiga",
+        "prep": null
+      },
+      {
+        "qty": "100",
+        "unit": "ml",
+        "name": "leite e 1 gema de ovo",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "folha",
+        "name": "louro",
+        "prep": "ralada"
+      }
     ],
     "instructions": [
       "Coza as batatas. Reduza-as a puré e, ainda morno, adicione a manteiga, o leite aquecido, a gema de ovo e a noz-moscada para um creme aveludado.",
@@ -90,11 +210,42 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "1 frasco grande de feijão frade bem cozido, pele fina (aprox. 400g)",
-      "2 latas ou frascos de filetes de cavala ou carapau em azeite de qualidade",
-      "3 ovos cozidos a temperatura controlada (gemas cremosas)",
-      "1/2 cebola roxa em rodelas finas, 1/2 pimento verde pequeno em picadinho",
-      "Salsa fresca farta, azeite virgem extra perfumado, vinagre de vinho ou de maçã e 1 colher de chá de mostarda Dijon (para emulsionar)"
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "grande de feijão frade",
+        "prep": "bem cozido, pele fina aprox. 400g"
+      },
+      {
+        "qty": "2",
+        "unit": "lata",
+        "name": "ou frascos de filetes de cavala ou carapau",
+        "prep": "em azeite de qualidade"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "ovos",
+        "prep": "cozidos a temperatura controlada gemas cremosas"
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "cebola roxa",
+        "prep": "em rodelas finas"
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "pimento verde",
+        "prep": "em picadinho"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa fresca farta",
+        "prep": "para emulsionar"
+      }
     ],
     "instructions": [
       "Passe o feijão frade generosamente por água corrente para eliminar a gosma ou sais residuais e escorra muito bem.",
@@ -116,11 +267,48 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "600g de tentáculos ou tiras de pota (previamente limpos)",
-      "1,5 chávenas de arroz carolino autêntico (não agulha!)",
-      "1 tomate maduro carnudo aos cubos e 2 colheres de sopa de polpa de tomate rústica",
-      "1/2 pimento vermelho em cubos minúsculos",
-      "1 cebola média, 2 dentes de alho, azeite farto, um cálice de vinho branco, coentros com raiz"
+      {
+        "qty": "600",
+        "unit": "g",
+        "name": "tentáculos ou tiras de pota",
+        "prep": "previamente limpos"
+      },
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz carolino",
+        "prep": "não agulha!"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "tomate carnudo aos cubos e 2 colheres de sopa de polpa de tomate rústica",
+        "prep": null
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "pimento vermelho",
+        "prep": "em cubos minúsculos"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cálice de vinho branco",
+        "prep": null
+      }
     ],
     "instructions": [
       "Faça um belo refogado com azeite, cebola, alhos picados e as raízes fininhas dos coentros (onde mora o sabor!).",
@@ -143,12 +331,48 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "3 latas de atum ao natural (em água)",
-      "1 chávena de flocos de aveia finos",
-      "2 ovos M",
-      "1 cenoura pequena ralada finamente",
-      "Salsa picada, um fio de sumo de limão, 1 colher de chá rasa de paprika (doce ou fumada)",
-      "Acompanhamento: arroz solto ou legumes cozidos a vapor"
+      {
+        "qty": "3",
+        "unit": "lata",
+        "name": "atum ao natural",
+        "prep": "em água"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "flocos de aveia",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos m",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cenoura",
+        "prep": "ralada finamente"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa",
+        "prep": "picada"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "fio de sumo de limão",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá rasa de paprika",
+        "prep": "doce ou fumada"
+      }
     ],
     "instructions": [
       "O segredo está na humidade: escorra bem o atum retirando parte da água, mas sem desidratar totalmente, para manter o hambúrguer esponjoso.",
@@ -170,12 +394,42 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "3-4 lombos altos de pescada do Chile ou lombo de bacalhau fresco",
-      "4 a 5 batatas médias lisas para cozer (olho-de-perdiz, por exemplo)",
-      "3 cenouras grandes cortadas a rigor",
-      "1/2 couve-penca ou lombarda em pedaços grosseiros, ou agriões",
-      "2 ovos (para os adultos, a cozer junto)",
-      "Azeite virgem extra aromático, vinagre de vinho tinto à moda antiga (para o molho)"
+      {
+        "qty": "3-4",
+        "unit": null,
+        "name": "lombos de pescada do chile ou lombo de bacalhau",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "a 5 batatas lisas para cozer",
+        "prep": "olho-de-perdiz, por exemplo"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "cenouras",
+        "prep": "cortadas a rigor"
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "couve-penca ou lombarda",
+        "prep": "em pedaços grosseiros, ou agriões"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos",
+        "prep": "para os adultos, a cozer junto"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite virgem extra aromático",
+        "prep": "para o molho"
+      }
     ],
     "instructions": [
       "Recomenda-se uma cozedura escalonada! Num tacho largo com água a ferver temperada, descasque e lance primeiro as cenouras grandes.",
@@ -196,11 +450,36 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "2-3 bifes de atum fresco e vermelho (lombo limpo)",
-      "2 cebolas brancas grandes em meias-luas finas",
-      "3 colheres de sopa de polpa de tomate concentrada e um dente de alho",
-      "1 folha de louro pequena e um toque de vinagre ou vinho branco",
-      "Azeite virgem, acompanhado de um majestoso puré de batata rico"
+      {
+        "qty": "2-3",
+        "unit": null,
+        "name": "bifes de atum e vermelho",
+        "prep": "lombo limpo"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cebolas brancas",
+        "prep": "em meias-luas finas"
+      },
+      {
+        "qty": "3",
+        "unit": "colher de sopa",
+        "name": "polpa de tomate concentrada e um dente de alho",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "folha",
+        "name": "louro e um toque de vinagre ou vinho branco",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite virgem",
+        "prep": null
+      }
     ],
     "instructions": [
       "Um atum ressecado é o maior pecado da cozinha. Vamos estufar longamente as cebolas, mas ser cirúrgicos com o atum.",
@@ -221,11 +500,36 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "3 tranches ou medalhões de bacalhau fresco ou pescada da posta",
-      "3 pães saloios com miolo fofo endurecido do dia anterior",
-      "4 dentes de alho vigorosos e um ramo farto de coentros (usar os talos também)",
-      "3 a 4 ovos caseiros ou de campo",
-      "Uma dose valente do seu melhor azeite"
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "tranches ou medalhões de bacalhau ou pescada da posta",
+        "prep": null
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "pães saloios com miolo fofo endurecido do dia anterior",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": "dente",
+        "name": "alho vigorosos e um ramo farto de coentros",
+        "prep": "usar os talos também"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "a 4 ovos caseiros ou de campo",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "dose valente do seu melhor azeite",
+        "prep": null
+      }
     ],
     "instructions": [
       "O rei disto é o pão e o caldo: coza gentilmente a pescada 7 minutos apenas com um pouco de cebola e alho. Guarde 100% desta valiosa água em reserva quente.",
@@ -247,11 +551,54 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "500g postas de maruca ou garoupa",
-      "2 chávenas de massa grossa de trigo duro (tipo cotovelos grandes ou búzios)",
-      "1 cebola média, 2 dentes de alho maduros, azeite q.b.",
-      "1/2 pimento verde, 2 tomates rubros maduros ralados (ou 4 colheres de sopa de polpa de tomate)",
-      "Um raminho de hortelã e um cálice de vinho branco"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "postas de maruca ou garoupa",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "massa de trigo duro",
+        "prep": "tipo cotovelos grandes ou búzios"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      },
+      {
+        "qty": "q.b.",
+        "unit": null,
+        "name": "azeite",
+        "prep": null
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "pimento verde",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "tomates rubros",
+        "prep": "ralados ou 4 colheres de sopa de polpa de tomate"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "raminho de hortelã e um cálice de vinho branco",
+        "prep": null
+      }
     ],
     "instructions": [
       "Pique a cebola finamente. Num tacho de fundo espesso, crie uma base pastosa com azeite, cebola, o tomate ralado e o pimento suado. Refresque com o vinho branco.",
@@ -272,11 +619,54 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "3 postas altas de peixe branco (bacalhau fresco, pescada, corvina)",
-      "4 batatas cortadas em rodelas grossas e uniformes",
-      "2 cebolas em meias-luas carnudas, 1 pimento vermelho em tiras",
-      "2 tomates maduros em rodelas generosas",
-      "Azeite virgem extra generoso, 1 colher de chá de massa de pimentão, 3 dentes de alho"
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "postas de peixe branco",
+        "prep": "bacalhau fresco, pescada, corvina"
+      },
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "batatas",
+        "prep": "cortadas em rodelas grossas e uniformes"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cebolas",
+        "prep": "em meias-luas carnudas"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "pimento vermelho",
+        "prep": "em tiras"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "tomates",
+        "prep": "em rodelas generosas"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite virgem extra generoso",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de massa de pimentão",
+        "prep": null
+      },
+      {
+        "qty": "3",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      }
     ],
     "instructions": [
       "Numa assadeira, esfregue o fundo com azeite e alho picado.",
@@ -297,11 +687,36 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "2 a 3 postas de salmão ricas",
-      "1 frasco grande de grão-de-bico biológico cozido e bem lavado",
-      "150g de agriões frescos ou espinafres de folha pequena",
-      "1/2 cebola roxa marinada em vinagre e azeite, ou 1 punhado de azeitonas (para os adultos)",
-      "Azeite virgem frutado, sumo de limão fresco, pimenta preta moída"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "a 3 postas de salmão ricas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "grande de grão-de-bico biológico",
+        "prep": "cozido e bem lavado"
+      },
+      {
+        "qty": "150",
+        "unit": "g",
+        "name": "agriões ou espinafres de folha",
+        "prep": null
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "cebola roxa",
+        "prep": "marinada em vinagre e azeite, ou 1 punhado de azeitonas para os adultos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite virgem frutado",
+        "prep": null
+      }
     ],
     "instructions": [
       "Tempere o salmão com limão. Asse numa fritadeira a ar ou forno a 180 °C durante 12 a 15 minutos até a pele começar a estalar.",
@@ -322,10 +737,42 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "Cabeças de peixe ou osso suculento de pescada ou corvina fresca, mais 2 lombos",
-      "A base dos purés: 2 batatas-doces grandes, 2 cenouras, 1 cebola",
-      "Uma chávena de arroz agulha bem firme (para acabar)",
-      "Azeite, montes de coentros com o pé incluído"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cabeças de peixe ou osso suculento de pescada ou corvina fresca",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "a base dos purés: 2 batatas-doces",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "arroz agulha bem firme",
+        "prep": "para acabar"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite",
+        "prep": null
+      }
     ],
     "instructions": [
       "O segredo está no fumet: ferva as cabeças agressivamente durante 15 minutos e passe pelo coador de malha fina, ficando apenas com um caldo divinal (sem risco de qualquer espinha!).",
@@ -346,11 +793,42 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "300g de pescada bem seca, esfarelada ou em sobras",
-      "4 colheres de sopa fartas de farinha de trigo (ou de aveia)",
-      "2 ovos biológicos, 3/4 de chávena de água com gás bem fria (o truque para ficarem leves e estaladiças!)",
-      "1 cebola e 1 alho ralados até escorrer sumo (crucial para o aroma de patanisca original), muita salsa",
-      "1 chávena de arroz branco perfumado a molho de tomates de cacho assados"
+      {
+        "qty": "300",
+        "unit": "g",
+        "name": "pescada bem seca",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": "colher de sopa",
+        "name": "fartas de farinha de trigo",
+        "prep": "ou de aveia"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos biológicos",
+        "prep": null
+      },
+      {
+        "qty": "3/4",
+        "unit": "chávena",
+        "name": "água com gás bem fria",
+        "prep": "o truque para ficarem leves e estaladiças!"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola e 1 alho",
+        "prep": "ralados até escorrer sumo, muita salsa crucial para o aroma de patanisca original"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "arroz branco perfumado a molho de tomates de cacho",
+        "prep": "assados"
+      }
     ],
     "instructions": [
       "Prepare a massa: bata a farinha com os ovos líquidos e afrouixe com a água com gás fria até obter um polme como natas lisas. Incorpore a cebola escorrida, a salsa e o peixe esfarelado.",
@@ -370,9 +848,24 @@
     ],
     "time": "10 min",
     "ingredients": [
-      "2 latas de sardinhas em tomate ou em azeite de qualidade",
-      "4 colheres de sopa de grão-de-bico cozido e escorrido (ou meio abacate tenro como substituto vegetal)",
-      "Raspa fina de meio limão (sem chegar à parte branca) e 1 fio de mostarda Dijon (para adultos)"
+      {
+        "qty": "2",
+        "unit": "lata",
+        "name": "sardinhas em tomate ou",
+        "prep": "em azeite de qualidade"
+      },
+      {
+        "qty": "4",
+        "unit": "colher de sopa",
+        "name": "grão-de-bico",
+        "prep": "cozido e escorrido ou meio abacate tenro como substituto vegetal"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "raspa de meio limão e 1 fio de mostarda dijon",
+        "prep": "sem chegar à parte branca para adultos"
+      }
     ],
     "instructions": [
       "Escorra o excesso de líquido ou óleo da sardinha, mas não descarte tudo. Desfaça ativamente os filetes abertos, retirando a espinha central com cuidado.",
@@ -392,10 +885,30 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "1 pacote de noodles (tipo soba ou udon, ou esparguete se necessário)",
-      "400g de argolas pequenas de lula bem limpas",
-      "1 cenoura firme em juliana fina e 1 couve bok-choi ou pak-choi farta",
-      "Gengibre fresco ralado, fio de óleo de sésamo tostado (para adultos)"
+      {
+        "qty": "1",
+        "unit": "pacote",
+        "name": "noodles",
+        "prep": "tipo soba ou udon, ou esparguete se necessário"
+      },
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "argolas de lula bem limpas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cenoura firme",
+        "prep": "em juliana fina e 1 couve bok-choi ou pak-choi farta"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "gengibre",
+        "prep": "ralado, fio de óleo de sésamo tostado para adultos"
+      }
     ],
     "instructions": [
       "Mergulhe os noodles durante 3 minutos em água a ferver abundante, depois escorra e reserve.",
@@ -415,10 +928,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "Postas altas de salmão de qualidade",
-      "Sumo de 1 laranja doce",
-      "1 botão pequeno de gengibre fresco ralado (para os adultos)",
-      "1 medida de arroz perfumado de jasmim e 1 colher de chá de mel (opcional para dourar)"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "postas de salmão de qualidade",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sumo de 1 laranja doce",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "botão de gengibre",
+        "prep": "ralado para os adultos"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "arroz perfumado de jasmim e 1 colher de chá de mel",
+        "prep": "opcional para dourar"
+      }
     ],
     "instructions": [
       "Prepare o glacé asiático: numa taça, misture o sumo de laranja, a raspa da casca, 1 dente de alho em pó e um fio de mel. Marine o salmão nesta mistura e leve ao forno numa assadeira a 190 °C durante cerca de 10 minutos, até o glacé borbulhar e prender na superfície.",
@@ -437,11 +970,36 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "2 chávenas fartas de arroz vaporizado seco e frio de véspera (guardado no frigorífico)",
-      "2 ovos",
-      "Sobras de pescada branca, já sem pele, desmanchadas em lascas",
-      "Ervilhas congeladas extrafinas",
-      "Fio de óleo de sésamo"
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "fartas de arroz vaporizado e",
+        "prep": "de véspera guardado no frigorífico"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sobras de pescada branca",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "ervilhas congeladas extrafinas",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "fio de óleo de sésamo",
+        "prep": null
+      }
     ],
     "instructions": [
       "Técnica do chef: coloque a panela em lume fortíssimo. Entre com uma colher pequena de óleo até começar a fumegar. Junte os ovos crus e mexa vigorosamente durante 20 segundos, criando fragmentos ou nuvens amarelas soltas (não deixe secar como omelete).",
@@ -461,9 +1019,24 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "Arroz de grão curto tipo calrose ou sushi, cozido e morno",
-      "Dados pequenos de salmão fresco (para adultos pode ser usado cru; para bebés, cozinhe a vapor 4 minutos em recipiente hermético)",
-      "Lascas de abacate maduro. Sementes de sésamo tostadas para os adultos."
+      {
+        "qty": null,
+        "unit": null,
+        "name": "arroz de grão curto tipo calrose ou sushi",
+        "prep": "cozido e morno"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "dados de salmão",
+        "prep": "para adultos pode ser usado cru; para bebés, cozinhe a vapor 4 minutos em recipiente hermético"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "lascas de abacate. sementes de sésamo tostadas para os adultos.",
+        "prep": null
+      }
     ],
     "instructions": [
       "Num prato plano, estenda o arroz morno em camada leve. Tempere a versão adulta com um fio de molho de soja e arrume os gomos de abacate e as lascas de salmão em harmonia.",
@@ -482,10 +1055,42 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "500g de maruca ou cação em postas limpas, sem pele nem sangue",
-      "1 lata de leite de coco de qualidade (mínimo 80% coco)",
-      "1 colher de chá bem cheia de cúrcuma (açafrão-das-índias) em pó, 1 lima espremida e coentros frescos rasgados",
-      "1 cebola média em rodelas, azeite q.b."
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "maruca ou cação em postas limpas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "leite de coco de qualidade",
+        "prep": "mínimo 80% coco"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá bem cheia de cúrcuma em pó",
+        "prep": "açafrão-das-índias"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "lima espremida e coentros rasgados",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "em rodelas"
+      },
+      {
+        "qty": "q.b.",
+        "unit": null,
+        "name": "azeite",
+        "prep": null
+      }
     ],
     "instructions": [
       "A poção de ouro: aqueça o azeite, sue a cebola e deite a cúrcuma moída em pó — este especia activa os seus óleos essenciais e liberta o sabor intenso em contacto com a gordura quente.",
@@ -506,10 +1111,30 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "400g de peixe branco firme cortado em cubos (tamboril ou maruca)",
-      "Base masala rápida: 150 ml de polpa de tomate rústica + 1 iogurte grego natural (à temperatura ambiente)",
-      "1 colher de chá de Garam Masala e 1/2 colher de chá de cominhos em pó",
-      "Brócolos cortados em floretes pequenos, alho e gengibre fresco ralado"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "peixe branco firme",
+        "prep": "cortado em cubos tamboril ou maruca"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "base masala rápida: 150 ml de polpa de tomate rústica + 1 iogurte grego natural",
+        "prep": "à temperatura ambiente"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de garam masala e 1/2 colher de chá de cominhos em pó",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "brócolos",
+        "prep": "cortados em floretes pequenos, alho e gengibre fresco ralado"
+      }
     ],
     "instructions": [
       "Numa panela, salteie o alho e o gengibre ralado com as especiarias até libertarem os seus óleos essenciais (1 minuto).",
@@ -530,10 +1155,30 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "2 chávenas de lentilhas vermelhas ou laranjas",
-      "2 latas de atum ao natural firme",
-      "Óleo de coco (ou azeite), sementes de mostarda, alho e gengibre fresco laminado",
-      "Cúrcuma (açafrão-das-índias) e coentros frescos picados"
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "lentilhas vermelhas ou laranjas",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "lata",
+        "name": "atum ao natural firme",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "óleo de coco",
+        "prep": "laminado ou azeite"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cúrcuma e coentros",
+        "prep": "picados açafrão-das-índias"
+      }
     ],
     "instructions": [
       "Elevar a lentilha requer bases aromáticas: num tacho, faça estalar as sementes de mostarda e o gengibre no óleo de coco quente. Junte a cúrcuma.",
@@ -554,10 +1199,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "400g de salmão fresco (sem espinhas nem pele), picado à faca bem fininho",
-      "Miolo de pão esfarelado (ou panko), 1 gema de ovo",
-      "Raspa de limão, cominhos e salsa",
-      "Molho adulto: iogurte grego, pepino ralado e escorrido, hortelã fresca picada"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "salmão",
+        "prep": "picado à faca bem fininho sem espinhas nem pele"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "miolo de pão esfarelado",
+        "prep": "ou panko"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "raspa de limão",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "molho adulto: iogurte grego",
+        "prep": "ralado e escorrido, hortelã fresca picada"
+      }
     ],
     "instructions": [
       "Dica: pique o peixe à faca para preservar a textura, em vez de o triturar até pasta! Numa taça fria, una intimamente o salmão com o pão, a raspa fina de limão, o ovo e os cominhos.",
@@ -577,11 +1242,42 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "1 chávena cheia de massa orzo (pevide grossa)",
-      "1 cebola refogada muito finamente, 1/2 courgette ou beringela em cubos pequenos",
-      "2 latas de atum em posta gorda",
-      "Caldo quente vegetal, 2 colheres de sopa de polpa de tomate",
-      "1 colherada de mascarpone ou natas gordas, queijo parmesão ralado"
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "cheia de massa orzo",
+        "prep": "pevide grossa"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "refogada muito finamente"
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "courgette ou beringela",
+        "prep": "em cubos pequenos"
+      },
+      {
+        "qty": "2",
+        "unit": "lata",
+        "name": "atum em posta gorda",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "caldo vegetal",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colherada de mascarpone ou natas gordas",
+        "prep": "ralado"
+      }
     ],
     "instructions": [
       "Trate a massa como um nobre risotto: frite ligeiramente o orzo na base de azeite e cebola quente durante 2 minutos, a rolar no tacho.",
@@ -602,10 +1298,30 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "1,5 chávenas de arroz médio e carolino para paelha",
-      "Tiras coloridas de pimentos assados e descascados",
-      "Caldo sublime de marisco ou de peixe caseiro",
-      "Fios de açafrão em pistilos (ou colorau para substituto), azeite, postas de peixe limpo"
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz e carolino para paelha",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "tiras coloridas de pimentos",
+        "prep": "assados e descascados"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "caldo sublime de marisco ou de peixe caseiro",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "fios de açafrão em pistilos",
+        "prep": "ou colorau para substituto"
+      }
     ],
     "instructions": [
       "Uma paella real precisa de largura: use a sua maior e mais achatada frigideira que vá ao forno ou fique no fogão. Faça a base com azeite, pimentos suados e o arroz.",
@@ -625,11 +1341,42 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "1 frasco grande de grão-de-bico biológico cozido (400g)",
-      "4 ovos L",
-      "1/2 cebola roxa finamente picada, 1 dente de alho esmagado",
-      "1 colher de café de pimentão doce fumado (paprika)",
-      "Salsa fresca farta picada na hora, azeite virgem extra perfumado, vinagre de maçã ou de vinho"
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "grande de grão-de-bico biológico",
+        "prep": "cozido 400g"
+      },
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "ovos l",
+        "prep": null
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "cebola roxa",
+        "prep": "picada"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho",
+        "prep": "esmagado"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de café de pimentão doce fumado",
+        "prep": "paprika"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa fresca farta",
+        "prep": "picada na hora, azeite virgem extra perfumado, vinagre de maçã ou de vinho"
+      }
     ],
     "instructions": [
       "Coza os ovos à precisão: 9 minutos para uma gema firme mas elástica. Descasque sob água fria e lasque grosseiramente.",
@@ -649,11 +1396,36 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "400g de ervilhas extrafinas congeladas",
-      "4 ovos grandes com gema laranja",
-      "1 cebola e 2 dentes de alho picados",
-      "Pimentão doce fumado espanhol (para emular os fumos rústicos do chouriço ausente)",
-      "2 colheres de polpa de tomate em pedaços maduros, coentros ou hortelã"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "ervilhas extrafinas congeladas",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "ovos com gema laranja",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola e 2 dentes de alho",
+        "prep": "picados"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pimentão doce fumado espanhol",
+        "prep": "para emular os fumos rústicos do chouriço ausente"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "colheres de polpa de tomate",
+        "prep": "em pedaços maduros, coentros ou hortelã"
+      }
     ],
     "instructions": [
       "Num tacho raso de paredes altas, estute a cebola e o alho suavemente num fundo de azeite temperado com o pimentão fumado (que fingirá carnes presuntas nesta refeição verde).",
@@ -674,11 +1446,42 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "1 frasco ou lata XL de feijão vermelho robusto",
-      "300g de mistura de cogumelos (brancos e portobello) em fatias largas",
-      "1 folha de louro, 1 colher de sobremesa de molho de soja escuro (segredo umami)",
-      "2 cenouras em meias-luas finas, folha de repolho ou couve tenra",
-      "Alho picado, cominhos moídos, azeite"
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "ou lata xl de feijão vermelho robusto",
+        "prep": null
+      },
+      {
+        "qty": "300",
+        "unit": "g",
+        "name": "mistura de cogumelos em fatias largas",
+        "prep": "brancos e portobello"
+      },
+      {
+        "qty": "1",
+        "unit": "folha",
+        "name": "louro",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sobremesa de molho de soja escuro",
+        "prep": "segredo umami"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras",
+        "prep": "em meias-luas finas, folha de repolho ou couve tenra"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "alho",
+        "prep": "picado, cominhos moídos, azeite"
+      }
     ],
     "instructions": [
       "Esta feijoada sem enchidos ganha o seu peso nos cogumelos. Num tacho quente: azeite, alho e louro! Deixe dourar bem o cogumelo até minguar as suas águas, deglace com o molho de soja e os cominhos.",
@@ -699,11 +1502,36 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "1 lata de grão-de-bico cozido",
-      "1,5 chávenas de macarronete ou massa pevide grande/cotovelo raiado",
-      "A base clássica: 1 cebola roxa, 3 dentes de alho, azeite bom",
-      "1 malga de couve galega ou lombarda fina em tiras, sem os talos mais grossos",
-      "Tomate picado, pimentão doce, caldo vegetal forte"
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "grão-de-bico",
+        "prep": "cozido"
+      },
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "macarronete ou massa pevide/cotovelo raiado",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "a base clássica: 1 cebola roxa",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "malga de couve galega ou lombarda",
+        "prep": "em tiras, sem os talos mais grossos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "tomate",
+        "prep": "picado, pimentão doce, caldo vegetal forte"
+      }
     ],
     "instructions": [
       "Para a profundidade rústica do campo: refogue demorado o azeite, a cebola e o alho e espolete uma colher de pimentão. Verta o tomate cru até virar compota e adicione a couve.",
@@ -725,10 +1553,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "6 ovos grandes (tamanho XL)",
-      "1 embalagem generosa de espinafres frescos ou folhas de acelga",
-      "1 queijo fresco macio do dia ou ricotta densa (+/- 200g)",
-      "1 fio de nata magra ou leite gordo, orégãos secos, azeite"
+      {
+        "qty": "6",
+        "unit": null,
+        "name": "ovos",
+        "prep": "tamanho XL"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "embalagem generosa de espinafres ou folhas de acelga",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "queijo macio do dia ou ricotta densa",
+        "prep": "+/- 200g"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "fio de nata magra ou leite gordo",
+        "prep": null
+      }
     ],
     "instructions": [
       "Passo essencial da frittata que salva omeletes escorridas: numa frigideira sem gordura, sue os espinafres crus durante 1 minuto com uma pitada de sal até cederem de tamanho e largarem a água. Escorra essa água.",
@@ -750,11 +1598,48 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "1,5 chávenas de lentilhas castanhas pequenas (secas, bem lavadas)",
-      "300g de abóbora manteiga em cubos regulares pequenos",
-      "1 alho francês picado, 1 cenoura picada fina, 1 dente de alho",
-      "1/2 colher de chá de cominhos em pó, louro, azeite",
-      "Um fio de natas vegetais ou creme de aveia e salsa picada"
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "lentilhas castanhas",
+        "prep": "secas, bem lavadas"
+      },
+      {
+        "qty": "300",
+        "unit": "g",
+        "name": "abóbora manteiga",
+        "prep": "em cubos regulares pequenos"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "alho francês",
+        "prep": "picado"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cenoura",
+        "prep": "picada fina"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "colher de chá de cominhos em pó",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "fio de natas vegetais ou creme de aveia e salsa",
+        "prep": "picada"
+      }
     ],
     "instructions": [
       "O segredo do chef: numa panela, salteie vigorosamente a abóbora no azeite com os cominhos até as bordas caramelizarem ligeiramente. Retire e reserve.",
@@ -775,11 +1660,36 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "1 frasco de feijão frade bem lavado (400g)",
-      "1 cabeça de brócolos cortada em floretes bem definidos",
-      "3 ovos cozidos a 9 minutos, picados em gomos",
-      "1 punhado de amêndoas torradas laminadas (para os adultos)",
-      "Molho: azeite farto, alho cru esmagado, vinagre e pitada de sal grosso"
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "feijão frade",
+        "prep": "bem lavado 400g"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cabeça de brócolos",
+        "prep": "cortada em floretes bem definidos"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "ovos",
+        "prep": "cozidos a 9 minutos, picados em gomos"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "punhado de amêndoas torradas",
+        "prep": "laminadas para os adultos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "molho: azeite farto",
+        "prep": "esmagado, vinagre e pitada de sal grosso"
+      }
     ],
     "instructions": [
       "Cozedura à chef: não mergulhe os brócolos em água a ferver! Coza-os a vapor durante 5 minutos até ficarem num verde elétrico vibrante e com textura 'al dente'.",
@@ -800,12 +1710,48 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "1 chávena de lentilhas castanhas cozidas (ou frasco bem lavado)",
-      "300g de cogumelos portobello ou cremini picados na picadora, ao estilo de carne picada",
-      "2 colheres de sopa de molho de soja, 1 colher de sopa de polpa de tomate concentrada",
-      "Cebola picada, cenoura ralada fina e salsa",
-      "Base de puré: batatas cozidas batidas com manteiga, leite quente e noz-moscada",
-      "Opcional: queijo curado ralado no topo para gratinar"
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "lentilhas castanhas",
+        "prep": "cozidas ou frasco bem lavado"
+      },
+      {
+        "qty": "300",
+        "unit": "g",
+        "name": "cogumelos portobello ou cremini",
+        "prep": "picados na picadora, ao estilo de carne picada"
+      },
+      {
+        "qty": "2",
+        "unit": "colher de sopa",
+        "name": "molho de soja",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sopa de polpa de tomate concentrada",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cebola",
+        "prep": "picada, cenoura ralada fina e salsa"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "base de puré: batatas",
+        "prep": "cozidas batidas com manteiga, leite quente e noz-moscada"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "opcional: queijo curado",
+        "prep": "ralado no topo para gratinar"
+      }
     ],
     "instructions": [
       "No puré, o leite quente é crucial para a sedosidade (nunca use leite gelado do frigorífico).",
@@ -826,11 +1772,36 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "2 a 3 alhos franceses (só a parte branca e verde clara) em meias-luas finíssimas",
-      "1 frasco padrão de grão-de-bico biológico, passado à forquilha (semi-puré)",
-      "6 ovos (rácio cremoso não negociável)",
-      "1 dente de alho picado, azeite generoso",
-      "Salsa farta, uma poeira fina de pimenta preta (adultos) e azeitonas"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "a 3 alhos franceses",
+        "prep": "em meias-luas finíssimas só a parte branca e verde clara"
+      },
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "padrão de grão-de-bico biológico",
+        "prep": "semi-puré"
+      },
+      {
+        "qty": "6",
+        "unit": null,
+        "name": "ovos",
+        "prep": "rácio cremoso não negociável"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho",
+        "prep": "picado, azeite generoso"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa farta",
+        "prep": "adultos"
+      }
     ],
     "instructions": [
       "Na frigideira funda, murche o alho francês no azeite com o alho, em lume lento, uns belos 8 minutos, para atingir o máximo de doçura e volume rendido.",
@@ -852,9 +1823,30 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "1 lata média de feijão vermelho ou manteiga, 1,5 chávenas de arroz carolino",
-      "Repolho fresco em pedaços fofinhos, 1 folha de louro, vinagre de vinho",
-      "Patanisca leve: 1 chávena de farinha de grão, água com gás bem fria, salsa farta e meia cebola ralada (sem ovos)"
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "média de feijão vermelho ou manteiga",
+        "prep": null
+      },
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz carolino",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "repolho",
+        "prep": "em pedaços fofinhos, 1 folha de louro, vinagre de vinho"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "patanisca leve: 1 chávena de farinha de grão",
+        "prep": "ralada sem ovos"
+      }
     ],
     "instructions": [
       "O malandrinho: refogue a cebola, o alho, o louro e 1 colher de tomate. Verta o feijão com alguma da sua calda. Junte 4 partes de líquido para 1 de arroz. Ferva 7 minutos com o repolho. Deposite o arroz e ferva por 15 minutos, apagando ainda ligeiramente encruado. Um pingo de vinagre no arroz liga as gomas de forma brilhante.",
@@ -873,10 +1865,36 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "3 boas fatias de pão alentejano rijo de dois dias",
-      "4 dentes de alho vigorosos, 1 grande punhado de coentros frescos",
-      "4 ovos XL e flor de sal",
-      "1 dl de azeite virgem extra de topo de gama (a base de tudo)"
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "boas fatias de pão alentejano rijo de dois dias",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": "dente",
+        "name": "alho vigorosos",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "grande punhado de coentros",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "ovos xl e flor de sal",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "dl",
+        "name": "azeite virgem extra de topo de gama",
+        "prep": "a base de tudo"
+      }
     ],
     "instructions": [
       "Ferva 1,5 litros de água numa panela funda.",
@@ -897,10 +1915,42 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "400g de bloco de tofu firme",
-      "Marinada chef: sumo de 1/2 limão, pimentão doce fumado (colorau), 1 dente de alho com casca, 1 colher de chá de vinho branco",
-      "Meia broa de milho amarela esfarelada em migalhas pelas mãos",
-      "Louro e azeite"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "bloco de tofu firme",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada chef: sumo de 1/2 limão",
+        "prep": "colorau"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho com casca",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de vinho branco",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "meia broa de milho amarela esfarelada em migalhas pelas mãos",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "louro e azeite",
+        "prep": null
+      }
     ],
     "instructions": [
       "Expulse a água: pressione o bloco de tofu entre panos limpos com algum peso durante alguns minutos. Corte em dados perfeitos.",
@@ -921,9 +1971,42 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "600g de ervilhas doces congeladas",
-      "1 batata pequena tipo agulha, 1 courgette, 1 alho francês picado (parte branca)",
-      "2 ovos cozidos, um fio de natas frescas, hortelã"
+      {
+        "qty": "600",
+        "unit": "g",
+        "name": "ervilhas doces congeladas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "batata tipo agulha",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "courgette",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "alho francês",
+        "prep": "picado parte branca"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos",
+        "prep": "cozidos"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "fio de natas frescas",
+        "prep": null
+      }
     ],
     "instructions": [
       "Sue a base do alho francês na gordura — este passo é crítico para o creme. Adicione a courgette, a batata e as ervilhas.",
@@ -945,10 +2028,48 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "300g de massa fusilli estriado ou penne rugoso",
-      "Molho camuflagem: 1 courgette cortada, 1 cenoura, 1 fatia de abóbora amarela batida muito fina",
-      "1 embalagem de natas vegetais espessas (soja ou aveia), uma pitada generosa de noz-moscada",
-      "Queijo emmental ralado grosso (ou curado) e pão panko tostado"
+      {
+        "qty": "300",
+        "unit": "g",
+        "name": "massa fusilli estriado ou penne rugoso",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "molho camuflagem: 1 courgette",
+        "prep": "cortada"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cenoura",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "fatia de abóbora amarela batida muito",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "embalagem de natas vegetais espessas",
+        "prep": "soja ou aveia"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "pitada generosa de noz-moscada",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "queijo emmental",
+        "prep": "ralado grosso e pão panko tostado ou curado"
+      }
     ],
     "instructions": [
       "No tacho, coza a massa al dente — uns 3 minutos antes do tempo do pacote — para não inchar demasiado no forno.",
@@ -969,10 +2090,30 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "Fundo: feijão manteiga triturado até molho esbranquiçado (passe uma lata com 1 batata pequena ou nabo, com a varinha mágica e caldo)",
-      "Feijões carnudos inteiros reservados para morder",
-      "Couve galega fresca cortada em tiras finas ao estilo de caldo verde",
-      "1 colher de chá de pimentão fumado e um bom fio de azeite lagareiro"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "fundo: feijão manteiga triturado até molho esbranquiçado",
+        "prep": "passe uma lata com 1 batata pequena ou nabo, com a varinha mágica e caldo"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "feijões carnudos inteiros reservados para morder",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "couve galega fresca",
+        "prep": "cortada em tiras finas ao estilo de caldo verde"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de pimentão fumado e um bom fio de azeite lagareiro",
+        "prep": null
+      }
     ],
     "instructions": [
       "Prepare este prato de sustento: em panela alta, aqueça a base pastosa de feijão triturado, sem ossos nem aparas animais. Dê alma com uma colher de pimentão doce fumado espanhol, que evoca o sabor da linguiça sem a usar.",
@@ -992,10 +2133,30 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "1 bloco de tofu firme (prensado e cortado em cubos)",
-      "Brócolos pequenos cortados em floretes",
-      "Um dente de alho e uma lasca de gengibre fresco picados",
-      "Sumo de limão, 1 colher de chá de óleo de sésamo tostado e 2 colheres de sopa de molho de soja (para adultos)"
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "bloco de tofu firme",
+        "prep": "prensado e cortado em cubos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "brócolos",
+        "prep": "cortados em floretes"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho e uma lasca de gengibre",
+        "prep": "picados"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sumo de limão",
+        "prep": "para adultos"
+      }
     ],
     "instructions": [
       "Aqueça o wok fortemente. Seque bem o tofu com papel de cozinha e salteie no óleo de sésamo até formar uma crosta dourada. Reserve.",
@@ -1015,10 +2176,36 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "Massa udon asiática fresca de vácuo (2 pacotes macios)",
-      "1 courgette em fitas grossas de descascador e folhas de pak-choi",
-      "200g de cogumelos shiitake frescos fatiados",
-      "2 talos de cebolinho fresco picado, 1 colher de sopa de mirin ou vinho do Porto branco leve"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "massa udon asiática fresca de vácuo",
+        "prep": "2 pacotes macios"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "courgette em fitas de descascador e folhas de pak-choi",
+        "prep": null
+      },
+      {
+        "qty": "200",
+        "unit": "g",
+        "name": "cogumelos shiitake",
+        "prep": "fatiados"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "talos de cebolinho",
+        "prep": "picado"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sopa de mirin ou vinho do porto branco leve",
+        "prep": null
+      }
     ],
     "instructions": [
       "Salteado no wok em lume forte! Refogue os shiitakes intensamente até perderem a água, deglaçando com o mirin.",
@@ -1038,10 +2225,30 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "2 a 3 chávenas de arroz basmati solto (previamente cozido e guardado no frio de véspera para perder humidade)",
-      "1 chávena de ervilhas extrafinas e 1 cenoura ralada no crivo grosso",
-      "2 a 3 ovos M bem batidos",
-      "Tofu firme lascado em pequenos pedaços dourados, óleo de sésamo"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "a 3 chávenas de arroz basmati",
+        "prep": "previamente cozido e guardado no frio de véspera para perder humidade"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "ervilhas extrafinas e 1 cenoura",
+        "prep": "ralada no crivo grosso"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "a 3 ovos m bem batidos",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "tofu firme lascado em pedaços dourados",
+        "prep": null
+      }
     ],
     "instructions": [
       "Ordem do chef: wok quente, ovos para dentro, mexendo freneticamente durante 20 segundos. Retire para uma taça.",
@@ -1061,9 +2268,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "2 batatas médias, 2 cenouras tenras, meia cebola",
-      "1 tablete de caril japonês (tipo Katsu-curry, não ardente)",
-      "1 frasco de grão-de-bico biológico (bem escorrido e escaldado)"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "batatas",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras tenras",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "tablete de caril japonês",
+        "prep": "tipo Katsu-curry, não ardente"
+      },
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "grão-de-bico biológico",
+        "prep": "bem escorrido e escaldado"
+      }
     ],
     "instructions": [
       "A cozinha japonesa não refoga especiarias a seco — faz caldos puros: salteie primeiro a cebola devagar até ficar doce e translúcida.",
@@ -1085,10 +2313,36 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "1,5 chávenas de lentilhas amarelas divididas (Moong Dhal)",
-      "A infusão (tarka): 1 colher de sopa de manteiga clarificada (ghee), 1 colher de chá de cominhos em semente e sementes de mostarda",
-      "1 tomate maduro em pedaços polpudos ou tomate de lata natural, 1 dente de alho picado",
-      "Coentros fartos e 1 colher rasa de cúrcuma (açafrão-das-índias)"
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "lentilhas amarelas divididas",
+        "prep": "Moong Dhal"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "a infusão: 1 colher de sopa de manteiga clarificada",
+        "prep": "tarka ghee"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "tomate",
+        "prep": "em pedaços polpudos ou tomate de lata natural"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho",
+        "prep": "picado"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "coentros fartos e 1 colher rasa de cúrcuma",
+        "prep": "açafrão-das-índias"
+      }
     ],
     "instructions": [
       "Coza as lentilhas num tacho grande aberto com um pouco de cúrcuma e água quente — o triplo do volume do grão. Ferva durante 18 minutos até explodirem num amarelo-doce brilhante, como papa de milho.",
@@ -1108,11 +2362,36 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "1 lata de leite de coco inteiro cremoso (80-90% coco)",
-      "1 colher de sopa de especiarias Garam Masala doces",
-      "2 frascos de grão-de-bico (400g x2)",
-      "Folhas frescas de espinafre (engolidas na cor e no sabor do grão)",
-      "1 dente de alho, azeite ou óleo de coco, polpa tenra de um tomate maduro"
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "leite de coco inteiro cremoso",
+        "prep": "80-90% coco"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sopa de especiarias garam masala doces",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "frasco",
+        "name": "grão-de-bico",
+        "prep": "400g x2"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "folhas frescas de espinafre",
+        "prep": "engolidas na cor e no sabor do grão"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      }
     ],
     "instructions": [
       "Frite os aromas! Num fio de azeite, a pó de Garam Masala e o dente de alho num sustento vivo. Junte a polpa de tomate e deixe apurar.",
@@ -1133,10 +2412,36 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "1 frasco de grão-de-bico biológico sem sal, 1 cebola suada em azeite",
-      "1 colher de chá de cominhos maduros, um toque rústico de coentros frescos",
-      "2 colheres de farinha de aveia ou trigo para absorver a humidade e prender o recheio",
-      "1 iogurte natural grego sem açúcar adicionado"
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "grão-de-bico biológico sem sal",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "suada em azeite"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de cominhos",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "colheres de farinha de aveia ou trigo para absorver a humidade e prender o recheio",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "iogurte natural grego sem açúcar adicionado",
+        "prep": null
+      }
     ],
     "instructions": [
       "Sem usar trituradoras: pulse apenas uns segundos a leguminosa na picadora até obter uma massa coesa e granulosa, mas não uma pasta. Prove o tempero.",
@@ -1157,10 +2462,30 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "1 lata grande de tomate pelado inteiro",
-      "Pimentos vermelhos macios em tiras e meia cebola para a cama",
-      "Cúrcuma, alho, uma nota de poejo ou salsa e cominhos em pó",
-      "4 ovos grandes de aviário livre"
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "grande de tomate pelado inteiro",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pimentos vermelhos macios",
+        "prep": "em tiras e meia cebola para a cama"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cúrcuma",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "ovos de aviário livre",
+        "prep": null
+      }
     ],
     "instructions": [
       "Base de mestre: numa frigideira ampla que vá à mesa, salteie os cominhos e o alho. O pimento e o tomate suam até evaporar as águas, virando uma base pastosa e encorpada.",
@@ -1181,10 +2506,30 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "1,5 chávenas de arroz arbóreo de grão gordo e perolado",
-      "Abóbora assada previamente ao forno para apurar a doçura, batida em puré liso",
-      "1 chávena de ervilhas bebé finas e doces",
-      "Manteiga em noz e queijo parmesão ralado na hora para a 'mantecatura' final"
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz arbóreo de grão gordo e perolado",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "abóbora",
+        "prep": "assada previamente ao forno para apurar a doçura, batida em puré liso"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "ervilhas bebé e doces",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "manteiga em noz e queijo parmesão",
+        "prep": "ralado na hora para a 'mantecatura' final"
+      }
     ],
     "instructions": [
       "Num tacho largo ao lume médio, toste o nobre arroz no azeite durante 20 segundos até os bagos ficarem translúcidos e brilhantes.",
@@ -1206,9 +2551,24 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "8 ovos (a frittata precisa de estrutura e volume real)",
-      "Sobras dignas de aproveitamento: alho, meias courgettes e brócolos em fatias finas transparentes",
-      "Bocados puros de ricotta em colheradas para o topo assado"
+      {
+        "qty": "8",
+        "unit": null,
+        "name": "ovos",
+        "prep": "a frittata precisa de estrutura e volume real"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sobras dignas de aproveitamento: alho",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "bocados puros de ricotta em colheradas para o topo",
+        "prep": "assado"
+      }
     ],
     "instructions": [
       "Numa frigideira com pega de metal (que vá ao forno): salteie em bom azeite as rodelas vegetais finas durante 2 minutos, para os brócolos tostarem e perderem a humidade excessiva.",
@@ -1228,10 +2588,30 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "1 frango inteiro cortado em pedaços miúdos (limpo de excessos de pele)",
-      "1 chávena de arroz carolino e 1 cenoura doce ralada e 1 dente de alho",
-      "Marinada: massa de pimentão doce, 2 dentes de alho, azeite, sumo de meio limão e 1 cálice curto de vinho branco",
-      "Salsa picada e 1 noz de manteiga"
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "frango inteiro",
+        "prep": "cortado em pedaços miúdos limpo de excessos de pele"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "arroz carolino e 1 cenoura doce",
+        "prep": "ralada e 1 dente de alho"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada: massa de pimentão doce",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa",
+        "prep": "picada e 1 noz de manteiga"
+      }
     ],
     "instructions": [
       "Massaje o frango activamente com a marinada (se possível, deixe repousar 15 minutos). Asse a 200 °C durante 35 a 40 minutos, regando a meio com o próprio molho para dourar as peles.",
@@ -1253,11 +2633,42 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "500g de carne de peru (perna ou peito) em cubos suculentos",
-      "3 batatas brancas médias em cubos, 2 cenouras em rodelas grossas",
-      "1 chávena cheia de ervilhas extrafinas",
-      "Cebola, alho, 3 colheres de polpa rústica de tomate, louro e azeite",
-      "1 colher de café de pimentão fumado e 1 copo de vinho branco"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "carne de peru",
+        "prep": "em cubos suculentos perna ou peito"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "batatas brancas",
+        "prep": "em cubos"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras",
+        "prep": "em rodelas grossas"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "cheia de ervilhas extrafinas",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cebola",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de café de pimentão fumado e 1 copo de vinho branco",
+        "prep": null
+      }
     ],
     "instructions": [
       "Selar bem os sucos: doure vigorosamente num tacho quente o peru temperado (apenas com azeite, cebola, alho e pimentão).",
@@ -1279,11 +2690,36 @@
     ],
     "time": "50 min",
     "ingredients": [
-      "Meio frango do campo com ossos e pele",
-      "O fumet: meia cebola com casca, 1 cenoura e 1 talo de aipo (ou alho francês)",
-      "1,5 chávenas de arroz carolino",
-      "Fundo refogado: cebola picada, azeite, 1 tomate maduro carnudo, um disco de chouriço",
-      "Erva-mãe: hortelã-pimenta tenra"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "meio frango do campo com ossos e pele",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "o fumet: meia cebola com casca",
+        "prep": "ou alho francês"
+      },
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz carolino",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "fundo",
+        "prep": "refogado: cebola picada, azeite, 1 tomate maduro carnudo, um disco de chouriço"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "erva-mãe: hortelã-pimenta tenra",
+        "prep": null
+      }
     ],
     "instructions": [
       "A base é a alma: ferva a carne do frango numa panela com água e os legumes do fumet (a pele dá o colagénio gordo) durante 30 minutos. Retire tudo, filtre o néctar amarelado para obter o caldo. Desfie a carne finamente à mão.",
@@ -1304,10 +2740,54 @@
     ],
     "time": "50 min",
     "ingredients": [
-      "400g de carnes brancas desfiadas finas (sobras de bom frango)",
-      "2 alhos franceses volumosos (partes tenras em rodelas muito finas)",
-      "800g de batata velha e amarela, 2 colheres de sopa de manteiga, 1 copo de leite gordo morno, 2 gemas de ovo (1 para o puré, 1 para a cobertura)",
-      "Azeite, noz-moscada acabadinha de ralar"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "carnes brancas",
+        "prep": "desfiadas finas sobras de bom frango"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "alhos franceses volumosos",
+        "prep": "partes tenras em rodelas muito finas"
+      },
+      {
+        "qty": "800",
+        "unit": "g",
+        "name": "batata velha e amarela",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "colher de sopa",
+        "name": "manteiga",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "copo",
+        "name": "leite gordo",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "gemas de ovo (1 para o puré",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "para a cobertura)",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite",
+        "prep": null
+      }
     ],
     "instructions": [
       "Noz-moscada e sedosidade: passe as batatas cozidas escorridas no passe-vite. Junte no tacho suave a manteiga, o leite quente e uma gema de ovo para brilhar. Amasse.",
@@ -1327,10 +2807,30 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "6 coxas polpudas de frango limpas",
-      "2 chávenas de cotovelos ou macarrão oco por dentro",
-      "Um naco de cebola e 2 dentes de alho, 3 colheres de sopa de concentrado de tomate",
-      "Um esguicho generoso de vinho tinto"
+      {
+        "qty": "6",
+        "unit": null,
+        "name": "coxas polpudas de frango limpas",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "cotovelos ou macarrão oco por dentro",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "naco de cebola e 2 dentes de alho",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "esguicho generoso de vinho tinto",
+        "prep": null
+      }
     ],
     "instructions": [
       "Sele bem as coxas com a pele no azeite até cantarem no fundo. Refresque de imediato com o vinho tinto (deglace e raspe os fundos caramelizados).",
@@ -1350,10 +2850,30 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "4 a 5 bifinhos finíssimos de peru (batidos e esticados, livres de nervos)",
-      "200g de cogumelos frescos marrons escuros",
-      "200 ml de natas frescas ou creme de soja como alternativa",
-      "Azeite, manteiga, 1 dente de alho esborrachado e sumo de limão"
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "a 5 bifinhos finíssimos de peru",
+        "prep": "batidos e esticados, livres de nervos"
+      },
+      {
+        "qty": "200",
+        "unit": "g",
+        "name": "cogumelos marrons escuros",
+        "prep": null
+      },
+      {
+        "qty": "200",
+        "unit": "ml",
+        "name": "natas frescas ou creme de soja como alternativa",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite",
+        "prep": null
+      }
     ],
     "instructions": [
       "O segredo do peito macio: tempere brevemente e sele os bifes numa frigideira a alta temperatura, 2 minutos de cada lado, mal passados, secando de imediato. Retire o bife e mantenha o fundo da frigideira.",
@@ -1373,10 +2893,36 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "500g de peitos de frango em tiras perfeitas",
-      "1 cebola picada fina, 1 colher de sobremesa de mostarda Dijon ou à antiga com grão",
-      "1 chávena de polpa de tomate natural (tomates pelados inteiros ligeiramente esmagados)",
-      "2 colheres de sopa de iogurte grego natural"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "peitos de frango",
+        "prep": "em tiras perfeitas"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "picada fina"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sobremesa de mostarda dijon ou à antiga com grão",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "polpa de tomate natural",
+        "prep": "tomates pelados inteiros ligeiramente esmagados"
+      },
+      {
+        "qty": "2",
+        "unit": "colher de sopa",
+        "name": "iogurte grego natural",
+        "prep": null
+      }
     ],
     "instructions": [
       "Doure as tiras de frango numa frigideira larga com um fio de azeite e a cebola, até ficarem coradas por fora e perfumadas.",
@@ -1397,10 +2943,36 @@
     ],
     "time": "60 min",
     "ingredients": [
-      "Metade de uma galinha do campo (a pata com carcaça dá colagénio e cor dourada)",
-      "1 cebola intacta com um cravinho nela fincado, 1 talo de aipo verde",
-      "1 chávena pequena de pevides tostadas ou massa de cabelo-de-anjo",
-      "3 gemas de ovo e abundante hortelã fresca"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "metade de uma galinha do campo",
+        "prep": "a pata com carcaça dá colagénio e cor dourada"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola intacta com um cravinho nela fincado",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "talo de aipo verde",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "pequena de pevides tostadas ou massa de cabelo-de-anjo",
+        "prep": null
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "gemas de ovo e abundante hortelã fresca",
+        "prep": null
+      }
     ],
     "instructions": [
       "Nesta panela magna mergulham as carnes, a cebola cravada e água fria em borbulhar sonolento durante 50 minutos. As espumas cinzentas que sobem à superfície vão sendo retiradas com uma escumadeira.",
@@ -1422,9 +2994,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "500g de frango ou peru triturado grosso (carne branca limpa)",
-      "3 colheres fartas de queijo curado ralado ou mozzarella para manter a macieza, 1 cenoura ralada",
-      "1 ovo para unir a mistura, erva-doce ligeira"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "frango ou peru triturado",
+        "prep": "carne branca limpa"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "colheres fartas de queijo curado",
+        "prep": "ralado ou mozzarella para manter a macieza"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cenoura",
+        "prep": "ralada"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "ovo para unir a mistura",
+        "prep": null
+      }
     ],
     "instructions": [
       "Misture tudo com as mãos limpas até obter uma massa coesa, húmida e aromática. Unte os dedos e molde almôndegas do calibre de uma bola de golfe.",
@@ -1443,9 +3036,24 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "8 coxas e pernas de frango frescas",
-      "Marinada chef: 1 colher de mel de flores, azeite, pimentão doce defumado, 2 dentes de alho ralados",
-      "3 batatas-doces laranjas grandes, cortadas em quartos"
+      {
+        "qty": "8",
+        "unit": null,
+        "name": "coxas e pernas de frango frescas",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada chef: 1 colher de mel de flores",
+        "prep": "ralados"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "batatas-doces laranjas",
+        "prep": "cortadas em quartos"
+      }
     ],
     "instructions": [
       "Marine o frango nas banheiras doces com pimentão, rodando bem as peças na tigela durante meia hora, se possível. Pincele as batatas com azeite na assadeira do forno.",
@@ -1465,10 +3073,36 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "Sobras limpas de frango assado ou cozido, totalmente desfiado",
-      "200g de espinafres baby frescos, 3 dentes de alho picados, azeite virgem extra",
-      "1/2 broa de milho amarela esfarelada em migalhas pelas mãos",
-      "1 colher de café de pimentão doce fumado (para mimetizar a profundidade do bacalhau tradicional)"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sobras limpas de frango",
+        "prep": "assado ou cozido, totalmente desfiado"
+      },
+      {
+        "qty": "200",
+        "unit": "g",
+        "name": "espinafres baby",
+        "prep": null
+      },
+      {
+        "qty": "3",
+        "unit": "dente",
+        "name": "alho",
+        "prep": "picados, azeite virgem extra"
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "broa de milho amarela esfarelada em migalhas pelas mãos",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de café de pimentão doce fumado",
+        "prep": "para mimetizar a profundidade do bacalhau tradicional"
+      }
     ],
     "instructions": [
       "Numa sertã larga, sue o espinafre com azeite e alho apenas até murchar e ficar verde-vivo (1 minuto). Espalhe no fundo do tabuleiro.",
@@ -1489,9 +3123,24 @@
     ],
     "time": "50 min",
     "ingredients": [
-      "600g de carne de peru picada duas vezes no talho (para não fragmentar em demasia)",
-      "Cenoura ralada, meia cebola suada, 1 ovo, pão ralado ou miolo de pão ensopado em leite (o grande ligante humedecedor)",
-      "Recheio: folhas de espinafre, fatias de queijo flamengo e courgette fina"
+      {
+        "qty": "600",
+        "unit": "g",
+        "name": "carne de peru",
+        "prep": "picada duas vezes no talho para não fragmentar em demasia"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cenoura",
+        "prep": "ralada, meia cebola suada, 1 ovo, pão ralado ou miolo de pão ensopado em leite o grande ligante humedecedor"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "recheio: folhas de espinafre",
+        "prep": null
+      }
     ],
     "instructions": [
       "Amasse a carne activamente com o pão ensopado, o ovo e os aromas para obter uma farça coesa que não seque no forno.",
@@ -1511,10 +3160,30 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "2 peitos de frango em fatias ultra-finas (cortar semi-congelado ajuda muito)",
-      "Marinada de veludo: 1 colher de sopa de Maizena, 1 colher de sopa de óleo de sésamo, gota de sumo de limão",
-      "1 cabeça pequena de brócolos e 1/2 chávena de cajus naturais (só para adultos)",
-      "1 colher de sopa de molho de soja escuro, gengibre fresco raspado"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "peitos de frango em fatias ultra-finas",
+        "prep": "cortar semi-congelado ajuda muito"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada de veludo: 1 colher de sopa de maizena",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cabeça de brócolos e 1/2 chávena de cajus naturais",
+        "prep": "só para adultos"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sopa de molho de soja escuro",
+        "prep": null
+      }
     ],
     "instructions": [
       "A técnica de veludar (velveting): envolva o frango na marinada de Maizena. Isto cria uma barreira protetora que impede as fatias finas de secarem, deixando-as macias e suculentas.",
@@ -1534,9 +3203,24 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "2 pacotes de noodles de ovo e trigo finos",
-      "Tiras finas de frango, juliana de cenoura, courgette e couve lombarda",
-      "Óleo de sésamo, molho de soja claro e molho de ostras (uma pinga para adultos)"
+      {
+        "qty": "2",
+        "unit": "pacote",
+        "name": "noodles de ovo e trigo",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "tiras de frango",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "óleo de sésamo",
+        "prep": "uma pinga para adultos"
+      }
     ],
     "instructions": [
       "Aqueça a água dos noodles com uma gota de óleo de sésamo para não grudarem.",
@@ -1557,9 +3241,36 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "Peitos de frango em cubos grossos para saltear",
-      "O glacé: 200 ml de sumo de ananás ou pêssego natural sem açúcar, 1 colher de chá de alho moído e gengibre, 1 colher de sobremesa de Maizena diluída em água fria",
-      "Sementes finas de sésamo torradas e arroz de jasmim"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "peitos de frango",
+        "prep": "em cubos grossos para saltear"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "o glacé: 200 ml de sumo de ananás ou pêssego natural sem açúcar",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de alho moído e gengibre",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sobremesa de maizena diluída em água fria",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sementes de sésamo torradas e arroz de jasmim",
+        "prep": null
+      }
     ],
     "instructions": [
       "Frite os cubos de frango na frigideira até marcar uma crosta dourada.",
@@ -1580,10 +3291,30 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "600g de sobrecoxas de frango limpas com ou sem osso (muito mais suculentas do que o peito)",
-      "1 manga doce e maduríssima triturada até puré denso",
-      "1 lata de leite de coco forte e cremoso",
-      "Cúrcuma, alho, 1 fio final de sumo de lima fresca"
+      {
+        "qty": "600",
+        "unit": "g",
+        "name": "sobrecoxas de frango limpas com ou sem osso",
+        "prep": "muito mais suculentas do que o peito"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "manga doce e maduríssima triturada até puré denso",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "leite de coco forte e cremoso",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cúrcuma",
+        "prep": null
+      }
     ],
     "instructions": [
       "Faça um refogado brilhante no óleo com a cúrcuma moída e o alho esmagado para libertarem os óleos perfumados amarelos.",
@@ -1605,10 +3336,30 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "Pedaços de frango macio (coxa sem osso), sumo de limão",
-      "Masala base: 2 iogurtes gregos limpos e 1 frasco de passata de tomate doce",
-      "1 noz valente de manteiga e pasta de caju opcional, coentros",
-      "Marinada: 1 parte do iogurte com alho e um toque suave de especiarias doces"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pedaços de frango macio",
+        "prep": "coxa sem osso"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "masala base: 2 iogurtes gregos limpos e 1 frasco de passata de tomate doce",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "noz valente de manteiga e pasta de caju opcional",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada: 1 parte do iogurte com alho e um toque suave de especiarias doces",
+        "prep": null
+      }
     ],
     "instructions": [
       "O segredo é deixar a ave repousar no banho de iogurte prévio. Aqueça uma chapa alta sem gordura e sele activamente (criando crosta ligeiramente chamuscada). Reserve o frango.",
@@ -1629,10 +3380,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "500g de carne de peru picada fina (peça suculenta da perna)",
-      "1 cebola média, pão ralado leve e cominhos moídos",
-      "Molho tzatziki leve: iogurte grego, hortelã fresca picada fina, pepino ralado e escorrido",
-      "Paus de madeira finos para as espetadas"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "carne de peru",
+        "prep": "picada fina peça suculenta da perna"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "ralado leve e cominhos moídos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "molho tzatziki leve: iogurte grego",
+        "prep": "picada fina, pepino ralado e escorrido"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "paus de madeira para as espetadas",
+        "prep": null
+      }
     ],
     "instructions": [
       "O truque da suculência das aves do Médio Oriente: rale a cebola na picadora fina e junte toda essa pasta molhada húmida na carne com as especiarias. O suco da cebola hidrata o peru magro no calor brutal do forno.",
@@ -1653,10 +3424,30 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "300g de cotovelos ou búzios grossos com espirais profundas",
-      "1 bife de peru batido, cortado em tiras finas",
-      "1 courgette fatiada ultra-finamente com o descascador (fitas vegetais transparentes)",
-      "2 colheres de queijo-creme branco gordo, azeite, alho esmagado"
+      {
+        "qty": "300",
+        "unit": "g",
+        "name": "cotovelos ou búzios com espirais profundas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "bife de peru batido",
+        "prep": "cortado em tiras finas"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "courgette",
+        "prep": "fatiada ultra-finamente com o descascador fitas vegetais transparentes"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "colheres de queijo-creme branco gordo",
+        "prep": "esmagado"
+      }
     ],
     "instructions": [
       "Coza a massa al dente. Numa frigideira à parte, sue as tiras de peru brancas com o alho e junte rapidamente a courgette em fitas (ela derrete e fina-se em 2 minutos no vapor do azeite).",
@@ -1676,9 +3467,24 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "2 a 3 peitos de frango grossos abertos ao meio tipo borboleta e ligeiramente espalmados",
-      "Recheio central: fatias finas de tomate maduro, bolas de mozzarella suave em água, manjericão fresco",
-      "Courgettes finas e azeite perfumado com orégãos"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "a 3 peitos de frango abertos ao meio tipo borboleta e ligeiramente espalmados",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "recheio central: fatias de tomate",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "courgettes e azeite perfumado com orégãos",
+        "prep": null
+      }
     ],
     "instructions": [
       "Bata levemente os peitos para uniformizar a espessura e acelerar a cozedura.",
@@ -1699,10 +3505,48 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "1,5 chávenas de arroz carolino autêntico (não vaporizado!)",
-      "2 latas de atum em posta grossa conservado em azeite, 1 chávena de ervilhas finas",
-      "1 cebola picada fina, 2 colheres de sopa de polpa de tomate concentrada, 2 dentes de alho",
-      "Coentros frescos"
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz carolino",
+        "prep": "não vaporizado!"
+      },
+      {
+        "qty": "2",
+        "unit": "lata",
+        "name": "atum em posta conservado",
+        "prep": "em azeite"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "ervilhas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "picada fina"
+      },
+      {
+        "qty": "2",
+        "unit": "colher de sopa",
+        "name": "polpa de tomate concentrada",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "coentros",
+        "prep": null
+      }
     ],
     "instructions": [
       "Refogado mestre: aqueça o azeite da própria lata de atum (se for de qualidade) com a cebola picada, o alho e o tomate até vitrificar (3 minutos).",
@@ -1724,10 +3568,36 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "2 tranches gordas de salmão limpo, sem peles e espinhas (ou sobras ricas)",
-      "Cotovelos grandes ou massa graúda (búzios ou conchas)",
-      "150g de cogumelos frescos laminados, 1 embalagem de natas culinárias (ou alternativa vegetal)",
-      "Coentros, um pingo de vinho branco aromático, 1 dente de alho"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "tranches gordas de salmão limpo",
+        "prep": "ou sobras ricas"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cotovelos ou massa graúda",
+        "prep": "búzios ou conchas"
+      },
+      {
+        "qty": "150",
+        "unit": "g",
+        "name": "cogumelos",
+        "prep": "laminados"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "embalagem de natas culinárias",
+        "prep": "ou alternativa vegetal"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "coentros",
+        "prep": null
+      }
     ],
     "instructions": [
       "Sue intensamente os cogumelos a seco com o alho até amolecerem. Deglaçe com o vinho.",
@@ -1748,10 +3618,36 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "400g de peito e perna de frango picado fino ou triturado em casa",
-      "1 cenoura volumosa e meia courgette",
-      "1 cebola e 2 caules de aipo, 500 ml de polpa de tomate rica",
-      "Esparguete longo italiano de qualidade"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "peito e perna de frango",
+        "prep": "picado fino ou triturado em casa"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cenoura volumosa e meia courgette",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola e 2 caules de aipo",
+        "prep": null
+      },
+      {
+        "qty": "500",
+        "unit": "ml",
+        "name": "polpa de tomate rica",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "esparguete longo italiano de qualidade",
+        "prep": null
+      }
     ],
     "instructions": [
       "O truque visual do chef: liquefique inteiramente a cenoura, a courgette e o aipo na polpa de tomate. Nada de grumos de cores a boiar — tudo deve parecer estritamente molho vermelho natural.",
@@ -1772,10 +3668,36 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "2 a 3 postas do melhor bacalhau (demolhado e já lascado, sem falhas)",
-      "200g de espinafres frescos, azeite de lagar robusto",
-      "1,5 chávenas de arroz carolino, 1 chávena de tomates de cacho esmagados",
-      "Salsa e 1 raminho de coentros"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "a 3 postas do melhor bacalhau",
+        "prep": "demolhado e já lascado, sem falhas"
+      },
+      {
+        "qty": "200",
+        "unit": "g",
+        "name": "espinafres",
+        "prep": null
+      },
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz carolino",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "tomates de cacho",
+        "prep": "esmagados"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa e 1 raminho de coentros",
+        "prep": null
+      }
     ],
     "instructions": [
       "A base de estufado suado fecha o arroz gordo com o tomate e os alhos: deixe a pomada vermelha apurar antes de juntar a água fervente.",
@@ -1796,10 +3718,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "Sobras de carnes assadas do domingo (aves com os sucos do tabuleiro)",
-      "2 chávenas de penne ou rigatoni",
-      "Para a cama láctea: 1 base suave de natas misturadas com leite",
-      "Noz-moscada farta raspada e 1 pacote de emmental ou flamengo ralado"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sobras de carnes",
+        "prep": "assadas do domingo aves com os sucos do tabuleiro"
+      },
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "penne ou rigatoni",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "para a cama láctea: 1 base suave de natas misturadas com leite",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "noz-moscada farta raspada e 1 pacote de emmental ou flamengo",
+        "prep": "ralado"
+      }
     ],
     "instructions": [
       "O choque da macieza: coza a massa muito firme, apenas 5 minutos. Escorra.",
@@ -1821,10 +3763,30 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "Cotovelos ou búzios largos. Caldo rico de peixe (peça as cabeças na peixaria!)",
-      "3 postas fartas de corvina, maruca ou pescada grossa, limpas",
-      "Pimentos vermelhos doces, cebola e 1 bom punhado de tomate sumarento fatiado",
-      "Meio molho de hortelã verde fresca para o topo (imperativo rústico português)"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cotovelos ou búzios largos. caldo rico de peixe",
+        "prep": "peça as cabeças na peixaria!"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "postas fartas de corvina",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pimentos vermelhos doces",
+        "prep": "fatiado"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "meio molho de hortelã verde fresca para o topo",
+        "prep": "imperativo rústico português"
+      }
     ],
     "instructions": [
       "Primeiro, estude a base de pimentos finamente suados e tomate até estufar bem.",
@@ -1846,10 +3808,36 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "Arroz solto branco frio (sobras de véspera)",
-      "3 latas de atum, 1 cebola e azeite para reavivar",
-      "3 ovos cozidos picados e 1 cenoura tenra em meias-luas curtas",
-      "Para ligar e criar crosta: 2 ovos crus batidos"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "arroz branco",
+        "prep": "sobras de véspera"
+      },
+      {
+        "qty": "3",
+        "unit": "lata",
+        "name": "atum",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola e azeite para reavivar",
+        "prep": null
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "ovos",
+        "prep": "cozidos picados e 1 cenoura tenra em meias-luas curtas"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "para ligar e criar crosta: 2 ovos crus batidos",
+        "prep": null
+      }
     ],
     "instructions": [
       "Faça um estufadinho revigorante: o atum com a cebola em azeite até ficar quente, envolvendo as cenouras finas e os ovos cozidos em gomos.",
@@ -1871,9 +3859,24 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "2 cenouras laranjas descascadas em rodelas e 1 lata de feijão manteiga ou encarnado",
-      "Arroz carolino (proporção de 3 partes de água para 1 de arroz)",
-      "1 ovo por pessoa para escalfar no topo"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras laranjas descascadas",
+        "prep": "em rodelas e 1 lata de feijão manteiga ou encarnado"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "arroz carolino",
+        "prep": "proporção de 3 partes de água para 1 de arroz"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "ovo por pessoa para escalfar no topo",
+        "prep": null
+      }
     ],
     "instructions": [
       "Refogue o alho e as cenouras no azeite até o caroteno tingir levemente a gordura.",
@@ -1893,10 +3896,30 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "600g de tiras ou argolas de pota limpas",
-      "1 chávena de arroz agulha ou carolino",
-      "Molho base: pimentos encarnados suados, tomate maduro e caldo de peixe aromático",
-      "Coentros rasgados. 1 malagueta separada para os adultos que apreciem picante"
+      {
+        "qty": "600",
+        "unit": "g",
+        "name": "tiras ou argolas de pota limpas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "arroz agulha ou carolino",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "molho base: pimentos encarnados",
+        "prep": "suados, tomate maduro e caldo de peixe aromático"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "coentros rasgados. 1 malagueta separada para os adultos que apreciem picante",
+        "prep": null
+      }
     ],
     "instructions": [
       "Regra do cefalópode: sele as potas secas numa frigideira quente, sem água, durante 15 minutos, até ficarem macias sem pingar.",
@@ -1916,10 +3939,30 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "1 pacote de massa de arroz fina (bifum) translúcida",
-      "Folhas de pak-choi rasgadas e 1 punhado de edamames sem casca",
-      "2 ovos para mexer em fio no wok",
-      "Um fio de óleo de sésamo, gengibre fresco e alho fino (para adultos)"
+      {
+        "qty": "1",
+        "unit": "pacote",
+        "name": "massa de arroz translúcida",
+        "prep": "bifum"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "folhas de pak-choi rasgadas e 1 punhado de edamames sem casca",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos para mexer em fio no wok",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "fio de óleo de sésamo",
+        "prep": "para adultos"
+      }
     ],
     "instructions": [
       "As massas translúcidas não precisam de ferver: coloque-as numa taça com água fumegante, tapadas, durante 5 minutos para amolecerem sem se colarem.",
@@ -1939,11 +3982,42 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "2,5 chávenas de arroz branco frio de véspera (guardado no frigorífico)",
-      "2 ovos M, 1 chávena de ervilhas extrafinas doces",
-      "100g de fiambre de peru ou frango picado em cubos",
-      "Miolo de camarão calibre 80/100 (descongelado e enxuto em papel)",
-      "Óleo de sésamo, azeite, 1 fio de molho de soja suave"
+      {
+        "qty": "2,5",
+        "unit": "chávena",
+        "name": "arroz branco",
+        "prep": "de véspera guardado no frigorífico"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos m",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "ervilhas extrafinas doces",
+        "prep": null
+      },
+      {
+        "qty": "100",
+        "unit": "g",
+        "name": "fiambre de peru ou frango",
+        "prep": "picado em cubos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "miolo de camarão calibre 80/100",
+        "prep": "descongelado e enxuto em papel"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "óleo de sésamo",
+        "prep": null
+      }
     ],
     "instructions": [
       "Wok a 220 °C a fumar. Faça os ovos mexidos instantâneos: verta-os batidos no óleo de sésamo e mexa velozmente em 10 segundos. Retire-os para um prato.",
@@ -1964,11 +4038,42 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "1,5 chávenas cheias de arroz basmati (previamente demolhado 10 minutos e lavado)",
-      "2 cenouras raladas num crivo largo ou em juliana finíssima",
-      "1 pau de canela inteiro, 2 cravinhos e 1 vagem de cardamomo (só para libertar os óleos essenciais, a retirar antes de servir)",
-      "Amêndoas laminadas torradas sem sal (opcional, para adultos)",
-      "2 nozes de manteiga ou ghee indiana"
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "cheias de arroz basmati",
+        "prep": "previamente demolhado 10 minutos e lavado"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras",
+        "prep": "raladas num crivo largo ou em juliana finíssima"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "pau de canela inteiro",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cravinhos e 1 vagem de cardamomo",
+        "prep": "só para libertar os óleos essenciais, a retirar antes de servir"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "amêndoas",
+        "prep": "laminadas torradas sem sal opcional, para adultos"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "nozes de manteiga ou ghee indiana",
+        "prep": null
+      }
     ],
     "instructions": [
       "O segredo do pilaf é a tosta: num tacho tapado, aqueça a ghee com as especiarias inteiras para despertarem. Lance as cenouras e sue-as até largarem a doçura.",
@@ -1988,10 +4093,42 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "Massa noodles de ovo e trigo em ninho",
-      "1 lata generosa de leite de coco denso (elevada percentagem de gordura)",
-      "1 dente de alho, 1 colher de chá de cúrcuma (açafrão-das-índias), 1 colher de especiarias suaves Masala",
-      "Ovos M para escalfar no tacho ou cozer no topo"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "massa noodles de ovo e trigo em ninho",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "generosa de leite de coco denso",
+        "prep": "elevada percentagem de gordura"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de cúrcuma",
+        "prep": "açafrão-das-índias"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de especiarias suaves masala",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "ovos m para escalfar no tacho ou cozer no topo",
+        "prep": null
+      }
     ],
     "instructions": [
       "Sue as especiarias com o dente de alho num fundo de gordura de coco.",
@@ -2012,10 +4149,30 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "1 pacote de massa pevide (orzo)",
-      "Cubos de frango refogados sem osso, ou lascas de frango assado das sobras",
-      "2 chávenas de ervilhas biológicas bem macias",
-      "Para ligar: 2 colheres de sopa de mascarpone e 6 conchas de caldo de galinha caseiro quente"
+      {
+        "qty": "1",
+        "unit": "pacote",
+        "name": "massa pevide",
+        "prep": "orzo"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cubos de frango",
+        "prep": "refogados sem osso, ou lascas de frango assado das sobras"
+      },
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "ervilhas biológicas bem macias",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "para ligar: 2 colheres de sopa de mascarpone e 6 conchas de caldo de galinha caseiro",
+        "prep": null
+      }
     ],
     "instructions": [
       "A massa pevide imita o risotto na perfeição se refogar o grão cru no azeite com o frango durante alguns minutos dourados.",
@@ -2036,9 +4193,24 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "Bavette ou esparguete de ovos italianos secos",
-      "2 chávenas de tomates cereja, cortados ao meio",
-      "Pesto base verde: folhas frescas de manjericão, alho, azeite superior e parmesão"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "bavette ou esparguete de ovos italianos",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "tomates cereja",
+        "prep": "cortados ao meio"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pesto base verde: folhas frescas de manjericão",
+        "prep": null
+      }
     ],
     "instructions": [
       "Os tomatinhos em metades vão ao forno a 190 °C durante 15 minutos borrifados com azeite, perdendo a acidez para exalar um molhinho denso e doce.",
@@ -2059,10 +4231,30 @@
     ],
     "time": "50 min",
     "ingredients": [
-      "500g de carne de vaca magra picada na hora no talho",
-      "2 cenouras raladas finas, meia cebola",
-      "Puré macio: batatas velhas amarelas, manteiga, leite gordo quente, 1 gema de ovo e noz-moscada",
-      "1 gema para pincelar a cobertura"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "carne de vaca magra",
+        "prep": "picada na hora no talho"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras",
+        "prep": "raladas finas, meia cebola"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "puré macio: batatas velhas amarelas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "gema para pincelar a cobertura",
+        "prep": null
+      }
     ],
     "instructions": [
       "Estue a carne picada temperada com a cebola e os legumes ralados, o tomate e um pingo de vinho para destravar a acidez. Cozinhe em lume lento durante 25 minutos até obter um recheio coeso e saboroso.",
@@ -2083,9 +4275,24 @@
     ],
     "time": "55 min",
     "ingredients": [
-      "500g de vaca para estufar (acém ou rabadilha) em cubos pequenos",
-      "3 chávenas de ervilhas congeladas doces e 2 pimentos finos",
-      "Alho, polpa de tomate e um copo de vinho tinto (o álcool evapora na cozedura longa)"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "vaca para estufar",
+        "prep": "em cubos pequenos acém ou rabadilha"
+      },
+      {
+        "qty": "3",
+        "unit": "chávena",
+        "name": "ervilhas congeladas doces e 2 pimentos",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "alho",
+        "prep": "o álcool evapora na cozedura longa"
+      }
     ],
     "instructions": [
       "O segredo de uma vaca guisada que derrete no maxilar: sele os cubos de carne a fogo alto no azeite até caramelizarem bem por fora. Retire as gorduras excessivas e junte os pimentos suados e o tomate.",
@@ -2106,10 +4313,30 @@
     ],
     "time": "75 min",
     "ingredients": [
-      "1 lombo de porco limpo de gorduras excessivas, com pequenos furos para penetrar os aromas",
-      "1,5 kg de batatas pequenas descascadas (ou com casca fina, se frescas)",
-      "Marinada de ouro: sumo de 3 laranjas espremidas + raspa da casca, dentes de alho nos furos, alecrim verde",
-      "Pimentão doce espanhol"
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "lombo de porco limpo de gorduras excessivas",
+        "prep": null
+      },
+      {
+        "qty": "1,5",
+        "unit": "kg",
+        "name": "batatas descascadas",
+        "prep": "ou com casca fina, se frescas"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada de ouro: sumo de 3 laranjas espremidas + raspa da casca",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pimentão doce espanhol",
+        "prep": null
+      }
     ],
     "instructions": [
       "Os cítricos amaciam os músculos densos da carne, quebrando as proteínas que tornam os lombos secos e sem graça. Marine pelo menos 2 horas antes, massajando bem os aromas nos furos e por fora.",
@@ -2129,9 +4356,24 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "Mistura clássica de carne picada de vaca com um pouco de porco gordo (do talho)",
-      "Base de sofrito: alho finíssimo, cenoura ralada grossa, cebola e tomates maduros em pedaços",
-      "Fitas de massa larga ou laços (farfalle) para acompanhar"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "mistura clássica de carne",
+        "prep": "picada de vaca com um pouco de porco gordo do talho"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "base de sofrito: alho finíssimo",
+        "prep": "ralada grossa, cebola e tomates maduros em pedaços"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "fitas de massa larga ou laços para acompanhar",
+        "prep": "farfalle"
+      }
     ],
     "instructions": [
       "O segredo do salteado sem água: a carne é frita a seco num pico de calor forte, sem caldo, para caramelizar e secar.",
@@ -2152,9 +4394,24 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "550g de carne de vaca magra picada",
-      "150g de cogumelos marrons triturados finamente (escorridos da água)",
-      "1 ovo para ligar, pão ralado seco para absorver os líquidos, salsa picada fina"
+      {
+        "qty": "550",
+        "unit": "g",
+        "name": "carne de vaca magra",
+        "prep": "picada"
+      },
+      {
+        "qty": "150",
+        "unit": "g",
+        "name": "cogumelos marrons triturados",
+        "prep": "escorridos da água"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "ovo para ligar",
+        "prep": "ralado seco para absorver os líquidos, salsa picada fina"
+      }
     ],
     "instructions": [
       "O truque para hambúrgueres suculentos sem fritar: use a pasta dos cogumelos picados misturada directamente na carne crua e no pão mole. Evite fritar a seco em gordura excessiva.",
@@ -2174,8 +4431,18 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "50% vaca lombo / 50% porco picados, migalhas de pão demolhado, dentes de alho picados e 1 ovo inteiro",
-      "Molho caldo vivo: 1 frasco de polpa de tomate rústico, cebola inteira, azeite"
+      {
+        "qty": "50",
+        "unit": null,
+        "name": "% vaca lombo / 50% porco",
+        "prep": "picados, migalhas de pão demolhado, dentes de alho picados e 1 ovo inteiro"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "molho caldo vivo: 1 frasco de polpa de tomate rústico",
+        "prep": null
+      }
     ],
     "instructions": [
       "Molde com as mãos molhadas à dimensão de bolas de ping-pong. Não frite! Sele apenas do lado de fora numa frigideira com uma pincelada de azeite até dourarem a crosta (4 minutos).",
@@ -2194,9 +4461,24 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "Bifanas de lombo finíssimas cortadas tipo papel no talho (magras)",
-      "3 cebolas roxas grandes em meias-luas transparentes",
-      "Alho às rodelas, 1 colher de chá de pimentão doce; arroz branco solto para acompanhar"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "bifanas de lombo finíssimas",
+        "prep": "cortadas tipo papel no talho magras"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "cebolas roxas",
+        "prep": "em meias-luas transparentes"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "alho às rodelas",
+        "prep": null
+      }
     ],
     "instructions": [
       "Aqueça a frigideira até deitar fumo. Coloque com pinça os papéis de carne durante 1 minuto de cada lado e retire logo de seguida para um prato, recolhendo os sucos sem endurecer a carne.",
@@ -2217,10 +4499,30 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "Lombinhos de porco magro em cubos pequenos e limpos",
-      "Marinada clássica: massa de pimento vermelho natural, alho, 1 fio de vinho branco, louro",
-      "2 batatas-doces laranjas assadas cortadas em cubos",
-      "Coentros tenros vivos"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "lombinhos de porco magro",
+        "prep": "em cubos pequenos e limpos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada clássica: massa de pimento vermelho natural",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "batatas-doces laranjas",
+        "prep": "assadas cortadas em cubos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "coentros tenros vivos",
+        "prep": null
+      }
     ],
     "instructions": [
       "Marine bem os cubos na mistura aromática de pimentão doce e alho durante pelo menos 30 minutos.",
@@ -2241,8 +4543,18 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "Sobras de massa riscada (penne ou macarrão) já cozida, 400g de sobras de bolonhesa caseira",
-      "Mistura de ligação: 1/2 embalagem de natas leves batidas com 1 ovo. Queijo emmental magro ralado."
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sobras de massa riscada já",
+        "prep": "cozida, 400g de sobras de bolonhesa caseira penne ou macarrão"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "mistura de ligação: 1/2 embalagem de natas leves batidas com 1 ovo. queijo emmental magro",
+        "prep": "ralado."
+      }
     ],
     "instructions": [
       "Num pirex generoso, misture com vigor as massas frias nos sucos estufados densos da bolonhesa de véspera.",
@@ -2262,10 +4574,30 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "250g de vaca em corte finíssimo perpendicular à fibra (bifes extra-finos)",
-      "Brócolos separados em floretes pequenos e limpos",
-      "Sésamo tostado, sumo e raspa de 1 laranja forte e sumarenta",
-      "Salpico de soja (apenas para a dose do prato adulto)"
+      {
+        "qty": "250",
+        "unit": "g",
+        "name": "vaca em corte finíssimo perpendicular à fibra",
+        "prep": "bifes extra-finos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "brócolos separados em floretes e limpos",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sésamo tostado",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salpico de soja",
+        "prep": "apenas para a dose do prato adulto"
+      }
     ],
     "instructions": [
       "O brócolo verde vivo: escalde os floretes com dois dedos de água no fundo de uma frigideira tapada durante 3 minutos. Murcham sem perder a crocância tenra. Retire para uma tigela.",
@@ -2285,9 +4617,24 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "Lombinhos de porco em cubos perfeitos",
-      "Cubos frescos de ananás e sumo puro de metade do fruto batido",
-      "Pimentos doces vermelhos limpos; 1 colher de sopa de amido de milho para engrossar; 1 colher de chá de vinagre de maçã"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "lombinhos de porco",
+        "prep": "em cubos perfeitos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cubos de ananás e sumo puro de metade do fruto batido",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pimentos doces vermelhos limpos; 1 colher de sopa de amido de milho para engrossar; 1 colher de chá de vinagre de maçã",
+        "prep": null
+      }
     ],
     "instructions": [
       "O molho agridoce sem química: bata o sumo de ananás com o amido de milho, o vinagre de maçã e pincele na carne, salteando intensivamente durante 5 minutos.",
@@ -2307,10 +4654,30 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "500g de carne de vaca moída limpa, de talho de confiança",
-      "Meia cebola ralada para humidade interior, 1 colher de chá de cominhos em pó e pimentão doce suave",
-      "Pauzinhos de madeira grossos demolhados em água",
-      "Dip suave tzatziki: iogurte grego, hortelã fresca e 1/2 pepino ralado e escorrido"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "carne de vaca moída limpa",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "meia cebola",
+        "prep": "ralada para humidade interior, 1 colher de chá de cominhos em pó e pimentão doce suave"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pauzinhos de madeira",
+        "prep": "demolhados em água"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "dip suave tzatziki: iogurte grego",
+        "prep": "ralado e escorrido"
+      }
     ],
     "instructions": [
       "O líquido da cebola triturada embebe inteiramente a carne, evitando que os kebabs sequem no forno. Enrole em forma de charuto com a mão oleada nas espetadas.",
@@ -2330,9 +4697,24 @@
     ],
     "time": "60 min",
     "ingredients": [
-      "Vaca de acém ou chambão em cubos (corte ideal para guisados longos)",
-      "2 chávenas de abóbora laranja limpa em cortes pequenos",
-      "Especiarias de caril vermelho não picante (base Garam Masala) e 1 lata de leite de coco gordo inteiro"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "vaca de acém ou chambão",
+        "prep": "em cubos corte ideal para guisados longos"
+      },
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "abóbora laranja limpa em cortes",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "especiarias de caril vermelho não picante e 1 lata de leite de coco gordo inteiro",
+        "prep": "base Garam Masala"
+      }
     ],
     "instructions": [
       "A base grossa de ferro sela a carne na cúrcuma e especiarias doces vermelhas em azeite e alho fumegante, libertando os aromas indianos.",
@@ -2352,9 +4734,30 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "Folhas de massa fresca rectangulares (não necessitam de cozedura prévia)",
-      "Bolonhesa carnuda estufada, bem espessa",
-      "1 courgette comprida em tiras longitudinais finas (de mandolina ou faca). 1 embalagem de requeijão de vaca magro, 1 bola de mozzarella fresca fina"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "folhas de massa fresca rectangulares",
+        "prep": "não necessitam de cozedura prévia"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "bolonhesa carnuda estufada",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "courgette comprida",
+        "prep": "em tiras longitudinais finas. 1 embalagem de requeijão de vaca magro de mandolina ou faca"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "bola de mozzarella fresca",
+        "prep": null
+      }
     ],
     "instructions": [
       "Num pirex, monte as camadas rústicas: fio de bolonhesa no fundo; as tiras finas de courgette que ao morder imitam a textura da massa mas eliminam o pão; folhas de massa.",
@@ -2375,9 +4778,24 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "Bifes de alcatra finos, bem batidos para rebentar as fibras e amaciar",
-      "A cama rubra: passata de tomate com folhinhas de manjericão fresco",
-      "Bolas de mozzarella fresca fatiadas; massa rústica al dente para acompanhar"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "bifes de alcatra",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "a cama rubra: passata de tomate com folhinhas de manjericão",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "bolas de mozzarella fresca",
+        "prep": "fatiadas; massa rústica al dente para acompanhar"
+      }
     ],
     "instructions": [
       "Não panar nem afogar em pão e óleos profundos! Tempere e sele as carnes numa chapa muito quente durante 40 segundos de cada lado para caramelizar. Retire e estenda num tabuleiro.",

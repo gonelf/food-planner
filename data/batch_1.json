@@ -9,13 +9,60 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "400g bacalhau demolhado desfiado (sem espinhas e peles)",
-      "1 alho francês grande (cortado em finas meias-luas)",
-      "2 cenouras raladas num ralador grosso",
-      "6 ovos (para garantir um rácio cremoso de excelência)",
-      "200g batata palha (frita em casa ou de boa qualidade de forno)",
-      "Azeite virgem extra q.b., 3 dentes de alho picados, 1 folha de louro",
-      "Salsa fresca finamente picada e azeitonas pretas (opcional para o fim)"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "bacalhau",
+        "prep": "demolhado desfiado sem espinhas e peles"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "alho francês",
+        "prep": "cortado em finas meias-luas"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras",
+        "prep": "raladas num ralador grosso"
+      },
+      {
+        "qty": "6",
+        "unit": null,
+        "name": "ovos",
+        "prep": "para garantir um rácio cremoso de excelência"
+      },
+      {
+        "qty": "200",
+        "unit": "g",
+        "name": "batata palha",
+        "prep": "frita em casa ou de boa qualidade de forno"
+      },
+      {
+        "qty": "q.b.",
+        "unit": null,
+        "name": "azeite virgem extra",
+        "prep": null
+      },
+      {
+        "qty": "3",
+        "unit": "dente",
+        "name": "alho",
+        "prep": "picados"
+      },
+      {
+        "qty": "1",
+        "unit": "folha",
+        "name": "louro",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa fresca",
+        "prep": "picada e azeitonas pretas opcional para o fim"
+      }
     ],
     "instructions": [
       "Num tacho largo, aqueça um fio generoso de azeite e aromatize com o louro. Refogue o alho picado e o alho francês até este amolecer e 'suar' (cerca de 5 a 7 minutos).",
@@ -37,12 +84,48 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "4 a 6 filetes de pescada (frescos ou descongelados de qualidade, secos em papel de cozinha)",
-      "1 chávena de arroz carolino (lavado previamente)",
-      "1 chávena de ervilhas congeladas extrafinas",
-      "1 cebola média picada fina, 3 dentes de alho esmagados",
-      "1 colher de sopa de manteiga com sal",
-      "Azeite virgem extra, sumo de meio limão, coentros frescos e um pingo de vinho branco (opcional)"
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "a 6 filetes de pescada",
+        "prep": "frescos ou descongelados de qualidade, secos em papel de cozinha"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "arroz carolino",
+        "prep": "lavado previamente"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "ervilhas congeladas extrafinas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "picada fina"
+      },
+      {
+        "qty": "3",
+        "unit": "dente",
+        "name": "alho",
+        "prep": "esmagados"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sopa de manteiga com sal",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite virgem extra",
+        "prep": "opcional"
+      }
     ],
     "instructions": [
       "Marine ligeiramente os filetes com limão, azeite, alho laminado e um toque de vinho branco. Leve ao forno a 180 °C num tabuleiro durante cerca de 18 a 20 minutos para não secarem em demasia.",
@@ -64,11 +147,48 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "500g de lombos de pescada ou bacalhau fresco (sobras de bom peixe)",
-      "1 embalagem de espinafres frescos baby (200g)",
-      "800g de batata (mistura de batata-doce e batata normal para textura)",
-      "2 colheres de sopa de manteiga, cerca de 100 ml de leite quente e 1 gema de ovo",
-      "1 cebola grande, azeite, 1 folha de louro, noz-moscada fresca ralada"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "lombos de pescada ou bacalhau",
+        "prep": "sobras de bom peixe"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "embalagem de espinafres baby",
+        "prep": "200g"
+      },
+      {
+        "qty": "800",
+        "unit": "g",
+        "name": "batata",
+        "prep": "mistura de batata-doce e batata normal para textura"
+      },
+      {
+        "qty": "2",
+        "unit": "colher de sopa",
+        "name": "manteiga",
+        "prep": null
+      },
+      {
+        "qty": "100",
+        "unit": "ml",
+        "name": "leite e 1 gema de ovo",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "folha",
+        "name": "louro",
+        "prep": "ralada"
+      }
     ],
     "instructions": [
       "Coza as batatas. Reduza-as a puré e, ainda morno, adicione a manteiga, o leite aquecido, a gema de ovo e a noz-moscada para um creme aveludado.",
@@ -90,11 +210,42 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "1 frasco grande de feijão frade bem cozido, pele fina (aprox. 400g)",
-      "2 latas ou frascos de filetes de cavala ou carapau em azeite de qualidade",
-      "3 ovos cozidos a temperatura controlada (gemas cremosas)",
-      "1/2 cebola roxa em rodelas finas, 1/2 pimento verde pequeno em picadinho",
-      "Salsa fresca farta, azeite virgem extra perfumado, vinagre de vinho ou de maçã e 1 colher de chá de mostarda Dijon (para emulsionar)"
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "grande de feijão frade",
+        "prep": "bem cozido, pele fina aprox. 400g"
+      },
+      {
+        "qty": "2",
+        "unit": "lata",
+        "name": "ou frascos de filetes de cavala ou carapau",
+        "prep": "em azeite de qualidade"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "ovos",
+        "prep": "cozidos a temperatura controlada gemas cremosas"
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "cebola roxa",
+        "prep": "em rodelas finas"
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "pimento verde",
+        "prep": "em picadinho"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa fresca farta",
+        "prep": "para emulsionar"
+      }
     ],
     "instructions": [
       "Passe o feijão frade generosamente por água corrente para eliminar a gosma ou sais residuais e escorra muito bem.",
@@ -116,11 +267,48 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "600g de tentáculos ou tiras de pota (previamente limpos)",
-      "1,5 chávenas de arroz carolino autêntico (não agulha!)",
-      "1 tomate maduro carnudo aos cubos e 2 colheres de sopa de polpa de tomate rústica",
-      "1/2 pimento vermelho em cubos minúsculos",
-      "1 cebola média, 2 dentes de alho, azeite farto, um cálice de vinho branco, coentros com raiz"
+      {
+        "qty": "600",
+        "unit": "g",
+        "name": "tentáculos ou tiras de pota",
+        "prep": "previamente limpos"
+      },
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz carolino",
+        "prep": "não agulha!"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "tomate carnudo aos cubos e 2 colheres de sopa de polpa de tomate rústica",
+        "prep": null
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "pimento vermelho",
+        "prep": "em cubos minúsculos"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cálice de vinho branco",
+        "prep": null
+      }
     ],
     "instructions": [
       "Faça um belo refogado com azeite, cebola, alhos picados e as raízes fininhas dos coentros (onde mora o sabor!).",
@@ -143,12 +331,48 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "3 latas de atum ao natural (em água)",
-      "1 chávena de flocos de aveia finos",
-      "2 ovos M",
-      "1 cenoura pequena ralada finamente",
-      "Salsa picada, um fio de sumo de limão, 1 colher de chá rasa de paprika (doce ou fumada)",
-      "Acompanhamento: arroz solto ou legumes cozidos a vapor"
+      {
+        "qty": "3",
+        "unit": "lata",
+        "name": "atum ao natural",
+        "prep": "em água"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "flocos de aveia",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos m",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cenoura",
+        "prep": "ralada finamente"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa",
+        "prep": "picada"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "fio de sumo de limão",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá rasa de paprika",
+        "prep": "doce ou fumada"
+      }
     ],
     "instructions": [
       "O segredo está na humidade: escorra bem o atum retirando parte da água, mas sem desidratar totalmente, para manter o hambúrguer esponjoso.",
@@ -170,12 +394,42 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "3-4 lombos altos de pescada do Chile ou lombo de bacalhau fresco",
-      "4 a 5 batatas médias lisas para cozer (olho-de-perdiz, por exemplo)",
-      "3 cenouras grandes cortadas a rigor",
-      "1/2 couve-penca ou lombarda em pedaços grosseiros, ou agriões",
-      "2 ovos (para os adultos, a cozer junto)",
-      "Azeite virgem extra aromático, vinagre de vinho tinto à moda antiga (para o molho)"
+      {
+        "qty": "3-4",
+        "unit": null,
+        "name": "lombos de pescada do chile ou lombo de bacalhau",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "a 5 batatas lisas para cozer",
+        "prep": "olho-de-perdiz, por exemplo"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "cenouras",
+        "prep": "cortadas a rigor"
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "couve-penca ou lombarda",
+        "prep": "em pedaços grosseiros, ou agriões"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos",
+        "prep": "para os adultos, a cozer junto"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite virgem extra aromático",
+        "prep": "para o molho"
+      }
     ],
     "instructions": [
       "Recomenda-se uma cozedura escalonada! Num tacho largo com água a ferver temperada, descasque e lance primeiro as cenouras grandes.",
@@ -196,11 +450,36 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "2-3 bifes de atum fresco e vermelho (lombo limpo)",
-      "2 cebolas brancas grandes em meias-luas finas",
-      "3 colheres de sopa de polpa de tomate concentrada e um dente de alho",
-      "1 folha de louro pequena e um toque de vinagre ou vinho branco",
-      "Azeite virgem, acompanhado de um majestoso puré de batata rico"
+      {
+        "qty": "2-3",
+        "unit": null,
+        "name": "bifes de atum e vermelho",
+        "prep": "lombo limpo"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cebolas brancas",
+        "prep": "em meias-luas finas"
+      },
+      {
+        "qty": "3",
+        "unit": "colher de sopa",
+        "name": "polpa de tomate concentrada e um dente de alho",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "folha",
+        "name": "louro e um toque de vinagre ou vinho branco",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite virgem",
+        "prep": null
+      }
     ],
     "instructions": [
       "Um atum ressecado é o maior pecado da cozinha. Vamos estufar longamente as cebolas, mas ser cirúrgicos com o atum.",
@@ -221,11 +500,36 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "3 tranches ou medalhões de bacalhau fresco ou pescada da posta",
-      "3 pães saloios com miolo fofo endurecido do dia anterior",
-      "4 dentes de alho vigorosos e um ramo farto de coentros (usar os talos também)",
-      "3 a 4 ovos caseiros ou de campo",
-      "Uma dose valente do seu melhor azeite"
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "tranches ou medalhões de bacalhau ou pescada da posta",
+        "prep": null
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "pães saloios com miolo fofo endurecido do dia anterior",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": "dente",
+        "name": "alho vigorosos e um ramo farto de coentros",
+        "prep": "usar os talos também"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "a 4 ovos caseiros ou de campo",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "dose valente do seu melhor azeite",
+        "prep": null
+      }
     ],
     "instructions": [
       "O rei disto é o pão e o caldo: coza gentilmente a pescada 7 minutos apenas com um pouco de cebola e alho. Guarde 100% desta valiosa água em reserva quente.",
@@ -247,11 +551,54 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "500g postas de maruca ou garoupa",
-      "2 chávenas de massa grossa de trigo duro (tipo cotovelos grandes ou búzios)",
-      "1 cebola média, 2 dentes de alho maduros, azeite q.b.",
-      "1/2 pimento verde, 2 tomates rubros maduros ralados (ou 4 colheres de sopa de polpa de tomate)",
-      "Um raminho de hortelã e um cálice de vinho branco"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "postas de maruca ou garoupa",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "massa de trigo duro",
+        "prep": "tipo cotovelos grandes ou búzios"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      },
+      {
+        "qty": "q.b.",
+        "unit": null,
+        "name": "azeite",
+        "prep": null
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "pimento verde",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "tomates rubros",
+        "prep": "ralados ou 4 colheres de sopa de polpa de tomate"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "raminho de hortelã e um cálice de vinho branco",
+        "prep": null
+      }
     ],
     "instructions": [
       "Pique a cebola finamente. Num tacho de fundo espesso, crie uma base pastosa com azeite, cebola, o tomate ralado e o pimento suado. Refresque com o vinho branco.",

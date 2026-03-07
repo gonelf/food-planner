@@ -10,10 +10,48 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "1,5 chávenas de arroz carolino autêntico (não vaporizado!)",
-      "2 latas de atum em posta grossa conservado em azeite, 1 chávena de ervilhas finas",
-      "1 cebola picada fina, 2 colheres de sopa de polpa de tomate concentrada, 2 dentes de alho",
-      "Coentros frescos"
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz carolino",
+        "prep": "não vaporizado!"
+      },
+      {
+        "qty": "2",
+        "unit": "lata",
+        "name": "atum em posta conservado",
+        "prep": "em azeite"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "ervilhas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "picada fina"
+      },
+      {
+        "qty": "2",
+        "unit": "colher de sopa",
+        "name": "polpa de tomate concentrada",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "coentros",
+        "prep": null
+      }
     ],
     "instructions": [
       "Refogado mestre: aqueça o azeite da própria lata de atum (se for de qualidade) com a cebola picada, o alho e o tomate até vitrificar (3 minutos).",
@@ -35,10 +73,36 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "2 tranches gordas de salmão limpo, sem peles e espinhas (ou sobras ricas)",
-      "Cotovelos grandes ou massa graúda (búzios ou conchas)",
-      "150g de cogumelos frescos laminados, 1 embalagem de natas culinárias (ou alternativa vegetal)",
-      "Coentros, um pingo de vinho branco aromático, 1 dente de alho"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "tranches gordas de salmão limpo",
+        "prep": "ou sobras ricas"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cotovelos ou massa graúda",
+        "prep": "búzios ou conchas"
+      },
+      {
+        "qty": "150",
+        "unit": "g",
+        "name": "cogumelos",
+        "prep": "laminados"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "embalagem de natas culinárias",
+        "prep": "ou alternativa vegetal"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "coentros",
+        "prep": null
+      }
     ],
     "instructions": [
       "Sue intensamente os cogumelos a seco com o alho até amolecerem. Deglaçe com o vinho.",
@@ -59,10 +123,36 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "400g de peito e perna de frango picado fino ou triturado em casa",
-      "1 cenoura volumosa e meia courgette",
-      "1 cebola e 2 caules de aipo, 500 ml de polpa de tomate rica",
-      "Esparguete longo italiano de qualidade"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "peito e perna de frango",
+        "prep": "picado fino ou triturado em casa"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cenoura volumosa e meia courgette",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola e 2 caules de aipo",
+        "prep": null
+      },
+      {
+        "qty": "500",
+        "unit": "ml",
+        "name": "polpa de tomate rica",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "esparguete longo italiano de qualidade",
+        "prep": null
+      }
     ],
     "instructions": [
       "O truque visual do chef: liquefique inteiramente a cenoura, a courgette e o aipo na polpa de tomate. Nada de grumos de cores a boiar — tudo deve parecer estritamente molho vermelho natural.",
@@ -83,10 +173,36 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "2 a 3 postas do melhor bacalhau (demolhado e já lascado, sem falhas)",
-      "200g de espinafres frescos, azeite de lagar robusto",
-      "1,5 chávenas de arroz carolino, 1 chávena de tomates de cacho esmagados",
-      "Salsa e 1 raminho de coentros"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "a 3 postas do melhor bacalhau",
+        "prep": "demolhado e já lascado, sem falhas"
+      },
+      {
+        "qty": "200",
+        "unit": "g",
+        "name": "espinafres",
+        "prep": null
+      },
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz carolino",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "tomates de cacho",
+        "prep": "esmagados"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa e 1 raminho de coentros",
+        "prep": null
+      }
     ],
     "instructions": [
       "A base de estufado suado fecha o arroz gordo com o tomate e os alhos: deixe a pomada vermelha apurar antes de juntar a água fervente.",
@@ -107,10 +223,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "Sobras de carnes assadas do domingo (aves com os sucos do tabuleiro)",
-      "2 chávenas de penne ou rigatoni",
-      "Para a cama láctea: 1 base suave de natas misturadas com leite",
-      "Noz-moscada farta raspada e 1 pacote de emmental ou flamengo ralado"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sobras de carnes",
+        "prep": "assadas do domingo aves com os sucos do tabuleiro"
+      },
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "penne ou rigatoni",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "para a cama láctea: 1 base suave de natas misturadas com leite",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "noz-moscada farta raspada e 1 pacote de emmental ou flamengo",
+        "prep": "ralado"
+      }
     ],
     "instructions": [
       "O choque da macieza: coza a massa muito firme, apenas 5 minutos. Escorra.",
@@ -132,10 +268,30 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "Cotovelos ou búzios largos. Caldo rico de peixe (peça as cabeças na peixaria!)",
-      "3 postas fartas de corvina, maruca ou pescada grossa, limpas",
-      "Pimentos vermelhos doces, cebola e 1 bom punhado de tomate sumarento fatiado",
-      "Meio molho de hortelã verde fresca para o topo (imperativo rústico português)"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cotovelos ou búzios largos. caldo rico de peixe",
+        "prep": "peça as cabeças na peixaria!"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "postas fartas de corvina",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pimentos vermelhos doces",
+        "prep": "fatiado"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "meio molho de hortelã verde fresca para o topo",
+        "prep": "imperativo rústico português"
+      }
     ],
     "instructions": [
       "Primeiro, estude a base de pimentos finamente suados e tomate até estufar bem.",
@@ -157,10 +313,36 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "Arroz solto branco frio (sobras de véspera)",
-      "3 latas de atum, 1 cebola e azeite para reavivar",
-      "3 ovos cozidos picados e 1 cenoura tenra em meias-luas curtas",
-      "Para ligar e criar crosta: 2 ovos crus batidos"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "arroz branco",
+        "prep": "sobras de véspera"
+      },
+      {
+        "qty": "3",
+        "unit": "lata",
+        "name": "atum",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola e azeite para reavivar",
+        "prep": null
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "ovos",
+        "prep": "cozidos picados e 1 cenoura tenra em meias-luas curtas"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "para ligar e criar crosta: 2 ovos crus batidos",
+        "prep": null
+      }
     ],
     "instructions": [
       "Faça um estufadinho revigorante: o atum com a cebola em azeite até ficar quente, envolvendo as cenouras finas e os ovos cozidos em gomos.",
@@ -182,9 +364,24 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "2 cenouras laranjas descascadas em rodelas e 1 lata de feijão manteiga ou encarnado",
-      "Arroz carolino (proporção de 3 partes de água para 1 de arroz)",
-      "1 ovo por pessoa para escalfar no topo"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras laranjas descascadas",
+        "prep": "em rodelas e 1 lata de feijão manteiga ou encarnado"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "arroz carolino",
+        "prep": "proporção de 3 partes de água para 1 de arroz"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "ovo por pessoa para escalfar no topo",
+        "prep": null
+      }
     ],
     "instructions": [
       "Refogue o alho e as cenouras no azeite até o caroteno tingir levemente a gordura.",
@@ -204,10 +401,30 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "600g de tiras ou argolas de pota limpas",
-      "1 chávena de arroz agulha ou carolino",
-      "Molho base: pimentos encarnados suados, tomate maduro e caldo de peixe aromático",
-      "Coentros rasgados. 1 malagueta separada para os adultos que apreciem picante"
+      {
+        "qty": "600",
+        "unit": "g",
+        "name": "tiras ou argolas de pota limpas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "arroz agulha ou carolino",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "molho base: pimentos encarnados",
+        "prep": "suados, tomate maduro e caldo de peixe aromático"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "coentros rasgados. 1 malagueta separada para os adultos que apreciem picante",
+        "prep": null
+      }
     ],
     "instructions": [
       "Regra do cefalópode: sele as potas secas numa frigideira quente, sem água, durante 15 minutos, até ficarem macias sem pingar.",
@@ -227,10 +444,30 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "1 pacote de massa de arroz fina (bifum) translúcida",
-      "Folhas de pak-choi rasgadas e 1 punhado de edamames sem casca",
-      "2 ovos para mexer em fio no wok",
-      "Um fio de óleo de sésamo, gengibre fresco e alho fino (para adultos)"
+      {
+        "qty": "1",
+        "unit": "pacote",
+        "name": "massa de arroz translúcida",
+        "prep": "bifum"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "folhas de pak-choi rasgadas e 1 punhado de edamames sem casca",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos para mexer em fio no wok",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "fio de óleo de sésamo",
+        "prep": "para adultos"
+      }
     ],
     "instructions": [
       "As massas translúcidas não precisam de ferver: coloque-as numa taça com água fumegante, tapadas, durante 5 minutos para amolecerem sem se colarem.",

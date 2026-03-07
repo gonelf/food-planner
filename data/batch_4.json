@@ -10,11 +10,48 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "1,5 chávenas de lentilhas castanhas pequenas (secas, bem lavadas)",
-      "300g de abóbora manteiga em cubos regulares pequenos",
-      "1 alho francês picado, 1 cenoura picada fina, 1 dente de alho",
-      "1/2 colher de chá de cominhos em pó, louro, azeite",
-      "Um fio de natas vegetais ou creme de aveia e salsa picada"
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "lentilhas castanhas",
+        "prep": "secas, bem lavadas"
+      },
+      {
+        "qty": "300",
+        "unit": "g",
+        "name": "abóbora manteiga",
+        "prep": "em cubos regulares pequenos"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "alho francês",
+        "prep": "picado"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cenoura",
+        "prep": "picada fina"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "colher de chá de cominhos em pó",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "fio de natas vegetais ou creme de aveia e salsa",
+        "prep": "picada"
+      }
     ],
     "instructions": [
       "O segredo do chef: numa panela, salteie vigorosamente a abóbora no azeite com os cominhos até as bordas caramelizarem ligeiramente. Retire e reserve.",
@@ -35,11 +72,36 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "1 frasco de feijão frade bem lavado (400g)",
-      "1 cabeça de brócolos cortada em floretes bem definidos",
-      "3 ovos cozidos a 9 minutos, picados em gomos",
-      "1 punhado de amêndoas torradas laminadas (para os adultos)",
-      "Molho: azeite farto, alho cru esmagado, vinagre e pitada de sal grosso"
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "feijão frade",
+        "prep": "bem lavado 400g"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cabeça de brócolos",
+        "prep": "cortada em floretes bem definidos"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "ovos",
+        "prep": "cozidos a 9 minutos, picados em gomos"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "punhado de amêndoas torradas",
+        "prep": "laminadas para os adultos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "molho: azeite farto",
+        "prep": "esmagado, vinagre e pitada de sal grosso"
+      }
     ],
     "instructions": [
       "Cozedura à chef: não mergulhe os brócolos em água a ferver! Coza-os a vapor durante 5 minutos até ficarem num verde elétrico vibrante e com textura 'al dente'.",
@@ -60,12 +122,48 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "1 chávena de lentilhas castanhas cozidas (ou frasco bem lavado)",
-      "300g de cogumelos portobello ou cremini picados na picadora, ao estilo de carne picada",
-      "2 colheres de sopa de molho de soja, 1 colher de sopa de polpa de tomate concentrada",
-      "Cebola picada, cenoura ralada fina e salsa",
-      "Base de puré: batatas cozidas batidas com manteiga, leite quente e noz-moscada",
-      "Opcional: queijo curado ralado no topo para gratinar"
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "lentilhas castanhas",
+        "prep": "cozidas ou frasco bem lavado"
+      },
+      {
+        "qty": "300",
+        "unit": "g",
+        "name": "cogumelos portobello ou cremini",
+        "prep": "picados na picadora, ao estilo de carne picada"
+      },
+      {
+        "qty": "2",
+        "unit": "colher de sopa",
+        "name": "molho de soja",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sopa de polpa de tomate concentrada",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cebola",
+        "prep": "picada, cenoura ralada fina e salsa"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "base de puré: batatas",
+        "prep": "cozidas batidas com manteiga, leite quente e noz-moscada"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "opcional: queijo curado",
+        "prep": "ralado no topo para gratinar"
+      }
     ],
     "instructions": [
       "No puré, o leite quente é crucial para a sedosidade (nunca use leite gelado do frigorífico).",
@@ -86,11 +184,36 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "2 a 3 alhos franceses (só a parte branca e verde clara) em meias-luas finíssimas",
-      "1 frasco padrão de grão-de-bico biológico, passado à forquilha (semi-puré)",
-      "6 ovos (rácio cremoso não negociável)",
-      "1 dente de alho picado, azeite generoso",
-      "Salsa farta, uma poeira fina de pimenta preta (adultos) e azeitonas"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "a 3 alhos franceses",
+        "prep": "em meias-luas finíssimas só a parte branca e verde clara"
+      },
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "padrão de grão-de-bico biológico",
+        "prep": "semi-puré"
+      },
+      {
+        "qty": "6",
+        "unit": null,
+        "name": "ovos",
+        "prep": "rácio cremoso não negociável"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho",
+        "prep": "picado, azeite generoso"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa farta",
+        "prep": "adultos"
+      }
     ],
     "instructions": [
       "Na frigideira funda, murche o alho francês no azeite com o alho, em lume lento, uns belos 8 minutos, para atingir o máximo de doçura e volume rendido.",
@@ -112,9 +235,30 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "1 lata média de feijão vermelho ou manteiga, 1,5 chávenas de arroz carolino",
-      "Repolho fresco em pedaços fofinhos, 1 folha de louro, vinagre de vinho",
-      "Patanisca leve: 1 chávena de farinha de grão, água com gás bem fria, salsa farta e meia cebola ralada (sem ovos)"
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "média de feijão vermelho ou manteiga",
+        "prep": null
+      },
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz carolino",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "repolho",
+        "prep": "em pedaços fofinhos, 1 folha de louro, vinagre de vinho"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "patanisca leve: 1 chávena de farinha de grão",
+        "prep": "ralada sem ovos"
+      }
     ],
     "instructions": [
       "O malandrinho: refogue a cebola, o alho, o louro e 1 colher de tomate. Verta o feijão com alguma da sua calda. Junte 4 partes de líquido para 1 de arroz. Ferva 7 minutos com o repolho. Deposite o arroz e ferva por 15 minutos, apagando ainda ligeiramente encruado. Um pingo de vinagre no arroz liga as gomas de forma brilhante.",
@@ -133,10 +277,36 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "3 boas fatias de pão alentejano rijo de dois dias",
-      "4 dentes de alho vigorosos, 1 grande punhado de coentros frescos",
-      "4 ovos XL e flor de sal",
-      "1 dl de azeite virgem extra de topo de gama (a base de tudo)"
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "boas fatias de pão alentejano rijo de dois dias",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": "dente",
+        "name": "alho vigorosos",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "grande punhado de coentros",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "ovos xl e flor de sal",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "dl",
+        "name": "azeite virgem extra de topo de gama",
+        "prep": "a base de tudo"
+      }
     ],
     "instructions": [
       "Ferva 1,5 litros de água numa panela funda.",
@@ -157,10 +327,42 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "400g de bloco de tofu firme",
-      "Marinada chef: sumo de 1/2 limão, pimentão doce fumado (colorau), 1 dente de alho com casca, 1 colher de chá de vinho branco",
-      "Meia broa de milho amarela esfarelada em migalhas pelas mãos",
-      "Louro e azeite"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "bloco de tofu firme",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada chef: sumo de 1/2 limão",
+        "prep": "colorau"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho com casca",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de vinho branco",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "meia broa de milho amarela esfarelada em migalhas pelas mãos",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "louro e azeite",
+        "prep": null
+      }
     ],
     "instructions": [
       "Expulse a água: pressione o bloco de tofu entre panos limpos com algum peso durante alguns minutos. Corte em dados perfeitos.",
@@ -181,9 +383,42 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "600g de ervilhas doces congeladas",
-      "1 batata pequena tipo agulha, 1 courgette, 1 alho francês picado (parte branca)",
-      "2 ovos cozidos, um fio de natas frescas, hortelã"
+      {
+        "qty": "600",
+        "unit": "g",
+        "name": "ervilhas doces congeladas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "batata tipo agulha",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "courgette",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "alho francês",
+        "prep": "picado parte branca"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos",
+        "prep": "cozidos"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "fio de natas frescas",
+        "prep": null
+      }
     ],
     "instructions": [
       "Sue a base do alho francês na gordura — este passo é crítico para o creme. Adicione a courgette, a batata e as ervilhas.",
@@ -205,10 +440,48 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "300g de massa fusilli estriado ou penne rugoso",
-      "Molho camuflagem: 1 courgette cortada, 1 cenoura, 1 fatia de abóbora amarela batida muito fina",
-      "1 embalagem de natas vegetais espessas (soja ou aveia), uma pitada generosa de noz-moscada",
-      "Queijo emmental ralado grosso (ou curado) e pão panko tostado"
+      {
+        "qty": "300",
+        "unit": "g",
+        "name": "massa fusilli estriado ou penne rugoso",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "molho camuflagem: 1 courgette",
+        "prep": "cortada"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cenoura",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "fatia de abóbora amarela batida muito",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "embalagem de natas vegetais espessas",
+        "prep": "soja ou aveia"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "pitada generosa de noz-moscada",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "queijo emmental",
+        "prep": "ralado grosso e pão panko tostado ou curado"
+      }
     ],
     "instructions": [
       "No tacho, coza a massa al dente — uns 3 minutos antes do tempo do pacote — para não inchar demasiado no forno.",
@@ -229,10 +502,30 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "Fundo: feijão manteiga triturado até molho esbranquiçado (passe uma lata com 1 batata pequena ou nabo, com a varinha mágica e caldo)",
-      "Feijões carnudos inteiros reservados para morder",
-      "Couve galega fresca cortada em tiras finas ao estilo de caldo verde",
-      "1 colher de chá de pimentão fumado e um bom fio de azeite lagareiro"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "fundo: feijão manteiga triturado até molho esbranquiçado",
+        "prep": "passe uma lata com 1 batata pequena ou nabo, com a varinha mágica e caldo"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "feijões carnudos inteiros reservados para morder",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "couve galega fresca",
+        "prep": "cortada em tiras finas ao estilo de caldo verde"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de pimentão fumado e um bom fio de azeite lagareiro",
+        "prep": null
+      }
     ],
     "instructions": [
       "Prepare este prato de sustento: em panela alta, aqueça a base pastosa de feijão triturado, sem ossos nem aparas animais. Dê alma com uma colher de pimentão doce fumado espanhol, que evoca o sabor da linguiça sem a usar.",

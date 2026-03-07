@@ -9,11 +9,42 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "2,5 chávenas de arroz branco frio de véspera (guardado no frigorífico)",
-      "2 ovos M, 1 chávena de ervilhas extrafinas doces",
-      "100g de fiambre de peru ou frango picado em cubos",
-      "Miolo de camarão calibre 80/100 (descongelado e enxuto em papel)",
-      "Óleo de sésamo, azeite, 1 fio de molho de soja suave"
+      {
+        "qty": "2,5",
+        "unit": "chávena",
+        "name": "arroz branco",
+        "prep": "de véspera guardado no frigorífico"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "ovos m",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "ervilhas extrafinas doces",
+        "prep": null
+      },
+      {
+        "qty": "100",
+        "unit": "g",
+        "name": "fiambre de peru ou frango",
+        "prep": "picado em cubos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "miolo de camarão calibre 80/100",
+        "prep": "descongelado e enxuto em papel"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "óleo de sésamo",
+        "prep": null
+      }
     ],
     "instructions": [
       "Wok a 220 °C a fumar. Faça os ovos mexidos instantâneos: verta-os batidos no óleo de sésamo e mexa velozmente em 10 segundos. Retire-os para um prato.",
@@ -34,11 +65,42 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "1,5 chávenas cheias de arroz basmati (previamente demolhado 10 minutos e lavado)",
-      "2 cenouras raladas num crivo largo ou em juliana finíssima",
-      "1 pau de canela inteiro, 2 cravinhos e 1 vagem de cardamomo (só para libertar os óleos essenciais, a retirar antes de servir)",
-      "Amêndoas laminadas torradas sem sal (opcional, para adultos)",
-      "2 nozes de manteiga ou ghee indiana"
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "cheias de arroz basmati",
+        "prep": "previamente demolhado 10 minutos e lavado"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras",
+        "prep": "raladas num crivo largo ou em juliana finíssima"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "pau de canela inteiro",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cravinhos e 1 vagem de cardamomo",
+        "prep": "só para libertar os óleos essenciais, a retirar antes de servir"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "amêndoas",
+        "prep": "laminadas torradas sem sal opcional, para adultos"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "nozes de manteiga ou ghee indiana",
+        "prep": null
+      }
     ],
     "instructions": [
       "O segredo do pilaf é a tosta: num tacho tapado, aqueça a ghee com as especiarias inteiras para despertarem. Lance as cenouras e sue-as até largarem a doçura.",
@@ -58,10 +120,42 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "Massa noodles de ovo e trigo em ninho",
-      "1 lata generosa de leite de coco denso (elevada percentagem de gordura)",
-      "1 dente de alho, 1 colher de chá de cúrcuma (açafrão-das-índias), 1 colher de especiarias suaves Masala",
-      "Ovos M para escalfar no tacho ou cozer no topo"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "massa noodles de ovo e trigo em ninho",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "generosa de leite de coco denso",
+        "prep": "elevada percentagem de gordura"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de cúrcuma",
+        "prep": "açafrão-das-índias"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de especiarias suaves masala",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "ovos m para escalfar no tacho ou cozer no topo",
+        "prep": null
+      }
     ],
     "instructions": [
       "Sue as especiarias com o dente de alho num fundo de gordura de coco.",
@@ -82,10 +176,30 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "1 pacote de massa pevide (orzo)",
-      "Cubos de frango refogados sem osso, ou lascas de frango assado das sobras",
-      "2 chávenas de ervilhas biológicas bem macias",
-      "Para ligar: 2 colheres de sopa de mascarpone e 6 conchas de caldo de galinha caseiro quente"
+      {
+        "qty": "1",
+        "unit": "pacote",
+        "name": "massa pevide",
+        "prep": "orzo"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cubos de frango",
+        "prep": "refogados sem osso, ou lascas de frango assado das sobras"
+      },
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "ervilhas biológicas bem macias",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "para ligar: 2 colheres de sopa de mascarpone e 6 conchas de caldo de galinha caseiro",
+        "prep": null
+      }
     ],
     "instructions": [
       "A massa pevide imita o risotto na perfeição se refogar o grão cru no azeite com o frango durante alguns minutos dourados.",
@@ -106,9 +220,24 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "Bavette ou esparguete de ovos italianos secos",
-      "2 chávenas de tomates cereja, cortados ao meio",
-      "Pesto base verde: folhas frescas de manjericão, alho, azeite superior e parmesão"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "bavette ou esparguete de ovos italianos",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "tomates cereja",
+        "prep": "cortados ao meio"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pesto base verde: folhas frescas de manjericão",
+        "prep": null
+      }
     ],
     "instructions": [
       "Os tomatinhos em metades vão ao forno a 190 °C durante 15 minutos borrifados com azeite, perdendo a acidez para exalar um molhinho denso e doce.",
@@ -129,10 +258,30 @@
     ],
     "time": "50 min",
     "ingredients": [
-      "500g de carne de vaca magra picada na hora no talho",
-      "2 cenouras raladas finas, meia cebola",
-      "Puré macio: batatas velhas amarelas, manteiga, leite gordo quente, 1 gema de ovo e noz-moscada",
-      "1 gema para pincelar a cobertura"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "carne de vaca magra",
+        "prep": "picada na hora no talho"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras",
+        "prep": "raladas finas, meia cebola"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "puré macio: batatas velhas amarelas",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "gema para pincelar a cobertura",
+        "prep": null
+      }
     ],
     "instructions": [
       "Estue a carne picada temperada com a cebola e os legumes ralados, o tomate e um pingo de vinho para destravar a acidez. Cozinhe em lume lento durante 25 minutos até obter um recheio coeso e saboroso.",
@@ -153,9 +302,24 @@
     ],
     "time": "55 min",
     "ingredients": [
-      "500g de vaca para estufar (acém ou rabadilha) em cubos pequenos",
-      "3 chávenas de ervilhas congeladas doces e 2 pimentos finos",
-      "Alho, polpa de tomate e um copo de vinho tinto (o álcool evapora na cozedura longa)"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "vaca para estufar",
+        "prep": "em cubos pequenos acém ou rabadilha"
+      },
+      {
+        "qty": "3",
+        "unit": "chávena",
+        "name": "ervilhas congeladas doces e 2 pimentos",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "alho",
+        "prep": "o álcool evapora na cozedura longa"
+      }
     ],
     "instructions": [
       "O segredo de uma vaca guisada que derrete no maxilar: sele os cubos de carne a fogo alto no azeite até caramelizarem bem por fora. Retire as gorduras excessivas e junte os pimentos suados e o tomate.",
@@ -176,10 +340,30 @@
     ],
     "time": "75 min",
     "ingredients": [
-      "1 lombo de porco limpo de gorduras excessivas, com pequenos furos para penetrar os aromas",
-      "1,5 kg de batatas pequenas descascadas (ou com casca fina, se frescas)",
-      "Marinada de ouro: sumo de 3 laranjas espremidas + raspa da casca, dentes de alho nos furos, alecrim verde",
-      "Pimentão doce espanhol"
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "lombo de porco limpo de gorduras excessivas",
+        "prep": null
+      },
+      {
+        "qty": "1,5",
+        "unit": "kg",
+        "name": "batatas descascadas",
+        "prep": "ou com casca fina, se frescas"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada de ouro: sumo de 3 laranjas espremidas + raspa da casca",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pimentão doce espanhol",
+        "prep": null
+      }
     ],
     "instructions": [
       "Os cítricos amaciam os músculos densos da carne, quebrando as proteínas que tornam os lombos secos e sem graça. Marine pelo menos 2 horas antes, massajando bem os aromas nos furos e por fora.",
@@ -199,9 +383,24 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "Mistura clássica de carne picada de vaca com um pouco de porco gordo (do talho)",
-      "Base de sofrito: alho finíssimo, cenoura ralada grossa, cebola e tomates maduros em pedaços",
-      "Fitas de massa larga ou laços (farfalle) para acompanhar"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "mistura clássica de carne",
+        "prep": "picada de vaca com um pouco de porco gordo do talho"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "base de sofrito: alho finíssimo",
+        "prep": "ralada grossa, cebola e tomates maduros em pedaços"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "fitas de massa larga ou laços para acompanhar",
+        "prep": "farfalle"
+      }
     ],
     "instructions": [
       "O segredo do salteado sem água: a carne é frita a seco num pico de calor forte, sem caldo, para caramelizar e secar.",
@@ -222,9 +421,24 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "550g de carne de vaca magra picada",
-      "150g de cogumelos marrons triturados finamente (escorridos da água)",
-      "1 ovo para ligar, pão ralado seco para absorver os líquidos, salsa picada fina"
+      {
+        "qty": "550",
+        "unit": "g",
+        "name": "carne de vaca magra",
+        "prep": "picada"
+      },
+      {
+        "qty": "150",
+        "unit": "g",
+        "name": "cogumelos marrons triturados",
+        "prep": "escorridos da água"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "ovo para ligar",
+        "prep": "ralado seco para absorver os líquidos, salsa picada fina"
+      }
     ],
     "instructions": [
       "O truque para hambúrgueres suculentos sem fritar: use a pasta dos cogumelos picados misturada directamente na carne crua e no pão mole. Evite fritar a seco em gordura excessiva.",

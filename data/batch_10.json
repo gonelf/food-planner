@@ -10,8 +10,18 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "50% vaca lombo / 50% porco picados, migalhas de pão demolhado, dentes de alho picados e 1 ovo inteiro",
-      "Molho caldo vivo: 1 frasco de polpa de tomate rústico, cebola inteira, azeite"
+      {
+        "qty": "50",
+        "unit": null,
+        "name": "% vaca lombo / 50% porco",
+        "prep": "picados, migalhas de pão demolhado, dentes de alho picados e 1 ovo inteiro"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "molho caldo vivo: 1 frasco de polpa de tomate rústico",
+        "prep": null
+      }
     ],
     "instructions": [
       "Molde com as mãos molhadas à dimensão de bolas de ping-pong. Não frite! Sele apenas do lado de fora numa frigideira com uma pincelada de azeite até dourarem a crosta (4 minutos).",
@@ -30,9 +40,24 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "Bifanas de lombo finíssimas cortadas tipo papel no talho (magras)",
-      "3 cebolas roxas grandes em meias-luas transparentes",
-      "Alho às rodelas, 1 colher de chá de pimentão doce; arroz branco solto para acompanhar"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "bifanas de lombo finíssimas",
+        "prep": "cortadas tipo papel no talho magras"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "cebolas roxas",
+        "prep": "em meias-luas transparentes"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "alho às rodelas",
+        "prep": null
+      }
     ],
     "instructions": [
       "Aqueça a frigideira até deitar fumo. Coloque com pinça os papéis de carne durante 1 minuto de cada lado e retire logo de seguida para um prato, recolhendo os sucos sem endurecer a carne.",
@@ -53,10 +78,30 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "Lombinhos de porco magro em cubos pequenos e limpos",
-      "Marinada clássica: massa de pimento vermelho natural, alho, 1 fio de vinho branco, louro",
-      "2 batatas-doces laranjas assadas cortadas em cubos",
-      "Coentros tenros vivos"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "lombinhos de porco magro",
+        "prep": "em cubos pequenos e limpos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada clássica: massa de pimento vermelho natural",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "batatas-doces laranjas",
+        "prep": "assadas cortadas em cubos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "coentros tenros vivos",
+        "prep": null
+      }
     ],
     "instructions": [
       "Marine bem os cubos na mistura aromática de pimentão doce e alho durante pelo menos 30 minutos.",
@@ -77,8 +122,18 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "Sobras de massa riscada (penne ou macarrão) já cozida, 400g de sobras de bolonhesa caseira",
-      "Mistura de ligação: 1/2 embalagem de natas leves batidas com 1 ovo. Queijo emmental magro ralado."
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sobras de massa riscada já",
+        "prep": "cozida, 400g de sobras de bolonhesa caseira penne ou macarrão"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "mistura de ligação: 1/2 embalagem de natas leves batidas com 1 ovo. queijo emmental magro",
+        "prep": "ralado."
+      }
     ],
     "instructions": [
       "Num pirex generoso, misture com vigor as massas frias nos sucos estufados densos da bolonhesa de véspera.",
@@ -98,10 +153,30 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "250g de vaca em corte finíssimo perpendicular à fibra (bifes extra-finos)",
-      "Brócolos separados em floretes pequenos e limpos",
-      "Sésamo tostado, sumo e raspa de 1 laranja forte e sumarenta",
-      "Salpico de soja (apenas para a dose do prato adulto)"
+      {
+        "qty": "250",
+        "unit": "g",
+        "name": "vaca em corte finíssimo perpendicular à fibra",
+        "prep": "bifes extra-finos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "brócolos separados em floretes e limpos",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sésamo tostado",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salpico de soja",
+        "prep": "apenas para a dose do prato adulto"
+      }
     ],
     "instructions": [
       "O brócolo verde vivo: escalde os floretes com dois dedos de água no fundo de uma frigideira tapada durante 3 minutos. Murcham sem perder a crocância tenra. Retire para uma tigela.",
@@ -121,9 +196,24 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "Lombinhos de porco em cubos perfeitos",
-      "Cubos frescos de ananás e sumo puro de metade do fruto batido",
-      "Pimentos doces vermelhos limpos; 1 colher de sopa de amido de milho para engrossar; 1 colher de chá de vinagre de maçã"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "lombinhos de porco",
+        "prep": "em cubos perfeitos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cubos de ananás e sumo puro de metade do fruto batido",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pimentos doces vermelhos limpos; 1 colher de sopa de amido de milho para engrossar; 1 colher de chá de vinagre de maçã",
+        "prep": null
+      }
     ],
     "instructions": [
       "O molho agridoce sem química: bata o sumo de ananás com o amido de milho, o vinagre de maçã e pincele na carne, salteando intensivamente durante 5 minutos.",
@@ -143,10 +233,30 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "500g de carne de vaca moída limpa, de talho de confiança",
-      "Meia cebola ralada para humidade interior, 1 colher de chá de cominhos em pó e pimentão doce suave",
-      "Pauzinhos de madeira grossos demolhados em água",
-      "Dip suave tzatziki: iogurte grego, hortelã fresca e 1/2 pepino ralado e escorrido"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "carne de vaca moída limpa",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "meia cebola",
+        "prep": "ralada para humidade interior, 1 colher de chá de cominhos em pó e pimentão doce suave"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pauzinhos de madeira",
+        "prep": "demolhados em água"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "dip suave tzatziki: iogurte grego",
+        "prep": "ralado e escorrido"
+      }
     ],
     "instructions": [
       "O líquido da cebola triturada embebe inteiramente a carne, evitando que os kebabs sequem no forno. Enrole em forma de charuto com a mão oleada nas espetadas.",
@@ -166,9 +276,24 @@
     ],
     "time": "60 min",
     "ingredients": [
-      "Vaca de acém ou chambão em cubos (corte ideal para guisados longos)",
-      "2 chávenas de abóbora laranja limpa em cortes pequenos",
-      "Especiarias de caril vermelho não picante (base Garam Masala) e 1 lata de leite de coco gordo inteiro"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "vaca de acém ou chambão",
+        "prep": "em cubos corte ideal para guisados longos"
+      },
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "abóbora laranja limpa em cortes",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "especiarias de caril vermelho não picante e 1 lata de leite de coco gordo inteiro",
+        "prep": "base Garam Masala"
+      }
     ],
     "instructions": [
       "A base grossa de ferro sela a carne na cúrcuma e especiarias doces vermelhas em azeite e alho fumegante, libertando os aromas indianos.",
@@ -188,9 +313,30 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "Folhas de massa fresca rectangulares (não necessitam de cozedura prévia)",
-      "Bolonhesa carnuda estufada, bem espessa",
-      "1 courgette comprida em tiras longitudinais finas (de mandolina ou faca). 1 embalagem de requeijão de vaca magro, 1 bola de mozzarella fresca fina"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "folhas de massa fresca rectangulares",
+        "prep": "não necessitam de cozedura prévia"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "bolonhesa carnuda estufada",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "courgette comprida",
+        "prep": "em tiras longitudinais finas. 1 embalagem de requeijão de vaca magro de mandolina ou faca"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "bola de mozzarella fresca",
+        "prep": null
+      }
     ],
     "instructions": [
       "Num pirex, monte as camadas rústicas: fio de bolonhesa no fundo; as tiras finas de courgette que ao morder imitam a textura da massa mas eliminam o pão; folhas de massa.",
@@ -211,9 +357,24 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "Bifes de alcatra finos, bem batidos para rebentar as fibras e amaciar",
-      "A cama rubra: passata de tomate com folhinhas de manjericão fresco",
-      "Bolas de mozzarella fresca fatiadas; massa rústica al dente para acompanhar"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "bifes de alcatra",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "a cama rubra: passata de tomate com folhinhas de manjericão",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "bolas de mozzarella fresca",
+        "prep": "fatiadas; massa rústica al dente para acompanhar"
+      }
     ],
     "instructions": [
       "Não panar nem afogar em pão e óleos profundos! Tempere e sele as carnes numa chapa muito quente durante 40 segundos de cada lado para caramelizar. Retire e estenda num tabuleiro.",
