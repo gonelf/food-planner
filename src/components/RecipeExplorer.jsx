@@ -1,25 +1,17 @@
 import { useState } from 'react';
 import { usePlanner } from '../contexts/PlannerContext';
-import { FiSearch, FiClock, FiHeart, FiMoreHorizontal } from 'react-icons/fi';
-
-const CATEGORIES = ["Todas", "Peixe e Conservas", "Base de Leguminosas / Vegetariano", "Carnes Brancas", "Massas e Arroz", "Carnes Vermelhas"];
+import { FiSearch } from 'react-icons/fi';
 
 export default function RecipeExplorer() {
     const { recipes, viewRecipe } = usePlanner();
     const [searchTerm, setSearchTerm] = useState('');
-    const [selectedCategory, setSelectedCategory] = useState('Todas');
-    const [selectedRecipe, setSelectedRecipe] = useState(null); // For drag logic context
     const [draggedRecipeId, setDraggedRecipeId] = useState(null);
 
-    const filteredRecipes = recipes.filter(r => {
-        const matchesSearch = r.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            r.origin.toLowerCase().includes(searchTerm.toLowerCase());
-        const matchesCategory = selectedCategory === "Todas" || r.category === selectedCategory;
-        return matchesSearch && matchesCategory;
-    });
+    const filteredRecipes = recipes.filter(r =>
+        r.title.toLowerCase().includes(searchTerm.toLowerCase())
+    );
 
     const handleDragStart = (e, recipe) => {
-        // We pass ID via datatransfer and also keep local state for styles
         e.dataTransfer.setData('recipeId', recipe.id.toString());
         e.dataTransfer.effectAllowed = 'copy';
         setDraggedRecipeId(recipe.id);
@@ -44,17 +36,6 @@ export default function RecipeExplorer() {
                         onChange={(e) => setSearchTerm(e.target.value)}
                     />
                 </div>
-
-                <select
-                    className="search-input"
-                    value={selectedCategory}
-                    onChange={(e) => setSelectedCategory(e.target.value)}
-                    style={{ paddingLeft: '12px' }}
-                >
-                    {CATEGORIES.map(cat => (
-                        <option key={cat} value={cat}>{cat}</option>
-                    ))}
-                </select>
             </div>
 
             <div className="recipes-list" style={{ overflowY: 'auto', padding: '16px', flex: 1, display: 'flex', flexDirection: 'column', gap: '12px' }}>
@@ -83,30 +64,12 @@ export default function RecipeExplorer() {
                             onClick={() => viewRecipe(recipe)}
                             className="recipe-card"
                         >
-                            <h3 style={{ fontSize: '1rem', marginBottom: '8px', color: 'var(--accent-primary)', lineHeight: 1.3 }}>
+                            <h3 style={{ fontSize: '1rem', color: 'var(--accent-primary)', lineHeight: 1.3, marginBottom: '8px' }}>
                                 {recipe.title}
                             </h3>
-
-                            <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap', marginBottom: '12px' }}>
-                                <span style={{ fontSize: '0.75rem', background: 'var(--bg-tertiary)', padding: '2px 8px', borderRadius: '4px', color: 'var(--text-secondary)' }}>
-                                    {recipe.origin}
-                                </span>
-                                <span style={{ fontSize: '0.75rem', background: 'var(--bg-tertiary)', padding: '2px 8px', borderRadius: '4px', color: 'var(--text-secondary)', display: 'flex', alignItems: 'center', gap: '4px' }}>
-                                    <FiClock /> {recipe.time}
-                                </span>
-                            </div>
-
-                            <p style={{ fontSize: '0.8rem', color: 'var(--text-tertiary)', marginBottom: '8px', display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
-                                <span style={{ fontWeight: 600 }}>Bebé:</span> {recipe.baby_adaptation}
+                            <p style={{ fontSize: '0.8rem', color: 'var(--text-tertiary)', display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+                                {recipe.ingredients.map(ing => ing.name).join(', ')}
                             </p>
-
-                            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '4px' }}>
-                                {recipe.dynamics.map((dyn, i) => (
-                                    <span key={i} style={{ fontSize: '0.65rem', border: '1px solid var(--border-strong)', padding: '2px 6px', borderRadius: '12px', color: 'var(--text-secondary)' }}>
-                                        {dyn}
-                                    </span>
-                                ))}
-                            </div>
                         </div>
                     ))
                 )}

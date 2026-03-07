@@ -146,10 +146,6 @@ function MealCell({ day, meal, recipe, isOver, onDragOver, onDragLeave, onDrop, 
                     <strong style={{ fontSize: '1rem', color: 'var(--text-primary)', lineHeight: 1.3 }}>
                         {recipe.title}
                     </strong>
-                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px' }}>
-                        <span style={{ fontSize: '0.8rem', background: 'var(--bg-tertiary)', padding: '2px 8px', borderRadius: '4px', color: 'var(--text-secondary)' }}>{recipe.time}</span>
-                        <span style={{ fontSize: '0.8rem', background: 'var(--bg-tertiary)', padding: '2px 8px', borderRadius: '4px', color: 'var(--text-secondary)' }}>{recipe.origin}</span>
-                    </div>
 
                     <button
                         onClick={onRemove}

@@ -1,7 +1,10 @@
 import { createContext, useContext, useState, useEffect } from 'react';
-import recipesData from '../data/recipes.json';
+import salmonRecipes from '../data/recipes.json';
+import frangoRecipes from '../data/recipes-frango.json';
 import { v4 as uuidv4 } from 'uuid';
 import { buildShoppingList } from '../utils/ingredientParser';
+
+const recipesData = [...salmonRecipes, ...frangoRecipes];
 
 const PlannerContext = createContext();
 
@@ -69,13 +72,18 @@ export const PlannerProvider = ({ children }) => {
   const generateShoppingList = () => {
     const allIngredients = [];
 
+    const ingToString = (ing) => {
+      if (ing.quantity === 'q.b.') return `q.b. ${ing.name}`;
+      return [ing.quantity, ing.unit, ing.name].filter(Boolean).join(' ');
+    };
+
     // Collect all ingredients from the planned meals
     Object.values(planner).forEach(day => {
       if (day.almoço && day.almoço.ingredients) {
-        day.almoço.ingredients.forEach(ing => allIngredients.push(ing));
+        day.almoço.ingredients.forEach(ing => allIngredients.push(ingToString(ing)));
       }
       if (day.jantar && day.jantar.ingredients) {
-        day.jantar.ingredients.forEach(ing => allIngredients.push(ing));
+        day.jantar.ingredients.forEach(ing => allIngredients.push(ingToString(ing)));
       }
     });
 
@@ -97,47 +105,20 @@ export const PlannerProvider = ({ children }) => {
   };
 
   const generateBalancedWeek = () => {
-    const quotas = {
-      "Peixe e Conservas": 4,
-      "Base de Leguminosas / Vegetariano": 4,
-      "Carnes Brancas": 3,
-      "Massas e Arroz": 2,
-      "Carnes Vermelhas": 1
-    };
+    // Fisher-Yates shuffle
+    const shuffled = [...recipes];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
 
-    const recipesByCategory = {
-      "Peixe e Conservas": recipes.filter(r => r.category === "Peixe e Conservas"),
-      "Base de Leguminosas / Vegetariano": recipes.filter(r => r.category === "Base de Leguminosas / Vegetariano"),
-      "Carnes Brancas": recipes.filter(r => r.category === "Carnes Brancas"),
-      "Massas e Arroz": recipes.filter(r => r.category === "Massas e Arroz"),
-      "Carnes Vermelhas": recipes.filter(r => r.category === "Carnes Vermelhas")
-    };
-
-    let selectedRecipes = [];
-
-    Object.keys(quotas).forEach(cat => {
-      let catRecipes = [...recipesByCategory[cat]];
-      // Fisher-Yates shuffle for true randomness
-      for (let i = catRecipes.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [catRecipes[i], catRecipes[j]] = [catRecipes[j], catRecipes[i]];
-      }
-
-      for (let i = 0; i < quotas[cat]; i++) {
-        if (catRecipes.length === 0) break;
-        selectedRecipes.push(catRecipes.pop());
-      }
-    });
-
-    // Distribute nicely: By sorting by category, we deal them out across 14 slots (lunch/dinner) 
-    // minimizing the chance of getting the same category on the same day.
-    selectedRecipes.sort((a, b) => a.category.localeCompare(b.category));
+    const selected = shuffled.slice(0, 14);
 
     const days = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"];
     const weekPlan = {};
     days.forEach(d => weekPlan[d] = { almoço: null, jantar: null });
 
-    selectedRecipes.forEach((recipe, index) => {
+    selected.forEach((recipe, index) => {
       const day = days[index % 7];
       const meal = index < 7 ? "almoço" : "jantar";
       weekPlan[day][meal] = recipe;
