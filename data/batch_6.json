@@ -9,10 +9,30 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "1 frango inteiro cortado em pedaços miúdos (limpo de excessos de pele)",
-      "1 chávena de arroz carolino e 1 cenoura doce ralada e 1 dente de alho",
-      "Marinada: massa de pimentão doce, 2 dentes de alho, azeite, sumo de meio limão e 1 cálice curto de vinho branco",
-      "Salsa picada e 1 noz de manteiga"
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "frango inteiro",
+        "prep": "cortado em pedaços miúdos limpo de excessos de pele"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "arroz carolino e 1 cenoura doce",
+        "prep": "ralada e 1 dente de alho"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada: massa de pimentão doce",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa",
+        "prep": "picada e 1 noz de manteiga"
+      }
     ],
     "instructions": [
       "Massaje o frango activamente com a marinada (se possível, deixe repousar 15 minutos). Asse a 200 °C durante 35 a 40 minutos, regando a meio com o próprio molho para dourar as peles.",
@@ -34,11 +54,42 @@
     ],
     "time": "45 min",
     "ingredients": [
-      "500g de carne de peru (perna ou peito) em cubos suculentos",
-      "3 batatas brancas médias em cubos, 2 cenouras em rodelas grossas",
-      "1 chávena cheia de ervilhas extrafinas",
-      "Cebola, alho, 3 colheres de polpa rústica de tomate, louro e azeite",
-      "1 colher de café de pimentão fumado e 1 copo de vinho branco"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "carne de peru",
+        "prep": "em cubos suculentos perna ou peito"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "batatas brancas",
+        "prep": "em cubos"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras",
+        "prep": "em rodelas grossas"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "cheia de ervilhas extrafinas",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cebola",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de café de pimentão fumado e 1 copo de vinho branco",
+        "prep": null
+      }
     ],
     "instructions": [
       "Selar bem os sucos: doure vigorosamente num tacho quente o peru temperado (apenas com azeite, cebola, alho e pimentão).",
@@ -60,11 +111,36 @@
     ],
     "time": "50 min",
     "ingredients": [
-      "Meio frango do campo com ossos e pele",
-      "O fumet: meia cebola com casca, 1 cenoura e 1 talo de aipo (ou alho francês)",
-      "1,5 chávenas de arroz carolino",
-      "Fundo refogado: cebola picada, azeite, 1 tomate maduro carnudo, um disco de chouriço",
-      "Erva-mãe: hortelã-pimenta tenra"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "meio frango do campo com ossos e pele",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "o fumet: meia cebola com casca",
+        "prep": "ou alho francês"
+      },
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz carolino",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "fundo",
+        "prep": "refogado: cebola picada, azeite, 1 tomate maduro carnudo, um disco de chouriço"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "erva-mãe: hortelã-pimenta tenra",
+        "prep": null
+      }
     ],
     "instructions": [
       "A base é a alma: ferva a carne do frango numa panela com água e os legumes do fumet (a pele dá o colagénio gordo) durante 30 minutos. Retire tudo, filtre o néctar amarelado para obter o caldo. Desfie a carne finamente à mão.",
@@ -85,10 +161,54 @@
     ],
     "time": "50 min",
     "ingredients": [
-      "400g de carnes brancas desfiadas finas (sobras de bom frango)",
-      "2 alhos franceses volumosos (partes tenras em rodelas muito finas)",
-      "800g de batata velha e amarela, 2 colheres de sopa de manteiga, 1 copo de leite gordo morno, 2 gemas de ovo (1 para o puré, 1 para a cobertura)",
-      "Azeite, noz-moscada acabadinha de ralar"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "carnes brancas",
+        "prep": "desfiadas finas sobras de bom frango"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "alhos franceses volumosos",
+        "prep": "partes tenras em rodelas muito finas"
+      },
+      {
+        "qty": "800",
+        "unit": "g",
+        "name": "batata velha e amarela",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "colher de sopa",
+        "name": "manteiga",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "copo",
+        "name": "leite gordo",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "gemas de ovo (1 para o puré",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "para a cobertura)",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite",
+        "prep": null
+      }
     ],
     "instructions": [
       "Noz-moscada e sedosidade: passe as batatas cozidas escorridas no passe-vite. Junte no tacho suave a manteiga, o leite quente e uma gema de ovo para brilhar. Amasse.",
@@ -108,10 +228,30 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "6 coxas polpudas de frango limpas",
-      "2 chávenas de cotovelos ou macarrão oco por dentro",
-      "Um naco de cebola e 2 dentes de alho, 3 colheres de sopa de concentrado de tomate",
-      "Um esguicho generoso de vinho tinto"
+      {
+        "qty": "6",
+        "unit": null,
+        "name": "coxas polpudas de frango limpas",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "cotovelos ou macarrão oco por dentro",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "naco de cebola e 2 dentes de alho",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "esguicho generoso de vinho tinto",
+        "prep": null
+      }
     ],
     "instructions": [
       "Sele bem as coxas com a pele no azeite até cantarem no fundo. Refresque de imediato com o vinho tinto (deglace e raspe os fundos caramelizados).",
@@ -131,10 +271,30 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "4 a 5 bifinhos finíssimos de peru (batidos e esticados, livres de nervos)",
-      "200g de cogumelos frescos marrons escuros",
-      "200 ml de natas frescas ou creme de soja como alternativa",
-      "Azeite, manteiga, 1 dente de alho esborrachado e sumo de limão"
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "a 5 bifinhos finíssimos de peru",
+        "prep": "batidos e esticados, livres de nervos"
+      },
+      {
+        "qty": "200",
+        "unit": "g",
+        "name": "cogumelos marrons escuros",
+        "prep": null
+      },
+      {
+        "qty": "200",
+        "unit": "ml",
+        "name": "natas frescas ou creme de soja como alternativa",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "azeite",
+        "prep": null
+      }
     ],
     "instructions": [
       "O segredo do peito macio: tempere brevemente e sele os bifes numa frigideira a alta temperatura, 2 minutos de cada lado, mal passados, secando de imediato. Retire o bife e mantenha o fundo da frigideira.",
@@ -154,10 +314,36 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "500g de peitos de frango em tiras perfeitas",
-      "1 cebola picada fina, 1 colher de sobremesa de mostarda Dijon ou à antiga com grão",
-      "1 chávena de polpa de tomate natural (tomates pelados inteiros ligeiramente esmagados)",
-      "2 colheres de sopa de iogurte grego natural"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "peitos de frango",
+        "prep": "em tiras perfeitas"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "picada fina"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sobremesa de mostarda dijon ou à antiga com grão",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "polpa de tomate natural",
+        "prep": "tomates pelados inteiros ligeiramente esmagados"
+      },
+      {
+        "qty": "2",
+        "unit": "colher de sopa",
+        "name": "iogurte grego natural",
+        "prep": null
+      }
     ],
     "instructions": [
       "Doure as tiras de frango numa frigideira larga com um fio de azeite e a cebola, até ficarem coradas por fora e perfumadas.",
@@ -178,10 +364,36 @@
     ],
     "time": "60 min",
     "ingredients": [
-      "Metade de uma galinha do campo (a pata com carcaça dá colagénio e cor dourada)",
-      "1 cebola intacta com um cravinho nela fincado, 1 talo de aipo verde",
-      "1 chávena pequena de pevides tostadas ou massa de cabelo-de-anjo",
-      "3 gemas de ovo e abundante hortelã fresca"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "metade de uma galinha do campo",
+        "prep": "a pata com carcaça dá colagénio e cor dourada"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola intacta com um cravinho nela fincado",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "talo de aipo verde",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "pequena de pevides tostadas ou massa de cabelo-de-anjo",
+        "prep": null
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "gemas de ovo e abundante hortelã fresca",
+        "prep": null
+      }
     ],
     "instructions": [
       "Nesta panela magna mergulham as carnes, a cebola cravada e água fria em borbulhar sonolento durante 50 minutos. As espumas cinzentas que sobem à superfície vão sendo retiradas com uma escumadeira.",
@@ -203,9 +415,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "500g de frango ou peru triturado grosso (carne branca limpa)",
-      "3 colheres fartas de queijo curado ralado ou mozzarella para manter a macieza, 1 cenoura ralada",
-      "1 ovo para unir a mistura, erva-doce ligeira"
+      {
+        "qty": "500",
+        "unit": "g",
+        "name": "frango ou peru triturado",
+        "prep": "carne branca limpa"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "colheres fartas de queijo curado",
+        "prep": "ralado ou mozzarella para manter a macieza"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cenoura",
+        "prep": "ralada"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "ovo para unir a mistura",
+        "prep": null
+      }
     ],
     "instructions": [
       "Misture tudo com as mãos limpas até obter uma massa coesa, húmida e aromática. Unte os dedos e molde almôndegas do calibre de uma bola de golfe.",
@@ -224,9 +457,24 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "8 coxas e pernas de frango frescas",
-      "Marinada chef: 1 colher de mel de flores, azeite, pimentão doce defumado, 2 dentes de alho ralados",
-      "3 batatas-doces laranjas grandes, cortadas em quartos"
+      {
+        "qty": "8",
+        "unit": null,
+        "name": "coxas e pernas de frango frescas",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "marinada chef: 1 colher de mel de flores",
+        "prep": "ralados"
+      },
+      {
+        "qty": "3",
+        "unit": null,
+        "name": "batatas-doces laranjas",
+        "prep": "cortadas em quartos"
+      }
     ],
     "instructions": [
       "Marine o frango nas banheiras doces com pimentão, rodando bem as peças na tigela durante meia hora, se possível. Pincele as batatas com azeite na assadeira do forno.",

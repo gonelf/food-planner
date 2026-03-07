@@ -1,13 +1,13 @@
 /**
  * ingredientParser.js
  *
- * Parses free-form Portuguese ingredient strings into structured shopping items:
- * - Splits multi-ingredient strings (e.g. "Azeite q.b., 3 dentes de alho, 1 folha de louro")
- * - Extracts quantity + unit from each item
- * - Normalises ingredient names (removes prep instructions, maps rice types, etc.)
- * - Converts cups/spoons to grams or ml
- * - Aggregates identical ingredients, summing quantities
- * - Formats the result as a human-readable "300 g de tomate cherry" string
+ * Converts recipe ingredients into shopping list items.
+ *
+ * Supports two ingredient formats:
+ *   - Structured objects: { qty, unit, name, prep }  ← new, preferred
+ *   - Legacy free-text strings                        ← kept for compatibility
+ *
+ * Pipeline: parse → normalise name → aggregate → format for display
  */
 
 // ─── Rice type normalisation ──────────────────────────────────────────────────
@@ -38,34 +38,39 @@ const TBSP_TO_ML    = 15;
 const TSP_TO_GRAMS  = 4;
 const TSP_TO_ML     = 5;
 
-// ─── Preparation-word patterns to strip from ingredient names ─────────────────
-const PREP_RE = [
-  /\s*\([^)]*\)/g,                          // (anything in brackets)
+// ─── Preparation patterns ─────────────────────────────────────────────────────
+//
+// Two-stage model: quantity | ingredient | preparation
+//
+// Stage 1 – PREP_START_RE: detects where preparation begins and strips
+//   everything from that point to the end of the string.
+//   "1 cebola suada em azeite"  → "1 cebola"
+//   "bacalhau demolhado desfiado" → "bacalhau"
+//
+// Stage 2 – PREP_MODIFIER_RE: removes standalone modifiers that can appear
+//   anywhere within the ingredient name (size, state, etc.).
+//   "2 cebolas grandes" → "2 cebolas"
+
+// Strips from the first preparation word to the end of the string.
+const PREP_START_RE = [
+  // Parenthesised instructions: (sem pele), (sem espinhas), …
+  /\s*\([^)]*\)/g,
+  // Past-participle cooking verbs (optionally preceded by bem/muito)
+  // e.g. suada, picado, cortadas, demolhado, desfiado, refogada, temperado …
+  /\s+(?:(?:bem|muito)\s+)?(?:picad|cortad|fatiad|esmagad|demolhad|desfiad|cozid|assad|laminad|lavad|temperad|marinad|ralad|suad|refogad)[ao]s?\b.*/gi,
+  // "em [shape]" cutting styles or "em [fat/liquid]" cooking medium
+  /\s+em\s+(?:finas?\s+)?(?:meias-luas|cubos?|rodelas?|tiras?|pedaços?|juliana|picadinho|cubinhos?|azeite|manteiga|óleo|gordura|banha)\b.*/gi,
+  // Other prep phrases
+  /\s+(?:a\s+rigor|num\s+ralador\s+(?:grosso|fino)|de\s+véspera|previamente\b.*)\b.*/gi,
+];
+
+// Removes standalone modifiers (replaced with space, cleaned up later).
+const PREP_MODIFIER_RE = [
   /\s+(?:muito\s+)?finamente\b/gi,
-  /\s+(?:bem\s+)?ralad[ao]s?\b/gi,
-  /\s+(?:bem\s+)?picad[ao]s?\b/gi,
-  /\s+(?:bem\s+)?cortad[ao]s?\b/gi,
-  /\s+(?:bem\s+)?fatiados?\b/gi,
-  /\s+(?:bem\s+)?esmagad[ao]s?\b/gi,
-  /\s+(?:bem\s+)?demolhad[ao]s?\b/gi,
-  /\s+(?:bem\s+)?desfiados?\b/gi,
-  /\s+(?:bem\s+)?cozidos?\b/gi,
-  /\s+(?:bem\s+)?assados?\b/gi,
-  /\s+(?:bem\s+)?laminad[ao]s?\b/gi,
-  /\s+(?:bem\s+)?lavad[ao]s?\b/gi,
-  /\s+secos?\b/gi,
-  /\s+frios?\b/gi,
-  /\s+quentes?\b/gi,
-  /\s+mornos?\b/gi,
-  /\s+soltos?\b/gi,
-  /\s+previamente\b/gi,
-  /\s+em\s+(?:finas\s+)?(?:meias-luas|cubos?|rodelas?|tiras?|pedaços?|juliana|picadinho|cubinhos?)\b/gi,
-  /\s+a\s+rigor\b/gi,
-  /\s+num\s+ralador\s+(?:grosso|fino)\b/gi,
-  /\s+de\s+véspera\b/gi,
-  /\s+(?:grandes?|pequen[oa]s?|médi[oa]s?|gross[oa]s?|alt[oa]s?|madur[oa]s?|fin[oa]s?)\b/gi,
+  /\s+(?:secos?|frios?|quentes?|mornos?|soltos?)\b/gi,
+  /\s+fresco[s]?\b(?!\s+de\s+coentros|\s+de\s+salsa)/gi,
   /\s+autêntico\b/gi,
-  /\s+fresco[s]?\b(?!\s+de\s+coentros|\s+de\s+salsa)/gi,  // keep "coentros frescos" etc? → simpler: strip "fresco"
+  /\s+(?:grandes?|pequen[oa]s?|médi[oa]s?|gross[oa]s?|alt[oa]s?|madur[oa]s?|fin[oa]s?)\b/gi,
 ];
 
 // ─── SPLITTING ────────────────────────────────────────────────────────────────
@@ -220,7 +225,13 @@ function normaliseRice(name) {
 function normaliseIngredientName(raw) {
   let name = raw.trim();
 
-  for (const re of PREP_RE) {
+  // Stage 1: strip from the first preparation marker to end of string
+  for (const re of PREP_START_RE) {
+    name = name.replace(re, '');
+  }
+
+  // Stage 2: strip standalone modifiers (size, temperature, etc.)
+  for (const re of PREP_MODIFIER_RE) {
     name = name.replace(re, ' ');
   }
 
@@ -328,7 +339,69 @@ function formatIngredient(item) {
   return `${qtyStr} ${unitDisplay} de ${name}`;
 }
 
-// ─── PARSING A SINGLE ITEM ────────────────────────────────────────────────────
+// ─── STRUCTURED INGREDIENT PARSING ───────────────────────────────────────────
+
+// Maps the unit strings used in the structured recipe format to internal types.
+const UNIT_TYPE_MAP = {
+  'g':              { type: 'weight', factor: 1 },
+  'kg':             { type: 'weight', factor: 1000 },
+  'ml':             { type: 'volume', factor: 1 },
+  'dl':             { type: 'volume', factor: 100 },
+  'L':              { type: 'volume', factor: 1000 },
+  'chávena':        { type: 'cup' },
+  'copo':           { type: 'cup' },
+  'colher de sopa': { type: 'spoon' },
+  'colher de chá':  { type: 'spoon' },
+  'lata':           { type: 'count' },
+  'frasco':         { type: 'count' },
+  'embalagem':      { type: 'count' },
+  'dente':          { type: 'garlic' },
+  'folha':          { type: 'count' },
+  'pacote':         { type: 'count' },
+  'pote':           { type: 'count' },
+};
+
+/**
+ * Converts a structured ingredient object { qty, unit, name, prep } into the
+ * internal parsed form used by aggregateItems / formatIngredient.
+ * The `prep` field is intentionally ignored for shopping list purposes.
+ */
+function parseStructuredItem({ qty, unit, name }) {
+  const normName = normaliseIngredientName(name || '');
+  if (!normName || normName.length < 2) return null;
+
+  // q.b. or missing quantity
+  if (!qty || qty === 'q.b.') {
+    return { name: normName, quantity: null, unit: null, type: qty === 'q.b.' ? 'qb' : 'nounit', factor: 1 };
+  }
+
+  // Parse qty string → number
+  let quantity;
+  if (qty.includes('/')) {
+    const [a, b] = qty.split('/').map(Number);
+    quantity = a / b;
+  } else if (/[-–]/.test(qty)) {
+    const parts = qty.split(/[-–]/).map(Number);
+    quantity = (parts[0] + parts[1]) / 2;
+  } else {
+    quantity = parseFloat(String(qty).replace(',', '.'));
+  }
+  if (isNaN(quantity)) {
+    return { name: normName, quantity: null, unit: null, type: 'nounit', factor: 1 };
+  }
+
+  // Map unit string → type/factor
+  const unitInfo = unit ? UNIT_TYPE_MAP[unit] : null;
+  return {
+    name:     normName,
+    quantity,
+    unit:     unit || 'un',
+    type:     unitInfo ? unitInfo.type : 'count',
+    factor:   unitInfo ? (unitInfo.factor || 1) : 1,
+  };
+}
+
+// ─── LEGACY STRING PARSING ────────────────────────────────────────────────────
 
 function parseSingleItem(text) {
   if (!text || text.length < 2) return null;
@@ -386,22 +459,30 @@ function aggregateItems(items) {
 // ─── PUBLIC API ───────────────────────────────────────────────────────────────
 
 /**
- * Takes all raw ingredient strings from the weekly planner and returns an
- * array of shopping list items ready for display.
+ * Takes all ingredients from the weekly planner and returns shopping list items.
  *
- * Each item: { name, displayText, originalText, quantity, unit, type }
+ * Accepts:
+ *   - Structured objects { qty, unit, name, prep }  (new format)
+ *   - Free-text strings                              (legacy format)
+ *
+ * Each returned item: { name, displayText, quantity, unit, type }
  */
-export function buildShoppingList(allIngredientStrings) {
-  // 1. Split multi-ingredient strings and flatten
-  const split = allIngredientStrings.flatMap(text => splitIngredientText(text));
+export function buildShoppingList(allIngredients) {
+  // 1. Parse each ingredient (structured or legacy string)
+  const parsed = allIngredients
+    .flatMap(ing => {
+      if (ing && typeof ing === 'object') {
+        const item = parseStructuredItem(ing);
+        return item ? [item] : [];
+      }
+      // Legacy: split multi-ingredient strings then parse each
+      return splitIngredientText(String(ing)).map(parseSingleItem).filter(Boolean);
+    });
 
-  // 2. Parse each into structured form
-  const parsed = split.map(parseSingleItem).filter(Boolean);
-
-  // 3. Aggregate identical ingredients
+  // 2. Aggregate identical ingredients
   const aggregated = aggregateItems(parsed);
 
-  // 4. Add display text
+  // 3. Add display text
   return aggregated.map(item => ({
     ...item,
     displayText: formatIngredient(item),

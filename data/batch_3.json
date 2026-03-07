@@ -10,10 +10,30 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "400g de peixe branco firme cortado em cubos (tamboril ou maruca)",
-      "Base masala rápida: 150 ml de polpa de tomate rústica + 1 iogurte grego natural (à temperatura ambiente)",
-      "1 colher de chá de Garam Masala e 1/2 colher de chá de cominhos em pó",
-      "Brócolos cortados em floretes pequenos, alho e gengibre fresco ralado"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "peixe branco firme",
+        "prep": "cortado em cubos tamboril ou maruca"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "base masala rápida: 150 ml de polpa de tomate rústica + 1 iogurte grego natural",
+        "prep": "à temperatura ambiente"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de garam masala e 1/2 colher de chá de cominhos em pó",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "brócolos",
+        "prep": "cortados em floretes pequenos, alho e gengibre fresco ralado"
+      }
     ],
     "instructions": [
       "Numa panela, salteie o alho e o gengibre ralado com as especiarias até libertarem os seus óleos essenciais (1 minuto).",
@@ -34,10 +54,30 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "2 chávenas de lentilhas vermelhas ou laranjas",
-      "2 latas de atum ao natural firme",
-      "Óleo de coco (ou azeite), sementes de mostarda, alho e gengibre fresco laminado",
-      "Cúrcuma (açafrão-das-índias) e coentros frescos picados"
+      {
+        "qty": "2",
+        "unit": "chávena",
+        "name": "lentilhas vermelhas ou laranjas",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "lata",
+        "name": "atum ao natural firme",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "óleo de coco",
+        "prep": "laminado ou azeite"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cúrcuma e coentros",
+        "prep": "picados açafrão-das-índias"
+      }
     ],
     "instructions": [
       "Elevar a lentilha requer bases aromáticas: num tacho, faça estalar as sementes de mostarda e o gengibre no óleo de coco quente. Junte a cúrcuma.",
@@ -58,10 +98,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "400g de salmão fresco (sem espinhas nem pele), picado à faca bem fininho",
-      "Miolo de pão esfarelado (ou panko), 1 gema de ovo",
-      "Raspa de limão, cominhos e salsa",
-      "Molho adulto: iogurte grego, pepino ralado e escorrido, hortelã fresca picada"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "salmão",
+        "prep": "picado à faca bem fininho sem espinhas nem pele"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "miolo de pão esfarelado",
+        "prep": "ou panko"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "raspa de limão",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "molho adulto: iogurte grego",
+        "prep": "ralado e escorrido, hortelã fresca picada"
+      }
     ],
     "instructions": [
       "Dica: pique o peixe à faca para preservar a textura, em vez de o triturar até pasta! Numa taça fria, una intimamente o salmão com o pão, a raspa fina de limão, o ovo e os cominhos.",
@@ -81,11 +141,42 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "1 chávena cheia de massa orzo (pevide grossa)",
-      "1 cebola refogada muito finamente, 1/2 courgette ou beringela em cubos pequenos",
-      "2 latas de atum em posta gorda",
-      "Caldo quente vegetal, 2 colheres de sopa de polpa de tomate",
-      "1 colherada de mascarpone ou natas gordas, queijo parmesão ralado"
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "cheia de massa orzo",
+        "prep": "pevide grossa"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "refogada muito finamente"
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "courgette ou beringela",
+        "prep": "em cubos pequenos"
+      },
+      {
+        "qty": "2",
+        "unit": "lata",
+        "name": "atum em posta gorda",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "caldo vegetal",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colherada de mascarpone ou natas gordas",
+        "prep": "ralado"
+      }
     ],
     "instructions": [
       "Trate a massa como um nobre risotto: frite ligeiramente o orzo na base de azeite e cebola quente durante 2 minutos, a rolar no tacho.",
@@ -106,10 +197,30 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "1,5 chávenas de arroz médio e carolino para paelha",
-      "Tiras coloridas de pimentos assados e descascados",
-      "Caldo sublime de marisco ou de peixe caseiro",
-      "Fios de açafrão em pistilos (ou colorau para substituto), azeite, postas de peixe limpo"
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz e carolino para paelha",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "tiras coloridas de pimentos",
+        "prep": "assados e descascados"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "caldo sublime de marisco ou de peixe caseiro",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "fios de açafrão em pistilos",
+        "prep": "ou colorau para substituto"
+      }
     ],
     "instructions": [
       "Uma paella real precisa de largura: use a sua maior e mais achatada frigideira que vá ao forno ou fique no fogão. Faça a base com azeite, pimentos suados e o arroz.",
@@ -129,11 +240,42 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "1 frasco grande de grão-de-bico biológico cozido (400g)",
-      "4 ovos L",
-      "1/2 cebola roxa finamente picada, 1 dente de alho esmagado",
-      "1 colher de café de pimentão doce fumado (paprika)",
-      "Salsa fresca farta picada na hora, azeite virgem extra perfumado, vinagre de maçã ou de vinho"
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "grande de grão-de-bico biológico",
+        "prep": "cozido 400g"
+      },
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "ovos l",
+        "prep": null
+      },
+      {
+        "qty": "1/2",
+        "unit": null,
+        "name": "cebola roxa",
+        "prep": "picada"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho",
+        "prep": "esmagado"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de café de pimentão doce fumado",
+        "prep": "paprika"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "salsa fresca farta",
+        "prep": "picada na hora, azeite virgem extra perfumado, vinagre de maçã ou de vinho"
+      }
     ],
     "instructions": [
       "Coza os ovos à precisão: 9 minutos para uma gema firme mas elástica. Descasque sob água fria e lasque grosseiramente.",
@@ -153,11 +295,36 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "400g de ervilhas extrafinas congeladas",
-      "4 ovos grandes com gema laranja",
-      "1 cebola e 2 dentes de alho picados",
-      "Pimentão doce fumado espanhol (para emular os fumos rústicos do chouriço ausente)",
-      "2 colheres de polpa de tomate em pedaços maduros, coentros ou hortelã"
+      {
+        "qty": "400",
+        "unit": "g",
+        "name": "ervilhas extrafinas congeladas",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "ovos com gema laranja",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola e 2 dentes de alho",
+        "prep": "picados"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pimentão doce fumado espanhol",
+        "prep": "para emular os fumos rústicos do chouriço ausente"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "colheres de polpa de tomate",
+        "prep": "em pedaços maduros, coentros ou hortelã"
+      }
     ],
     "instructions": [
       "Num tacho raso de paredes altas, estute a cebola e o alho suavemente num fundo de azeite temperado com o pimentão fumado (que fingirá carnes presuntas nesta refeição verde).",
@@ -178,11 +345,42 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "1 frasco ou lata XL de feijão vermelho robusto",
-      "300g de mistura de cogumelos (brancos e portobello) em fatias largas",
-      "1 folha de louro, 1 colher de sobremesa de molho de soja escuro (segredo umami)",
-      "2 cenouras em meias-luas finas, folha de repolho ou couve tenra",
-      "Alho picado, cominhos moídos, azeite"
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "ou lata xl de feijão vermelho robusto",
+        "prep": null
+      },
+      {
+        "qty": "300",
+        "unit": "g",
+        "name": "mistura de cogumelos em fatias largas",
+        "prep": "brancos e portobello"
+      },
+      {
+        "qty": "1",
+        "unit": "folha",
+        "name": "louro",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sobremesa de molho de soja escuro",
+        "prep": "segredo umami"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras",
+        "prep": "em meias-luas finas, folha de repolho ou couve tenra"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "alho",
+        "prep": "picado, cominhos moídos, azeite"
+      }
     ],
     "instructions": [
       "Esta feijoada sem enchidos ganha o seu peso nos cogumelos. Num tacho quente: azeite, alho e louro! Deixe dourar bem o cogumelo até minguar as suas águas, deglace com o molho de soja e os cominhos.",
@@ -203,11 +401,36 @@
     ],
     "time": "35 min",
     "ingredients": [
-      "1 lata de grão-de-bico cozido",
-      "1,5 chávenas de macarronete ou massa pevide grande/cotovelo raiado",
-      "A base clássica: 1 cebola roxa, 3 dentes de alho, azeite bom",
-      "1 malga de couve galega ou lombarda fina em tiras, sem os talos mais grossos",
-      "Tomate picado, pimentão doce, caldo vegetal forte"
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "grão-de-bico",
+        "prep": "cozido"
+      },
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "macarronete ou massa pevide/cotovelo raiado",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "a base clássica: 1 cebola roxa",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "malga de couve galega ou lombarda",
+        "prep": "em tiras, sem os talos mais grossos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "tomate",
+        "prep": "picado, pimentão doce, caldo vegetal forte"
+      }
     ],
     "instructions": [
       "Para a profundidade rústica do campo: refogue demorado o azeite, a cebola e o alho e espolete uma colher de pimentão. Verta o tomate cru até virar compota e adicione a couve.",
@@ -229,10 +452,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "6 ovos grandes (tamanho XL)",
-      "1 embalagem generosa de espinafres frescos ou folhas de acelga",
-      "1 queijo fresco macio do dia ou ricotta densa (+/- 200g)",
-      "1 fio de nata magra ou leite gordo, orégãos secos, azeite"
+      {
+        "qty": "6",
+        "unit": null,
+        "name": "ovos",
+        "prep": "tamanho XL"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "embalagem generosa de espinafres ou folhas de acelga",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "queijo macio do dia ou ricotta densa",
+        "prep": "+/- 200g"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "fio de nata magra ou leite gordo",
+        "prep": null
+      }
     ],
     "instructions": [
       "Passo essencial da frittata que salva omeletes escorridas: numa frigideira sem gordura, sue os espinafres crus durante 1 minuto com uma pitada de sal até cederem de tamanho e largarem a água. Escorra essa água.",

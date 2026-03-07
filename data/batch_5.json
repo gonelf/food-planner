@@ -9,10 +9,30 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "1 bloco de tofu firme (prensado e cortado em cubos)",
-      "Brócolos pequenos cortados em floretes",
-      "Um dente de alho e uma lasca de gengibre fresco picados",
-      "Sumo de limão, 1 colher de chá de óleo de sésamo tostado e 2 colheres de sopa de molho de soja (para adultos)"
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "bloco de tofu firme",
+        "prep": "prensado e cortado em cubos"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "brócolos",
+        "prep": "cortados em floretes"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho e uma lasca de gengibre",
+        "prep": "picados"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sumo de limão",
+        "prep": "para adultos"
+      }
     ],
     "instructions": [
       "Aqueça o wok fortemente. Seque bem o tofu com papel de cozinha e salteie no óleo de sésamo até formar uma crosta dourada. Reserve.",
@@ -32,10 +52,36 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "Massa udon asiática fresca de vácuo (2 pacotes macios)",
-      "1 courgette em fitas grossas de descascador e folhas de pak-choi",
-      "200g de cogumelos shiitake frescos fatiados",
-      "2 talos de cebolinho fresco picado, 1 colher de sopa de mirin ou vinho do Porto branco leve"
+      {
+        "qty": null,
+        "unit": null,
+        "name": "massa udon asiática fresca de vácuo",
+        "prep": "2 pacotes macios"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "courgette em fitas de descascador e folhas de pak-choi",
+        "prep": null
+      },
+      {
+        "qty": "200",
+        "unit": "g",
+        "name": "cogumelos shiitake",
+        "prep": "fatiados"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "talos de cebolinho",
+        "prep": "picado"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sopa de mirin ou vinho do porto branco leve",
+        "prep": null
+      }
     ],
     "instructions": [
       "Salteado no wok em lume forte! Refogue os shiitakes intensamente até perderem a água, deglaçando com o mirin.",
@@ -55,10 +101,30 @@
     ],
     "time": "15 min",
     "ingredients": [
-      "2 a 3 chávenas de arroz basmati solto (previamente cozido e guardado no frio de véspera para perder humidade)",
-      "1 chávena de ervilhas extrafinas e 1 cenoura ralada no crivo grosso",
-      "2 a 3 ovos M bem batidos",
-      "Tofu firme lascado em pequenos pedaços dourados, óleo de sésamo"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "a 3 chávenas de arroz basmati",
+        "prep": "previamente cozido e guardado no frio de véspera para perder humidade"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "ervilhas extrafinas e 1 cenoura",
+        "prep": "ralada no crivo grosso"
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "a 3 ovos m bem batidos",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "tofu firme lascado em pedaços dourados",
+        "prep": null
+      }
     ],
     "instructions": [
       "Ordem do chef: wok quente, ovos para dentro, mexendo freneticamente durante 20 segundos. Retire para uma taça.",
@@ -78,9 +144,30 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "2 batatas médias, 2 cenouras tenras, meia cebola",
-      "1 tablete de caril japonês (tipo Katsu-curry, não ardente)",
-      "1 frasco de grão-de-bico biológico (bem escorrido e escaldado)"
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "batatas",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "cenouras tenras",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "tablete de caril japonês",
+        "prep": "tipo Katsu-curry, não ardente"
+      },
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "grão-de-bico biológico",
+        "prep": "bem escorrido e escaldado"
+      }
     ],
     "instructions": [
       "A cozinha japonesa não refoga especiarias a seco — faz caldos puros: salteie primeiro a cebola devagar até ficar doce e translúcida.",
@@ -102,10 +189,36 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "1,5 chávenas de lentilhas amarelas divididas (Moong Dhal)",
-      "A infusão (tarka): 1 colher de sopa de manteiga clarificada (ghee), 1 colher de chá de cominhos em semente e sementes de mostarda",
-      "1 tomate maduro em pedaços polpudos ou tomate de lata natural, 1 dente de alho picado",
-      "Coentros fartos e 1 colher rasa de cúrcuma (açafrão-das-índias)"
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "lentilhas amarelas divididas",
+        "prep": "Moong Dhal"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "a infusão: 1 colher de sopa de manteiga clarificada",
+        "prep": "tarka ghee"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "tomate",
+        "prep": "em pedaços polpudos ou tomate de lata natural"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho",
+        "prep": "picado"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "coentros fartos e 1 colher rasa de cúrcuma",
+        "prep": "açafrão-das-índias"
+      }
     ],
     "instructions": [
       "Coza as lentilhas num tacho grande aberto com um pouco de cúrcuma e água quente — o triplo do volume do grão. Ferva durante 18 minutos até explodirem num amarelo-doce brilhante, como papa de milho.",
@@ -125,11 +238,36 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "1 lata de leite de coco inteiro cremoso (80-90% coco)",
-      "1 colher de sopa de especiarias Garam Masala doces",
-      "2 frascos de grão-de-bico (400g x2)",
-      "Folhas frescas de espinafre (engolidas na cor e no sabor do grão)",
-      "1 dente de alho, azeite ou óleo de coco, polpa tenra de um tomate maduro"
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "leite de coco inteiro cremoso",
+        "prep": "80-90% coco"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de sopa de especiarias garam masala doces",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": "frasco",
+        "name": "grão-de-bico",
+        "prep": "400g x2"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "folhas frescas de espinafre",
+        "prep": "engolidas na cor e no sabor do grão"
+      },
+      {
+        "qty": "1",
+        "unit": "dente",
+        "name": "alho",
+        "prep": null
+      }
     ],
     "instructions": [
       "Frite os aromas! Num fio de azeite, a pó de Garam Masala e o dente de alho num sustento vivo. Junte a polpa de tomate e deixe apurar.",
@@ -150,10 +288,36 @@
     ],
     "time": "30 min",
     "ingredients": [
-      "1 frasco de grão-de-bico biológico sem sal, 1 cebola suada em azeite",
-      "1 colher de chá de cominhos maduros, um toque rústico de coentros frescos",
-      "2 colheres de farinha de aveia ou trigo para absorver a humidade e prender o recheio",
-      "1 iogurte natural grego sem açúcar adicionado"
+      {
+        "qty": "1",
+        "unit": "frasco",
+        "name": "grão-de-bico biológico sem sal",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "cebola",
+        "prep": "suada em azeite"
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "colher de chá de cominhos",
+        "prep": null
+      },
+      {
+        "qty": "2",
+        "unit": null,
+        "name": "colheres de farinha de aveia ou trigo para absorver a humidade e prender o recheio",
+        "prep": null
+      },
+      {
+        "qty": "1",
+        "unit": null,
+        "name": "iogurte natural grego sem açúcar adicionado",
+        "prep": null
+      }
     ],
     "instructions": [
       "Sem usar trituradoras: pulse apenas uns segundos a leguminosa na picadora até obter uma massa coesa e granulosa, mas não uma pasta. Prove o tempero.",
@@ -174,10 +338,30 @@
     ],
     "time": "20 min",
     "ingredients": [
-      "1 lata grande de tomate pelado inteiro",
-      "Pimentos vermelhos macios em tiras e meia cebola para a cama",
-      "Cúrcuma, alho, uma nota de poejo ou salsa e cominhos em pó",
-      "4 ovos grandes de aviário livre"
+      {
+        "qty": "1",
+        "unit": "lata",
+        "name": "grande de tomate pelado inteiro",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "pimentos vermelhos macios",
+        "prep": "em tiras e meia cebola para a cama"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "cúrcuma",
+        "prep": null
+      },
+      {
+        "qty": "4",
+        "unit": null,
+        "name": "ovos de aviário livre",
+        "prep": null
+      }
     ],
     "instructions": [
       "Base de mestre: numa frigideira ampla que vá à mesa, salteie os cominhos e o alho. O pimento e o tomate suam até evaporar as águas, virando uma base pastosa e encorpada.",
@@ -198,10 +382,30 @@
     ],
     "time": "40 min",
     "ingredients": [
-      "1,5 chávenas de arroz arbóreo de grão gordo e perolado",
-      "Abóbora assada previamente ao forno para apurar a doçura, batida em puré liso",
-      "1 chávena de ervilhas bebé finas e doces",
-      "Manteiga em noz e queijo parmesão ralado na hora para a 'mantecatura' final"
+      {
+        "qty": "1,5",
+        "unit": "chávena",
+        "name": "arroz arbóreo de grão gordo e perolado",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "abóbora",
+        "prep": "assada previamente ao forno para apurar a doçura, batida em puré liso"
+      },
+      {
+        "qty": "1",
+        "unit": "chávena",
+        "name": "ervilhas bebé e doces",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "manteiga em noz e queijo parmesão",
+        "prep": "ralado na hora para a 'mantecatura' final"
+      }
     ],
     "instructions": [
       "Num tacho largo ao lume médio, toste o nobre arroz no azeite durante 20 segundos até os bagos ficarem translúcidos e brilhantes.",
@@ -223,9 +427,24 @@
     ],
     "time": "25 min",
     "ingredients": [
-      "8 ovos (a frittata precisa de estrutura e volume real)",
-      "Sobras dignas de aproveitamento: alho, meias courgettes e brócolos em fatias finas transparentes",
-      "Bocados puros de ricotta em colheradas para o topo assado"
+      {
+        "qty": "8",
+        "unit": null,
+        "name": "ovos",
+        "prep": "a frittata precisa de estrutura e volume real"
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "sobras dignas de aproveitamento: alho",
+        "prep": null
+      },
+      {
+        "qty": null,
+        "unit": null,
+        "name": "bocados puros de ricotta em colheradas para o topo",
+        "prep": "assado"
+      }
     ],
     "instructions": [
       "Numa frigideira com pega de metal (que vá ao forno): salteie em bom azeite as rodelas vegetais finas durante 2 minutos, para os brócolos tostarem e perderem a humidade excessiva.",
