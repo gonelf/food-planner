@@ -383,6 +383,105 @@ function aggregateItems(items) {
   return Array.from(map.values());
 }
 
+// ─── INGREDIENT CATEGORISATION ───────────────────────────────────────────────
+
+/**
+ * Ordered list of ingredient categories. Items are matched top-to-bottom;
+ * the first matching category wins.
+ */
+const INGREDIENT_CATEGORIES = [
+  {
+    id: 'peixe',
+    label: 'Peixe e Marisco',
+    keywords: ['bacalhau', 'salmão', 'atum', 'sardinha', 'camarão', 'marisco', 'amêijoa',
+      'mexilhão', 'lula', 'polvo', 'cherne', 'robalo', 'dourada', 'truta', 'linguado',
+      'corvina', 'pargo', 'gambas', 'berbigão', 'raia', 'solha', 'safio', 'peixe-espada',
+      'anchovas', 'cavala', 'pescada'],
+  },
+  {
+    id: 'carnes',
+    label: 'Carnes',
+    keywords: ['frango', 'peru', 'pato', 'coelho', 'borrego', 'vitela', 'novilho', 'vaca',
+      'porco', 'carne', 'chouriço', 'linguiça', 'paio', 'bacon', 'fiambre', 'presunto',
+      'alheira', 'farinheira', 'morcela', 'toucinho', 'bife', 'costeleta', 'entrecosto',
+      'lombinho', 'peito de frango'],
+  },
+  {
+    id: 'legumes',
+    label: 'Legumes e Verduras',
+    keywords: ['tomate', 'cebola', 'cenoura', 'batata', 'pimento', 'courgette', 'beringela',
+      'espinafres', 'brócolos', 'brócolo', 'couve', 'alface', 'rúcula', 'cogumelo',
+      'alho francês', 'alho-francês', 'nabo', 'pepino', 'aipo', 'espargo', 'aspargo',
+      'abóbora', 'milho', 'curgete', 'rabanete', 'beterraba', 'funcho', 'agrião',
+      'acelga', 'alcachofra', 'cebolo', 'alho', 'feijão verde', 'ervilha'],
+  },
+  {
+    id: 'frutas',
+    label: 'Frutas',
+    keywords: ['limão', 'laranja', 'maçã', 'banana', 'uva', 'pêra', 'pêssego', 'manga',
+      'abacate', 'ananás', 'morango', 'framboesa', 'mirtilo', 'kiwi', 'figo', 'melancia',
+      'melão', 'cereja', 'ameixa', 'dióspiro'],
+  },
+  {
+    id: 'laticinios',
+    label: 'Laticínios e Ovos',
+    keywords: ['leite', 'manteiga', 'queijo', 'natas', 'iogurte', 'ovo', 'requeijão',
+      'ricotta', 'mozzarella', 'parmesão', 'creme de leite', 'creme fresco', 'burrata'],
+  },
+  {
+    id: 'cereais',
+    label: 'Cereais, Massas e Arroz',
+    keywords: ['arroz', 'massa', 'pão', 'esparguete', 'macarrão', 'fusilli', 'farinha',
+      'tagliatelle', 'lasanha', 'aveia', 'cuscuz', 'bulgur', 'polenta', 'penne',
+      'farfalle', 'rigatoni', 'tortilha', 'tostas', 'panado', 'pão ralado', 'amido'],
+  },
+  {
+    id: 'leguminosas',
+    label: 'Leguminosas',
+    keywords: ['feijão', 'grão', 'lentilha', 'favas', 'tremoço', 'soja'],
+  },
+  {
+    id: 'condimentos',
+    label: 'Condimentos e Especiarias',
+    keywords: ['sal', 'pimenta', 'colorau', 'louro', 'cominhos', 'açafrão', 'canela',
+      'noz-moscada', 'oregãos', 'orégão', 'tomilho', 'rosmaninho', 'alecrim', 'coentros',
+      'salsa', 'manjericão', 'hortelã', 'paprika', 'caril', 'gengibre', 'curcuma',
+      'cúrcuma', 'piripiri', 'ervas', 'cravinho', 'cardamomo', 'mostarda', 'vinagre',
+      'tabasco', 'açúcar', 'mel', 'flor de sal'],
+  },
+  {
+    id: 'azeite',
+    label: 'Azeite e Óleos',
+    keywords: ['azeite', 'óleo'],
+  },
+  {
+    id: 'molhos',
+    label: 'Molhos e Caldos',
+    keywords: ['molho', 'caldo', 'concentrado', 'polpa', 'passata', 'nata de cozinha'],
+  },
+];
+
+/**
+ * Assigns a category id to a normalised ingredient name.
+ */
+function categoriseIngredient(name) {
+  const lower = name.toLowerCase();
+  for (const cat of INGREDIENT_CATEGORIES) {
+    if (cat.keywords.some(kw => lower.includes(kw))) {
+      return cat.id;
+    }
+  }
+  return 'outros';
+}
+
+/**
+ * Ordered category metadata exported for use in the UI.
+ */
+export const SHOPPING_CATEGORIES = [
+  ...INGREDIENT_CATEGORIES,
+  { id: 'outros', label: 'Outros' },
+];
+
 // ─── PUBLIC API ───────────────────────────────────────────────────────────────
 
 /**
@@ -401,9 +500,10 @@ export function buildShoppingList(allIngredientStrings) {
   // 3. Aggregate identical ingredients
   const aggregated = aggregateItems(parsed);
 
-  // 4. Add display text
+  // 4. Add display text and category
   return aggregated.map(item => ({
     ...item,
     displayText: formatIngredient(item),
+    category: categoriseIngredient(item.name),
   }));
 }
