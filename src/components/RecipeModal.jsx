@@ -1,10 +1,22 @@
+import { useState } from 'react';
 import { usePlanner } from '../contexts/PlannerContext';
-import { FiX, FiClock, FiHeart, FiTag, FiFileText } from 'react-icons/fi';
+import { FiX, FiClock, FiHeart, FiTag, FiFileText, FiPlus, FiCheck } from 'react-icons/fi';
+
+const DAYS = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"];
 
 export default function RecipeModal() {
-    const { viewingRecipe, closeRecipe } = usePlanner();
+    const { viewingRecipe, closeRecipe, setMeal } = usePlanner();
+    const [selectedDay, setSelectedDay] = useState('Segunda');
+    const [selectedMeal, setSelectedMeal] = useState('almoço');
+    const [added, setAdded] = useState(false);
 
     if (!viewingRecipe) return null;
+
+    const handleAddToPlan = () => {
+        setMeal(selectedDay, selectedMeal, viewingRecipe.id);
+        setAdded(true);
+        setTimeout(() => setAdded(false), 2000);
+    };
 
     return (
         <div
@@ -65,7 +77,7 @@ export default function RecipeModal() {
                 </div>
 
                 {/* Scrollable Content */}
-                <div style={{ flex: 1, overflowY: 'auto', padding: '24px', display: 'flex', flexDirection: 'column', gap: '24px' }}>
+                <div style={{ flex: 1, overflowY: 'auto', padding: '24px', display: 'flex', flexDirection: 'column', gap: '24px', WebkitOverflowScrolling: 'touch' }}>
 
                     {/* Baby Adaptation Highlight */}
                     <div style={{ background: 'var(--accent-primary-light)', padding: '16px', borderRadius: 'var(--radius-md)', borderLeft: '4px solid var(--accent-primary)' }}>
@@ -106,13 +118,46 @@ export default function RecipeModal() {
                     </div>
 
                     {/* Dynamics Labels */}
-                    <div style={{ marginTop: 'auto', paddingTop: '16px', display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
+                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
                         <span style={{ fontSize: '0.8rem', color: 'var(--text-tertiary)', marginRight: '8px' }}>Dinâmicas:</span>
                         {viewingRecipe.dynamics.map((dyn, idx) => (
                             <span key={idx} style={{ fontSize: '0.75rem', background: '#f1f3f5', padding: '4px 10px', borderRadius: '12px', color: '#495057' }}>
                                 {dyn}
                             </span>
                         ))}
+                    </div>
+
+                    {/* Add to Plan */}
+                    <div style={{ borderTop: '1px solid var(--border-subtle)', paddingTop: '16px' }}>
+                        <h4 style={{ fontSize: '0.9rem', fontWeight: 600, color: 'var(--text-secondary)', marginBottom: '12px' }}>
+                            Adicionar ao Planeamento
+                        </h4>
+                        <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap', alignItems: 'center' }}>
+                            <select
+                                className="search-input"
+                                value={selectedDay}
+                                onChange={e => setSelectedDay(e.target.value)}
+                                style={{ flex: '1', minWidth: '120px', paddingLeft: '12px' }}
+                            >
+                                {DAYS.map(d => <option key={d} value={d}>{d}</option>)}
+                            </select>
+                            <select
+                                className="search-input"
+                                value={selectedMeal}
+                                onChange={e => setSelectedMeal(e.target.value)}
+                                style={{ flex: '1', minWidth: '100px', paddingLeft: '12px' }}
+                            >
+                                <option value="almoço">Almoço</option>
+                                <option value="jantar">Jantar</option>
+                            </select>
+                            <button
+                                className="btn-primary"
+                                onClick={handleAddToPlan}
+                                style={added ? { background: 'var(--accent-success)' } : {}}
+                            >
+                                {added ? <><FiCheck /> Adicionado!</> : <><FiPlus /> Adicionar</>}
+                            </button>
+                        </div>
                     </div>
 
                 </div>

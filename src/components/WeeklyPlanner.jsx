@@ -33,12 +33,12 @@ export default function WeeklyPlanner() {
                 <h2 className="panel-title heading-gradient">
                     <FiCalendar /> Planeamento Semanal
                 </h2>
-                <div style={{ display: 'flex', gap: '8px' }}>
+                <div className="planner-actions" style={{ display: 'flex', gap: '8px' }}>
                     <button className="btn-primary" onClick={generateBalancedWeek} style={{ background: 'var(--accent-success)' }}>
-                        <FiZap /> Gerar Menu Equilibrado
+                        <FiZap /> Gerar Menu
                     </button>
                     <button className="btn-secondary" onClick={clearWeek}>
-                        <FiTrash2 /> Limpar Menu
+                        <FiTrash2 /> Limpar
                     </button>
                 </div>
             </div>
@@ -49,7 +49,8 @@ export default function WeeklyPlanner() {
                 padding: '24px',
                 display: 'flex',
                 flexDirection: 'column',
-                gap: '16px'
+                gap: '16px',
+                WebkitOverflowScrolling: 'touch'
             }}>
                 {DAYS.map(day => (
                     <div key={day} style={{
@@ -138,7 +139,7 @@ function MealCell({ day, meal, recipe, isOver, onDragOver, onDragLeave, onDrop, 
 
             {!recipe ? (
                 <div style={{ textAlign: 'center', color: 'var(--text-tertiary)', fontSize: '0.9rem', padding: '10px 0' }}>
-                    Arraste uma receita para aqui
+                    Arraste ou adicione uma receita
                 </div>
             ) : (
                 <div className="animate-fade-in" style={{ display: 'flex', flexDirection: 'column', gap: '8px', paddingRight: '30px' }}>
