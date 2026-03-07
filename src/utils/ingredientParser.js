@@ -66,6 +66,11 @@ const PREP_RE = [
   /\s+(?:grandes?|pequen[oa]s?|médi[oa]s?|gross[oa]s?|alt[oa]s?|madur[oa]s?|fin[oa]s?)\b/gi,
   /\s+autêntico\b/gi,
   /\s+fresco[s]?\b(?!\s+de\s+coentros|\s+de\s+salsa)/gi,  // keep "coentros frescos" etc? → simpler: strip "fresco"
+  /\s+suad[ao]s?\b/gi,
+  /\s+refogad[ao]s?\b/gi,
+  /\s+temperad[ao]s?\b/gi,
+  /\s+marinad[ao]s?\b/gi,
+  /\s+em\s+(?:azeite|manteiga|óleo|gordura|banha)\b/gi,
 ];
 
 // ─── SPLITTING ────────────────────────────────────────────────────────────────
