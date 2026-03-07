@@ -30,6 +30,37 @@ const LIQUID_KEYWORDS = [
   'sumo', 'vinagre', 'nata', 'iogurte', 'molho',
 ];
 
+// ─── Fish / meat cut normalisation ───────────────────────────────────────────
+
+/** Maps plural cut words to their singular form. */
+const CUT_SINGULAR = {
+  lombos: 'lombo', filetes: 'filete', postas: 'posta',
+  tranches: 'tranche', medalhões: 'medalhão',
+};
+
+/**
+ * For cut-type ingredients, defines the typical weight of one piece (in grams)
+ * and the singular/plural display words.
+ * Used to express aggregated weight as a piece count on the shopping list.
+ */
+const CUT_UNITS = {
+  'lombo de salmão':    { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
+  'filete de salmão':   { singular: 'filete', plural: 'filetes', weightPerUnit: 150 },
+  'posta de salmão':    { singular: 'posta',  plural: 'postas',  weightPerUnit: 200 },
+  'lombo de bacalhau':  { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 200 },
+  'filete de bacalhau': { singular: 'filete', plural: 'filetes', weightPerUnit: 150 },
+  'posta de bacalhau':  { singular: 'posta',  plural: 'postas',  weightPerUnit: 200 },
+  'lombo de pescada':   { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
+  'filete de pescada':  { singular: 'filete', plural: 'filetes', weightPerUnit: 150 },
+  'tranche de salmão':  { singular: 'tranche', plural: 'tranches', weightPerUnit: 150 },
+  'lombo de corvina':   { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
+  'lombo de robalo':    { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
+  'lombo de dourada':   { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
+  'peito de frango':    { singular: 'peito',  plural: 'peitos',  weightPerUnit: 200 },
+  'coxa de frango':     { singular: 'coxa',   plural: 'coxas',   weightPerUnit: 150 },
+  'perna de frango':    { singular: 'perna',  plural: 'pernas',  weightPerUnit: 200 },
+};
+
 // ─── Cup/spoon conversion factors ─────────────────────────────────────────────
 const CUP_TO_GRAMS  = 200;   // 1 chávena dry goods
 const CUP_TO_ML     = 200;   // 1 chávena liquid
@@ -127,6 +158,8 @@ const UNIT_PATTERNS = [
   { re: /^latas?\b\s*(?:de\s+)?/i,                 unit: 'lata',           type: 'count' },
   { re: /^frascos?\b\s*(?:de\s+)?/i,               unit: 'frasco',         type: 'count' },
   { re: /^embalagens?\b\s*(?:de\s+)?/i,            unit: 'embalagem',      type: 'count' },
+  { re: /^unidades?\b\s*(?:de\s+)?/i,              unit: 'un',             type: 'count',   factor: 1 },
+  { re: /^unid\.\s*(?:de\s+)?/i,                   unit: 'un',             type: 'count',   factor: 1 },
   { re: /^dentes?\s+de\s+/i,                       unit: 'dente',          type: 'garlic' },
   { re: /^folhas?\b\s*(?:de\s+)?/i,                unit: 'folha',          type: 'count' },
   { re: /^pacotes?\b\s*(?:de\s+)?/i,               unit: 'pacote',         type: 'count' },
@@ -234,9 +267,12 @@ function normaliseIngredientName(raw) {
   // Rice normalisation
   if (/^arroz\b/.test(name)) return normaliseRice(name);
 
-  // "lombos/filetes/postas de X" → "X"
-  const fishCutMatch = name.match(/^(?:lombos?|filetes?|postas?|tranches?|medalhões?)\s+(?:de\s+)?(.+)$/);
-  if (fishCutMatch) return fishCutMatch[1].trim();
+  // "lombos/filetes/postas de X" → normalise to singular "lombo/filete/posta de X"
+  const fishCutMatch = name.match(/^(lombos?|filetes?|postas?|tranches?|medalhões?)\s+(?:de\s+)?(.+)$/);
+  if (fishCutMatch) {
+    const cut = CUT_SINGULAR[fishCutMatch[1]] ?? fishCutMatch[1];
+    return `${cut} de ${fishCutMatch[2].trim()}`;
+  }
 
   // "dentes de alho" → "alho"
   if (/^dentes?\s+de\s+alho$/.test(name)) return 'alho';
@@ -297,6 +333,22 @@ function fmtMl(ml) {
 
 function formatIngredient(item) {
   const { name, quantity, unit, type, sumBase, sumUnit } = item;
+
+  // Cut-type ingredients (lombo, filete, posta, peito…): express as piece count
+  const cut = CUT_UNITS[name];
+  if (cut) {
+    const totalGrams = sumBase != null
+      ? sumBase
+      : (quantity != null && type !== 'qb' && type !== 'nounit'
+          ? toBase(quantity, unit, type, name)?.valueInBase
+          : null);
+    if (totalGrams != null) {
+      const count = Math.ceil(totalGrams / cut.weightPerUnit);
+      const [, ingredient] = name.split(/ de (.+)/);
+      const unitLabel = count === 1 ? cut.singular : cut.plural;
+      return `${count} ${unitLabel} de ${ingredient}`;
+    }
+  }
 
   // Aggregated weight or volume
   if (sumBase != null && sumUnit) {
@@ -375,13 +427,124 @@ function aggregateItems(items) {
       } else if (!baseA && !baseB) {
         // Both plain counts – just add
         existing.quantity += item.quantity;
+      } else {
+        // Mixed units: for cut-type ingredients, convert counts to grams so they aggregate
+        const cutInfo = CUT_UNITS[key];
+        if (cutInfo) {
+          const gramsA = existing.sumBase
+            ?? (baseA?.baseUnit === 'g' ? baseA.valueInBase : existing.quantity * cutInfo.weightPerUnit);
+          const gramsB = baseB?.baseUnit === 'g'
+            ? baseB.valueInBase
+            : item.quantity * cutInfo.weightPerUnit;
+          existing.sumBase = gramsA + gramsB;
+          existing.sumUnit = 'g';
+        }
+        // Non-cut mixed units – keep first occurrence
       }
-      // Mixed (e.g. one in g, one in count) – keep first occurrence
     }
   }
 
   return Array.from(map.values());
 }
+
+// ─── INGREDIENT CATEGORISATION ───────────────────────────────────────────────
+
+/**
+ * Ordered list of ingredient categories. Items are matched top-to-bottom;
+ * the first matching category wins.
+ */
+const INGREDIENT_CATEGORIES = [
+  {
+    id: 'peixe',
+    label: 'Peixe e Marisco',
+    keywords: ['bacalhau', 'salmão', 'atum', 'sardinha', 'camarão', 'marisco', 'amêijoa',
+      'mexilhão', 'lula', 'polvo', 'cherne', 'robalo', 'dourada', 'truta', 'linguado',
+      'corvina', 'pargo', 'gambas', 'berbigão', 'raia', 'solha', 'safio', 'peixe-espada',
+      'anchovas', 'cavala', 'pescada'],
+  },
+  {
+    id: 'carnes',
+    label: 'Carnes',
+    keywords: ['frango', 'peru', 'pato', 'coelho', 'borrego', 'vitela', 'novilho', 'vaca',
+      'porco', 'carne', 'chouriço', 'linguiça', 'paio', 'bacon', 'fiambre', 'presunto',
+      'alheira', 'farinheira', 'morcela', 'toucinho', 'bife', 'costeleta', 'entrecosto',
+      'lombinho', 'peito de frango'],
+  },
+  {
+    id: 'legumes',
+    label: 'Legumes e Verduras',
+    keywords: ['tomate', 'cebola', 'cenoura', 'batata', 'pimento', 'courgette', 'beringela',
+      'espinafres', 'brócolos', 'brócolo', 'couve', 'alface', 'rúcula', 'cogumelo',
+      'alho francês', 'alho-francês', 'nabo', 'pepino', 'aipo', 'espargo', 'aspargo',
+      'abóbora', 'milho', 'curgete', 'rabanete', 'beterraba', 'funcho', 'agrião',
+      'acelga', 'alcachofra', 'cebolo', 'alho', 'feijão verde', 'ervilha'],
+  },
+  {
+    id: 'frutas',
+    label: 'Frutas',
+    keywords: ['limão', 'laranja', 'maçã', 'banana', 'uva', 'pêra', 'pêssego', 'manga',
+      'abacate', 'ananás', 'morango', 'framboesa', 'mirtilo', 'kiwi', 'figo', 'melancia',
+      'melão', 'cereja', 'ameixa', 'dióspiro'],
+  },
+  {
+    id: 'laticinios',
+    label: 'Laticínios e Ovos',
+    keywords: ['leite', 'manteiga', 'queijo', 'natas', 'iogurte', 'ovo', 'requeijão',
+      'ricotta', 'mozzarella', 'parmesão', 'creme de leite', 'creme fresco', 'burrata'],
+  },
+  {
+    id: 'cereais',
+    label: 'Cereais, Massas e Arroz',
+    keywords: ['arroz', 'massa', 'pão', 'esparguete', 'macarrão', 'fusilli', 'farinha',
+      'tagliatelle', 'lasanha', 'aveia', 'cuscuz', 'bulgur', 'polenta', 'penne',
+      'farfalle', 'rigatoni', 'tortilha', 'tostas', 'panado', 'pão ralado', 'amido'],
+  },
+  {
+    id: 'leguminosas',
+    label: 'Leguminosas',
+    keywords: ['feijão', 'grão', 'lentilha', 'favas', 'tremoço', 'soja'],
+  },
+  {
+    id: 'condimentos',
+    label: 'Condimentos e Especiarias',
+    keywords: ['sal', 'pimenta', 'colorau', 'louro', 'cominhos', 'açafrão', 'canela',
+      'noz-moscada', 'oregãos', 'orégão', 'tomilho', 'rosmaninho', 'alecrim', 'coentros',
+      'salsa', 'manjericão', 'hortelã', 'paprika', 'caril', 'gengibre', 'curcuma',
+      'cúrcuma', 'piripiri', 'ervas', 'cravinho', 'cardamomo', 'mostarda', 'vinagre',
+      'tabasco', 'açúcar', 'mel', 'flor de sal'],
+  },
+  {
+    id: 'azeite',
+    label: 'Azeite e Óleos',
+    keywords: ['azeite', 'óleo'],
+  },
+  {
+    id: 'molhos',
+    label: 'Molhos e Caldos',
+    keywords: ['molho', 'caldo', 'concentrado', 'polpa', 'passata', 'nata de cozinha'],
+  },
+];
+
+/**
+ * Assigns a category id to a normalised ingredient name.
+ */
+function categoriseIngredient(name) {
+  const lower = name.toLowerCase();
+  for (const cat of INGREDIENT_CATEGORIES) {
+    if (cat.keywords.some(kw => new RegExp(`(?<![a-záéíóúâêîôûãõç])${kw}(?![a-záéíóúâêîôûãõç])`, 'i').test(lower))) {
+      return cat.id;
+    }
+  }
+  return 'outros';
+}
+
+/**
+ * Ordered category metadata exported for use in the UI.
+ */
+export const SHOPPING_CATEGORIES = [
+  ...INGREDIENT_CATEGORIES,
+  { id: 'outros', label: 'Outros' },
+];
 
 // ─── PUBLIC API ───────────────────────────────────────────────────────────────
 
@@ -401,9 +564,10 @@ export function buildShoppingList(allIngredientStrings) {
   // 3. Aggregate identical ingredients
   const aggregated = aggregateItems(parsed);
 
-  // 4. Add display text
+  // 4. Add display text and category
   return aggregated.map(item => ({
     ...item,
     displayText: formatIngredient(item),
+    category: categoriseIngredient(item.name),
   }));
 }
