@@ -38,39 +38,39 @@ const TBSP_TO_ML    = 15;
 const TSP_TO_GRAMS  = 4;
 const TSP_TO_ML     = 5;
 
-// ─── Preparation-word patterns to strip from ingredient names ─────────────────
-const PREP_RE = [
-  /\s*\([^)]*\)/g,                          // (anything in brackets)
+// ─── Preparation patterns ─────────────────────────────────────────────────────
+//
+// Two-stage model: quantity | ingredient | preparation
+//
+// Stage 1 – PREP_START_RE: detects where preparation begins and strips
+//   everything from that point to the end of the string.
+//   "1 cebola suada em azeite"  → "1 cebola"
+//   "bacalhau demolhado desfiado" → "bacalhau"
+//
+// Stage 2 – PREP_MODIFIER_RE: removes standalone modifiers that can appear
+//   anywhere within the ingredient name (size, state, etc.).
+//   "2 cebolas grandes" → "2 cebolas"
+
+// Strips from the first preparation word to the end of the string.
+const PREP_START_RE = [
+  // Parenthesised instructions: (sem pele), (sem espinhas), …
+  /\s*\([^)]*\)/g,
+  // Past-participle cooking verbs (optionally preceded by bem/muito)
+  // e.g. suada, picado, cortadas, demolhado, desfiado, refogada, temperado …
+  /\s+(?:(?:bem|muito)\s+)?(?:picad|cortad|fatiad|esmagad|demolhad|desfiad|cozid|assad|laminad|lavad|temperad|marinad|ralad|suad|refogad)[ao]s?\b.*/gi,
+  // "em [shape]" cutting styles or "em [fat/liquid]" cooking medium
+  /\s+em\s+(?:finas?\s+)?(?:meias-luas|cubos?|rodelas?|tiras?|pedaços?|juliana|picadinho|cubinhos?|azeite|manteiga|óleo|gordura|banha)\b.*/gi,
+  // Other prep phrases
+  /\s+(?:a\s+rigor|num\s+ralador\s+(?:grosso|fino)|de\s+véspera|previamente\b.*)\b.*/gi,
+];
+
+// Removes standalone modifiers (replaced with space, cleaned up later).
+const PREP_MODIFIER_RE = [
   /\s+(?:muito\s+)?finamente\b/gi,
-  /\s+(?:bem\s+)?ralad[ao]s?\b/gi,
-  /\s+(?:bem\s+)?picad[ao]s?\b/gi,
-  /\s+(?:bem\s+)?cortad[ao]s?\b/gi,
-  /\s+(?:bem\s+)?fatiados?\b/gi,
-  /\s+(?:bem\s+)?esmagad[ao]s?\b/gi,
-  /\s+(?:bem\s+)?demolhad[ao]s?\b/gi,
-  /\s+(?:bem\s+)?desfiados?\b/gi,
-  /\s+(?:bem\s+)?cozidos?\b/gi,
-  /\s+(?:bem\s+)?assados?\b/gi,
-  /\s+(?:bem\s+)?laminad[ao]s?\b/gi,
-  /\s+(?:bem\s+)?lavad[ao]s?\b/gi,
-  /\s+secos?\b/gi,
-  /\s+frios?\b/gi,
-  /\s+quentes?\b/gi,
-  /\s+mornos?\b/gi,
-  /\s+soltos?\b/gi,
-  /\s+previamente\b/gi,
-  /\s+em\s+(?:finas\s+)?(?:meias-luas|cubos?|rodelas?|tiras?|pedaços?|juliana|picadinho|cubinhos?)\b/gi,
-  /\s+a\s+rigor\b/gi,
-  /\s+num\s+ralador\s+(?:grosso|fino)\b/gi,
-  /\s+de\s+véspera\b/gi,
-  /\s+(?:grandes?|pequen[oa]s?|médi[oa]s?|gross[oa]s?|alt[oa]s?|madur[oa]s?|fin[oa]s?)\b/gi,
+  /\s+(?:secos?|frios?|quentes?|mornos?|soltos?)\b/gi,
+  /\s+fresco[s]?\b(?!\s+de\s+coentros|\s+de\s+salsa)/gi,
   /\s+autêntico\b/gi,
-  /\s+fresco[s]?\b(?!\s+de\s+coentros|\s+de\s+salsa)/gi,  // keep "coentros frescos" etc? → simpler: strip "fresco"
-  /\s+suad[ao]s?\b/gi,
-  /\s+refogad[ao]s?\b/gi,
-  /\s+temperad[ao]s?\b/gi,
-  /\s+marinad[ao]s?\b/gi,
-  /\s+em\s+(?:azeite|manteiga|óleo|gordura|banha)\b/gi,
+  /\s+(?:grandes?|pequen[oa]s?|médi[oa]s?|gross[oa]s?|alt[oa]s?|madur[oa]s?|fin[oa]s?)\b/gi,
 ];
 
 // ─── SPLITTING ────────────────────────────────────────────────────────────────
@@ -225,7 +225,13 @@ function normaliseRice(name) {
 function normaliseIngredientName(raw) {
   let name = raw.trim();
 
-  for (const re of PREP_RE) {
+  // Stage 1: strip from the first preparation marker to end of string
+  for (const re of PREP_START_RE) {
+    name = name.replace(re, '');
+  }
+
+  // Stage 2: strip standalone modifiers (size, temperature, etc.)
+  for (const re of PREP_MODIFIER_RE) {
     name = name.replace(re, ' ');
   }
 
