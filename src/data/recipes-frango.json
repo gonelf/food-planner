@@ -1,0 +1,382 @@
+[
+  {
+    "id": 16,
+    "title": "Massa com frango e espinafres",
+    "ingredients": [
+      { "quantity": "400", "unit": "g", "name": "peito de frango" },
+      { "quantity": "½", "unit": "c. de sopa", "name": "azeite virgem extra" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "100", "unit": "g", "name": "cebola" },
+      { "quantity": "390", "unit": "g", "name": "tomate em pedaços com orégãos e manjericão" },
+      { "quantity": "500", "unit": "ml", "name": "água" },
+      { "quantity": "400", "unit": "g", "name": "esparguete" },
+      { "quantity": "170", "unit": "g", "name": "espinafres" },
+      { "quantity": "q.b.", "unit": "", "name": "manjericão fresco" }
+    ],
+    "preparation": [
+      "Numa panela grande, aqueça 1 1/2 colher de sopa de azeite.",
+      "Salteie o peito de frango cortado em tiras, temperando com pimenta e sal, até estar cozinhado e reserve-o.",
+      "Adicione azeite à mesma panela e cozinhe a cebola picada.",
+      "Acrescente a lata de tomate em pedaços com orégãos e manjericão, e deixe levantar fervura.",
+      "Adicione a água e tempere com mais sal.",
+      "Parta o esparguete ao meio e coloque na panela, misturando e pressionando para que fique submerso.",
+      "Tape a panela e deixe cozinhar até o líquido ser absorvido e a massa estar al dente (cerca de 8-10 minutos).",
+      "Junte as tiras de frango cozinhado.",
+      "Adicione um pacote de espinafres frescos e envolva-os para que murchem com o calor residual e o molho.",
+      "Sirva com folhas de manjericão fresco, ideal para levar na marmita."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Peito de frango no forno",
+    "ingredients": [
+      { "quantity": "4", "unit": "unid.", "name": "peito de frango" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "mostarda Dijon" },
+      { "quantity": "50", "unit": "ml", "name": "sumo de limão" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta preta" },
+      { "quantity": "4", "unit": "ramo", "name": "alecrim" }
+    ],
+    "preparation": [
+      "Tempere os peitos com alho, mostarda, limão, sal e pimenta.",
+      "Disponha num tabuleiro e regue com azeite e alecrim.",
+      "Leve ao forno pré-aquecido a 190 ºC por 30 minutos.",
+      "Sirva os peitos de frango acompanhados por arroz, batata assada ou legumes."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Frango panado com queijo parmesão",
+    "ingredients": [
+      { "quantity": "2", "unit": "unid.", "name": "peito de frango" },
+      { "quantity": "½", "unit": "cháv.", "name": "farinha" },
+      { "quantity": "1", "unit": "c. de chá", "name": "colorau" },
+      { "quantity": "1", "unit": "c. de chá", "name": "alho em pó" },
+      { "quantity": "q.b.", "unit": "", "name": "sal" },
+      { "quantity": "1", "unit": "cháv.", "name": "pão ralado" },
+      { "quantity": "½", "unit": "cháv.", "name": "queijo parmesão ralado" },
+      { "quantity": "2", "unit": "unid.", "name": "ovo" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta preta" }
+    ],
+    "preparation": [
+      "Coloque os peitos de frango entre duas folhas de papel vegetal e espalme-os com um rolo da massa até atingirem uma espessura uniforme.",
+      "Prepare os ingredientes para panar em três recipientes distintos. No primeiro, misture a farinha com o colorau, o alho em pó, o sal e a pimenta preta. No segundo, bata os ovos.",
+      "No terceiro recipiente, misture o pão ralado com o queijo parmesão ralado.",
+      "Passe cada peito de frango, um de cada vez, pela mistura de farinha, certificando-se de que fica bem coberto de ambos os lados.",
+      "De seguida, mergulhe o frango nos ovos batidos.",
+      "Passe o frango pela mistura de pão ralado e parmesão, pressionando ligeiramente para que a cobertura adira bem.",
+      "Pré-aqueça a air fryer a 200 °C. Coloque os peitos de frango panados no cesto, sem sobrepor, e borrife com um pouco de azeite (opcional).",
+      "Cozinhe por 18 minutos a 200 °C, virando os peitos de frango a meio do tempo para dourarem uniformemente.",
+      "Retire da air fryer, corte em fatias e sirva de imediato."
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Frango no forno com mostarda e cebola",
+    "ingredients": [
+      { "quantity": "1", "unit": "unid.", "name": "frango da quinta" },
+      { "quantity": "q.b.", "unit": "", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "2", "unit": "unid.", "name": "mandarina" },
+      { "quantity": "2", "unit": "unid.", "name": "cebola" },
+      { "quantity": "q.b.", "unit": "", "name": "azeite" },
+      { "quantity": "q.b.", "unit": "", "name": "tomilho" },
+      { "quantity": "q.b.", "unit": "", "name": "mostarda" }
+    ],
+    "preparation": [
+      "Tempere o frango com sal, pimenta, alho em pó, o sumo e a raspa de uma mandarina e tomilho.",
+      "Barre todo o frango com a mostarda.",
+      "Coloque o frango num tabuleiro de forno.",
+      "Em redor do frango, coloque a outra mandarina em rodelas e a cebola em gomos.",
+      "Polvilhe com mais um pouco de tomilho.",
+      "Regue com um fio de azeite e deixe descansar por 30 minutos.",
+      "Leve ao forno, pré-aquecido a 190 ºC, por 45 minutos."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Bifes de frango",
+    "ingredients": [
+      { "quantity": "4", "unit": "unid.", "name": "bife de frango" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "1", "unit": "c. de café", "name": "pimenta preta" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "manteiga" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "250", "unit": "g", "name": "cogumelo laminado" },
+      { "quantity": "200", "unit": "ml", "name": "natas" },
+      { "quantity": "q.b.", "unit": "", "name": "salsa" }
+    ],
+    "preparation": [
+      "Tempere os bifes com sal e pimenta.",
+      "Numa frigideira, frite os bifes em manteiga. Retire a carne e reserve.",
+      "Na mesma frigideira, junte o alho e os cogumelos e salteie até ficarem dourados.",
+      "Junte o molho inglês e mexa bem.",
+      "Acrescente as natas e mexa até engrossar.",
+      "Junte os bifes ao molho e misture bem.",
+      "Sirva os bifes de frango e polvilhe com salsa fresca."
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Frango com limão e orégãos",
+    "ingredients": [
+      { "quantity": "2", "unit": "unid.", "name": "coxa de frango com perna" },
+      { "quantity": "1", "unit": "c. de café", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta de moinho" },
+      { "quantity": "2", "unit": "unid.", "name": "limão" },
+      { "quantity": "6", "unit": "dente", "name": "alho" },
+      { "quantity": "4", "unit": "unid.", "name": "cenoura" },
+      { "quantity": "4", "unit": "unid.", "name": "cebola" },
+      { "quantity": "q.b.", "unit": "", "name": "orégão" },
+      { "quantity": "1,5", "unit": "dl", "name": "vinho branco" },
+      { "quantity": "4", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "200", "unit": "g", "name": "arroz integral" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 190 ºC.",
+      "Tempere as coxas de frango com a colher de sobremesa de sal e um pouco de pimenta e regue-as com o sumo de um limão. Reserve.",
+      "Corte o outro limão em fatias e disponha-as num tabuleiro de forno.",
+      "Coloque por cima as coxas de frango e espalhe os dentes de alho esmagados.",
+      "Descasque as cenouras e corte-as em palitos. Reserve.",
+      "Corte as cebolas descascadas em meias-luas grossas e disponha-as à volta do frango, juntamente com as cenouras.",
+      "Polvilhe com folhas de orégãos, regue com o vinho branco e o azeite e leve ao forno cerca de 30 minutos. Regue com um pouco de água se necessário.",
+      "Prepare o arroz conforme as instruções da embalagem, usando o restante sal para temperar.",
+      "Sirva a acompanhar o frango e os legumes."
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Caril de frango",
+    "ingredients": [
+      { "quantity": "350", "unit": "g", "name": "peito de frango" },
+      { "quantity": "1", "unit": "c. de café", "name": "sal" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "caril em pó" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "farinha" },
+      { "quantity": "150", "unit": "g", "name": "cebola" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "100", "unit": "ml", "name": "vinho branco" },
+      { "quantity": "200", "unit": "ml", "name": "leite de coco" },
+      { "quantity": "250", "unit": "g", "name": "maçã" },
+      { "quantity": "q.b.", "unit": "", "name": "coentros" },
+      { "quantity": "280", "unit": "g", "name": "arroz basmati" }
+    ],
+    "preparation": [
+      "Corte o peito de frango em cubos e tempere com o sal, o caril e a farinha, misturando bem.",
+      "Refogue a cebola e o alho picados no azeite. Junte o frango e deixe alourar, mexendo frequentemente.",
+      "Regue o refogado com o vinho branco e volte a mexer. Adicione o leite de coco, tape e deixe cozer em lume brando.",
+      "Lave e descasque as maçãs, corte-as em gomos e junte ao frango. Cozinhe 20 minutos.",
+      "Leve ao lume um tacho com água (2 vezes a quantidade de arroz) e tempere com uma pitada de sal. Quando começar a ferver, deite o arroz, mexa com um garfo e tape, deixando cozer até absorver a água.",
+      "Sirva o caril de frango com o arroz, polvilhado com os coentros picados."
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Massa com frango",
+    "ingredients": [
+      { "quantity": "500", "unit": "g", "name": "peito de frango" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "1", "unit": "c. de café", "name": "pimenta preta" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola" },
+      { "quantity": "1", "unit": "dente", "name": "alho" },
+      { "quantity": "120", "unit": "ml", "name": "vinho branco" },
+      { "quantity": "400", "unit": "ml", "name": "natas" },
+      { "quantity": "q.b.", "unit": "", "name": "cebolinho" }
+    ],
+    "preparation": [
+      "Tempere o peito de frango com sal e pimenta-preta. Aqueça o azeite numa frigideira e cozinhe o frango em lume médio até ficar bem dourado por fora e cozinhado por dentro.",
+      "Retire, deixe arrefecer um pouco e desfie o frango. Reserve.",
+      "Coza a massa em água a ferver com sal até ficar al dente. Escorra e reserve.",
+      "Na mesma frigideira, refogue a cebola e o alho até dourarem.",
+      "Adicione o frango desfiado. Misture bem e tempere, se necessário, com um pouco mais de sal e pimenta.",
+      "Junte o vinho branco e deixe evaporar completamente.",
+      "Acrescente as natas e mexa, deixando ferver até o molho engrossar ligeiramente.",
+      "Envolva a massa cozida no molho e sirva de imediato."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Frango assado no forno",
+    "ingredients": [
+      { "quantity": "1", "unit": "unid.", "name": "frango inteiro" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "2", "unit": "c. de chá", "name": "sal grosso" },
+      { "quantity": "2", "unit": "c. de chá", "name": "pimenta preta" },
+      { "quantity": "1", "unit": "unid.", "name": "limão" }
+    ],
+    "preparation": [
+      "No talho peça que lhe preparem o frango com o corte para churrasco.",
+      "Coloque-o num tabuleiro de forno com a pele virada para cima e besunte-o bem com azeite.",
+      "Tempere com sal grosso e pimenta moída a gosto. Regue com o sumo de limão.",
+      "Guarde-o no frigorífico, tapado com película aderente e deixe-o marinar no mínimo uma hora ou até 24 horas.",
+      "Uma hora antes de levar o frango ao forno, retire o frango do frigorífico e deixe-o à temperatura ambiente.",
+      "Pré-aqueça o forno a 220 ºC (durante 20 minutos).",
+      "Baixe a temperatura do forno para os 180 ºC e mantenha-a assim até o frango estar cozinhado. Cozinhe o frango durante 80 minutos.",
+      "Retire-o do forno e verifique se está pronto a servir. Garanta que os líquidos que o frango larga são transparentes.",
+      "Deixe repousar durante 10 minutos antes de servir."
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Salteado de frango",
+    "ingredients": [
+      { "quantity": "400", "unit": "g", "name": "peito de frango" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "mostarda" },
+      { "quantity": "2", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta de moinho" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "orégão" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "emb.", "name": "vegetais grelhados congelados" },
+      { "quantity": "200", "unit": "g", "name": "arroz branco" }
+    ],
+    "preparation": [
+      "Tempere o frango com a mostarda, o alho em pó, metade do sal, pimenta a gosto e metade dos orégãos e deixe marinar por 10 minutos.",
+      "Aqueça uma colher de sopa de azeite numa frigideira, junte os vegetais e deixe cozinhar 10 minutos.",
+      "Noutra frigideira, aqueça o restante azeite e cozinhe o frango até estar dourado.",
+      "Adicione os legumes e tempere com o restante sal e orégãos.",
+      "Sirva com o arroz e polvilhe com um pouco de pimenta."
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Quiche de frango",
+    "ingredients": [
+      { "quantity": "1", "unit": "unid.", "name": "massa folhada" },
+      { "quantity": "100", "unit": "g", "name": "espinafres" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "dente", "name": "alho" },
+      { "quantity": "3", "unit": "unid.", "name": "ovo M" },
+      { "quantity": "200", "unit": "ml", "name": "natas" },
+      { "quantity": "300", "unit": "g", "name": "frango cozido desfiado" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "q.b.", "unit": "", "name": "noz-moscada" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 170 ºC.",
+      "Forre uma tarteira (de fundo falso) com a massa.",
+      "Numa frigideira, salteie os espinafres e alho picado em azeite.",
+      "Deixe arrefecer ligeiramente, pique e reserve.",
+      "Numa tigela, bata bem os ovos com as natas, com a ajuda de um garfo.",
+      "Junte o frango desfiado, os espinafres picados, sal, pimenta e noz-moscada. Envolva bem.",
+      "Deite o preparado na forma, previamente forrada com a massa.",
+      "Leve a quiche de frango ao forno durante 30 minutos."
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Frango à parmegiana",
+    "ingredients": [
+      { "quantity": "2", "unit": "unid.", "name": "peito de frango" },
+      { "quantity": "150", "unit": "g", "name": "panko" },
+      { "quantity": "100", "unit": "g", "name": "farinha" },
+      { "quantity": "2", "unit": "unid.", "name": "ovo" },
+      { "quantity": "1", "unit": "copo", "name": "vinho branco" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola" },
+      { "quantity": "1", "unit": "unid.", "name": "tomate" },
+      { "quantity": "100", "unit": "ml", "name": "tomate frito" },
+      { "quantity": "3", "unit": "dente", "name": "alho" },
+      { "quantity": "2", "unit": "ramo", "name": "manjericão" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "orégão" },
+      { "quantity": "2", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "1", "unit": "c. de café", "name": "pimenta preta" },
+      { "quantity": "1", "unit": "c. de café", "name": "molho picante" },
+      { "quantity": "q.b.", "unit": "", "name": "óleo" }
+    ],
+    "preparation": [
+      "Corte os peitos de frango em bifes e tempere com azeite, vinho, picante, pimenta, sal, alho, envolva tudo e reserve.",
+      "Faça o molho. Numa frigideira com um fio de azeite, coloque a cebola picada, o tomate cortado aos cubos sem pele e sem sementes e o tomate frito. Deixe cozinhar em lume médio 3 minutos.",
+      "Tempere com sal, pimenta, orégãos e manjericão.",
+      "Refresque com vinho branco, triture tudo e deixe no mínimo até panar os peitos de frango.",
+      "Pane os peitos de frango com farinha, ovo e panko.",
+      "Coloque mozzarella ralada por cima do molho e leve ao forno a 185 ºC até gratinar.",
+      "Frite os panados em óleo bem quente.",
+      "Distribua os panados na travessa, coloque o molho com queijo por cima e está pronto a servir."
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Frango do campo com massa",
+    "ingredients": [
+      { "quantity": "350", "unit": "g", "name": "frango cozido desfiado" },
+      { "quantity": "200", "unit": "g", "name": "esparguete" },
+      { "quantity": "300", "unit": "g", "name": "brócolos" },
+      { "quantity": "150", "unit": "g", "name": "cebola" },
+      { "quantity": "4", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "unid.", "name": "talo de aipo" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "folha", "name": "louro" },
+      { "quantity": "1", "unit": "dl", "name": "vinho branco" },
+      { "quantity": "50", "unit": "g", "name": "azeitona preta" },
+      { "quantity": "q.b.", "unit": "", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta de moinho" },
+      { "quantity": "q.b.", "unit": "", "name": "manjericão" }
+    ],
+    "preparation": [
+      "Coza os brócolos lavados e separados em raminhos num tacho destapado com água a ferver temperada com sal. Quando estiverem macios, retire-os com uma escumadeira. Coza o esparguete na mesma água, até estar al dente.",
+      "Num tacho com azeite, salteie a cebola e os dentes de alho picados, o talo de aipo cortado fino e a folha de louro. Cozinhe em lume moderado, mexendo de vez em quando. Acrescente o tomate pelado, limpo de sementes e picado em pedaços. Cozinhe até o tomate estar macio e regue com o vinho branco. Tempere com sal e pimenta e deixe ferver um pouco até apurar. Adicione 5 folhas de manjericão fresco, retire do lume e triture com a varinha mágica.",
+      "Adicione o frango desfiado e leve de novo ao lume até levantar fervura.",
+      "Escorra o esparguete e sirva-o com o frango em molho de tomate, enfeitado com as azeitonas pretas e as folhas frescas de manjericão. Acompanhe com os brócolos cozidos."
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Pernas de frango no tacho",
+    "ingredients": [
+      { "quantity": "12", "unit": "unid.", "name": "perna de frango" },
+      { "quantity": "200", "unit": "g", "name": "polpa de tomate" },
+      { "quantity": "200", "unit": "g", "name": "cebolinha pérola congelada" },
+      { "quantity": "200", "unit": "g", "name": "cogumelo Portobello" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola-roxa" },
+      { "quantity": "1", "unit": "unid.", "name": "alho-francês" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "0,5", "unit": "dl", "name": "vinho branco" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "amido de milho" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta em pó" },
+      { "quantity": "q.b.", "unit": "", "name": "noz-moscada" },
+      { "quantity": "q.b.", "unit": "", "name": "salsa" }
+    ],
+    "preparation": [
+      "Aloure as pernas de frango de todos os lados em metade do azeite quente. Tempere com a colher de sobremesa de sal e retire do tacho.",
+      "Deite o restante azeite no tacho, junte a cebola cortada em meias-luas finas e o alho-francês, previamente lavado, em rodelas.",
+      "Quando os legumes começarem a amolecer, adicione a polpa de tomate e introduza de novo as pernas de frango.",
+      "Adicione as cebolinhas congeladas e os cogumelos, previamente limpos e cortados ao meio.",
+      "Regue com o vinho branco, tape e deixe cozinhar em lume muito brando durante 50 minutos.",
+      "Dilua o amido de milho com a água fria e junte ao cozinhado.",
+      "Mexa bem, tempere com o restante sal, um pouco de pimenta, uma pitada de noz-moscada e deixe ferver mais 5 minutos para o molho engrossar um pouco.",
+      "Polvilhe com salsa acabada de picar e sirva com fatias finas de pão ligeiramente tostadas."
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Salada de frango",
+    "ingredients": [
+      { "quantity": "200", "unit": "g", "name": "peito de frango" },
+      { "quantity": "3", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "c. de chá", "name": "orégão" },
+      { "quantity": "½", "unit": "unid.", "name": "limão" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "unid.", "name": "mistura de salada gourmet" },
+      { "quantity": "½", "unit": "emb.", "name": "rúcula selvagem" },
+      { "quantity": "100", "unit": "g", "name": "tomate-cereja" },
+      { "quantity": "50", "unit": "g", "name": "pepino" },
+      { "quantity": "q.b.", "unit": "", "name": "pimentão doce" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta preta" },
+      { "quantity": "q.b.", "unit": "", "name": "folhas de manjericão" }
+    ],
+    "preparation": [
+      "Tenha o frango à temperatura ambiente 20 minutos antes de o cozinhar. Tempere-o com o alho picado, os orégãos, o pimentão doce, o sumo de meio limão e 1 colher de sobremesa de sal e pimenta a gosto.",
+      "Leve ao lume uma frigideira com uma colher de sopa de azeite e aloure os peitos de frango de ambos os lados por 10 minutos. Retire do lume e corte o frango em pedaços pequenos.",
+      "Numa taça de servir ou em doses individuais, coloque a mistura de alface gourmet, a rúcula, os tomates cereja cortados às metades e o pepino às meias-luas.",
+      "Junte o frango e tempere com o restante sumo do limão, azeite e sal.",
+      "Decore com folhas de manjericão fresco."
+    ]
+  }
+]

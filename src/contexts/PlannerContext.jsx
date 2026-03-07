@@ -1,7 +1,10 @@
 import { createContext, useContext, useState, useEffect } from 'react';
-import recipesData from '../data/recipes.json';
+import salmonRecipes from '../data/recipes.json';
+import frangoRecipes from '../data/recipes-frango.json';
 import { v4 as uuidv4 } from 'uuid';
 import { buildShoppingList } from '../utils/ingredientParser';
+
+const recipesData = [...salmonRecipes, ...frangoRecipes];
 
 const PlannerContext = createContext();
 
@@ -69,13 +72,18 @@ export const PlannerProvider = ({ children }) => {
   const generateShoppingList = () => {
     const allIngredients = [];
 
+    const ingToString = (ing) => {
+      if (ing.quantity === 'q.b.') return `q.b. ${ing.name}`;
+      return [ing.quantity, ing.unit, ing.name].filter(Boolean).join(' ');
+    };
+
     // Collect all ingredients from the planned meals
     Object.values(planner).forEach(day => {
       if (day.almoço && day.almoço.ingredients) {
-        day.almoço.ingredients.forEach(ing => allIngredients.push(ing));
+        day.almoço.ingredients.forEach(ing => allIngredients.push(ingToString(ing)));
       }
       if (day.jantar && day.jantar.ingredients) {
-        day.jantar.ingredients.forEach(ing => allIngredients.push(ing));
+        day.jantar.ingredients.forEach(ing => allIngredients.push(ingToString(ing)));
       }
     });
 

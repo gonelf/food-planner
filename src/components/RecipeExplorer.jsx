@@ -68,7 +68,7 @@ export default function RecipeExplorer() {
                                 {recipe.title}
                             </h3>
                             <p style={{ fontSize: '0.8rem', color: 'var(--text-tertiary)', display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
-                                {recipe.ingredients.join(', ')}
+                                {recipe.ingredients.map(ing => ing.name).join(', ')}
                             </p>
                         </div>
                     ))

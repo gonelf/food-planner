@@ -74,9 +74,13 @@ export default function RecipeModal() {
                             <h4 style={{ fontSize: '1.1rem', marginBottom: '12px', color: 'var(--text-primary)', display: 'flex', alignItems: 'center', gap: '8px' }}>
                                 <FiTag /> Ingredientes
                             </h4>
-                            <ul style={{ listStyle: 'disc', paddingLeft: '20px', display: 'flex', flexDirection: 'column', gap: '8px', color: 'var(--text-secondary)', fontSize: '0.95rem' }}>
+                            <ul style={{ listStyle: 'none', paddingLeft: 0, display: 'flex', flexDirection: 'column', gap: '6px', color: 'var(--text-secondary)', fontSize: '0.9rem' }}>
                                 {viewingRecipe.ingredients.map((ing, idx) => (
-                                    <li key={idx} style={{ lineHeight: 1.4 }}>{ing}</li>
+                                    <li key={idx} style={{ display: 'grid', gridTemplateColumns: '3.5rem 5rem 1fr', gap: '6px', lineHeight: 1.4, borderBottom: '1px solid var(--bg-tertiary)', paddingBottom: '4px' }}>
+                                        <span style={{ fontWeight: 600, color: 'var(--accent-primary)', textAlign: 'right' }}>{ing.quantity}</span>
+                                        <span style={{ color: 'var(--text-tertiary)', fontSize: '0.8rem', alignSelf: 'center' }}>{ing.unit}</span>
+                                        <span>{ing.name}</span>
+                                    </li>
                                 ))}
                             </ul>
                         </div>
