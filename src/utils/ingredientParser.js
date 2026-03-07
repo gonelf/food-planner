@@ -30,6 +30,36 @@ const LIQUID_KEYWORDS = [
   'sumo', 'vinagre', 'nata', 'iogurte', 'molho',
 ];
 
+// ─── Fish / meat cut normalisation ───────────────────────────────────────────
+
+/** Maps plural cut words to their singular form. */
+const CUT_SINGULAR = {
+  lombos: 'lombo', filetes: 'filete', postas: 'posta',
+  tranches: 'tranche', medalhões: 'medalhão',
+};
+
+/**
+ * For cut-type ingredients, defines the typical weight of one piece (in grams)
+ * and the singular/plural display words.
+ * Used to express aggregated weight as a piece count on the shopping list.
+ */
+const CUT_UNITS = {
+  'lombo de salmão':    { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
+  'filete de salmão':   { singular: 'filete', plural: 'filetes', weightPerUnit: 150 },
+  'posta de salmão':    { singular: 'posta',  plural: 'postas',  weightPerUnit: 200 },
+  'lombo de bacalhau':  { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 200 },
+  'filete de bacalhau': { singular: 'filete', plural: 'filetes', weightPerUnit: 150 },
+  'posta de bacalhau':  { singular: 'posta',  plural: 'postas',  weightPerUnit: 200 },
+  'lombo de pescada':   { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
+  'filete de pescada':  { singular: 'filete', plural: 'filetes', weightPerUnit: 150 },
+  'lombo de corvina':   { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
+  'lombo de robalo':    { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
+  'lombo de dourada':   { singular: 'lombo',  plural: 'lombos',  weightPerUnit: 150 },
+  'peito de frango':    { singular: 'peito',  plural: 'peitos',  weightPerUnit: 200 },
+  'coxa de frango':     { singular: 'coxa',   plural: 'coxas',   weightPerUnit: 150 },
+  'perna de frango':    { singular: 'perna',  plural: 'pernas',  weightPerUnit: 200 },
+};
+
 // ─── Cup/spoon conversion factors ─────────────────────────────────────────────
 const CUP_TO_GRAMS  = 200;   // 1 chávena dry goods
 const CUP_TO_ML     = 200;   // 1 chávena liquid
@@ -234,9 +264,12 @@ function normaliseIngredientName(raw) {
   // Rice normalisation
   if (/^arroz\b/.test(name)) return normaliseRice(name);
 
-  // "lombos/filetes/postas de X" → "X"
-  const fishCutMatch = name.match(/^(?:lombos?|filetes?|postas?|tranches?|medalhões?)\s+(?:de\s+)?(.+)$/);
-  if (fishCutMatch) return fishCutMatch[1].trim();
+  // "lombos/filetes/postas de X" → normalise to singular "lombo/filete/posta de X"
+  const fishCutMatch = name.match(/^(lombos?|filetes?|postas?|tranches?|medalhões?)\s+(?:de\s+)?(.+)$/);
+  if (fishCutMatch) {
+    const cut = CUT_SINGULAR[fishCutMatch[1]] ?? fishCutMatch[1];
+    return `${cut} de ${fishCutMatch[2].trim()}`;
+  }
 
   // "dentes de alho" → "alho"
   if (/^dentes?\s+de\s+alho$/.test(name)) return 'alho';
@@ -297,6 +330,22 @@ function fmtMl(ml) {
 
 function formatIngredient(item) {
   const { name, quantity, unit, type, sumBase, sumUnit } = item;
+
+  // Cut-type ingredients (lombo, filete, posta, peito…): express as piece count
+  const cut = CUT_UNITS[name];
+  if (cut) {
+    const totalGrams = sumBase != null
+      ? sumBase
+      : (quantity != null && type !== 'qb' && type !== 'nounit'
+          ? toBase(quantity, unit, type, name)?.valueInBase
+          : null);
+    if (totalGrams != null) {
+      const count = Math.ceil(totalGrams / cut.weightPerUnit);
+      const [, ingredient] = name.split(/ de (.+)/);
+      const unitLabel = count === 1 ? cut.singular : cut.plural;
+      return `${count} ${unitLabel} de ${ingredient}`;
+    }
+  }
 
   // Aggregated weight or volume
   if (sumBase != null && sumUnit) {
