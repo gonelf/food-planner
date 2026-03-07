@@ -61,7 +61,7 @@ export default function ShoppingList() {
                                         textDecoration: item.checked ? 'line-through' : 'none',
                                         lineHeight: 1.4
                                     }}>
-                                        {item.originalText}
+                                        {item.displayText}
                                     </span>
                                 </button>
                             </li>

@@ -1,6 +1,7 @@
 import { createContext, useContext, useState, useEffect } from 'react';
 import recipesData from '../data/recipes.json';
 import { v4 as uuidv4 } from 'uuid';
+import { buildShoppingList } from '../utils/ingredientParser';
 
 const PlannerContext = createContext();
 
@@ -78,30 +79,19 @@ export const PlannerProvider = ({ children }) => {
       }
     });
 
-    // In a real advanced app this would use NLP to group "2 onions" and "1 onion" into "3 onions".
-    // For this prompt, we create an array of unique-looking strings and give them a checked state.
-    const uniqueIngredientsMap = new Map();
+    // Parse, normalise, aggregate and format into buyable shopping items
+    const parsedItems = buildShoppingList(allIngredients);
 
-    allIngredients.forEach(ingText => {
-      // Normalize string for simple exact match deduplication (lowercased without leading/trailing spaces)
-      const normalizedIng = ingText.toLowerCase().trim();
-
-      if (!uniqueIngredientsMap.has(normalizedIng)) {
-        uniqueIngredientsMap.set(normalizedIng, {
-          id: uuidv4(),
-          originalText: ingText,
-          checked: false
-        });
-      }
-    });
-
-    // Check with the current state to preserve checked logic if they matched
-    // (This is a simplified approach. If an ingredient is removed from planner, it disappears).
     setShoppingList(prevList => {
-      const newList = Array.from(uniqueIngredientsMap.values());
-      return newList.map(item => {
-        const existingItem = prevList.find(p => p.originalText.toLowerCase().trim() === item.originalText.toLowerCase().trim());
-        return existingItem ? existingItem : item;
+      return parsedItems.map(item => {
+        // Preserve checked state by matching on normalised ingredient name
+        const existing = prevList.find(p => p.name === item.name);
+        return {
+          id: existing ? existing.id : uuidv4(),
+          name: item.name,
+          displayText: item.displayText,
+          checked: existing ? existing.checked : false,
+        };
       });
     });
   };
