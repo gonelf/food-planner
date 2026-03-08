@@ -385,6 +385,18 @@ function formatIngredient(item) {
     }
   }
 
+  // Garlic: convert cloves to heads (10 cloves per head, round down)
+  // Falls back to dentes when fewer than 10 cloves total
+  if (name === 'alho' && unit === 'dente') {
+    const cloves = Math.round(quantity ?? 0);
+    const heads = Math.floor(cloves / 10);
+    if (heads >= 1) {
+      return heads === 1 ? '1 cabeça de alho' : `${heads} cabeças de alho`;
+    }
+    const unitLabel = cloves === 1 ? 'dente' : 'dentes';
+    return `${cloves} ${unitLabel} de alho`;
+  }
+
   // Aggregated weight or volume
   if (sumBase != null && sumUnit) {
     const qtyStr = sumUnit === 'g' ? fmtGrams(sumBase) : fmtMl(sumBase);
