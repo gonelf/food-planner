@@ -385,16 +385,26 @@ function formatIngredient(item) {
     }
   }
 
-  // Garlic: convert cloves to heads (10 cloves per head, round down)
-  // Falls back to dentes when fewer than 10 cloves total
+  // Garlic: convert cloves to heads + optional half head (10 cloves = 1 head, 5 = 1/2)
+  // Remaining dentes (< 5) are shown separately. E.g. 17 → "1 e 1/2 cabeças + 2 dentes"
   if (name === 'alho' && unit === 'dente') {
     const cloves = Math.round(quantity ?? 0);
-    const heads = Math.floor(cloves / 10);
-    if (heads >= 1) {
-      return heads === 1 ? '1 cabeça de alho' : `${heads} cabeças de alho`;
+    const fullHeads = Math.floor(cloves / 10);
+    const remainder = cloves % 10;
+    const hasHalf = remainder >= 5;
+    const leftover = hasHalf ? remainder - 5 : remainder;
+    const parts = [];
+    if (fullHeads > 0 || hasHalf) {
+      if (fullHeads === 0) {
+        parts.push('1/2 cabeça de alho');
+      } else if (hasHalf) {
+        parts.push(`${fullHeads} e 1/2 cabeças de alho`);
+      } else {
+        parts.push(fullHeads === 1 ? '1 cabeça de alho' : `${fullHeads} cabeças de alho`);
+      }
     }
-    const unitLabel = cloves === 1 ? 'dente' : 'dentes';
-    return `${cloves} ${unitLabel} de alho`;
+    if (leftover > 0) parts.push(`${leftover} ${leftover === 1 ? 'dente' : 'dentes'} de alho`);
+    return parts.length > 0 ? parts.join(' + ') : `${cloves} dentes de alho`;
   }
 
   // Aggregated weight or volume
