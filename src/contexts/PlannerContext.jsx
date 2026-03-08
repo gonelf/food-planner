@@ -98,6 +98,7 @@ export const PlannerProvider = ({ children }) => {
           id: existing ? existing.id : uuidv4(),
           name: item.name,
           displayText: item.displayText,
+          category: item.category,
           checked: existing ? existing.checked : false,
         };
       });
