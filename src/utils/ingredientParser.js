@@ -61,6 +61,14 @@ const CUT_UNITS = {
   'perna de frango':    { singular: 'perna',  plural: 'pernas',  weightPerUnit: 200 },
 };
 
+/**
+ * Canned ingredients: converts weight (g) to unit count (rounded up).
+ * Also used to normalise unit-based entries (lata/emb./unid.) to the same display.
+ */
+const CANNED_UNITS = {
+  'atum em lata': { singular: 'lata', plural: 'latas', label: 'atum', weightPerUnit: 120 },
+};
+
 // ─── Cup/spoon conversion factors ─────────────────────────────────────────────
 const CUP_TO_GRAMS  = 200;   // 1 chávena dry goods
 const CUP_TO_ML     = 200;   // 1 chávena liquid
@@ -277,8 +285,16 @@ function normaliseIngredientName(raw) {
   // "dentes de alho" → "alho"
   if (/^dentes?\s+de\s+alho$/.test(name)) return 'alho';
 
+  // Eggs: strip size designation (M, L, S, XL, XS) and normalise plural → singular
+  if (/^ovos?(?:\s+(?:xl|xs|[mls]))?$/.test(name)) return 'ovo';
+
   // "folha de louro" → "louro"
   if (/^folha[s]?\s+de\s+louro$/.test(name)) return 'louro';
+
+  // Canned tuna: normalise all conserva/lata/azeite/posta variants to "atum em lata"
+  if (/^atum\b/.test(name) && /\b(conserva|lata|azeite|posta|natural)\b/.test(name)) {
+    return 'atum em lata';
+  }
 
   return name;
 }
@@ -348,6 +364,72 @@ function formatIngredient(item) {
       const unitLabel = count === 1 ? cut.singular : cut.plural;
       return `${count} ${unitLabel} de ${ingredient}`;
     }
+  }
+
+  // Canned items (e.g. "atum em lata"): express as can count, rounding up
+  const canned = CANNED_UNITS[name];
+  if (canned) {
+    // Weight-based (aggregated or single): convert grams → cans
+    const totalGrams = sumBase != null
+      ? sumBase
+      : (quantity != null && type !== 'qb' && type !== 'nounit'
+          ? toBase(quantity, unit, type, name)?.valueInBase
+          : null);
+    if (totalGrams != null) {
+      const count = Math.ceil(totalGrams / canned.weightPerUnit);
+      const unitLabel = count === 1 ? canned.singular : canned.plural;
+      return `${count} ${unitLabel} de ${canned.label}`;
+    }
+    // Count-based (lata / emb. / unid.): keep as can count
+    if (quantity != null && type === 'count') {
+      const count = Math.ceil(quantity);
+      const unitLabel = count === 1 ? canned.singular : canned.plural;
+      return `${count} ${unitLabel} de ${canned.label}`;
+    }
+  }
+
+  // Garlic: convert cloves to heads + optional half head (10 cloves = 1 head, 5 = 1/2)
+  // Remaining dentes (< 5) are shown separately. E.g. 17 → "1 e 1/2 cabeças + 2 dentes"
+  if (name === 'alho' && unit === 'dente') {
+    const cloves = Math.round(quantity ?? 0);
+    const fullHeads = Math.floor(cloves / 10);
+    const remainder = cloves % 10;
+    const hasHalf = remainder >= 5;
+    const leftover = hasHalf ? remainder - 5 : remainder;
+    const parts = [];
+    if (fullHeads > 0 || hasHalf) {
+      if (fullHeads === 0) {
+        parts.push('1/2 cabeça de alho');
+      } else if (hasHalf) {
+        parts.push(`${fullHeads} e 1/2 cabeças de alho`);
+      } else {
+        parts.push(fullHeads === 1 ? '1 cabeça de alho' : `${fullHeads} cabeças de alho`);
+      }
+    }
+    if (leftover > 0) parts.push(`${leftover} ${leftover === 1 ? 'dente' : 'dentes'} de alho`);
+    return parts.length > 0 ? parts.join(' + ') : `${cloves} dentes de alho`;
+  }
+
+  // Eggs: express as dúzias / 1/2 dúzia / individual eggs (12 eggs = 1 dúzia, 6 = 1/2)
+  // E.g. 18 → "1 dúzia e 1/2 de ovos", 14 → "1 dúzia de ovos + 2 ovos"
+  if (name === 'ovo' && (unit === 'un' || !unit)) {
+    const eggs = Math.round(quantity ?? 0);
+    const dozens = Math.floor(eggs / 12);
+    const remainder = eggs % 12;
+    const hasHalf = remainder >= 6;
+    const leftover = hasHalf ? remainder - 6 : remainder;
+    const parts = [];
+    if (dozens > 0 || hasHalf) {
+      if (dozens === 0) {
+        parts.push('1/2 dúzia de ovos');
+      } else if (hasHalf) {
+        parts.push(`${dozens} dúzia${dozens > 1 ? 's' : ''} e 1/2 de ovos`);
+      } else {
+        parts.push(dozens === 1 ? '1 dúzia de ovos' : `${dozens} dúzias de ovos`);
+      }
+    }
+    if (leftover > 0) parts.push(`${leftover} ${leftover === 1 ? 'ovo' : 'ovos'}`);
+    return parts.length > 0 ? parts.join(' + ') : `${eggs} ovos`;
   }
 
   // Aggregated weight or volume
@@ -440,6 +522,16 @@ function aggregateItems(items) {
           existing.sumUnit = 'g';
         }
         // Non-cut mixed units – keep first occurrence
+        const cannedInfo = CANNED_UNITS[key];
+        if (cannedInfo) {
+          const gramsA = existing.sumBase
+            ?? (baseA?.baseUnit === 'g' ? baseA.valueInBase : existing.quantity * cannedInfo.weightPerUnit);
+          const gramsB = baseB?.baseUnit === 'g'
+            ? baseB.valueInBase
+            : item.quantity * cannedInfo.weightPerUnit;
+          existing.sumBase = gramsA + gramsB;
+          existing.sumUnit = 'g';
+        }
       }
     }
   }
