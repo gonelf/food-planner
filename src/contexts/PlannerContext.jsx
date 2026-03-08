@@ -1,10 +1,11 @@
 import { createContext, useContext, useState, useEffect } from 'react';
 import salmonRecipes from '../data/recipes.json';
 import frangoRecipes from '../data/recipes-frango.json';
+import peixeRecipes from '../data/recipes-peixe.json';
 import { v4 as uuidv4 } from 'uuid';
 import { buildShoppingList } from '../utils/ingredientParser';
 
-const recipesData = [...salmonRecipes, ...frangoRecipes];
+const recipesData = [...salmonRecipes, ...frangoRecipes, ...peixeRecipes];
 
 const PlannerContext = createContext();
 
