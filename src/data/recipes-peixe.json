@@ -1,0 +1,384 @@
+[
+  {
+    "id": 31,
+    "title": "Peixe-espada no forno",
+    "ingredients": [
+      { "quantity": "4", "unit": "unid.", "name": "posta de peixe-espada preto" },
+      { "quantity": "3", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "150", "unit": "g", "name": "cebola" },
+      { "quantity": "2", "unit": "unid.", "name": "talos de aipo" },
+      { "quantity": "150", "unit": "g", "name": "cenoura" },
+      { "quantity": "½", "unit": "unid.", "name": "pimento vermelho" },
+      { "quantity": "½", "unit": "unid.", "name": "malagueta vermelha" },
+      { "quantity": "1", "unit": "folha", "name": "louro" },
+      { "quantity": "2", "unit": "c. de café", "name": "sal" },
+      { "quantity": "1", "unit": "dl", "name": "vinho branco" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "vinagre balsâmico" },
+      { "quantity": "250", "unit": "g", "name": "tagliatelle fresco" },
+      { "quantity": "180", "unit": "g", "name": "curgete" },
+      { "quantity": "½", "unit": "ramo", "name": "salsa" }
+    ],
+    "preparation": [
+      "Ligue o forno a 180 ºC.",
+      "Faça 2 golpes, na diagonal, em cada lado das postas de peixe. Esmague os dentes de alho e introduza-os nos golpes.",
+      "Tempere as postas com 1 colher de chá de sal, coloque-as num tabuleiro e regue-as com 1 colher de sopa de azeite. Leve-as ao forno durante 35 minutos.",
+      "Entretanto, descasque a cebola e corte-a em meias-luas finas. Lave os talos de aipo e corte-os em lâminas. Leve a cebola e o aipo ao lume, numa frigideira, com 2 colheres de sopa de azeite.",
+      "Pele a cenoura, rale-a no ralador e junte-a aos legumes. Lave o pimento e a malagueta vermelha, limpe-os de sementes, corte o pimento em tiras e pique a malagueta.",
+      "Junte-os aos restantes legumes, adicione a folha de louro e tempere com 1 colher de café de sal. Mexa, tape e deixe cozinhar sobre lume brando durante 15 minutos.",
+      "Enquanto isso, lave a courgette, corte-a às rodelas e abra-as em fitas.",
+      "Leve ao lume 1 panela com água temperada com 1 colher de café de sal. Quando ferver, introduza o tagliatelle e a courgette. Deixe cozer durante 5 minutos e adicione o vinho branco. Deixe cozer mais 5 minutos. Adicione o vinagre balsâmico, misture bem e retire do lume.",
+      "Assim que retirar o peixe do forno, regue-o com o escabeche de legumes. Acompanhe com o tagliatelle com courgette."
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Filetes de pescada com legumes",
+    "ingredients": [
+      { "quantity": "400", "unit": "g", "name": "filetes de pescada" },
+      { "quantity": "1", "unit": "unid.", "name": "limão (sumo)" },
+      { "quantity": "1", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "c. de chá", "name": "caril" },
+      { "quantity": "700", "unit": "g", "name": "batata" },
+      { "quantity": "80", "unit": "g", "name": "cebola" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite virgem extra" },
+      { "quantity": "3", "unit": "c. de café", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta preta moída" },
+      { "quantity": "400", "unit": "g", "name": "brócolos congelados" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 190 ºC.",
+      "Tempere o peixe com o sumo de limão, o dente de alho, uma colher de café de sal e com o caril. Reserve.",
+      "Descasque as batatas e a cebola, e corte em fatias finas. Disponha-as no fundo de um prato de forno.",
+      "Regue com o azeite, tempere com uma colher de café de sal e com pimenta. Leve ao forno por 15 minutos.",
+      "Retire do forno e coloque por cima os filetes. Leve novamente a cozinhar por mais 12 minutos.",
+      "Enquanto isso, cozinhe os brócolos no micro-ondas durante 10 minutos com um pouco de água e o restante sal.",
+      "Sirva o peixe e as batatas com os brócolos."
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Massa com peixe e legumes",
+    "ingredients": [
+      { "quantity": "1", "unit": "unid.", "name": "medalhão de pescada congelado" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola pequena" },
+      { "quantity": "1", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "unid.", "name": "talo de aipo" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "3", "unit": "haste", "name": "coentros frescos" },
+      { "quantity": "4", "unit": "c. de sopa", "name": "polpa de tomate" },
+      { "quantity": "4", "unit": "dl", "name": "água" },
+      { "quantity": "1", "unit": "unid.", "name": "cenoura" },
+      { "quantity": "70", "unit": "g", "name": "massa conchas" },
+      { "quantity": "1", "unit": "c. de café", "name": "sal" },
+      { "quantity": "80", "unit": "g", "name": "brócolos" },
+      { "quantity": "160", "unit": "g", "name": "uva branca e preta" }
+    ],
+    "preparation": [
+      "Tempere o peixe com o alho em pó e deixe descongelar.",
+      "Descasque a cebola e os dentes de alho e pique-os finamente.",
+      "Lave o talo de aipo, elimine os fios mais rijos e corte-o em lâminas finas.",
+      "Aqueça o azeite num tacho, junte o aipo, a cebola e o alho picados e deixe cozinhar até amolecerem.",
+      "Junte os talos de coentros picados (reserve as folhas), a polpa de tomate e metade da água, tape e deixe cozinhar em lume brando cerca de 10 minutos.",
+      "Pele a cenoura e corte-a em tiras com o pelador de cozinha.",
+      "Corte cada lombo em cinco porções e introduza-os no tacho. Tape e deixe retomar fervura, em lume brando.",
+      "Junte a restante água a ferver, adicione a massa e as tiras de cenoura e tempere com o sal. Tape e coza mais 10 minutos.",
+      "Lave bem os ramos dos brócolos e coza 4 minutos no micro-ondas na potência máxima.",
+      "Deixe a massa de peixe arrefecer, salpique-a com os coentros reservados e sirva com os brócolos num compartimento separado."
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Corvina na grelha com molho vilão",
+    "ingredients": [
+      { "quantity": "4", "unit": "unid.", "name": "posta de corvina" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "4", "unit": "c. de sopa", "name": "salsa picada" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "colorau" },
+      { "quantity": "30", "unit": "ml", "name": "azeite" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "c. de sobremesa", "name": "sal" }
+    ],
+    "preparation": [
+      "Para fazer o molho vilão, junte numa taça a cebola, os dentes de alho e a salsa picados e tempere com o colorau. Adicione os 30 ml de azeite e misture. Reserve.",
+      "Unte um grelhador com o restante azeite. Quando estiver bem quente, cozinhe as postas de corvina durante cerca de 3 minutos de cada lado. Vire e tempere com sal e deixe cozinhar por mais 3 minutos.",
+      "Sirva as postas de corvina com o molho de vilão."
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Pescada à bulhão pato com amêijoas",
+    "ingredients": [
+      { "quantity": "1", "unit": "posta", "name": "pescada do Chile" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "70", "unit": "g", "name": "amêijoa" },
+      { "quantity": "80", "unit": "ml", "name": "vinho branco" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "coentros picados" },
+      { "quantity": "150", "unit": "g", "name": "batata primor" },
+      { "quantity": "1", "unit": "c. de sobremesa", "name": "sal" }
+    ],
+    "preparation": [
+      "Tempere a posta de pescada descongelada com metade do sal.",
+      "Num tacho aqueça o azeite com os dentes de alho e deixe cozinhar em lume brando por 1 minuto.",
+      "Adicione a posta de pescada, as amêijoas e tape. Deixe cozinhar por 4 minutos.",
+      "Destape, refresque com o vinho branco e adicione os coentros picados.",
+      "Tempere com o restante sal e cozinhe por 12 minutos em lume brando.",
+      "Enquanto isso coloque as batatas numa taça que possa ir ao micro-ondas e cozinhe-as conforme as instruções da embalagem.",
+      "Sirva as batatas com a pescada."
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Empadão de peixe",
+    "ingredients": [
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "120", "unit": "g", "name": "cebola" },
+      { "quantity": "150", "unit": "g", "name": "alho-francês" },
+      { "quantity": "100", "unit": "g", "name": "ervilhas" },
+      { "quantity": "1", "unit": "unid.", "name": "puré de batata congelado" },
+      { "quantity": "50", "unit": "g", "name": "queijo mozzarella" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "sementes de sésamo" },
+      { "quantity": "q.b.", "unit": "", "name": "sobras de cenoura cozida" },
+      { "quantity": "q.b.", "unit": "", "name": "sobras de couve-coração cozida" },
+      { "quantity": "q.b.", "unit": "", "name": "sobras de pescada cozida" }
+    ],
+    "preparation": [
+      "Numa frigideira, aqueça o azeite e refogue a cebola picada.",
+      "Adicione o alho-francês em rodelas e salteie até ficar macio.",
+      "Junte as ervilhas, as sobras de cenoura e as sobras de couve-lombarda. Envolva bem.",
+      "Adicione as sobras de pescada cozida e desfiada e misture delicadamente com os vegetais.",
+      "Transfira o preparado para um tabuleiro de forno e cubra com o puré de batata.",
+      "Polvilhe com o queijo mozzarella e as sementes de sésamo e leve ao forno pré-aquecido a 180 ºC durante 15 a 20 minutos, ou até gratinar."
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Pescada no forno com puré",
+    "ingredients": [
+      { "quantity": "400", "unit": "g", "name": "lombo de pescada" },
+      { "quantity": "75", "unit": "g", "name": "pimento vermelho" },
+      { "quantity": "75", "unit": "g", "name": "curgete" },
+      { "quantity": "75", "unit": "g", "name": "alho-francês" },
+      { "quantity": "75", "unit": "g", "name": "cogumelos" },
+      { "quantity": "5", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "3", "unit": "dente", "name": "alho" },
+      { "quantity": "2", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "ervas frescas picadas" },
+      { "quantity": "1", "unit": "emb.", "name": "puré de batata" },
+      { "quantity": "1", "unit": "unid.", "name": "gema de ovo" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 180˚ C.",
+      "Corte os pimentos em tiras, as courgettes em cubos e o alho-francês (apenas a parte branca) em rodelas.",
+      "Aqueça duas colheres de sopa de azeite numa frigideira com dois dentes de alhos esmagados, junte os legumes cortados e tempere com uma colher de chá de sal.",
+      "Mexa e deixe refogar em lume brando durante 10 minutos. Adicione os cogumelos e salteie mais 7 a 8 minutos. Retire do lume e reserve.",
+      "Coloque os lombos de pescada num recipiente de forno.",
+      "Misture bem o restante azeite e sal, o alho que sobrou picado e as ervas e regue o peixe com este preparado.",
+      "Tape com folha de alumínio e leve ao forno durante 20 minutos.",
+      "Prepare o puré de acordo com as instruções da embalagem.",
+      "Retire o recipiente do forno, disponha o puré e pincele-o com a gema de ovo, previamente batida.",
+      "Distribua também os legumes e leve de novo ao forno até o puré estar dourado."
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Lombos de perca grelhados",
+    "ingredients": [
+      { "quantity": "500", "unit": "g", "name": "lombo de perca" },
+      { "quantity": "6", "unit": "dente", "name": "alho" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "vinagre de vinho branco" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta preta de moinho" },
+      { "quantity": "q.b.", "unit": "", "name": "tomilho" },
+      { "quantity": "700", "unit": "g", "name": "alface" },
+      { "quantity": "50", "unit": "g", "name": "cebolinha" },
+      { "quantity": "½", "unit": "unid.", "name": "limão" }
+    ],
+    "preparation": [
+      "Tempere o peixe, do lado do lombo, com sal e pimenta.",
+      "Esborrache os dentes de alho, tire-lhes a pele e pique-os finamente. Salpique o peixe com cerca de 1/3 dos dentes de alho picados e regue com duas colheres de sopa de vinagre e um fiozinho de azeite. Reserve.",
+      "Lave muito bem as batatas, coloque-as num tacho, cubra com água e tempere com uma pitada de sal. Leve ao lume e deixe ferver 15 minutos ou até as batatas estarem macias.",
+      "Lave o tomate, escolha e lave as folhas de alface e descasque a cebolinha.",
+      "Ripe as folhas de alface para dentro de uma saladeira, junte o tomate e a cebolinha cortados em gomos ou em meias luas e reserve.",
+      "Quando as batatas estiverem cozidas, escorra-as para dentro de um coador e reserve.",
+      "Aqueça bem uma frigideira antiaderente. Grelhe o peixe, com a pele virada para baixo, sobre lume médio a forte, durante 4 minutos. Volte o peixe e deixe cozinhar mais 3 minutos do outro lado.",
+      "Ao mesmo tempo, deite o restante azeite e os restantes dentes de alho no tacho onde cozeu as batatas e leve ao lume. Salteie aí as batatas, salpique com o tomilho e deixe alourar.",
+      "Sirva o peixe com o limão cortado em gomos, acompanhado das batatas salteadas e da salada temperada com sal, azeite e vinagre."
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Peixe frito na air fryer",
+    "ingredients": [
+      { "quantity": "500", "unit": "g", "name": "pescada" },
+      { "quantity": "2", "unit": "unid.", "name": "ovo" },
+      { "quantity": "200", "unit": "g", "name": "pão ralado" },
+      { "quantity": "1", "unit": "c. de café", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta preta" }
+    ],
+    "preparation": [
+      "Tempere os filetes de pescada com sal e pimenta preta. Reserve.",
+      "Bata dois ovos com um pouco de sal.",
+      "Mergulhe os filetes nos ovos e de seguida no pão ralado, para ficarem bem panados.",
+      "Leve à air fryer a 180 ºC durante 20 minutos.",
+      "Sirva com sumo de limão."
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Sargo no forno",
+    "ingredients": [
+      { "quantity": "1,2", "unit": "kg", "name": "sargo" },
+      { "quantity": "2", "unit": "unid.", "name": "cebola" },
+      { "quantity": "1", "unit": "unid.", "name": "pimento verde" },
+      { "quantity": "1", "unit": "unid.", "name": "pimento vermelho" },
+      { "quantity": "1", "unit": "unid.", "name": "malagueta vermelha" },
+      { "quantity": "1", "unit": "unid.", "name": "limão" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "dl", "name": "vinho branco" },
+      { "quantity": "600", "unit": "g", "name": "batata para cozer" },
+      { "quantity": "2", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "q.b.", "unit": "", "name": "salsa" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 180°C.",
+      "Tempere o peixe com sal, pimenta e coloque rodelas de limão e um ramo de salsa no interior da barriga.",
+      "Pegue num tabuleiro de forno e salpique o fundo com duas colheres de sopa de azeite.",
+      "Disponha 1 cebola e 1 tomate cortados em rodelas.",
+      "Coloque os peixes por cima. À volta distribua os pimentos cortados em tiras, os restantes tomate e cebola em gomos.",
+      "Polvilhe com mais salsa e malagueta, limpa de sementes e picada. Regue com o vinho e leve ao forno durante 20 minutos.",
+      "Acompanhe com batatas cozidas, cortadas ao meio, temperadas com o restante azeite e um pouco de salsa picada."
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Dourada braseada com molho de salsa",
+    "ingredients": [
+      { "quantity": "800", "unit": "g", "name": "dourada" },
+      { "quantity": "600", "unit": "g", "name": "batata para cozer" },
+      { "quantity": "250", "unit": "g", "name": "bimi" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "50", "unit": "ml", "name": "vinho branco" },
+      { "quantity": "2", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "1", "unit": "c. de chá", "name": "mostarda" },
+      { "quantity": "1", "unit": "unid.", "name": "limão" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "salsa fresca picada" },
+      { "quantity": "q.b.", "unit": "", "name": "manjericão" }
+    ],
+    "preparation": [
+      "Salpique os lombos das douradas de ambos os lados com meia colher de chá de sal. Barre o lado sem pele com a mostarda e salpique com raspa do limão. Regue com uma colher de sopa do sumo de limão e polvilhe com metade da salsa.",
+      "Lave muito bem as batatas e coza-as num tacho com água temperada com o restante sal. Passados cerca de 10 minutos de as batatas estarem a ferver, introduza os bimis e coza com o tacho destapado durante mais 10 minutos.",
+      "Aqueça muito bem metade do azeite numa frigideira larga antiaderente. Introduza os lombos de dourada com a pele virada para baixo e cozinhe durante 2 minutos sobre lume forte até a pele estar dourada e crocante. Volte cuidadosamente o peixe, e cozinhe mais 1 a 2 minutos.",
+      "Retire o peixe com cuidado, limpe a frigideira com papel de cozinha e leve de novo ao lume com o vinho branco. Ferva durante 3 a 4 minutos sobre lume forte até reduzir um pouco. Adicione o restante azeite, ferva durante mais 1 minuto, retire do lume e junte a restante salsa picada.",
+      "Corte as batatas em rodelas, misture-as com os bimis e salpique com folhas de manjericão fresco. Por cima coloque os lombos de peixe, com a pele virada para baixo, e regue com o molho de vinho e salsa."
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Cataplana de peixes com mexilhão",
+    "ingredients": [
+      { "quantity": "500", "unit": "g", "name": "mexilhão" },
+      { "quantity": "600", "unit": "g", "name": "mistura de peixes para caldeirada" },
+      { "quantity": "2", "unit": "unid.", "name": "cebola" },
+      { "quantity": "1", "unit": "unid.", "name": "pimento vermelho" },
+      { "quantity": "3", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "unid.", "name": "pimentão doce" },
+      { "quantity": "200", "unit": "g", "name": "polpa de tomate" },
+      { "quantity": "1", "unit": "dl", "name": "vinho branco" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "500", "unit": "g", "name": "batata para cozer" },
+      { "quantity": "3", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta em pó" },
+      { "quantity": "q.b.", "unit": "", "name": "salsa ou coentros" }
+    ],
+    "preparation": [
+      "Se usar mexilhão fresco raspe as conchas e retire-lhe as barbas. Lave e escorra bem, independentemente do mexilhão ser fresco ou congelado.",
+      "Tempere a mistura de peixes com sal, pimenta, alho picado e pimentão. Reserve.",
+      "Corte a cebola em rodelas finas. Limpe o pimento de sementes e corte-o também em rodelas.",
+      "No fundo da cataplana disponha os mexilhões e, por cima, os legumes preparados em camadas. Tempere com sal e cubra com o peixe.",
+      "Regue com a polpa de tomate, o vinho branco e o azeite. Junte um ramo de salsa ou de coentros atado e feche a cataplana.",
+      "Depois de ferver, cozinhe em lume brando durante 20 minutos, agitando de vez em quando.",
+      "Num tacho, coza as batatas em água temperada com sal e sirva-as a acompanhar a cataplana."
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Filetes de pescada com batata assada",
+    "ingredients": [
+      { "quantity": "400", "unit": "g", "name": "filete de pescada congelado" },
+      { "quantity": "500", "unit": "g", "name": "batata primor" },
+      { "quantity": "3", "unit": "pétala", "name": "tomate seco em óleo picado" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeitona preta em rodelas" },
+      { "quantity": "2", "unit": "unid.", "name": "espargo verde" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "q.b.", "unit": "", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta de moinho" },
+      { "quantity": "q.b.", "unit": "", "name": "alecrim" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 190 ºC.",
+      "Coloque os filetes, previamente descongelados, num tabuleiro de forno e polvilhe-os com o tomate seco picado e as rodelas de azeitonas pretas.",
+      "Corte os talos aos espargos, rejeitando as bases mais rijas, e coloque-os em redor dos filetes.",
+      "Corte as batatas ao meio e disponha-as também no tabuleiro.",
+      "Tempere com o sal, um pouco de pimenta, folhas de alecrim e o azeite e leve ao forno cerca de 20 minutos. Sirva os filetes com batata assada de imediato."
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Pargo assado com legumes",
+    "ingredients": [
+      { "quantity": "1,6", "unit": "kg", "name": "pargo fresco" },
+      { "quantity": "250", "unit": "g", "name": "chalota" },
+      { "quantity": "800", "unit": "g", "name": "batata nova para assar" },
+      { "quantity": "300", "unit": "g", "name": "curgete" },
+      { "quantity": "250", "unit": "g", "name": "tomate mini em rama" },
+      { "quantity": "1", "unit": "cabeça", "name": "alho" },
+      { "quantity": "5", "unit": "c. de sopa", "name": "vinho branco" },
+      { "quantity": "5", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "3", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "1", "unit": "unid.", "name": "limão" },
+      { "quantity": "½", "unit": "ramo", "name": "salsa fresca" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta de moinho" },
+      { "quantity": "q.b.", "unit": "", "name": "hortelã fresca" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 180 °C. Descasque e corte as chalotas em gomos, as batatas em quartos, e a courgette em rodelas. Disponha estes legumes num tabuleiro de forno onde caiba também o peixe e adicione a cabeça de alhos, sem a casca branca e com as pontas cortadas. Regue com o vinho branco e três colheres de sopa de azeite e tempere com duas colheres de chá de sal e pimenta moída na altura. Leve ao forno durante cerca de 20 minutos.",
+      "Entretanto, enxugue o pargo com papel de cozinha e abra dois rasgos na diagonal de cada lado do lombo. Introduza neles rodelas de limão, salsa e folhas de hortelã. Salpique com o restante sal.",
+      "Coloque o peixe no meio dos legumes, regue-o com uma colher de sopa de azeite e em torno disponha o tomate. Leve ao forno por mais 25 minutos.",
+      "Pique a restante salsa e mais algumas folhas de hortelã e misture com o sumo do limão e o restante azeite, verta sobre o pargo assado e sirva de imediato. Acompanhe com o tomate."
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Ceviche de lírio",
+    "ingredients": [
+      { "quantity": "300", "unit": "g", "name": "filetes de lírio" },
+      { "quantity": "100", "unit": "g", "name": "cebola-roxa" },
+      { "quantity": "1", "unit": "dente", "name": "alho" },
+      { "quantity": "10", "unit": "g", "name": "coentros" },
+      { "quantity": "10", "unit": "g", "name": "malagueta vermelha" },
+      { "quantity": "200", "unit": "g", "name": "lima" },
+      { "quantity": "100", "unit": "g", "name": "manga" },
+      { "quantity": "150", "unit": "g", "name": "batata-doce frita" },
+      { "quantity": "1", "unit": "c. de café", "name": "sal fino" },
+      { "quantity": "½", "unit": "c. de café", "name": "sementes de sésamo" }
+    ],
+    "preparation": [
+      "Corte os filetes de lírio em cubos de 1cm. Reserve.",
+      "Corte a cebola-roxa em meias luas finas e coloque em água com gelo, cerca de 3h.",
+      "Lave a malagueta vermelha, corte no sentido longitudinal e retire as sementes. Corte metade em tiras finas e corte o restante em pequenos cubos. Reserve.",
+      "Lave os coentros e retire as folhas. Pique as folhas de coentros grosseiramente. Reserve.",
+      "Pique finamente os dentes de alho. Reserve.",
+      "Descasque a manga e corte em cubos de 1 cm. Reserve.",
+      "Raspe a casca de 1 lima e retire o sumo das limas. Reserve separadamente.",
+      "Numa tigela, coloque os cubos de lírio e tempere com o sal e o sumo das limas. Escorra a cebola-roxa da água gelada e adicione à mistura anterior. Coloque os coentros picados, a malagueta aos cubos, o dente de alho picado, a manga em cubos e envolva bem com a ajuda de uma colher.",
+      "Coloque o preparado numa taça de servir e decore com coentros, as tiras de malagueta e finalize com as raspas de lima e sementes de sésamo.",
+      "Acompanhe com as chips de batata-doce."
+    ]
+  }
+]
