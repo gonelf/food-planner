@@ -1,0 +1,444 @@
+[
+  {
+    "id": 61,
+    "title": "Peru assado no forno",
+    "ingredients": [
+      { "quantity": "5", "unit": "kg", "name": "peru inteiro" },
+      { "quantity": "2", "unit": "unid.", "name": "limão" },
+      { "quantity": "4", "unit": "unid.", "name": "laranja" },
+      { "quantity": "200", "unit": "g", "name": "sal grosso" },
+      { "quantity": "15", "unit": "dente", "name": "alho" },
+      { "quantity": "q.b.", "unit": "", "name": "coentros" },
+      { "quantity": "5", "unit": "L", "name": "água" },
+      { "quantity": "150", "unit": "g", "name": "banha de porco" },
+      { "quantity": "75", "unit": "ml", "name": "vinho branco" },
+      { "quantity": "2,5", "unit": "c. de sopa", "name": "mostarda" },
+      { "quantity": "q.b.", "unit": "", "name": "pimentão doce" },
+      { "quantity": "100", "unit": "ml", "name": "aguardente branca" },
+      { "quantity": "q.b.", "unit": "", "name": "hortelã" },
+      { "quantity": "3", "unit": "unid.", "name": "figo" },
+      { "quantity": "1", "unit": "unid.", "name": "romã" }
+    ],
+    "preparation": [
+      "Comece por lavar e limpar o peru. Ate-o pelas pernas e pelas asas com cordel próprio para cozinha (fio norte).",
+      "Num alguidar, prepare a marinada, cortando o limão e a laranja em rodelas grossas. Adicione 2/3 do sal, metade do alho, previamente esmagado, os coentros partidos em três pedaços e 5L de água. Misture todos os ingredientes e mergulhe completamente o peru nesta marinada. Deixe-o repousar durante 24 horas.",
+      "No dia seguinte, junte numa taça a banha, o vinho branco, o restante alho, previamente picado, a mostarda, o pimentão e o restante sal. Triture tudo com a varinha mágica de forma a obter uma pasta homogénea. Se necessário, aqueça ligeiramente.",
+      "Com a ajuda de um pincel, pincele o peru com esta pasta e reserve no frio durante mais 24 horas.",
+      "No dia seguinte, pré-aqueça o forno a 130 ºC.",
+      "Coloque o peru num tabuleiro de forno e leve a assar durante 2 horas. A meio do tempo rode o peru e refresque com a aguardente.",
+      "No final, ajuste a temperatura do forno para os 100 ºC e deixe cozinhar durante mais 2 horas.",
+      "Com a ajuda de um termómetro, verifique a temperatura de confeção do peru, no peito e na coxa. Esta deve estar nos 80 ºC. Caso contrário, dever-se-á manter no forno a assar a 100 ºC e ir controlando a temperatura de 30 em 30 minutos. Só quando a temperatura for igual ou superior a 80 ºC nestes pontos é que o peru está pronto.",
+      "Quando estiver assado, retire o peru do forno e reserve o molho.",
+      "Sirva decorado com hortelã, figos, romã e laranja."
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Peru estufado",
+    "ingredients": [
+      { "quantity": "8", "unit": "unid.", "name": "cebolinha pequena" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "450", "unit": "g", "name": "peru em cubos" },
+      { "quantity": "50", "unit": "g", "name": "bacon em cubos" },
+      { "quantity": "40", "unit": "g", "name": "azeite" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta em pó" },
+      { "quantity": "100", "unit": "g", "name": "tomate mini alongado" },
+      { "quantity": "200", "unit": "g", "name": "cogumelo branco pequeno" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "mostarda à antiga" },
+      { "quantity": "80", "unit": "g", "name": "vinho branco" },
+      { "quantity": "50", "unit": "g", "name": "vinho do Porto" },
+      { "quantity": "1", "unit": "folha", "name": "louro" },
+      { "quantity": "q.b.", "unit": "", "name": "salsa" },
+      { "quantity": "½", "unit": "unid.", "name": "malagueta picada" }
+    ],
+    "preparation": [
+      "Encaixe a borboleta na lâmina e introduza no copo as cebolinhas, os alhos descascados, o peru e o bacon em cubos.",
+      "Regue com o azeite e tempere com sal e um pouco de pimenta.",
+      "Junte o tomate cortado ao meio, os cogumelos e a mostarda.",
+      "Regue com o vinho branco e o Porto e junte o louro.",
+      "Cozinhe 30 minutos, na velocidade 1 inversa, a 100° C.",
+      "Nos últimos 5 minutos retire o copo medidor da tampa.",
+      "Mude para o recipiente de servir, retire o louro e polvilhe com folhas de salsa e a malagueta."
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Fusilli com peru e cogumelos",
+    "ingredients": [
+      { "quantity": "500", "unit": "g", "name": "peito de peru em tiras" },
+      { "quantity": "3½", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "½", "unit": "c. de sopa", "name": "pimentão-doce" },
+      { "quantity": "1", "unit": "emb.", "name": "couve-de-bruxelas congelada" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite virgem extra" },
+      { "quantity": "100", "unit": "g", "name": "cebola em cubos congelada" },
+      { "quantity": "300", "unit": "g", "name": "cogumelos Portobello pequenos" },
+      { "quantity": "4", "unit": "pétala", "name": "tomate seco" },
+      { "quantity": "1", "unit": "talo", "name": "aipo" },
+      { "quantity": "1", "unit": "lata", "name": "tomate em pedaços com orégãos e manjericão" },
+      { "quantity": "350", "unit": "g", "name": "massa fusilli integral" },
+      { "quantity": "q.b.", "unit": "", "name": "manjericão fresco" }
+    ],
+    "preparation": [
+      "Tempere o peru com ½ colher de chá de sal, pimenta, o alho e o pimentão-doce.",
+      "Coloque as couves-de-bruxelas num tacho, cubra-as com água a ferver e leve ao lume.",
+      "Aloure o peru num tacho com metade do azeite, retire e reserve.",
+      "Deite o restante azeite no tacho, junte a cebola picada e cozinhe sobre lume moderado.",
+      "Limpe os cogumelos com papel de cozinha, corte-os ao meio. Adicione os cogumelos e o tomate seco, cortado em tiras, ao tacho com a cebola.",
+      "Corte o aipo em lâminas finas e deite-o também no tacho. Junte o tomate, tempere com uma colher de chá de sal e ferva, com o tacho tapado e sobre lume moderado, durante 10 minutos.",
+      "Ao mesmo tempo, coza a massa em água a ferver temperada com o restante sal durante 10 minutos.",
+      "Escorra as couves-de-bruxelas e a massa e junte-as ao tacho com os legumes, assim como o peru. Envolva e deixe ferver mais 5 minutos.",
+      "Sirva polvilhado com folhas de manjericão."
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Peru salteado no wok",
+    "ingredients": [
+      { "quantity": "300", "unit": "g", "name": "peito de peru" },
+      { "quantity": "4", "unit": "c. de sopa", "name": "molho de soja" },
+      { "quantity": "1", "unit": "c. de chá", "name": "amido de milho" },
+      { "quantity": "1", "unit": "c. de chá", "name": "açúcar mascavado" },
+      { "quantity": "3", "unit": "unid.", "name": "hastes de aipo" },
+      { "quantity": "½", "unit": "unid.", "name": "limão" },
+      { "quantity": "q.b.", "unit": "", "name": "sal" },
+      { "quantity": "150", "unit": "g", "name": "arroz basmati" },
+      { "quantity": "150", "unit": "g", "name": "ramos de brócolos" },
+      { "quantity": "150", "unit": "g", "name": "ramos de couve-flor" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "50", "unit": "g", "name": "milho congelado" },
+      { "quantity": "30", "unit": "g", "name": "miolo de amêndoa torrada" }
+    ],
+    "preparation": [
+      "Corte o peru em tiras finas, junte-lhe o molho de soja, o amido de milho, o açúcar e o aipo laminado (reserve as folhas).",
+      "Retire a casca ao limão com um pelador e junte o sumo à carne, misturando bem.",
+      "Numa panela com água a ferver, com 1 casca de limão e 1 colher de sobremesa de sal, coza o arroz durante 12 a 13 minutos.",
+      "Lave os ramos de brócolos e couve-flor e dê-lhes um golpe em cruz nos talos.",
+      "No wok, aqueça o azeite, junte as tiras de peru escorridas e salteie sobre lume médio a forte, mexendo até a carne começar a alourar.",
+      "Adicione os ramos de brócolos e couve-flor, reduza o lume, junte o líquido da marinada e cozinhe, mexendo sempre, até os legumes ficarem tenros.",
+      "Junte o arroz bem escorrido, o milho e as folhas de aipo previamente picadas e misture bem. Salpique com o miolo de amêndoa e sirva de imediato."
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Perna de peru no forno",
+    "ingredients": [
+      { "quantity": "1,5", "unit": "kg", "name": "perna de peru" },
+      { "quantity": "4", "unit": "dente", "name": "alho" },
+      { "quantity": "30", "unit": "g", "name": "azeitona verde descaroçada" },
+      { "quantity": "20", "unit": "g", "name": "tomate seco" },
+      { "quantity": "1", "unit": "c. de sobremesa", "name": "sal" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "salsa" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "pimentão doce" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "mel" },
+      { "quantity": "2", "unit": "folha", "name": "louro" },
+      { "quantity": "1,5", "unit": "dl", "name": "vinho branco" },
+      { "quantity": "q.b.", "unit": "", "name": "tomilho" },
+      { "quantity": "400", "unit": "g", "name": "cebolinha" },
+      { "quantity": "1", "unit": "kg", "name": "batata para assar" },
+      { "quantity": "600", "unit": "g", "name": "cenoura" },
+      { "quantity": "2", "unit": "emb.", "name": "salada gourmet" }
+    ],
+    "preparation": [
+      "Com a mão, separe cuidadosamente a pele da carne na parte abaulada da perna de peru, de modo a não a rasgar. Salpique com um pouco de sal e coloque-a num tabuleiro de forno.",
+      "Pique finamente as azeitonas sem caroço, o tomate seco e os dentes de alho, tempere com 1 pitada de sal e adicione a salsa picada e 1 colher de sopa de azeite. Misture de modo a obter uma pasta.",
+      "Introduza cuidadosamente essa pasta entre a pele e a carne da perna de peru.",
+      "Misture o restante azeite com metade do colorau e o mel e barre a perna de peru com a mistura. Junte as folhas de louro e regue com o vinho branco. Salpique com um pouco de tomilho e deixe marinar de um dia para o outro em local fresco.",
+      "No dia seguinte, pré-aqueça o forno a 180 ºC e asse a perna de peru durante 30 minutos.",
+      "Descasque as cebolinhas e corte-as ao meio. Lave as batatas e corte-as em quartos. Pele as cenouras e corte-as em rodelas. Tempere a mistura de batatas, cebola e cenoura com o restante colorau, algumas folhinhas de tomilho e uma pitada de sal.",
+      "Num tabuleiro de forno, disponha os legumes à volta do peru. Leve novamente ao forno e deixe assar cerca de 1 hora e 15 minutos ou até a carne estar tenra e dourada.",
+      "Sirva a perna de peru assada no forno acompanhada de uma mistura gourmet de alfaces."
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Tiras de peru com legumes no wok",
+    "ingredients": [
+      { "quantity": "300", "unit": "g", "name": "bife de peru" },
+      { "quantity": "150", "unit": "g", "name": "massa fetuccine" },
+      { "quantity": "150", "unit": "g", "name": "curgete" },
+      { "quantity": "200", "unit": "g", "name": "bimi" },
+      { "quantity": "50", "unit": "g", "name": "pimento vermelho" },
+      { "quantity": "50", "unit": "g", "name": "alho-francês" },
+      { "quantity": "50", "unit": "g", "name": "milho doce" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "molho de soja" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "ketchup" },
+      { "quantity": "1", "unit": "c. de chá", "name": "amido de milho" },
+      { "quantity": "0,5", "unit": "dl", "name": "água" },
+      { "quantity": "2", "unit": "c. de chá", "name": "sementes de sésamo" },
+      { "quantity": "q.b.", "unit": "", "name": "flocos de piripíri" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" }
+    ],
+    "preparation": [
+      "Ponha um tacho ao lume com água para cozer a massa.",
+      "Lave a courgette, apare as extremidades e corte-a em fios com o espiralizador. Reserve.",
+      "Quando ferver, tempere-a com uma colher de chá de sal e introduza a massa e os fios de courgette. Mexa com um garfo e deixe cozer cerca de 12 minutos.",
+      "Corte os bifes de peru em tiras, tempere-os com o restante sal e misture com uma colher de chá de sementes de sésamo, o alho em pó e uma pitada de flocos de piripíri.",
+      "Aqueça metade do azeite num wok ou numa frigideira larga, junte as tiras de peru e salteie-as em lume médio a forte, mexendo frequentemente, durante 2 minutos ou até estarem douradas.",
+      "Apare as pontas dos caules dos bimis e corte o alho-francês lavado na diagonal e em fatias finas. Reserve. Retire a carne para outro recipiente, deite o restante azeite no wok e junte o alho-francês e os bimis preparados.",
+      "Corte o pimento vermelho em tiras, deite-as no wok e salteie tudo cerca de 3 a 4 minutos, mexendo com frequência.",
+      "Dissolva o amido de milho em 0,5dl de água, junte o molho de soja e o ketchup, misture bem e deite a mistura sobre os legumes. Reduza o lume, tape e deixe cozinhar cerca de 2 minutos.",
+      "Volte a introduzir as tiras de carne no wok, adicione o milho doce e cozinhe mais 1 a 2 minutos, mexendo ocasionalmente.",
+      "Escorra a mistura de massa e courgette, disponha-a à volta do cozinhado e salpique com as restantes sementes de sésamo."
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Perna de peru com maçã e pimentos",
+    "ingredients": [
+      { "quantity": "1", "unit": "unid.", "name": "perna de peru" },
+      { "quantity": "4", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "açúcar mascavado" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "mostarda" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "3", "unit": "dl", "name": "água" },
+      { "quantity": "3", "unit": "unid.", "name": "cebola-roxa" },
+      { "quantity": "3", "unit": "unid.", "name": "maçã reineta" },
+      { "quantity": "2", "unit": "folha", "name": "louro" },
+      { "quantity": "2", "unit": "emb.", "name": "mix de pimentos" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "vinagre de sidra" },
+      { "quantity": "250", "unit": "g", "name": "cuscuz" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 140° C.",
+      "Numa tijela, prepare uma mistura de temperos com azeite, sal, açúcar mascavado e mostarda.",
+      "Sobre uma folha de papel de alumínio, coloque a perna de peru, limpa de pele e gorduras, e barre-a com a mistura de temperos.",
+      "Junte 0,5 dl de água à restante mistura, mexa bem e reserve. Embrulhe a carne em folha de alumínio, coloque-a sobre um tabuleiro e leve ao forno durante 2 horas e meia.",
+      "Corte as cebolas em gomos finos. Descasque as maçãs corte-as em quartos, elimine os caroços e fatie-as finamente. Misture tudo.",
+      "Num tabuleiro de forno forrado com papel vegetal, espalhe a mistura de cebola e maçã e salpique com as folhas de louro partidas.",
+      "Abra os pimentos ao meio, limpe-os de sementes e espalhe-os sobre o tabuleiro.",
+      "Regue com a restante mistura de temperos, salpique com o vinagre e leve ao forno, 90 minutos após ter colocado a carne. Mexa de vez em quando.",
+      "Retire o tabuleiro com a maçã e os pimentos do forno, abra a folha de alumínio da perna de peru e aumente a temperatura do forno para os 180°C. Deixe cozinhar mais 30 minutos.",
+      "Acompanhe com cuscuz."
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Peru recheado com cenouras glaceadas",
+    "ingredients": [
+      { "quantity": "4", "unit": "kg", "name": "peru" },
+      { "quantity": "300", "unit": "g", "name": "morcela de Arganil" },
+      { "quantity": "300", "unit": "g", "name": "lombo de porco picado (magro)" },
+      { "quantity": "150", "unit": "g", "name": "fígado de frango" },
+      { "quantity": "300", "unit": "g", "name": "batata-doce" },
+      { "quantity": "200", "unit": "g", "name": "broa de milho" },
+      { "quantity": "2", "unit": "dl", "name": "leite meio-gordo" },
+      { "quantity": "150", "unit": "g", "name": "cebola" },
+      { "quantity": "40", "unit": "g", "name": "talo de aipo" },
+      { "quantity": "4", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "q.b.", "unit": "", "name": "alecrim" },
+      { "quantity": "1", "unit": "dl", "name": "vinho branco" },
+      { "quantity": "q.b.", "unit": "", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta moída" },
+      { "quantity": "1,6", "unit": "kg", "name": "cenoura" },
+      { "quantity": "5", "unit": "unid.", "name": "cebola-roxa" },
+      { "quantity": "80", "unit": "g", "name": "manteiga" },
+      { "quantity": "180", "unit": "g", "name": "açúcar" },
+      { "quantity": "160", "unit": "g", "name": "miolo de amêndoa" }
+    ],
+    "preparation": [
+      "Lave e enxugue muito bem o peru. Pré-aqueça o forno a 220° C. Esfarele a broa de milho e demolhe-a no leite. Reserve.",
+      "Retire a pele à morcela, corte-a em pedaços pequenos e coloque-a numa tigela, juntamente com a carne de porco picada, os fígados de frango cortados, a batata-doce descascada e cortada em cubos, o talo de aipo laminado, a cebola picada e a broa demolhada.",
+      "Tempere com sal e pimenta e misture tudo.",
+      "Introduza o recheio no peru e coza a abertura com fio de cozinha.",
+      "Coloque azeite no fundo de uma assadeira e disponha o peru, salpicado com alecrim.",
+      "Regue com o vinho, pincele toda a pele com o restante azeite e leve ao forno.",
+      "Passados 15 minutos verifique se a pele está tostada e baixe a temperatura para os 160°C, continuando a cozedura por mais 4 horas.",
+      "Corte as cebolas em quartos e reserve. Corte as cenouras em rodelas. Leve ao lume a manteiga num tacho largo e alto e, quando esta estiver derretida, introduza as cenouras, salteando até ficarem coradas.",
+      "Junte sal, pimenta e o açúcar e mexa bem. Cubra com água, tape com uma folha de papel vegetal e deixe estufar em lume brando até não haver líquido no tacho. Torre o miolo de amêndoa numa frigideira antiaderente e reserve.",
+      "Cerca de 30 minutos antes do peru estar pronto, disponha à volta as cebolas e cubra o assado com uma folha de alumínio. Na altura de servir envolva as cenouras com o miolo de amêndoa torrado."
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Peru assado com fruta e puré de mostarda",
+    "ingredients": [
+      { "quantity": "800", "unit": "g", "name": "coxa de peru com pele" },
+      { "quantity": "3", "unit": "unid.", "name": "pera Rocha grande" },
+      { "quantity": "2", "unit": "unid.", "name": "maçã de Alcobaça pequena" },
+      { "quantity": "4", "unit": "unid.", "name": "tomate cherry" },
+      { "quantity": "1,5", "unit": "dl", "name": "vinho branco" },
+      { "quantity": "3", "unit": "dente", "name": "alho" },
+      { "quantity": "2", "unit": "folha", "name": "louro" },
+      { "quantity": "q.b.", "unit": "", "name": "tomilho" },
+      { "quantity": "q.b.", "unit": "", "name": "alecrim" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "sal" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "unid.", "name": "bolbo funcho" },
+      { "quantity": "1", "unit": "unid.", "name": "laranja" },
+      { "quantity": "q.b.", "unit": "", "name": "açafrão-da-índia" },
+      { "quantity": "2", "unit": "unid.", "name": "batata para cozer" },
+      { "quantity": "q.b.", "unit": "", "name": "mostarda em grão" },
+      { "quantity": "1", "unit": "unid.", "name": "gema de ovo L" },
+      { "quantity": "1", "unit": "c. de chá", "name": "leite meio-gordo" }
+    ],
+    "preparation": [
+      "Retire o osso da coxa do peru, ou peça no talho para o retirarem, e tempere a carne com o sal, o azeite, o vinho, os alhos, o tomilho e o alecrim (reserve alguns). Junte as folhas de louro partidas e deixe marinar cerca de 6 horas.",
+      "Pré-aqueça o forno a 140° C. Ate o peru com fio de cozinha, coloque-o num recipiente e leve-o ao forno 50 a 60 minutos.",
+      "Lave as peras, retire-lhes os caroços e corte-as em quartos. Lave as maçãs, retire-lhes os caroços e corte-as ao meio.",
+      "A 15 minutos do final da assadura da carne, disponha a fruta à volta do peru e deixe assar. Cinco minutos antes do fim do tempo, introduza também o tomate.",
+      "Lave o bolbo de funcho, corte-o em quatro partes iguais e leve-o ao lume num tacho com água, o sumo da laranja, o sal e o açafrão-da-índia.",
+      "Quando estiver macio, retire-o, enxugue com papel de cozinha e salteie-o numa frigideira com o azeite bem quente. Reserve.",
+      "Coza as batatas em água com o alho e o sal. Escorra a água, adicione o leite aquecido, o azeite e a mostarda.",
+      "Tempere com um pouco de noz-moscada e triture bem com a varinha mágica. Junte a gema de ovo e envolva muito bem.",
+      "Sirva o peru assado com o puré, um pouco de maçã e pêra assadas e um pouco de funcho salteado.",
+      "Decore com folhas do alecrim e do tomilho reservados e tomate cherry assado, e salpique com o suco do cozinhado."
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Coxa de peru com ameixas",
+    "ingredients": [
+      { "quantity": "500", "unit": "g", "name": "coxa de peru com ameixas cozinhado lentamente" },
+      { "quantity": "q.b.", "unit": "", "name": "azeite" },
+      { "quantity": "200", "unit": "g", "name": "batata cozida" },
+      { "quantity": "q.b.", "unit": "", "name": "alecrim" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Retire a embalagem a vácuo da caixa e coloque o conteúdo num recipiente que possa ir ao forno.",
+      "Leve ao forno durante 25 minutos.",
+      "Enquanto o peru assa, prepare as batatas: aqueça um fio de azeite numa frigideira.",
+      "Adicione as batatas cozidas e salteie-as com alecrim e pimenta a gosto, até ficarem douradas.",
+      "Retire o peru do forno.",
+      "Fatie a carne e sirva com as batatas salteadas.",
+      "Regue generosamente com o molho que ficou na assadeira."
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Espetadas de peru",
+    "ingredients": [
+      { "quantity": "400", "unit": "g", "name": "peru cortado em cubos" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta de moinho" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "pimentão doce" },
+      { "quantity": "1", "unit": "unid.", "name": "pimento verde" },
+      { "quantity": "1", "unit": "unid.", "name": "pimento vermelho" },
+      { "quantity": "6", "unit": "unid.", "name": "chalota" },
+      { "quantity": "4", "unit": "unid.", "name": "alperce" },
+      { "quantity": "4", "unit": "folha", "name": "louro" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "c. de chá", "name": "orégão fresco" },
+      { "quantity": "1", "unit": "emb.", "name": "salada alentejana" },
+      { "quantity": "1", "unit": "unid.", "name": "limão" }
+    ],
+    "preparation": [
+      "Tempere os cubos de peru com uma colher de chá de sal, pimenta moída, o colorau e o alho em pó. Misture bem.",
+      "Lave os pimentos, elimine as sementes e corte-os em pedaços do tamanho dos cubos de carne. Descasque as chalotas e corte-as ao meio na vertical. Lave os alperces, abra-os ao meio e elimine o caroço.",
+      "Enfie os cubos de peru em espetos de metal ou de madeira (se optar pelos de madeira, mergulhe-os antes em água fria durante 10 minutos) alternando com os cubos de pimento, as meias chalotas, os meios alperces e as folhas de louro, partidas ao meio.",
+      "Misture 1 colher de sobremesa de azeite com os orégãos. Pincele as espetadas com esta mistura e reserve.",
+      "Aqueça muito bem uma chapa para grelhados. Coloque as espetadas sobre a chapa bem quente, vire de vez em quando e pincele com a mistura de azeite e orégãos.",
+      "Na altura de servir, deite 1 colher de sopa de azeite e o vinagre numa saladeira, junte a salada alentejana e misture bem.",
+      "Sirva as espetadas com o limão cortado às rodelas."
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Guisado de peru e curgete",
+    "ingredients": [
+      { "quantity": "350", "unit": "g", "name": "peito de peru em tiras" },
+      { "quantity": "500", "unit": "g", "name": "batata para cozer pequena" },
+      { "quantity": "2", "unit": "unid.", "name": "curgete" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola" },
+      { "quantity": "3", "unit": "c. de café", "name": "sal" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite virgem extra" },
+      { "quantity": "50", "unit": "ml", "name": "vinho branco" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "farinha" },
+      { "quantity": "½", "unit": "unid.", "name": "limão (sumo)" },
+      { "quantity": "2", "unit": "unid.", "name": "ovo M (gema)" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "salsa" }
+    ],
+    "preparation": [
+      "Coza as batatas em água temperada com duas colheres de café de sal cerca de 20 minutos ou até estarem tenras.",
+      "Ao mesmo tempo, leve ao lume um tacho com o azeite e a cebola picada, e deixe alourar. Junte o peito de peru e salteie sobre lume forte durante 1 a 2 minutos. Tempere com o restante sal, o alho em pó e pimenta moída no momento.",
+      "Adicione a curgete cortada em rodelas e regue com o vinho branco. Deixe cozinhar tapado, sobre lume moderado, cerca de 20 minutos.",
+      "Dissolva a farinha no sumo do limão, junte as gemas, misture bem e adicione ao tacho, envolvendo rapidamente. Deixe engrossar durante 2 a 3 minutos, mexendo com frequência.",
+      "Deite o fricassé para um prato e salpique com a salsa picada. Sirva com as batatas cozidas e com o tomate em rodelas."
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Peito de peru recheado na Air Fryer",
+    "ingredients": [
+      { "quantity": "800", "unit": "g", "name": "peito de peru" },
+      { "quantity": "q.b.", "unit": "", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "vinho branco" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "100", "unit": "g", "name": "cogumelo" },
+      { "quantity": "5", "unit": "unid.", "name": "alperce" },
+      { "quantity": "50", "unit": "g", "name": "amêndoa" },
+      { "quantity": "150", "unit": "g", "name": "quinoa" },
+      { "quantity": "q.b.", "unit": "", "name": "tomilho" }
+    ],
+    "preparation": [
+      "Abra o peito de peru ao meio, sem o separar totalmente, para criar um bife grande. Tempere de ambos os lados com sal e pimenta.",
+      "Para o recheio: Aqueça 2 c. de sopa de azeite numa frigideira e refogue a cebola e os alhos picados.",
+      "Adicione os cogumelos e salteie. Junte os alperces picados, as amêndoas, a quinoa já cozida, o tomilho e o alho em pó. Envolva bem, retire do lume e deixe arrefecer.",
+      "Espalhe o recheio já frio sobre o bife de peru.",
+      "Enrole a carne cuidadosamente e ate com fio de cozinha para que não se desfaça.",
+      "Coloque o rolo de peru no cesto da Air Fryer. Regue com um fio de azeite, adicione o vinho branco no fundo do cesto e pincele a carne com a mistura de azeite e vinho.",
+      "Programe a Air Fryer para 170ºC por 30 minutos.",
+      "A meio do tempo (15 minutos), vire o peru para dourar de forma uniforme.",
+      "Após os 30 minutos iniciais, vire novamente e cozinhe por mais 30 minutos a 170ºC. Deixe repousar uns minutos antes de retirar o fio e fatiar. Sirva com o molho que se formou no cesto."
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Peito de peru salteado",
+    "ingredients": [
+      { "quantity": "300", "unit": "g", "name": "peito de peru" },
+      { "quantity": "1", "unit": "c. de café", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta de moinho" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "farinha" },
+      { "quantity": "2", "unit": "dl", "name": "água" },
+      { "quantity": "10", "unit": "unid.", "name": "alcaparras escorridas" },
+      { "quantity": "1", "unit": "dl", "name": "sumo de limão" },
+      { "quantity": "1", "unit": "c. de chá", "name": "folhas de tomilho" },
+      { "quantity": "½", "unit": "unid.", "name": "pimento vermelho" }
+    ],
+    "preparation": [
+      "Corte o peito de peru em cubos e tempere com sal e pimenta moída na altura.",
+      "Aqueça 2 colheres de azeite numa frigideira antiaderente. Quando estiver bem quente, salteie os cubos de peru de forma a que ganhem, em todos os lados, uma ligeira crosta.",
+      "Polvilhe com a farinha e acrescente a água, mexendo bem. Baixe o lume e deixe cozinhar durante cerca de 15 minutos, mexendo de vez em quando.",
+      "Lave os pimentos e corte-os em tiras; aqueça outra frigideira com o restante azeite e salteie os pimentos até murcharem ligeiramente.",
+      "Prepare o molho de alcaparras: pique grosseiramente as alcaparras e as folhinhas de tomilho, junte o sumo de limão e mexa bem.",
+      "Quando o peru estiver pronto, regue-o com o molho de alcaparras e tomilho e sirva com os pimentos."
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Hambúrguer de peru com espinafres",
+    "ingredients": [
+      { "quantity": "300", "unit": "g", "name": "peito de peru" },
+      { "quantity": "100", "unit": "g", "name": "espinafre" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "cebola roxa picada" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite virgem extra" },
+      { "quantity": "2", "unit": "c. de café", "name": "sal" },
+      { "quantity": "300", "unit": "g", "name": "alface iceberg" },
+      { "quantity": "150", "unit": "g", "name": "tomate cherry" },
+      { "quantity": "1", "unit": "frasco", "name": "grão-de-bico cozido" },
+      { "quantity": "200", "unit": "g", "name": "pepino" },
+      { "quantity": "q.b.", "unit": "", "name": "hortelã fresca" },
+      { "quantity": "1", "unit": "c. de sobremesa", "name": "azeite virgem extra" },
+      { "quantity": "1", "unit": "c. de sobremesa", "name": "vinagre" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Coloque a carne de peru com o alho, o sal e os espinafres num robot de cozinha. Triture até obter uma massa homogénea.",
+      "Adicione a cebola e volte a misturar. Forme seis hambúrgueres.",
+      "Aqueça uma frigideira antiaderente com o azeite e cozinhe os hambúrgueres por 4 minutos de cada lado, de forma a ficarem dourados.",
+      "Desfolhe a alface e sirva os hambúrgueres dentro das folhas.",
+      "Para a salada, misture numa taça o tomate cortado em metades, o grão escorrido, o pepino em pedaços pequenos, a hortelã picada e tempere com o azeite e o vinagre.",
+      "Sirva os hambúrgueres com a salada."
+    ]
+  }
+]
