@@ -1,0 +1,390 @@
+[
+  {
+    "id": 46,
+    "title": "Salada de atum",
+    "ingredients": [
+      { "quantity": "2", "unit": "unid.", "name": "ovo M" },
+      { "quantity": "1", "unit": "lata", "name": "grão cozido em conserva" },
+      { "quantity": "250", "unit": "g", "name": "brócolos" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola-roxa" },
+      { "quantity": "100", "unit": "g", "name": "pimento baby" },
+      { "quantity": "2", "unit": "lata", "name": "atum em conserva de azeite" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta moída" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "vinagre" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "salsa picada" },
+      { "quantity": "q.b.", "unit": "", "name": "sal" }
+    ],
+    "preparation": [
+      "Coloque os ovos num tacho com água e o sal.",
+      "Escorra o grão num coador e passe-o por água. Adicione aos ovos e deixe ferver durante 10 minutos.",
+      "Coloque os brócolos lavados num recipiente que possa ir ao microondas.",
+      "Tape-o e cozinhe durante 5 minutos na potência máxima, mexendo a meio da confecção.",
+      "Descasque e pique a cebola finamente.",
+      "Lave os pimentos, retire as sementes e corte-os em tiras. Escorra o atum, desfaça-o em pedaços e misture-o com a cebola picada e as tiras de pimento.",
+      "Adicione o grão e os brócolos, tempere com pimenta, regue com o azeite e o vinagre e adicione a salsa.",
+      "Misture e enfeite com os ovos cozidos cortados em gomos ou às rodelas.",
+      "Sirva de imediato."
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Patê de atum",
+    "ingredients": [
+      { "quantity": "200", "unit": "g", "name": "atum em conserva" },
+      { "quantity": "50", "unit": "g", "name": "cebola" },
+      { "quantity": "1", "unit": "unid.", "name": "ovo M cozido" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "maionese" },
+      { "quantity": "1", "unit": "c. de chá", "name": "mostarda" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta preta em pó" },
+      { "quantity": "q.b.", "unit": "", "name": "salsa" }
+    ],
+    "preparation": [
+      "Numa tigela, desfaça o atum com um garfo.",
+      "Junte a cebola, o ovo cozido, finamente picados.",
+      "Misture bem.",
+      "Acrescente a maionese e a mostarda.",
+      "Volte a misturar até ficar cremoso.",
+      "Tempere com o sal e a pimenta.",
+      "Decore com a salsa e sirva."
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Empadão de atum",
+    "ingredients": [
+      { "quantity": "10", "unit": "ml", "name": "azeite virgem" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola" },
+      { "quantity": "100", "unit": "g", "name": "tomate pelado" },
+      { "quantity": "50", "unit": "g", "name": "polpa de tomate" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta branca" },
+      { "quantity": "200", "unit": "g", "name": "atum em lata" },
+      { "quantity": "500", "unit": "g", "name": "batata cozida" },
+      { "quantity": "50", "unit": "g", "name": "manteiga" },
+      { "quantity": "200", "unit": "ml", "name": "leite meio-gordo" },
+      { "quantity": "q.b.", "unit": "", "name": "noz-moscada" },
+      { "quantity": "1", "unit": "unid.", "name": "ovo S" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Numa frigideira refogue em azeite o alho e a cebola até alourar.",
+      "Junte o tomate pelado picado e a polpa de tomate.",
+      "Tempere com o sal e a pimenta, adicione o atum e deixe apurar em lume médio durante 5 minutos, mexendo de vez em quando.",
+      "Esmague as batatas cozidas com a ajuda de um passe-vite. Coloque num tacho juntamente com a manteiga e leve ao lume.",
+      "Acrescente o leite aos poucos mexendo sempre vigorosamente durante 5 minutos até obter a consistência de puré.",
+      "Adicione a noz-moscada e reserve.",
+      "Num tabuleiro de forno rectângular, coloque uma camada de puré de batata, acrescente o preparado de atum e termine com outra camada de puré.",
+      "Marque o topo do empadão com o garfo e pincele com o ovo batido.",
+      "Leve ao forno a 180 ºC durante 15 minutos até alourar."
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Wrap de atum",
+    "ingredients": [
+      { "quantity": "100", "unit": "g", "name": "cebola picada" },
+      { "quantity": "2", "unit": "unid.", "name": "atum em lata" },
+      { "quantity": "200", "unit": "g", "name": "queijo creme com ervas" },
+      { "quantity": "100", "unit": "g", "name": "mistura ibérica de alface" },
+      { "quantity": "3", "unit": "unid.", "name": "tortilla de trigo" },
+      { "quantity": "1", "unit": "unid.", "name": "abacate" },
+      { "quantity": "2", "unit": "unid.", "name": "ovo cozido" }
+    ],
+    "preparation": [
+      "Aloure a cebola picada e as rodelas de alho-francês com o azeite.",
+      "Junte o atum bem escorrido e o molho de tomate e deixe cozinhar sobre lume brando cerca de três minutos, mexendo sempre.",
+      "Retire do lume, junte o queijo fresco em creme e misture muito bem.",
+      "Lave o tomate, corte-o em cubos pequenos e limpe-o de grainhas.",
+      "Distribua a mistura de alface e os cubos de tomate pelas tortilhas e, por cima, disponha o preparado de atum e as sementes de papoila, enrolando-as bem no final.",
+      "Corte os wraps ao meio e embrulhe-os em película aderente.",
+      "Acompanhe com fruta."
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Lasanha de atum e vegetais",
+    "ingredients": [
+      { "quantity": "150", "unit": "g", "name": "ervilhas congeladas" },
+      { "quantity": "8", "unit": "folha", "name": "lasanha" },
+      { "quantity": "100", "unit": "g", "name": "queijo mozzarella ralado" },
+      { "quantity": "80", "unit": "g", "name": "farinha" },
+      { "quantity": "400", "unit": "ml", "name": "leite meio-gordo" },
+      { "quantity": "80", "unit": "g", "name": "manteiga" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta preta" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "1", "unit": "folha", "name": "louro" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite virgem" },
+      { "quantity": "200", "unit": "g", "name": "cogumelos laminados" },
+      { "quantity": "200", "unit": "g", "name": "atum em lata" },
+      { "quantity": "1", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola pequena" },
+      { "quantity": "100", "unit": "g", "name": "alho-francês" },
+      { "quantity": "80", "unit": "g", "name": "cenoura" },
+      { "quantity": "80", "unit": "g", "name": "curgete" },
+      { "quantity": "80", "unit": "g", "name": "beringela" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Prepare os vegetais: a beringela, a curgete e a cenoura aos cubos, o alho-francês e a cebola às rodelas e o alho picado.",
+      "Coloque os vegetais ao lume num tacho com o azeite e adicione o atum desfiado, os cogumelos laminados, as ervilhas descongeladas e a folha de louro.",
+      "Tempere com o sal e a pimenta, tape e deixe estufar em lume médio durante 8 minutos.",
+      "Para o molho bechamel: derreta manteiga num tacho e logo de seguida adicione a farinha mexendo bem, até formar uma mistura sem grumos. Acrescente o leite aos poucos mexendo sempre, deixe cozinhar em lume brando até engrossar.",
+      "Junte metade do queijo ralado, tempere com sal e pimenta. Reserve.",
+      "Numa travessa de forno quadrada coloque as camadas intercaladas de folhas de lasanha, preparado de legumes e molho béchamel.",
+      "Polvilhe com o restante queijo ralado e leve ao forno a 180 ºC durante 25 minutos."
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Ovos em tomatada com atum",
+    "ingredients": [
+      { "quantity": "120", "unit": "g", "name": "atum em conserva de azeite" },
+      { "quantity": "60", "unit": "g", "name": "cebola picada" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "c. de chá", "name": "caril em pó" },
+      { "quantity": "40", "unit": "g", "name": "pimento verde" },
+      { "quantity": "50", "unit": "g", "name": "pimento vermelho" },
+      { "quantity": "1", "unit": "c. de café", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "2", "unit": "unid.", "name": "ovo M" },
+      { "quantity": "q.b.", "unit": "", "name": "paprika" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "coentros picados" }
+    ],
+    "preparation": [
+      "Aqueça duas colheres de sopa do azeite da conserva do atum num tacho. Junte a cebola e os dentes de alho e polvilhe com o caril.",
+      "Quando a cebola começar a alourar, adicione o tomate limpo de sementes e triturado, ou esmagado com um garfo, e deixe ferver em lume brando cerca de 6 minutos.",
+      "Adicione o atum, escorrido e desfeito em lascas, os pimentos em tiras finas, o sal e pimenta. Com uma colher de pau, vá abrindo covas no cozinhado e deite aí os ovos. Tape e deixe cozer suavemente cerca de 8 minutos.",
+      "Polvilhe as gemas com uma pitada de paprika e salpique o cozinhado com os coentros."
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Massa com atum",
+    "ingredients": [
+      { "quantity": "400", "unit": "g", "name": "talharim" },
+      { "quantity": "75", "unit": "ml", "name": "azeite" },
+      { "quantity": "2", "unit": "unid.", "name": "cebola média" },
+      { "quantity": "3", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "polpa de tomate" },
+      { "quantity": "250", "unit": "g", "name": "atum em conserva" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "100", "unit": "ml", "name": "natas" }
+    ],
+    "preparation": [
+      "Coza a massa em água a ferver temperada com sal, durante 7 min ou até estar al dente. Escorra e misture uma colher de sopa de azeite para a massa não colar.",
+      "Numa frigideira faça um refogado com o restante azeite, a cebola cortada em meias luas e o alho picado.",
+      "Acrescente o tomate limpo de peles e sementes e a polpa de tomate, deixando refogar mais um pouco. Junte o atum escorrido, vá mexendo, tempere com sal e pimenta e deixe apurar.",
+      "Acrescente as natas, mexendo sempre para não ferverem.",
+      "Por fim, adicione a massa e envolva bem todos os ingredientes."
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Quiche de atum",
+    "ingredients": [
+      { "quantity": "1", "unit": "unid.", "name": "massa quebrada fresca" },
+      { "quantity": "1", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "100", "unit": "g", "name": "pimento vermelho" },
+      { "quantity": "3", "unit": "unid.", "name": "ovo M" },
+      { "quantity": "200", "unit": "ml", "name": "natas" },
+      { "quantity": "300", "unit": "g", "name": "atum em conserva" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "1", "unit": "c. de café", "name": "pimenta" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 170 ºC.",
+      "Forre uma forma de mola com a massa. Pique a massa para que não crie bolhas quando estiver no forno.",
+      "Numa frigideira, aloure o alho no azeite.",
+      "Acrescente os pimentos às tiras e salteie bem.",
+      "Retire do fogo e deixe arrefecer ligeiramente.",
+      "Numa tigela, bata bem os ovos com as natas.",
+      "Junte o atum escorrido, os pimentos salteados e tempere com sal e pimenta.",
+      "Envolva bem todos os ingredientes e deite na forma.",
+      "Leve ao forno durante 30 minutos, ou até dourar.",
+      "Acompanhe a quiche de atum com uma salada refrescante e variada."
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Massa com atum e sriracha",
+    "ingredients": [
+      { "quantity": "50", "unit": "g", "name": "manteiga" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "4", "unit": "c. de sopa", "name": "molho sriracha" },
+      { "quantity": "200", "unit": "ml", "name": "natas" },
+      { "quantity": "1", "unit": "c. de sobremesa", "name": "sal" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "pimentão-doce" },
+      { "quantity": "200", "unit": "g", "name": "mistura de 4 queijos ralados" },
+      { "quantity": "300", "unit": "g", "name": "fettuccini cozido" },
+      { "quantity": "1", "unit": "c. de chá", "name": "malagueta em pó" },
+      { "quantity": "q.b.", "unit": "", "name": "salsa" },
+      { "quantity": "2", "unit": "lata", "name": "atum em posta em azeite" }
+    ],
+    "preparation": [
+      "Derreta a manteiga num tacho e refogue a cebola e o alho picados.",
+      "Adicione o molho sriracha e as natas.",
+      "Tempere com sal e pimentão doce.",
+      "Junte a mistura de 4 queijos ralados e mexa até derreter e obter um molho cremoso.",
+      "Adicione o atum escorrido e o fettuccini cozido.",
+      "Envolva bem a massa no molho.",
+      "Sirva, polvilhando com pó de malagueta e salsa picada."
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Folhados de atum",
+    "ingredients": [
+      { "quantity": "½", "unit": "unid.", "name": "cebola" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "390", "unit": "g", "name": "tomate em pedaços" },
+      { "quantity": "3", "unit": "unid.", "name": "atum posta natural em conserva" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "polpa de tomate" },
+      { "quantity": "1", "unit": "unid.", "name": "massa folhada" },
+      { "quantity": "1", "unit": "unid.", "name": "ovo" },
+      { "quantity": "q.b.", "unit": "", "name": "sementes de sésamo" }
+    ],
+    "preparation": [
+      "Comece por refogar a cebola aos cubinhos em azeite. Quando esta ficar translúcida junte o tomate em pedaços.",
+      "Escorra as latas de atum, junte e envolva com o refogado.",
+      "Acrescente a polpa de tomate para tornar a mistura mais cremosa, envolva e apague o lume.",
+      "Corte a massa folhada em 6 quadrados iguais (com cerca de 8 cm). Coloque no centro uma colher bem cheia do recheio de atum.",
+      "Feche a massa folhada, se preciso molhe a ponta dos dedos com um pouco de água. Pincele os folhados com o ovo batido e finalize com as sementes de sésamo.",
+      "Leve ao forno, pré-aquecido a 180 ºC cerca de 20 minutos."
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Atum à Brás",
+    "ingredients": [
+      { "quantity": "4", "unit": "c. de sopa", "name": "azeite virgem extra" },
+      { "quantity": "120", "unit": "g", "name": "cebola" },
+      { "quantity": "120", "unit": "g", "name": "alho-francês" },
+      { "quantity": "1", "unit": "emb.", "name": "atum em posta ao natural" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "25", "unit": "g", "name": "salsa" },
+      { "quantity": "q.b.", "unit": "", "name": "batata palha" },
+      { "quantity": "12", "unit": "unid.", "name": "azeitona preta descaroçada" },
+      { "quantity": "1", "unit": "emb.", "name": "salada" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "vinagre" },
+      { "quantity": "50", "unit": "g", "name": "croutons" }
+    ],
+    "preparation": [
+      "Corte o alho-francês em rodelas finas, lave bem em água corrente e escorra cuidadosamente.",
+      "Numa frigideira larga antiaderente, junte à cebola metade do azeite e o alho-francês. Deixe cozinhar durante cerca de 5 minutos, em lume médio.",
+      "Adicione o atum bem escorrido e desfaça em pedaços. Cozinhe por mais 5 minutos, mexendo frequentemente para envolver bem o atum.",
+      "Entretanto, parta os ovos para uma taça, tempere com pimenta a gosto e bata-os até estarem desfeitos.",
+      "Lave a salsa, retire os talos mais grossos, pique-a finamente e adicione metade aos ovos batidos.",
+      "Junte a mistura de ovos ao preparado de atum e deixe cozinhar, mexendo regularmente, até os ovos ficarem cremosos. Envolva a batata palha e cozinhe por mais 1 a 2 minutos, mexendo ocasionalmente.",
+      "Antes de servir, salpique com a restante salsa picada e com as azeitonas.",
+      "Acompanhe com a salada temperada com o restante azeite e vinagre e acrescente os croutons."
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Pimentos recheados com salada de atum",
+    "ingredients": [
+      { "quantity": "6", "unit": "unid.", "name": "pimento vermelho médio" },
+      { "quantity": "1", "unit": "unid.", "name": "cenoura" },
+      { "quantity": "2", "unit": "unid.", "name": "batata para cozer" },
+      { "quantity": "300", "unit": "g", "name": "ervilhas congeladas" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "sal" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola" },
+      { "quantity": "3", "unit": "dente", "name": "alho" },
+      { "quantity": "10", "unit": "g", "name": "azeitona preta descaroçada" },
+      { "quantity": "2", "unit": "emb.", "name": "atum em conserva" },
+      { "quantity": "q.b.", "unit": "", "name": "orégão seco" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "q.b.", "unit": "", "name": "salsa fresca" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 180 ºC.",
+      "Lave os pimentos e corte-lhes uma tampa junto ao caule. Limpe o interior de sementes e peles brancas e reserve.",
+      "Descasque a cenoura e as batatas e corte-as em cubos.",
+      "Numa tigela, coloque as ervilhas em água fria e deixe descongelar.",
+      "Num tacho, ferva água temperada com sal, deixe ferver, introduza os cubos de cenoura e batata e as ervilhas e escalde-os por instantes.",
+      "Com uma escumadora, retire os legumes, coloque-os num passador, passe-os por água fria e reserve numa tigela.",
+      "Pique bem a cebola e os alhos, lamine metade das azeitonas e envolva-as com os legumes. Adicione o atum, os orégãos (reserve alguns) e uma colher de sopa de azeite e envolva.",
+      "Encha os pimentos com este preparado, tape-os com a "tampa" e leve-os ao forno durante 15 minutos.",
+      "Pique bem as restantes azeitonas, envolva-as com duas colheres de sopa de azeite e salsa picada.",
+      "Regue os pimentos com a mistura de azeite e salpicados com os orégãos reservados."
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Crepes verdes com atum",
+    "ingredients": [
+      { "quantity": "230", "unit": "g", "name": "farinha" },
+      { "quantity": "3", "unit": "unid.", "name": "ovo M" },
+      { "quantity": "200", "unit": "ml", "name": "leite meio-gordo" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "100", "unit": "g", "name": "espinafre em folha" },
+      { "quantity": "1", "unit": "unid.", "name": "alface" },
+      { "quantity": "1", "unit": "unid.", "name": "pepino" },
+      { "quantity": "2", "unit": "emb.", "name": "atum em azeite" }
+    ],
+    "preparation": [
+      "Coloque a farinha, os ovos, o leite, o azeite, metade do sal e os espinafres num liquidificador e triture até obter uma massa verde e homogénea. Deixe repousar 10 minutos.",
+      "Aqueça bem uma frigideira antiaderente e deite nela uma concha de massa, espalhando bem por toda a superfície da frigideira. Deixe cozinhar 30 segundos e vire do outro lado. Repita este processo até esgotar toda a massa.",
+      "Distribua pelos crepes as folhas de alface e as rodelas de tomate e pepino. Salpique com o restante sal e disponha, em seguida, o atum bem escorrido."
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Caixas de pepino com atum",
+    "ingredients": [
+      { "quantity": "4", "unit": "unid.", "name": "ovo de codorniz" },
+      { "quantity": "1", "unit": "c. de café", "name": "sal" },
+      { "quantity": "1", "unit": "unid.", "name": "pepino grande" },
+      { "quantity": "1", "unit": "emb.", "name": "atum em posta em azeite" },
+      { "quantity": "1", "unit": "unid.", "name": "chalota" },
+      { "quantity": "40", "unit": "g", "name": "azeitona preta" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "salsa picada" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "iogurte natural" },
+      { "quantity": "200", "unit": "g", "name": "cenoura" },
+      { "quantity": "100", "unit": "g", "name": "couve-roxa" },
+      { "quantity": "q.b.", "unit": "", "name": "azeite" },
+      { "quantity": "q.b.", "unit": "", "name": "vinagre" }
+    ],
+    "preparation": [
+      "Num tacho, coza os ovos de codorniz em água temperada com sal durante 5 minutos.",
+      "Corte o pepino em quatro, retire as sementes, obtendo assim quatro "caixas".",
+      "Numa tigela, misture o atum escorrido com a chalota picada e as azeitonas.",
+      "Junte a salsa (reserve alguma), pimenta, o iogurte e envolva bem.",
+      "Divida o preparado pelas "caixas" de pepino.",
+      "Numa tigela, misture a cenoura ralada com a couve-roxa e tempere com azeite, vinagre e sal.",
+      "Nos pratos de servir, coloque a salada e no meio uma "caixa" de pepino.",
+      "Decore com o ovo de codorniz cortado ao meio, salpique com a salsa picada reservada e pimenta e sirva."
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Arroz de atum",
+    "ingredients": [
+      { "quantity": "250", "unit": "g", "name": "atum" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola" },
+      { "quantity": "¼", "unit": "unid.", "name": "pimento vermelho" },
+      { "quantity": "¼", "unit": "unid.", "name": "pimento verde" },
+      { "quantity": "¼", "unit": "unid.", "name": "malagueta" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "polpa de tomate" },
+      { "quantity": "1", "unit": "cháv.", "name": "arroz" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "80", "unit": "g", "name": "espinafres" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "2", "unit": "cháv.", "name": "água" }
+    ],
+    "preparation": [
+      "Num tacho, aqueça um fio de azeite. Junte a cebola e a malagueta e deixe cozinhar até a cebola ficar ligeiramente dourada.",
+      "Acrescente os espinafres congelados e envolva até descongelarem.",
+      "Junte o atum, os pimentos e a polpa de tomate. Mexa e deixe cozinhar 2 minutos. Junte o arroz.",
+      "Adicione a água e tempere com sal. Quando ferver, reduza o lume e deixe cozinhar até o arroz estar tenro e a água absorvida."
+    ]
+  }
+]
