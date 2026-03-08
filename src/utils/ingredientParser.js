@@ -70,12 +70,16 @@ const CANNED_UNITS = {
 };
 
 // ─── Cup/spoon conversion factors ─────────────────────────────────────────────
-const CUP_TO_GRAMS  = 200;   // 1 chávena dry goods
-const CUP_TO_ML     = 200;   // 1 chávena liquid
-const TBSP_TO_GRAMS = 12;
-const TBSP_TO_ML    = 15;
-const TSP_TO_GRAMS  = 4;
-const TSP_TO_ML     = 5;
+const CUP_TO_GRAMS         = 200;   // 1 chávena dry goods
+const CUP_TO_ML            = 200;   // 1 chávena liquid
+const TBSP_TO_GRAMS        = 12;    // 1 colher de sopa dry  (12–15 g; using 12)
+const TBSP_TO_ML           = 15;    // 1 colher de sopa liquid
+const DESSERT_SPOON_TO_GRAMS = 10;  // 1 colher de sobremesa dry  (≈ 9–10 g)
+const DESSERT_SPOON_TO_ML  = 10;    // 1 colher de sobremesa liquid (= 2 CC × 5 ml)
+const TSP_TO_GRAMS         = 4;     // 1 colher de chá dry  (≈ 4–5 g)
+const TSP_TO_ML            = 5;     // 1 colher de chá liquid
+const COFFEE_SPOON_TO_GRAMS = 1.5;  // 1 colher de café dry
+const COFFEE_SPOON_TO_ML   = 2.5;   // 1 colher de café liquid
 
 // ─── Preparation-word patterns to strip from ingredient names ─────────────────
 const PREP_RE = [
@@ -157,12 +161,18 @@ const UNIT_PATTERNS = [
   { re: /^chávenas?\b\s*(?:de\s+)?/i,              unit: 'chávena',        type: 'cup' },
   { re: /^medidas?\b\s*(?:de\s+)?/i,               unit: 'chávena',        type: 'cup' },
   { re: /^copos?\b\s*(?:de\s+)?/i,                 unit: 'copo',           type: 'cup' },
-  { re: /^colheres?\s+de\s+sopa\b\s*(?:de\s+)?/i,  unit: 'colher de sopa', type: 'spoon' },
-  { re: /^c\.\s*de\s*sopa\b\s*(?:de\s+)?/i,        unit: 'colher de sopa', type: 'spoon' },
-  { re: /^c\.s\.\b\s*(?:de\s+)?/i,                 unit: 'colher de sopa', type: 'spoon' },
-  { re: /^colheres?\s+de\s+chá\b\s*(?:de\s+)?/i,   unit: 'colher de chá',  type: 'spoon' },
-  { re: /^c\.\s*de\s*chá\b\s*(?:de\s+)?/i,         unit: 'colher de chá',  type: 'spoon' },
-  { re: /^c\.c\.\b\s*(?:de\s+)?/i,                 unit: 'colher de chá',  type: 'spoon' },
+  { re: /^colheres?\s+de\s+sopa\b\s*(?:de\s+)?/i,        unit: 'colher de sopa',       type: 'spoon' },
+  { re: /^c\.\s*de\s*sopa\b\s*(?:de\s+)?/i,              unit: 'colher de sopa',       type: 'spoon' },
+  { re: /^c\.s\.\b\s*(?:de\s+)?/i,                       unit: 'colher de sopa',       type: 'spoon' },
+  { re: /^colheres?\s+de\s+sobremesa\b\s*(?:de\s+)?/i,   unit: 'colher de sobremesa',  type: 'spoon' },
+  { re: /^c\.\s*de\s*sobremesa\b\s*(?:de\s+)?/i,         unit: 'colher de sobremesa',  type: 'spoon' },
+  { re: /^c\.sob\.\b\s*(?:de\s+)?/i,                     unit: 'colher de sobremesa',  type: 'spoon' },
+  { re: /^colheres?\s+de\s+chá\b\s*(?:de\s+)?/i,         unit: 'colher de chá',        type: 'spoon' },
+  { re: /^c\.\s*de\s*chá\b\s*(?:de\s+)?/i,               unit: 'colher de chá',        type: 'spoon' },
+  { re: /^c\.c\.\b\s*(?:de\s+)?/i,                       unit: 'colher de chá',        type: 'spoon' },
+  { re: /^colheres?\s+de\s+caf[eé]\b\s*(?:de\s+)?/i,     unit: 'colher de café',       type: 'spoon' },
+  { re: /^c\.\s*de\s*caf[eé]\b\s*(?:de\s+)?/i,           unit: 'colher de café',       type: 'spoon' },
+  { re: /^c\.caf\.\b\s*(?:de\s+)?/i,                     unit: 'colher de café',       type: 'spoon' },
   { re: /^latas?\b\s*(?:de\s+)?/i,                 unit: 'lata',           type: 'count' },
   { re: /^frascos?\b\s*(?:de\s+)?/i,               unit: 'frasco',         type: 'count' },
   { re: /^embalagens?\b\s*(?:de\s+)?/i,            unit: 'embalagem',      type: 'count' },
@@ -322,10 +332,20 @@ function toBase(quantity, unit, type, name) {
         ? { valueInBase: quantity * CUP_TO_ML,    baseUnit: 'ml' }
         : { valueInBase: quantity * CUP_TO_GRAMS, baseUnit: 'g'  };
     case 'spoon': {
-      const isTbsp = unit === 'colher de sopa';
+      let gramsPerUnit, mlPerUnit;
+      switch (unit) {
+        case 'colher de sopa':
+          gramsPerUnit = TBSP_TO_GRAMS;         mlPerUnit = TBSP_TO_ML;         break;
+        case 'colher de sobremesa':
+          gramsPerUnit = DESSERT_SPOON_TO_GRAMS; mlPerUnit = DESSERT_SPOON_TO_ML; break;
+        case 'colher de café':
+          gramsPerUnit = COFFEE_SPOON_TO_GRAMS;  mlPerUnit = COFFEE_SPOON_TO_ML;  break;
+        default: // colher de chá
+          gramsPerUnit = TSP_TO_GRAMS;           mlPerUnit = TSP_TO_ML;
+      }
       return isLiquid(name)
-        ? { valueInBase: quantity * (isTbsp ? TBSP_TO_ML    : TSP_TO_ML),    baseUnit: 'ml' }
-        : { valueInBase: quantity * (isTbsp ? TBSP_TO_GRAMS : TSP_TO_GRAMS), baseUnit: 'g'  };
+        ? { valueInBase: quantity * mlPerUnit,    baseUnit: 'ml' }
+        : { valueInBase: quantity * gramsPerUnit, baseUnit: 'g'  };
     }
     default:
       return null;
