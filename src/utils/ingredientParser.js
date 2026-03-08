@@ -61,6 +61,14 @@ const CUT_UNITS = {
   'perna de frango':    { singular: 'perna',  plural: 'pernas',  weightPerUnit: 200 },
 };
 
+/**
+ * Canned ingredients: converts weight (g) to unit count (rounded up).
+ * Also used to normalise unit-based entries (lata/emb./unid.) to the same display.
+ */
+const CANNED_UNITS = {
+  'atum em lata': { singular: 'lata', plural: 'latas', label: 'atum', weightPerUnit: 120 },
+};
+
 // ─── Cup/spoon conversion factors ─────────────────────────────────────────────
 const CUP_TO_GRAMS  = 200;   // 1 chávena dry goods
 const CUP_TO_ML     = 200;   // 1 chávena liquid
@@ -280,6 +288,11 @@ function normaliseIngredientName(raw) {
   // "folha de louro" → "louro"
   if (/^folha[s]?\s+de\s+louro$/.test(name)) return 'louro';
 
+  // Canned tuna: normalise all conserva/lata/azeite/posta variants to "atum em lata"
+  if (/^atum\b/.test(name) && /\b(conserva|lata|azeite|posta|natural)\b/.test(name)) {
+    return 'atum em lata';
+  }
+
   return name;
 }
 
@@ -347,6 +360,28 @@ function formatIngredient(item) {
       const [, ingredient] = name.split(/ de (.+)/);
       const unitLabel = count === 1 ? cut.singular : cut.plural;
       return `${count} ${unitLabel} de ${ingredient}`;
+    }
+  }
+
+  // Canned items (e.g. "atum em lata"): express as can count, rounding up
+  const canned = CANNED_UNITS[name];
+  if (canned) {
+    // Weight-based (aggregated or single): convert grams → cans
+    const totalGrams = sumBase != null
+      ? sumBase
+      : (quantity != null && type !== 'qb' && type !== 'nounit'
+          ? toBase(quantity, unit, type, name)?.valueInBase
+          : null);
+    if (totalGrams != null) {
+      const count = Math.ceil(totalGrams / canned.weightPerUnit);
+      const unitLabel = count === 1 ? canned.singular : canned.plural;
+      return `${count} ${unitLabel} de ${canned.label}`;
+    }
+    // Count-based (lata / emb. / unid.): keep as can count
+    if (quantity != null && type === 'count') {
+      const count = Math.ceil(quantity);
+      const unitLabel = count === 1 ? canned.singular : canned.plural;
+      return `${count} ${unitLabel} de ${canned.label}`;
     }
   }
 
@@ -440,6 +475,16 @@ function aggregateItems(items) {
           existing.sumUnit = 'g';
         }
         // Non-cut mixed units – keep first occurrence
+        const cannedInfo = CANNED_UNITS[key];
+        if (cannedInfo) {
+          const gramsA = existing.sumBase
+            ?? (baseA?.baseUnit === 'g' ? baseA.valueInBase : existing.quantity * cannedInfo.weightPerUnit);
+          const gramsB = baseB?.baseUnit === 'g'
+            ? baseB.valueInBase
+            : item.quantity * cannedInfo.weightPerUnit;
+          existing.sumBase = gramsA + gramsB;
+          existing.sumUnit = 'g';
+        }
       }
     }
   }
