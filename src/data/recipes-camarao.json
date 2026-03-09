@@ -1,0 +1,367 @@
+[
+  {
+    "id": 76,
+    "title": "Caldo de camarão",
+    "ingredients": [
+      { "quantity": "320", "unit": "g", "name": "cascas e cabeças de camarão" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "50", "unit": "g", "name": "pele e topos de cenoura" },
+      { "quantity": "20", "unit": "g", "name": "cascas de cebola" },
+      { "quantity": "80", "unit": "g", "name": "talos de aipo" },
+      { "quantity": "80", "unit": "g", "name": "parte verde do alho-francês" },
+      { "quantity": "1", "unit": "unid.", "name": "malagueta piripíri" },
+      { "quantity": "1,5", "unit": "L", "name": "água" }
+    ],
+    "preparation": [
+      "Ferva lenta e prolongadamente (1 a 2 horas) os ingredientes na água.",
+      "Se quiser, pode ainda acrescentar tiras de casca de limão.",
+      "Com uma escumadeira, vá retirando a espuma que se for formando.",
+      "No final, coe o caldo através de um coador de rede fina.",
+      "Congele em frascos ou cuvetes devidamente identificados."
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Camarão com legumes asiáticos",
+    "ingredients": [
+      { "quantity": "400", "unit": "g", "name": "camarão 20/30" },
+      { "quantity": "2", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "molho de soja" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "vinagre de sidra" },
+      { "quantity": "1", "unit": "unid.", "name": "malagueta vermelha" },
+      { "quantity": "1", "unit": "unid.", "name": "raiz de gengibre" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "emb.", "name": "mistura chinesa de vegetais congelados" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "amido de milho" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "sementes de sésamo" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "sementes de chia" }
+    ],
+    "preparation": [
+      "Passe os camarões por água e tire-lhes as carapaças e as cabeças.",
+      "Tempere-os com uma colher de chá de sal, o molho de soja, o vinagre de sidra, a malagueta, limpa de sementes e picada em pedaços, e o sumo da raiz de gengibre, pelada e ralada.",
+      "Misture bem e deixe marinar durante 10 minutos.",
+      "Aqueça uma colher de sopa de azeite no wok e introduza metade do camarão bem escorrido.",
+      "Salteie em lume forte, mexendo durante 1 minuto, e retire o camarão e o molho para outro recipiente.",
+      "Aqueça mais meia colher de sopa de azeite no wok e salteie o restante camarão da mesma forma.",
+      "Deite o restante azeite no wok, deixe aquecer bem e introduza os legumes asiáticos.",
+      "Salteie, mexendo sempre, durante 10 minutos.",
+      "Dissolva o amido de milho na marinada dos camarões e adicione este preparado aos legumes.",
+      "Introduza o camarão e deixe ferver, mexendo de vez em quando, até o molho espessar. Polvilhe com as sementes."
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Camarão na air fryer",
+    "ingredients": [
+      { "quantity": "1", "unit": "c. de sopa", "name": "salsa" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "50", "unit": "g", "name": "manteiga" },
+      { "quantity": "500", "unit": "g", "name": "camarão" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "1", "unit": "c. de café", "name": "pimenta preta" },
+      { "quantity": "q.b.", "unit": "", "name": "sumo de limão" }
+    ],
+    "preparation": [
+      "Numa taça junte a salsa, azeite e manteiga. Misture e reserve.",
+      "Tempere os camarões, com casca, com o preparado anterior, sal e pimenta preta. Envolva.",
+      "Leve à air fryer a 200 ºC durante 6 minutos.",
+      "Sirva com sumo de limão e salsa."
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Tempura de camarão e legumes",
+    "ingredients": [
+      { "quantity": "150", "unit": "g", "name": "pimento vermelho" },
+      { "quantity": "300", "unit": "g", "name": "camarão 20/30 Vannamei" },
+      { "quantity": "200", "unit": "g", "name": "feijão-verde" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "500", "unit": "ml", "name": "óleo" },
+      { "quantity": "100", "unit": "g", "name": "amido de milho" },
+      { "quantity": "100", "unit": "g", "name": "farinha" },
+      { "quantity": "1", "unit": "c. de chá", "name": "fermento em pó" },
+      { "quantity": "250", "unit": "ml", "name": "água com gás" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "5", "unit": "c. de sopa", "name": "maionese" },
+      { "quantity": "1", "unit": "c. de chá", "name": "wasabi" }
+    ],
+    "preparation": [
+      "Corte o pimento em tiras, descongele o camarão, descasque-o e deixe o rabo. Corte o feijão-verde em metades, retirando as pontas e as laterais. Tempere tudo com o sal.",
+      "Numa taça, misture todos os ingredientes do polme com a ajuda de uma batedeira de varas.",
+      "Aqueça óleo numa frigideira alta ou numa fritadeira.",
+      "Seque bem os legumes e o camarão. Em seguida, mergulhe-os no polme e frite no óleo quente.",
+      "Misture a maionese com o wasabi e sirva com a tempura de camarão e legumes."
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Noodles de camarão",
+    "ingredients": [
+      { "quantity": "500", "unit": "g", "name": "camarão 30/50 cozido" },
+      { "quantity": "2", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "óleo" },
+      { "quantity": "1", "unit": "unid.", "name": "malagueta picada" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "c. de chá", "name": "gengibre ralado" },
+      { "quantity": "1", "unit": "unid.", "name": "pimento vermelho" },
+      { "quantity": "250", "unit": "g", "name": "noodles" },
+      { "quantity": "1", "unit": "emb.", "name": "espinafres em folha" },
+      { "quantity": "q.b.", "unit": "", "name": "coentros frescos" }
+    ],
+    "preparation": [
+      "Descasque o camarão, tempere com sal e alho em pó.",
+      "Aqueça o óleo num wok, junte a malagueta, os dentes de alho picados e o gengibre ralado. Deixe cozinhar por 1 minuto.",
+      "Junte o camarão, deixe cozinhar por 3 minutos e em seguida acrescente o pimento cortado em tiras, deixando que cozinhe durante mais 3 minutos.",
+      "Acrescente os noodles já cozidos, as folhas de espinafres e envolva.",
+      "Finalize com os coentros picados."
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Camarão ao alhinho com legumes",
+    "ingredients": [
+      { "quantity": "2", "unit": "emb.", "name": "miolo de camarão 80/100 congelado" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "½", "unit": "unid.", "name": "limão (sumo e casca)" },
+      { "quantity": "1", "unit": "emb.", "name": "mistura de vegetais grelhados congelados" },
+      { "quantity": "250", "unit": "g", "name": "arroz agulha" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "cebolinho fresco" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite virgem extra" },
+      { "quantity": "q.b.", "unit": "", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "500", "unit": "ml", "name": "água" }
+    ],
+    "preparation": [
+      "Numa frigideira, salteie o miolo de camarão, já descongelado, com os dentes de alho espremidos e metade do azeite, durante 2 a 3 minutos sobre lume forte, mexendo frequentemente. Tempere com meia colher de café de sal, pimenta a gosto e sumo de limão. Reserve.",
+      "Aqueça o restante azeite na mesma frigideira, junte os vegetais e tempere com meia colher de café de sal. Deixe cozinhar sobre lume moderado durante 15 minutos. Junte o miolo de camarão reservado e misture bem.",
+      "Ao mesmo tempo, coza o arroz na água a ferver temperada com o restante sal e uma tira da casca de limão, durante 12 minutos.",
+      "Sirva o camarão ao alhinho com legumes com o arroz. Polvilhe com o cebolinho picado."
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Pizza de curgete e camarão",
+    "ingredients": [
+      { "quantity": "1", "unit": "unid.", "name": "base de pizza de curgete" },
+      { "quantity": "200", "unit": "g", "name": "miolo de camarão grande" },
+      { "quantity": "1", "unit": "unid.", "name": "limão (raspa)" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "coentros" },
+      { "quantity": "3", "unit": "unid.", "name": "tomate cherry" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "azeite" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 190 ºC.",
+      "Utilize a base de pizza de curgete, já cozida.",
+      "Coloque o queijo por cima da base e espalhe o camarão.",
+      "Polvilhe com o alho em pó, a raspa de limão e os coentros picados.",
+      "Leve ao forno pré-aquecido por cerca de 12 minutos.",
+      "Retire, espalhe o tomate cortado em metades, regue com o azeite e sirva de imediato."
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Pad Thai de camarão",
+    "ingredients": [
+      { "quantity": "5", "unit": "unid.", "name": "tamarindo" },
+      { "quantity": "150", "unit": "ml", "name": "água a ferver" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "mel" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "vinagre de arroz" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "açúcar mascavado" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "óleo de sésamo ou girassol" },
+      { "quantity": "3", "unit": "unid.", "name": "alho-francês" },
+      { "quantity": "3", "unit": "dente", "name": "alho" },
+      { "quantity": "3", "unit": "unid.", "name": "ovo M" },
+      { "quantity": "500", "unit": "g", "name": "camarão black tiger descascado" },
+      { "quantity": "250", "unit": "g", "name": "massa de arroz" },
+      { "quantity": "100", "unit": "g", "name": "rebentos de soja" },
+      { "quantity": "200", "unit": "g", "name": "couve-roxa" },
+      { "quantity": "½", "unit": "molho", "name": "coentros" },
+      { "quantity": "100", "unit": "g", "name": "amendoim torrado" },
+      { "quantity": "2", "unit": "unid.", "name": "lima" }
+    ],
+    "preparation": [
+      "Prepare o molho de tamarindo. Descasque os tamarindos e retire-lhes os veios. Coloque-os numa taça e cubra com água a ferver. Deixe-os de molho 10 minutos e em seguida esmague-os através de um coador. Reserve.",
+      "Num tacho, junte os tamarindos, o mel, o vinagre de arroz e o açúcar. Deixe levantar fervura e mantenha ao lume por 5 minutos. Reserve.",
+      "Para o pad thai, cozinhe a massa de arroz, conforme as instruções da embalagem e reserve.",
+      "Enquanto isso, num wok, aqueça o óleo e salteie o alho e o alho-francês cortados em rodelas, durante 1 minuto ou até estarem translúcidos.",
+      "Parta os ovos para dentro do wok e misture imediatamente fazendo ovo mexido. Junte o camarão, cozinhe por 3 minutos, mexendo sempre que necessário.",
+      "Adicione a massa e o molho de tamarindo que preparou e cozinhe mais 3 minutos.",
+      "Retire do lume e adicione os rebentos de soja, a couve cortada em juliana, metade dos coentros picados e envolva.",
+      "Sirva polvilhado com os amendoins torrados picados, mais coentros e gomos de lima."
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Ceviche de camarão com manga",
+    "ingredients": [
+      { "quantity": "350", "unit": "g", "name": "miolo de camarão congelado" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "1", "unit": "unid.", "name": "talo de aipo" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "alcaparras" },
+      { "quantity": "1", "unit": "unid.", "name": "malagueta" },
+      { "quantity": "2", "unit": "unid.", "name": "limão" },
+      { "quantity": "2", "unit": "unid.", "name": "lima" },
+      { "quantity": "1", "unit": "unid.", "name": "manga madura" },
+      { "quantity": "1", "unit": "unid.", "name": "abacate maduro" },
+      { "quantity": "1", "unit": "emb.", "name": "folhas de rúcula" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" }
+    ],
+    "preparation": [
+      "Descongele o camarão, corte-o ao meio, retire-lhe a tripa e coloque-o numa tigela.",
+      "Junte o sal, o talo de aipo laminado, as alcaparras picadas, a malagueta cortada em pedaços pequenos e o sumo de 1 limão e das limas.",
+      "Mexa bem, tape com película aderente e leve ao frigorífico por um período nunca inferior a 3 horas.",
+      "Descasque e corte a manga em cubos pequenos e misture-a ao ceviche.",
+      "Corte o abacate em fatias finas, regue-o com o sumo do restante limão e reserve.",
+      "Distribua a rúcula pelos pratos de servir, coloque no meio as fatias de abacate e, por cima, disponha o ceviche.",
+      "Polvilhe com pimenta moída e sirva de imediato."
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Moqueca de camarão",
+    "ingredients": [
+      { "quantity": "1", "unit": "kg", "name": "camarão 20/30 Vannamei" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "sal" },
+      { "quantity": "1", "unit": "c. de sobremesa", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "farinha de trigo" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "2", "unit": "unid.", "name": "cebola" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "unid.", "name": "malagueta vermelha" },
+      { "quantity": "3", "unit": "unid.", "name": "tomate maduro" },
+      { "quantity": "1", "unit": "unid.", "name": "pimento vermelho" },
+      { "quantity": "1", "unit": "unid.", "name": "lima" },
+      { "quantity": "200", "unit": "ml", "name": "leite de coco" },
+      { "quantity": "q.b.", "unit": "", "name": "água" },
+      { "quantity": "q.b.", "unit": "", "name": "salsa" }
+    ],
+    "preparation": [
+      "Descasque os camarões, tempere com sal e pimenta e misture com a farinha de trigo. Reserve.",
+      "Aqueça o azeite e refogue a cebola com o alho e a malagueta, mexa bem. Em seguida, adicione os tomates picados e tape a panela até murcharem.",
+      "Junte os pimentos fatiados, o sumo de lima e mexa muito bem.",
+      "Adicione os camarões e o leite de coco, misture e, se necessário, adicione um pouco de água. Deixe cozinhar por cinco minutos.",
+      "Acerte o sal e a pimenta, junte as ervas, misture e sirva a moqueca de camarão com arroz."
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Camarão no forno com manteiga e alho",
+    "ingredients": [
+      { "quantity": "150", "unit": "g", "name": "manteiga" },
+      { "quantity": "4", "unit": "dente", "name": "alho picado" },
+      { "quantity": "q.b.", "unit": "", "name": "salsa" },
+      { "quantity": "1", "unit": "unid.", "name": "limão (raspas)" },
+      { "quantity": "1", "unit": "unid.", "name": "limão (sumo)" },
+      { "quantity": "1", "unit": "c. de sobremesa", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "1", "unit": "unid.", "name": "cacete galego" }
+    ],
+    "preparation": [
+      "Pré-aqueça o forno a 190 ºC.",
+      "Comece por descascar os camarões. Coloque-os em seguida num recipiente de forno. Reserve.",
+      "Para preparar a manteiga, misture, numa taça, a manteiga à temperatura ambiente com o alho e a salsa picada, a raspa e o sumo de limão. Tempere com sal e pimenta a gosto e misture bem a manteiga.",
+      "Corte o cacete galego em fatias e pincele com um pouco da manteiga. Coloque em seguida num tabuleiro de forno.",
+      "Coloque pequenas porções de manteiga sobre o camarão e leve, tanto o camarão como o pão, ao forno por 8 a 10 minutos.",
+      "Retire do forno e polvilhe os camarões com mais salsa e parmesão ralado. Sirva com o pão."
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Camarão frito",
+    "ingredients": [
+      { "quantity": "680", "unit": "g", "name": "camarão cozido" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "sal" },
+      { "quantity": "7", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "unid.", "name": "malagueta vermelha" },
+      { "quantity": "50", "unit": "ml", "name": "sumo de limão" },
+      { "quantity": "10", "unit": "folhas", "name": "salsa" },
+      { "quantity": "0,5", "unit": "dl", "name": "vinho branco" }
+    ],
+    "preparation": [
+      "Descasque os camarões. Tempere com sal.",
+      "Numa frigideira, aqueça o azeite e salteie os alhos. Junte os camarões e salteie até ficarem dourados, cerca de dois minutos.",
+      "Adicione a malagueta e refresque com o vinho branco.",
+      "Retire os camarões e polvilhe com as folhas de salsa. Sirva o camarão frito com pão ou tostas."
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Camarão tigre grelhado na frigideira",
+    "ingredients": [
+      { "quantity": "6", "unit": "unid.", "name": "camarão tigre" },
+      { "quantity": "4", "unit": "dente", "name": "alho" },
+      { "quantity": "200", "unit": "ml", "name": "azeite" },
+      { "quantity": "1", "unit": "unid.", "name": "malagueta vermelha" },
+      { "quantity": "q.b.", "unit": "", "name": "salsa" },
+      { "quantity": "q.b.", "unit": "", "name": "sal" },
+      { "quantity": "50", "unit": "g", "name": "manteiga" }
+    ],
+    "preparation": [
+      "Limpe os camarões, retirando a casca e a tripa. Se desejar, pode manter as cabeças e a cauda. Tempere apenas com sal.",
+      "Numa frigideira, aqueça 100 ml de azeite e junte 3 dentes de alho esmagados.",
+      "Adicione os camarões e cozinhe 2 minutos de cada lado, até ficarem dourados e suculentos. Junte a manteiga.",
+      "Para o molho, pique a malagueta, a salsa e o alho finamente. Misture com o azeite.",
+      "Regue os camarões com o molho e sirva."
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Strogonoff de camarão",
+    "ingredients": [
+      { "quantity": "800", "unit": "g", "name": "camarão 20/30 Vannamei" },
+      { "quantity": "2", "unit": "c. de sobremesa", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "molho picante" },
+      { "quantity": "1", "unit": "unid.", "name": "sumo de limão" },
+      { "quantity": "4", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "4", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "unid.", "name": "cenoura" },
+      { "quantity": "1", "unit": "folha", "name": "louro" },
+      { "quantity": "500", "unit": "ml", "name": "água" },
+      { "quantity": "2", "unit": "unid.", "name": "cebola" },
+      { "quantity": "50", "unit": "ml", "name": "whisky" },
+      { "quantity": "200", "unit": "ml", "name": "natas" }
+    ],
+    "preparation": [
+      "Descasque os camarões e guarde as cascas. Tempere-os com metade do sal, pimenta, molho picante e o sumo de um limão. Mexa bem para envolver o camarão em todos os temperos. Reserve.",
+      "Num tacho, adicione metade do azeite, as cascas do camarão, metade do alho, a cenoura, uma folha de louro e mexa bem. Adicione a água e deixe ferver.",
+      "Noutro tacho, adicione o restante azeite e os camarões até ficarem douradinhos. Reserve os camarões e no mesmo tacho adicione o restante alho, o whisky e as natas. Mexa até ficar um molho cremoso.",
+      "Adicione os camarões ao molho e envolva.",
+      "Sirva o strogonoff de camarão com arroz branco ou outro acompanhamento da sua preferência."
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Agridoce de camarão",
+    "ingredients": [
+      { "quantity": "600", "unit": "g", "name": "polpa de ananás" },
+      { "quantity": "3", "unit": "dl", "name": "água" },
+      { "quantity": "2", "unit": "c. de café", "name": "sal" },
+      { "quantity": "140", "unit": "g", "name": "arroz basmati" },
+      { "quantity": "1", "unit": "unid.", "name": "pimento laranja" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola" },
+      { "quantity": "400", "unit": "g", "name": "miolo de camarão" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "açúcar amarelo" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "vinagre" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "molho de soja" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "polpa de tomate" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "amido de milho" },
+      { "quantity": "1,5", "unit": "dl", "name": "água" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" }
+    ],
+    "preparation": [
+      "Corte o ananás ao meio no sentido do comprimento. Escave a polpa das metades e reserve uma das cascas intacta.",
+      "Coloque a água num tacho, tempere-a com uma colher de café de sal e deixe levantar fervura. Junte o arroz e coza cerca de 8 minutos. Escorra e reserve.",
+      "Corte o ananás, o pimento, limpo de sementes e películas brancas, e a cebola em cubos pequenos. Reserve.",
+      "Coloque o açúcar num tacho, adicione o vinagre e o molho de soja e aqueça até o açúcar dissolver.",
+      "Mexa, e adicione a polpa de tomate.",
+      "Dissolva o amido de milho na água e adicione-o ao molho. Mexa e deixe ferver 1 minuto. Tempere com o restante sal e reserve.",
+      "Aqueça o azeite numa frigideira anti-aderente e salteie a cebola e o pimento até alourarem ligeiramente.",
+      "Junte os camarões e salteie mais 3 minutos. No final, adicione os cubos de ananás e deixe ferver mais 1 minuto.",
+      "Junte o molho agridoce, deixe levantar fervura e retire. Sirva com o arroz."
+    ]
+  }
+]
