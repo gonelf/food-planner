@@ -176,6 +176,7 @@ const UNIT_PATTERNS = [
   { re: /^latas?\b\s*(?:de\s+)?/i,                 unit: 'lata',           type: 'count' },
   { re: /^frascos?\b\s*(?:de\s+)?/i,               unit: 'frasco',         type: 'count' },
   { re: /^embalagens?\b\s*(?:de\s+)?/i,            unit: 'embalagem',      type: 'count' },
+  { re: /^emb\.\s*(?:de\s+)?/i,                    unit: 'embalagem',      type: 'count' },
   { re: /^unidades?\b\s*(?:de\s+)?/i,              unit: 'un',             type: 'count',   factor: 1 },
   { re: /^unid\.\s*(?:de\s+)?/i,                   unit: 'un',             type: 'count',   factor: 1 },
   { re: /^dentes?\s+de\s+/i,                       unit: 'dente',          type: 'garlic' },
