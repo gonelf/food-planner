@@ -4,10 +4,11 @@ import frangoRecipes from '../data/recipes-frango.json';
 import peixeRecipes from '../data/recipes-peixe.json';
 import atumRecipes from '../data/recipes-atum.json';
 import peruRecipes from '../data/recipes-peru.json';
+import camaraoRecipes from '../data/recipes-camarao.json';
 import { v4 as uuidv4 } from 'uuid';
 import { buildShoppingList } from '../utils/ingredientParser';
 
-const recipesData = [...salmonRecipes, ...frangoRecipes, ...peixeRecipes, ...atumRecipes, ...peruRecipes];
+const recipesData = [...salmonRecipes, ...frangoRecipes, ...peixeRecipes, ...atumRecipes, ...peruRecipes, ...camaraoRecipes];
 
 const PlannerContext = createContext();
 
