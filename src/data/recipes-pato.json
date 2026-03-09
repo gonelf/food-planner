@@ -1,0 +1,290 @@
+[
+  {
+    "id": 91,
+    "title": "Arroz de pato",
+    "ingredients": [
+      { "quantity": "1,5", "unit": "L", "name": "água" },
+      { "quantity": "100", "unit": "ml", "name": "vinho tinto" },
+      { "quantity": "150", "unit": "g", "name": "chouriço de carne" },
+      { "quantity": "150", "unit": "g", "name": "toucinho fumado" },
+      { "quantity": "2", "unit": "folha", "name": "louro" },
+      { "quantity": "4", "unit": "unid.", "name": "peito de pato" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "50", "unit": "ml", "name": "azeite" },
+      { "quantity": "1", "unit": "unid.", "name": "cebola média" },
+      { "quantity": "3", "unit": "dente", "name": "alho" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "polpa de tomate" },
+      { "quantity": "400", "unit": "g", "name": "arroz agulha" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta preta" },
+      { "quantity": "q.b.", "unit": "", "name": "colorau" }
+    ],
+    "preparation": [
+      "Num tacho, coloque o litro e meio de água, o vinho tinto, metade do chouriço, o toucinho fumado, as folhas de louro, os peitos de pato e o sal.",
+      "Deixe cozer durante 40 minutos.",
+      "Coe e reserve o caldo da cozedura do pato.",
+      "Num tacho, faça um refogado com o azeite, a cebola picada e o alho picado. Deixe alourar 3 minutos e junte a polpa de tomate.",
+      "Deixe apurar durante 5 minutos.",
+      "Deixe arrefecer as carnes, desfie o pato e corte o chouriço e o toucinho fumado aos cubos. Junte ao tacho do refogado.",
+      "Adicione um pouco do caldo e deixe apurar durante 3 minutos.",
+      "Junte o arroz e misture bem. Depois adicione 400 ml do caldo da cozedura, a pimenta e o colorau. Quando levantar fervura baixe o lume e deixe cozer durante 10 minutos.",
+      "Coloque o arroz num tabuleiro de ir ao forno. Corte o restante chouriço às rodelas e decore por cima do arroz.",
+      "Leve ao forno a 170 ºC durante 15 minutos até alourar."
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Peito de pato com molho de cereja",
+    "ingredients": [
+      { "quantity": "4", "unit": "unid.", "name": "peito de pato" },
+      { "quantity": "2", "unit": "c. de café", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta em pó" },
+      { "quantity": "150", "unit": "g", "name": "cereja descaroçada" },
+      { "quantity": "½", "unit": "unid.", "name": "malagueta vermelha" },
+      { "quantity": "1", "unit": "dente", "name": "alho" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "ginginha" },
+      { "quantity": "0,5", "unit": "dl", "name": "vinho tinto" },
+      { "quantity": "½", "unit": "c. de café", "name": "cominhos moídos" },
+      { "quantity": "250", "unit": "g", "name": "tagliatelle fresco" }
+    ],
+    "preparation": [
+      "Faça golpes em losango na pele dos peitos de pato.",
+      "Aqueça bem uma frigideira antiaderente, coloque os peitos de pato com a pele virada para baixo e cozinhe 3 a 4 minutos em lume médio a forte até a pele estar alourada e estaladiça.",
+      "Vire, tempere com uma colher de café de sal e um pouco de pimenta e cozinhe em lume moderado durante mais 3 a 4 minutos. Retire do lume.",
+      "Retire a gordura da frigideira, junte as cerejas, a malagueta limpa de sementes e picada, o alho esmagado, a ginginha, o vinho tinto, os cominhos e uma colher de café de sal e deixe ferver em lume brando durante 10 minutos, mexendo de vez em quando.",
+      "Coza o tagliatelle em água temperada com o restante sal até estar al dente.",
+      "Escorra e incorpore com os espinafres e o tomate cherry cortado ao meio.",
+      "Tempere com o azeite e um pouco de pimenta e polvilhe com os orégãos.",
+      "Corte os peitos em fatias, regue com o molho de cereja e sirva com o tagliatelle."
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Peito de pato com arandos e maçã frita",
+    "ingredients": [
+      { "quantity": "4", "unit": "unid.", "name": "peito de pato" },
+      { "quantity": "3", "unit": "unid.", "name": "maçã Starking" },
+      { "quantity": "60", "unit": "g", "name": "arando seco" },
+      { "quantity": "1", "unit": "unid.", "name": "ovo L" },
+      { "quantity": "8", "unit": "c. de sopa", "name": "farinha integral" },
+      { "quantity": "0,8", "unit": "dl", "name": "leite meio-gordo" },
+      { "quantity": "0,5", "unit": "dl", "name": "água" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "amido de batata ou milho" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "açúcar" },
+      { "quantity": "5", "unit": "dl", "name": "óleo para fritar" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "óleo" },
+      { "quantity": "2", "unit": "folha", "name": "louro" },
+      { "quantity": "3", "unit": "dente", "name": "alho" },
+      { "quantity": "2", "unit": "unid.", "name": "hastes de alecrim" },
+      { "quantity": "3", "unit": "grão", "name": "pimenta da jamaica" },
+      { "quantity": "1", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" }
+    ],
+    "preparation": [
+      "Faça cortes superficiais na pele do peito de modo a formar losangos. Coloque-os num recipiente, regue-os com o óleo, tempere com o sal e a pimenta, junte as folhas do alecrim, os alhos com casca esmagados e o louro.",
+      "Deixe marinar, no frigorífico, cerca de 25 minutos.",
+      "Corte as maçãs ao meio, retire-lhes os caroços e corte-as em meias-luas com cerca de 1cm de espessura. Reserve.",
+      "Junte a farinha, o ovo e o leite e misture até obter uma consistência cremosa. Tempere com o sal e a pimenta.",
+      "Junte as maçãs laminadas, passe-as pela polme e frite-as no óleo quente até ficarem douradas. Retire e deixe escorrer em papel absorvente.",
+      "Pré-aqueça o forno a 150 °C.",
+      "Aqueça uma frigideira em lume médio e introduza os peitos de pato, escorridos, com a pele virada para baixo. Deite cozinhar durante 5 a 6 minutos ou até pele ficar crocante e vire-os do outro lado, fritando mais 5 a 6 minutos.",
+      "Coloque-os num recipiente de forno e asse durante 15 a 20 minutos.",
+      "Coloque os arandos secos num tacho pequeno, junte água até ficarem cobertos, junte o açúcar e deixe cozer em lume brando durante 5 minutos. Misture o amido de batata com a água fria, tempere com o sal e a pimenta e junte-o aos arandos.",
+      "Coza mais 3 a 4 minutos até ter uma consistência espessa. Deixe descansar a carne 10 minutos e sirva fatiada com a maçã e o molho de arandos."
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Magret de pato",
+    "ingredients": [
+      { "quantity": "4", "unit": "unid.", "name": "peito de pato" },
+      { "quantity": "2", "unit": "c. de chá", "name": "sal" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite virgem extra" },
+      { "quantity": "80", "unit": "g", "name": "cebola" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "400", "unit": "g", "name": "feijão-verde" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "vinagre balsâmico" },
+      { "quantity": "q.b.", "unit": "", "name": "cebolinho" },
+      { "quantity": "200", "unit": "ml", "name": "sumo de laranja" },
+      { "quantity": "40", "unit": "g", "name": "manteiga com sal" },
+      { "quantity": "20", "unit": "g", "name": "farinha" }
+    ],
+    "preparation": [
+      "Faça uns golpes em losango na pele dos peitos de pato, tempere-os com o sal e coloque-os numa frigideira antiaderente bem quente, dispondo-os com a pele virada para baixo e deixando alourar de todos os lados.",
+      "Rejeite a gordura que ficou na frigideira, adicione uma colher de sopa de azeite e refogue as chalotas picadas. Adicione o sumo de laranja e tempere com pimenta e sal.",
+      "Numa taça junte a manteiga com a farinha, mexa e adicione à frigideira. Envolva tudo muito bem e deixe cozinhar cerca de quatro minutos.",
+      "Lave o feijão-verde, tire-lhe as extremidades e fios e coza-o em água com o restante sal.",
+      "Sirva os peitos de pato cortados em fatias, acompanhados com o feijão-verde. Regue com azeite e vinagre balsâmico e polvilhe com o cebolinho, finamente cortado com uma tesoura."
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Salada de pato com couve-roxa",
+    "ingredients": [
+      { "quantity": "1", "unit": "unid.", "name": "peito de pato" },
+      { "quantity": "100", "unit": "g", "name": "juliana de couve-roxa" },
+      { "quantity": "200", "unit": "g", "name": "melão verde" },
+      { "quantity": "1", "unit": "unid.", "name": "curgete" },
+      { "quantity": "100", "unit": "g", "name": "uva preta sem grainha" },
+      { "quantity": "½", "unit": "unid.", "name": "pimento vermelho" },
+      { "quantity": "10", "unit": "g", "name": "cebolinho picado" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "vinagre balsâmico" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "c. de chá", "name": "açúcar mascavado" },
+      { "quantity": "100", "unit": "g", "name": "farinha de trigo" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "água fria" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "sementes de sésamo" },
+      { "quantity": "q.b.", "unit": "", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta em pó" }
+    ],
+    "preparation": [
+      "Deite a couve-roxa numa tigela, junte o pimento em tiras muito finas, os bagos de uva abertos, a courgette em rodelas muito finas e a polpa de meloa em cubos.",
+      "Adicione as 10 g do cebolinho picado, uma colher de chá de sal, o azeite e uma colher de sobremesa de vinagre balsâmico. Misture e reserve.",
+      "Noutra tigela, deite a farinha de trigo integral, junte o sal, o azeite e o cebolinho picado. Misture, adicione a água fria e mexa com uma colher de pau até formar uma bola. Amasse um pouco, tape e deixe repousar.",
+      "Com uma faca afiada, faça cortes na diagonal na pele do pato, criando losangos. Aqueça uma frigideira anti-aderente e introduza o pato com a pele virada para baixo.",
+      "Aloure até estar tostada e repita do outro lado. Escorra a gordura e tempere o pato com uma colher de café de sal e a pimenta.",
+      "Reduza o lume, tape e deixe cozinhar cerca de oito minutos. Polvilhe com o açúcar mascavado, junte o restante vinagre e retire do lume. Reserve tapado.",
+      "Divida a massa em quatro porções. Leve ao lume outra frigideira anti-aderente e aqueça-a. Com a ajuda de um rolo e farinha para polvilhar, estenda as porções de massa em rodelas finas e cozinhe-as, de ambos os lados, na frigideira cerca de um minuto.",
+      "Disponha a salada na lancheira e, por cima, distribua o pato, cortado em fatias finas.",
+      "Ferva os sucos que ficaram na frigideira até espessarem, deite sobre as fatias de pato e salpique com as sementes de sésamo.",
+      "Sirva com as panquecas preparadas."
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Pato recheado",
+    "ingredients": [
+      { "quantity": "2,5", "unit": "kg", "name": "pato com miúdos" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "sal" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta em pó" },
+      { "quantity": "1", "unit": "emb.", "name": "tâmaras" },
+      { "quantity": "5", "unit": "unid.", "name": "maçã Granny Smith" },
+      { "quantity": "q.b.", "unit": "", "name": "tomilho seco" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "1", "unit": "dl", "name": "vinho da Madeira" },
+      { "quantity": "600", "unit": "g", "name": "nabo" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "vinagre de sidra" },
+      { "quantity": "150", "unit": "g", "name": "azeitona verde" }
+    ],
+    "preparation": [
+      "Lave o pato (reserve os miúdos), enxugue com papel de cozinha, retire a gordura mais visível e esfregue-o, por dentro e por fora, com uma colher de sopa de sal e um pouco de pimenta.",
+      "Pré-aqueça o forno a 200° C.",
+      "Retire o caroço das tâmaras, corte-as em pedaços. Descasque três maçãs, corte em cubos e misture-as com as tâmaras.",
+      "Junte os miúdos do pato cortados em pedaços pequenos, polvilhe tudo com tomilho picado (reserve algum), mexa bem e recheie o pato com esta mistura.",
+      "Ate as patas de modo a segurarem o recheio e coloque o pato numa assadeira, previamente untada com uma colher de sopa de azeite.",
+      "Regue com o vinho da Madeira e leve ao forno cerca de 1h30m, regando de vez em quando com o próprio molho. Após 40 minutos, se começar a ficar muito corado, baixe a temperatura para os 180° C.",
+      "Coza os nabos em água temperada com o restante sal.",
+      "Aqueça bem o restante azeite numa frigideira anti-aderente e introduza os nabos cortados em gomos e as restantes maçãs descascadas e cortadas em gomos e deixe saltear até dourarem.",
+      "Regue com o vinagre de sidra, junte as azeitonas e polvilhe com pimenta. Sirva com o pato e com o molho à parte.",
+      "Polvilhe com o tomilho reservado."
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Canapés de pato e compota de framboesa",
+    "ingredients": [
+      { "quantity": "50", "unit": "g", "name": "cebola-roxa" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "150", "unit": "g", "name": "salada gourmet" },
+      { "quantity": "100", "unit": "g", "name": "mousse de pato com pimenta preta" },
+      { "quantity": "16", "unit": "unid.", "name": "mini-tosta extra fina" },
+      { "quantity": "125", "unit": "g", "name": "framboesa" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "açúcar mascavado" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "vinagre de sidra" }
+    ],
+    "preparation": [
+      "Salteie a cebola picada muito finamente numa colher de sobremesa de azeite. Deixe cozinhar em lume moderado, mexendo de vez em quando até a cebola estar mole.",
+      "Reserve um terço das framboesas e deite as restantes na frigideira. Polvilhe com o açúcar mascavado e deixe cozinhar, mexendo, até a mistura começar a espessar. Borrife com metade do vinagre e deixe ferver mais 5 minutos.",
+      "Tempere a salada gourmet com o restante azeite e vinagre e salpique com as framboesas reservadas.",
+      "Coloque, então, a compota de framboesa numa taça e sirva com as mini tostas barradas com mousse de pato e acompanhadas da salada."
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Croquetes de arroz de pato",
+    "ingredients": [
+      { "quantity": "400", "unit": "g", "name": "arroz de pato" },
+      { "quantity": "150", "unit": "ml", "name": "leite magro" },
+      { "quantity": "2", "unit": "dente", "name": "alho" },
+      { "quantity": "1,5", "unit": "c. de sopa", "name": "amido de milho" },
+      { "quantity": "1", "unit": "unid.", "name": "ovo M" },
+      { "quantity": "3", "unit": "c. de sopa", "name": "pão ralado" },
+      { "quantity": "5", "unit": "dl", "name": "azeite" },
+      { "quantity": "½", "unit": "c. de café", "name": "sal fino" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "q.b.", "unit": "", "name": "noz-moscada" },
+      { "quantity": "q.b.", "unit": "", "name": "folhas de tomilho fresco" },
+      { "quantity": "q.b.", "unit": "", "name": "água" }
+    ],
+    "preparation": [
+      "Num tacho, aqueça o leite com o alho picado, pimenta, noz-moscada e folhas de tomilho.",
+      "Numa tigela, dissolva bem o amido de milho com um pouco de água fria.",
+      "Junte o preparado ao leite.",
+      "Deixe ferver lentamente, em lume brando e mexendo sempre, até espessar.",
+      "Incorpore o arroz de pato, tempere com o sal, envolva bem e retire do lume.",
+      "Deixe arrefecer um pouco e forme pequenos croquetes.",
+      "Passe pelo ovo batido, e em seguida pelo pão ralado e frite-os no azeite bem quente até estarem alourados."
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Pato recheado com tâmaras e maçã",
+    "ingredients": [
+      { "quantity": "2,5", "unit": "kg", "name": "pato" },
+      { "quantity": "1", "unit": "emb.", "name": "tâmaras" },
+      { "quantity": "5", "unit": "unid.", "name": "maçã" },
+      { "quantity": "q.b.", "unit": "", "name": "miúdos do pato" },
+      { "quantity": "q.b.", "unit": "", "name": "tomilho" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "q.b.", "unit": "", "name": "pimenta" },
+      { "quantity": "100", "unit": "ml", "name": "vinho da Madeira" },
+      { "quantity": "600", "unit": "g", "name": "nabo" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "vinagre" },
+      { "quantity": "150", "unit": "g", "name": "azeitonas verdes" },
+      { "quantity": "1", "unit": "c. de sopa", "name": "sal" }
+    ],
+    "preparation": [
+      "Lave o pato (reserve os miúdos), seque-o com papel de cozinha, retire a gordura mais visível e esfregue-o por dentro e por fora com o sal e um pouco de pimenta.",
+      "Retire o caroço das tâmaras e corte-as em pedaços. Descasque três maçãs, corte-as em cubos e misture-as com as tâmaras.",
+      "Junte os miúdos do pato cortados em pedaços pequenos, polvilhe tudo com tomilho picado (reserve algum para mais tarde) e mexa bem.",
+      "Pré-aqueça o forno a 200ºC. Recheie o pato com a mistura anterior.",
+      "Ate as patas para segurar o recheio e coloque o pato numa assadeira untada com uma colher de sopa de azeite.",
+      "Regue com o vinho da Madeira e leve ao forno por cerca de 1h30m, regando de vez em quando com o próprio molho.",
+      "Salteie os nabos e as restantes maçãs em gomos numa frigideira com azeite até dourarem. Regue com o vinagre, junte as azeitonas e sirva com o pato."
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Arroz de pato com legumes",
+    "ingredients": [
+      { "quantity": "600", "unit": "g", "name": "pato desfiado com o caldo da cozedura" },
+      { "quantity": "300", "unit": "g", "name": "arroz agulha" },
+      { "quantity": "400", "unit": "g", "name": "preparado para sopa juliana" },
+      { "quantity": "100", "unit": "g", "name": "cebola em cubos congelada" },
+      { "quantity": "300", "unit": "ml", "name": "água" },
+      { "quantity": "2", "unit": "c. de sopa", "name": "azeite" },
+      { "quantity": "2", "unit": "c. de chá", "name": "sal" }
+    ],
+    "preparation": [
+      "Aqueça o azeite numa panela e refogue a cebola em cubos até amolecer.",
+      "Adicione o preparado de legumes para sopa e salteia por alguns minutos.",
+      "Junte o pato desfiado com o caldo da cozedura e a água, e deixe levantar fervura.",
+      "Adicione o arroz, tempere com o sal, misture bem e deixe cozer em lume brando até o arroz absorver o caldo.",
+      "Coloque num tabuleiro de forno e leve ao forno a 180 ºC durante 10 a 15 minutos até dourar por cima."
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Confit de pato com puré de castanhas",
+    "ingredients": [
+      { "quantity": "q.b.", "unit": "", "name": "castanhas" },
+      { "quantity": "q.b.", "unit": "", "name": "confit de pato" }
+    ],
+    "preparation": [
+      "Dê um golpe horizontal nas castanhas e leve-as a assar no forno pré-aquecido a 180 °C por 20 minutos.",
+      "Após assadas, retire a casca e a pele.",
+      "Prepare o puré de castanhas esmagando-as com manteiga e um pouco de leite ou natas até obter uma consistência cremosa. Tempere com sal e pimenta.",
+      "Aqueça o confit de pato numa frigideira em lume médio até a pele ficar estaladiça.",
+      "Sirva o confit de pato sobre o puré de castanhas."
+    ]
+  }
+]
