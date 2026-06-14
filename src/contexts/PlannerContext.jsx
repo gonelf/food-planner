@@ -1,15 +1,14 @@
 import { createContext, useContext, useState, useEffect } from 'react';
-import salmonRecipes from '../data/recipes.json';
-import frangoRecipes from '../data/recipes-frango.json';
-import peixeRecipes from '../data/recipes-peixe.json';
-import atumRecipes from '../data/recipes-atum.json';
-import peruRecipes from '../data/recipes-peru.json';
-import camaraoRecipes from '../data/recipes-camarao.json';
-import patoRecipes from '../data/recipes-pato.json';
 import { v4 as uuidv4 } from 'uuid';
 import { buildShoppingList } from '../utils/ingredientParser';
 
-const recipesData = [...salmonRecipes, ...frangoRecipes, ...peixeRecipes, ...atumRecipes, ...peruRecipes, ...camaraoRecipes, ...patoRecipes];
+// Auto-import every recipes*.json in src/data (including files added by the
+// admin scraper, e.g. recipes-bacalhau.json) so new terms surface without
+// editing this file. Sorted by filename for a stable, deterministic order.
+const recipeModules = import.meta.glob('../data/recipes*.json', { eager: true });
+const recipesData = Object.keys(recipeModules)
+  .sort()
+  .flatMap((path) => recipeModules[path].default ?? recipeModules[path]);
 
 const PlannerContext = createContext();
 
