@@ -19,7 +19,7 @@ import { readFile, readdir } from 'node:fs/promises';
 import { randomUUID } from 'node:crypto';
 import { join } from 'node:path';
 import { scrapeRecipes } from './scraper.js';
-import { saveRecipes, DATA_DIR } from './store.js';
+import { createStore, DATA_DIR } from './store.js';
 
 const PORT = process.env.PORT || 3001;
 
@@ -37,6 +37,16 @@ function createJob(term, maxPages, mode) {
     startedAt: new Date().toISOString(),
     finishedAt: null,
     log: [],
+    // Live progress counters (polled by the admin page).
+    progress: {
+      totalUrls: 0, // recipes discovered via pagination
+      processed: 0, // recipe pages attempted
+      added: 0, // new recipes saved
+      duplicates: 0, // skipped because already present
+      invalid: 0, // page had no parseable recipe
+      failed: 0, // fetch/parse errors
+      currentUrl: null,
+    },
     found: 0,
     result: null,
     error: null,
@@ -71,9 +81,13 @@ function describe(event) {
     case 'recipe-done':
       return `  ✓ ${event.title}`;
     case 'recipe-skip':
-      return `  – ignorada (${event.reason})`;
+      return `  – sem receita válida (${event.reason})`;
     case 'recipe-error':
       return `  ✗ erro: ${event.message}`;
+    case 'saved':
+      return `  💾 guardada (${event.added} novas)`;
+    case 'duplicate':
+      return `  – duplicada, ignorada`;
     case 'finish':
       return `Scrape concluído: ${event.scraped} receitas extraídas.`;
     default:
@@ -81,27 +95,70 @@ function describe(event) {
   }
 }
 
+/** Updates the job's live counters from a structured progress event. */
+function updateProgress(job, event) {
+  const p = job.progress;
+  switch (event.type) {
+    case 'urls':
+      p.totalUrls = event.total;
+      break;
+    case 'recipe-start':
+      p.processed = event.index;
+      p.currentUrl = event.url;
+      break;
+    case 'recipe-skip':
+      p.invalid += 1;
+      break;
+    case 'recipe-error':
+      p.failed += 1;
+      break;
+  }
+}
+
 async function runJob(job) {
+  // Incremental store: each recipe is persisted as it arrives, so a crash or
+  // stop mid-run keeps everything gathered so far.
+  const store = await createStore(job.term);
   try {
     const recipes = await scrapeRecipes(job.term, {
       maxPages: job.maxPages,
       mode: job.mode,
       onProgress: (event) => {
         log(job, describe(event));
-        if (event.type === 'recipe-done') job.found += 1;
+        updateProgress(job, event);
+      },
+      onRecipe: async (recipe) => {
+        const result = store.add(recipe);
+        if (result === 'added') {
+          await store.save(); // flush after every new recipe
+          job.progress.added += 1;
+          job.found += 1;
+          log(job, describe({ type: 'saved', added: job.progress.added }));
+        } else {
+          job.progress.duplicates += 1;
+          log(job, describe({ type: 'duplicate' }));
+        }
       },
     });
-    const saved = await saveRecipes(job.term, recipes);
+    await store.save(); // final safety flush
+    const summary = store.summary();
     log(
       job,
-      `Guardado em ${saved.file}: ${saved.added} novas, ${saved.skipped} duplicadas ignoradas, ${saved.total} no total.`
+      `Guardado em ${summary.file}: ${summary.added} novas, ${summary.skipped} duplicadas, ${summary.total} no total.`
     );
-    job.result = { scraped: recipes.length, ...saved };
+    job.result = { scraped: recipes.length, ...summary };
     job.status = 'done';
   } catch (err) {
+    // Persist whatever was gathered before the failure, then report it.
+    try {
+      await store.save();
+    } catch {
+      /* ignore secondary save error */
+    }
     job.error = err.message;
     job.status = 'error';
-    log(job, `Falha: ${err.message}`);
+    job.result = { partial: true, ...store.summary() };
+    log(job, `Falha: ${err.message} (guardadas ${store.summary().added} antes de falhar)`);
   } finally {
     job.finishedAt = new Date().toISOString();
   }
@@ -201,9 +258,11 @@ const server = createServer(async (req, res) => {
     sendJson(res, 200, {
       id: job.id,
       term: job.term,
+      mode: job.mode,
       status: job.status,
       startedAt: job.startedAt,
       finishedAt: job.finishedAt,
+      progress: job.progress,
       found: job.found,
       result: job.result,
       error: job.error,

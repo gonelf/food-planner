@@ -82,6 +82,13 @@ export default function AdminScraper() {
     }
   }
 
+  const Stat = ({ label, value, color }) => (
+    <div style={styles.stat}>
+      <span style={{ ...styles.statValue, color: color || 'var(--text-primary)' }}>{value}</span>
+      <span style={styles.statLabel}>{label}</span>
+    </div>
+  );
+
   const StatusIcon = () => {
     if (!job) return null;
     if (job.status === 'running') return <FiLoader className="spin" />;
@@ -149,16 +156,48 @@ export default function AdminScraper() {
         {error && <div style={styles.error}>{error}</div>}
 
         {job && (
-          <div style={styles.status}>
-            <StatusIcon />
-            <span>
-              {job.status === 'running' && `A extrair… (${job.found} receitas até agora)`}
-              {job.status === 'done' &&
-                job.result &&
-                `Concluído: ${job.result.added} novas, ${job.result.skipped} duplicadas, ${job.result.total} no ficheiro.`}
-              {job.status === 'error' && `Erro: ${job.error}`}
-            </span>
-          </div>
+          <>
+            <div style={styles.status}>
+              <StatusIcon />
+              <span>
+                {job.status === 'running' && `A extrair… (${job.progress?.added ?? 0} guardadas até agora)`}
+                {job.status === 'done' &&
+                  job.result &&
+                  `Concluído: ${job.result.added} novas, ${job.result.skipped} duplicadas, ${job.result.total} no ficheiro.`}
+                {job.status === 'error' &&
+                  `Erro: ${job.error}` +
+                    (job.result?.added ? ` — ${job.result.added} guardadas antes de falhar.` : '')}
+              </span>
+            </div>
+
+            {job.progress && (
+              <>
+                <div style={styles.progressBar}>
+                  <div
+                    style={{
+                      ...styles.progressFill,
+                      width: job.progress.totalUrls
+                        ? `${Math.round((job.progress.processed / job.progress.totalUrls) * 100)}%`
+                        : '0%',
+                    }}
+                  />
+                </div>
+                <div style={styles.stats}>
+                  <Stat label="Encontradas" value={job.progress.totalUrls} />
+                  <Stat label="Processadas" value={`${job.progress.processed}/${job.progress.totalUrls || '?'}`} />
+                  <Stat label="Guardadas" value={job.progress.added} color="var(--accent-success)" />
+                  <Stat label="Duplicadas" value={job.progress.duplicates} />
+                  <Stat label="Sem receita" value={job.progress.invalid} />
+                  <Stat label="Falhadas" value={job.progress.failed} color="var(--accent-danger)" />
+                </div>
+                {job.status === 'running' && job.progress.currentUrl && (
+                  <div style={styles.current} title={job.progress.currentUrl}>
+                    A processar: {job.progress.currentUrl}
+                  </div>
+                )}
+              </>
+            )}
+          </>
         )}
 
         {job?.log?.length > 0 && (
@@ -229,6 +268,44 @@ const styles = {
     gap: 8,
     fontSize: 14,
     fontWeight: 500,
+  },
+  progressBar: {
+    marginTop: 16,
+    height: 8,
+    borderRadius: 6,
+    background: 'var(--bg-tertiary)',
+    overflow: 'hidden',
+  },
+  progressFill: {
+    height: '100%',
+    background: 'var(--accent-primary)',
+    transition: 'width 0.4s ease',
+  },
+  stats: {
+    marginTop: 14,
+    display: 'flex',
+    flexWrap: 'wrap',
+    gap: 10,
+  },
+  stat: {
+    flex: '1 1 90px',
+    minWidth: 90,
+    background: 'var(--bg-tertiary)',
+    borderRadius: 10,
+    padding: '10px 12px',
+    display: 'flex',
+    flexDirection: 'column',
+    gap: 2,
+  },
+  statValue: { fontSize: 20, fontWeight: 700, lineHeight: 1.1 },
+  statLabel: { fontSize: 12, color: 'var(--text-secondary)' },
+  current: {
+    marginTop: 12,
+    fontSize: 12.5,
+    color: 'var(--text-secondary)',
+    whiteSpace: 'nowrap',
+    overflow: 'hidden',
+    textOverflow: 'ellipsis',
   },
   log: {
     marginTop: 14,

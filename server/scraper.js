@@ -64,15 +64,26 @@ function listingUrl(term, page) {
 async function collectRecipeUrls(term, { maxPages = 20, mode = 'auto', onProgress = () => {} } = {}) {
   const notice = (message) => onProgress({ type: 'notice', message });
   const all = new Set();
+  let consecutiveErrors = 0;
+  const MAX_CONSECUTIVE_ERRORS = 3;
+
   for (let page = 1; page <= maxPages; page++) {
     const url = listingUrl(term, page);
     onProgress({ type: 'listing', page, url });
     let html;
     try {
       html = await fetchText(url, { referer: `${BASE}/receitas/`, mode, onNotice: notice });
+      consecutiveErrors = 0;
     } catch (err) {
       onProgress({ type: 'listing-error', page, url, message: err.message });
-      break;
+      // A single bad page shouldn't abort pagination — skip and keep going,
+      // unless several pages in a row fail (likely the site is unreachable).
+      if (++consecutiveErrors >= MAX_CONSECUTIVE_ERRORS) {
+        onProgress({ type: 'notice', message: `${consecutiveErrors} páginas seguidas falharam; a parar a paginação.` });
+        break;
+      }
+      await sleep(400);
+      continue;
     }
     const links = extractRecipeLinks(html);
     const before = all.size;
@@ -313,7 +324,26 @@ async function scrapeRecipe(url, { mode = 'auto', onProgress = () => {} } = {}) 
  *
  * @returns {Promise<Array<{title, ingredients, preparation, sourceUrl}>>}
  */
-async function scrapeRecipes(term, { maxPages = 20, mode = 'auto', onProgress = () => {} } = {}) {
+/**
+ * Scrapes all recipes matching `term`, honouring pagination.
+ *
+ * Resilient by design: each recipe is fetched, parsed and (via onRecipe)
+ * persisted independently, so a failure on one recipe or listing page never
+ * aborts the whole run. onRecipe is awaited per successful recipe — wire it to
+ * an incremental store so partial progress survives a crash or stop.
+ *
+ * @param {string} term
+ * @param {object} opts
+ * @param {number} [opts.maxPages=20]
+ * @param {'auto'|'fetch'|'browser'} [opts.mode='auto']
+ * @param {(event)=>void} [opts.onProgress]
+ * @param {(recipe)=>Promise<void>|void} [opts.onRecipe]
+ * @returns {Promise<Array>} the successfully scraped recipes
+ */
+async function scrapeRecipes(
+  term,
+  { maxPages = 20, mode = 'auto', onProgress = () => {}, onRecipe } = {}
+) {
   onProgress({ type: 'start', term, maxPages, mode });
   try {
     const urls = await collectRecipeUrls(term, { maxPages, mode, onProgress });
@@ -328,9 +358,18 @@ async function scrapeRecipes(term, { maxPages = 20, mode = 'auto', onProgress = 
         if (recipe) {
           recipes.push(recipe);
           onProgress({ type: 'recipe-done', index: i + 1, total: urls.length, title: recipe.title });
+          if (onRecipe) {
+            // Persistence is isolated too: a save error is reported but does
+            // not stop the rest of the scrape.
+            try {
+              await onRecipe(recipe);
+            } catch (saveErr) {
+              onProgress({ type: 'notice', message: `Falha ao guardar "${recipe.title}": ${saveErr.message}` });
+            }
+          }
         }
       } catch (err) {
-        onProgress({ type: 'recipe-error', url, message: err.message });
+        onProgress({ type: 'recipe-error', index: i + 1, total: urls.length, url, message: err.message });
       }
       await sleep(300);
     }

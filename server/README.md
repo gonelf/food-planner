@@ -69,6 +69,22 @@ log explains how to enable it.
 | GET    | `/api/scrape/:jobId` | Job status, live log and result               |
 | GET    | `/api/recipes`       | Counts per saved recipe file                  |
 
+## Resilience & live feedback
+
+The scrape is modular so one bad recipe or page never sinks the whole run:
+
+- Each recipe is fetched, parsed and **saved independently** — a single failure
+  is logged and counted, then the run continues.
+- Recipes are **persisted incrementally** (the file is flushed after every new
+  recipe), so a crash, stop or network drop keeps everything gathered so far.
+  On error the job result is marked `partial` with whatever was saved.
+- Pagination tolerates transient page errors and only stops after several
+  consecutive failures (or when a page yields no new recipes).
+- The admin page shows a **live progress bar** and counters
+  (encontradas / processadas / guardadas / duplicadas / sem receita / falhadas)
+  plus the recipe currently being processed, polled from
+  `GET /api/scrape/:jobId` (`progress` field).
+
 ## Notes
 
 - Running from your own machine / server (a real outbound IP) generally works

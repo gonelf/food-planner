@@ -60,35 +60,34 @@ async function maxIdAcrossFiles() {
 }
 
 /**
- * Merges scraped recipes into data/recipes-<term>.json.
+ * Opens an incremental store for data/recipes-<term>.json.
+ *
+ * Loads the existing file once, then lets the caller add recipes one at a time
+ * and flush to disk after each — so a crash or stop mid-scrape keeps everything
+ * gathered so far instead of losing the whole run.
  *
  * @param {string} term
- * @param {Array<{title, ingredients, preparation, sourceUrl}>} scraped
- * @returns {Promise<{file, added, skipped, total}>}
+ * @returns {Promise<{ add, save, summary }>}
  */
-export async function saveRecipes(term, scraped) {
+export async function createStore(term) {
   const file = join(DATA_DIR, `recipes-${slugify(term)}.json`);
-  const existing = await readJsonArray(file);
+  const recipes = await readJsonArray(file);
 
-  // Nothing scraped and no existing file → don't create an empty file.
-  if (scraped.length === 0 && existing.length === 0) {
-    return { file, added: 0, skipped: 0, total: 0 };
-  }
-
-  const seenUrls = new Set(existing.map((r) => r.sourceUrl).filter(Boolean));
-  const seenTitles = new Set(existing.map((r) => normaliseTitle(r.title)));
-
+  const seenUrls = new Set(recipes.map((r) => r.sourceUrl).filter(Boolean));
+  const seenTitles = new Set(recipes.map((r) => normaliseTitle(r.title)));
   let nextId = (await maxIdAcrossFiles()) + 1;
   let added = 0;
   let skipped = 0;
+  let dirty = false;
 
-  for (const r of scraped) {
+  /** Adds one recipe; returns 'added' or 'skipped' (duplicate). */
+  function add(r) {
     const titleKey = normaliseTitle(r.title);
     if ((r.sourceUrl && seenUrls.has(r.sourceUrl)) || seenTitles.has(titleKey)) {
       skipped++;
-      continue;
+      return 'skipped';
     }
-    existing.push({
+    recipes.push({
       id: nextId++,
       title: r.title,
       ingredients: r.ingredients,
@@ -98,10 +97,35 @@ export async function saveRecipes(term, scraped) {
     if (r.sourceUrl) seenUrls.add(r.sourceUrl);
     seenTitles.add(titleKey);
     added++;
+    dirty = true;
+    return 'added';
   }
 
-  await writeFile(file, JSON.stringify(existing, null, 2) + '\n', 'utf8');
-  return { file, added, skipped, total: existing.length };
+  /** Flushes to disk. Never creates an empty file. */
+  async function save() {
+    if (!dirty || recipes.length === 0) return;
+    await writeFile(file, JSON.stringify(recipes, null, 2) + '\n', 'utf8');
+    dirty = false;
+  }
+
+  function summary() {
+    return { file, added, skipped, total: recipes.length };
+  }
+
+  return { add, save, summary };
+}
+
+/**
+ * Bulk-merges scraped recipes into data/recipes-<term>.json (non-incremental).
+ * Kept for the CLI / one-shot path; built on top of createStore.
+ *
+ * @returns {Promise<{file, added, skipped, total}>}
+ */
+export async function saveRecipes(term, scraped) {
+  const store = await createStore(term);
+  for (const r of scraped) store.add(r);
+  await store.save();
+  return store.summary();
 }
 
 export { DATA_DIR, slugify, existsSync };
