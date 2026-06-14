@@ -3,10 +3,16 @@ import RecipeExplorer from './components/RecipeExplorer';
 import WeeklyPlanner from './components/WeeklyPlanner';
 import ShoppingList from './components/ShoppingList';
 import RecipeModal from './components/RecipeModal';
+import AdminScraper from './components/AdminScraper';
 import { FiSearch, FiCalendar, FiShoppingCart } from 'react-icons/fi';
 
 function App() {
     const [activeTab, setActiveTab] = useState('planner');
+
+    // Admin scraper page, reached at /#admin (kept out of the main 3-tab UI).
+    if (typeof window !== 'undefined' && window.location.hash === '#admin') {
+        return <AdminScraper />;
+    }
 
     return (
         <div className={`app-layout tab-${activeTab}`}>
