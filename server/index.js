@@ -26,12 +26,13 @@ const PORT = process.env.PORT || 3001;
 /** In-memory job registry. */
 const jobs = new Map();
 
-function createJob(term, maxPages) {
+function createJob(term, maxPages, mode) {
   const id = randomUUID();
   const job = {
     id,
     term,
     maxPages,
+    mode,
     status: 'running', // running | done | error
     startedAt: new Date().toISOString(),
     finishedAt: null,
@@ -54,7 +55,9 @@ function log(job, message) {
 function describe(event) {
   switch (event.type) {
     case 'start':
-      return `A iniciar scrape de "${event.term}" (até ${event.maxPages} páginas)…`;
+      return `A iniciar scrape de "${event.term}" (até ${event.maxPages} páginas, modo ${event.mode})…`;
+    case 'notice':
+      return `  ⚠ ${event.message}`;
     case 'listing':
       return `Página de resultados ${event.page}…`;
     case 'listing-result':
@@ -82,6 +85,7 @@ async function runJob(job) {
   try {
     const recipes = await scrapeRecipes(job.term, {
       maxPages: job.maxPages,
+      mode: job.mode,
       onProgress: (event) => {
         log(job, describe(event));
         if (event.type === 'recipe-done') job.found += 1;
@@ -164,6 +168,13 @@ const server = createServer(async (req, res) => {
     const body = await readBody(req);
     const term = String(body.term || '').trim();
     const maxPages = Math.min(Math.max(parseInt(body.maxPages, 10) || 20, 1), 100);
+    // mode: 'auto' (fetch → browser fallback), 'fetch' (no browser), 'browser'.
+    // `browser: true` is shorthand for mode 'browser'.
+    const mode = ['auto', 'fetch', 'browser'].includes(body.mode)
+      ? body.mode
+      : body.browser
+      ? 'browser'
+      : 'auto';
     if (!term) {
       sendJson(res, 400, { error: 'Indica um termo de pesquisa (ex.: "bacalhau").' });
       return;
@@ -173,7 +184,7 @@ const server = createServer(async (req, res) => {
       sendJson(res, 409, { error: 'Já existe um scrape em curso.', jobId: running.id });
       return;
     }
-    const job = createJob(term, maxPages);
+    const job = createJob(term, maxPages, mode);
     runJob(job); // fire and forget; progress polled via GET
     sendJson(res, 202, { jobId: job.id });
     return;

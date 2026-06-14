@@ -14,6 +14,7 @@ import { FiDownloadCloud, FiLoader, FiCheckCircle, FiAlertCircle } from 'react-i
 export default function AdminScraper() {
   const [term, setTerm] = useState('bacalhau');
   const [maxPages, setMaxPages] = useState(20);
+  const [mode, setMode] = useState('auto');
   const [job, setJob] = useState(null);
   const [error, setError] = useState(null);
   const [files, setFiles] = useState([]);
@@ -66,7 +67,7 @@ export default function AdminScraper() {
       const res = await fetch('/api/scrape', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ term: term.trim(), maxPages: Number(maxPages) }),
+        body: JSON.stringify({ term: term.trim(), maxPages: Number(maxPages), mode }),
       });
       const data = await res.json();
       if (!res.ok) {
@@ -121,6 +122,19 @@ export default function AdminScraper() {
               onChange={(e) => setMaxPages(e.target.value)}
               disabled={running}
             />
+          </label>
+          <label style={{ ...styles.field, maxWidth: 220 }}>
+            <span style={styles.label}>Método</span>
+            <select
+              className="search-input"
+              value={mode}
+              onChange={(e) => setMode(e.target.value)}
+              disabled={running}
+            >
+              <option value="auto">Auto (fetch → browser se falhar)</option>
+              <option value="browser">Browser headless (Playwright)</option>
+              <option value="fetch">Só fetch (sem browser)</option>
+            </select>
           </label>
           <button
             className="btn-primary"

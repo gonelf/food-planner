@@ -33,7 +33,33 @@ progress and the saved-file summary are shown on the page.
 ```bash
 npm run scrape -- bacalhau
 npm run scrape -- "peito de frango" --max-pages 10
+npm run scrape -- bacalhau --browser     # force the headless-browser fallback
+npm run scrape -- bacalhau --fetch        # plain HTTP only, never a browser
 ```
+
+## Anti-bot fallback (headless browser)
+
+The Pingo Doce site uses bot protection that can return `HTTP 403` to a plain
+HTTP fetch. The service has three **methods**, selectable in the admin page or
+via the API (`mode`) / CLI flags:
+
+| Method    | Behaviour                                                        |
+| --------- | --------------------------------------------------------------- |
+| `auto`    | Default. Plain fetch first; on failure retry through a headless browser (if Playwright is installed). |
+| `browser` | Always render pages through a headless Chromium.                 |
+| `fetch`   | Plain HTTP only — never launch a browser.                       |
+
+The browser fallback uses **Playwright**, which is an *optional* dependency
+loaded lazily — the service runs with zero dependencies when plain fetch is
+enough. To enable the fallback:
+
+```bash
+npm i -D playwright
+npx playwright install chromium
+```
+
+If Playwright isn't installed, `auto`/`browser` degrade gracefully and the job
+log explains how to enable it.
 
 ## HTTP API
 
@@ -45,10 +71,10 @@ npm run scrape -- "peito de frango" --max-pages 10
 
 ## Notes
 
-- The Pingo Doce site uses bot protection. Running from your own machine /
-  server (a real outbound IP) generally works; sandboxes with an egress
-  allow-list or aggressive WAFs may receive `HTTP 403` — the job log reports
-  this clearly.
+- Running from your own machine / server (a real outbound IP) generally works
+  with plain `fetch`; if you hit `HTTP 403`, switch to the `auto`/`browser`
+  method (see above). Sandboxes with an egress allow-list may block the host
+  entirely regardless of method — the job log reports this clearly.
 - After a scrape, new recipes appear in the app automatically: any
   `src/data/recipes*.json` file is picked up by `PlannerContext.jsx` via
   `import.meta.glob`, so new terms (e.g. `recipes-bacalhau.json`) need no extra

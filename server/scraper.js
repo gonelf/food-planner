@@ -10,46 +10,14 @@
  *     (schema.org) and convert it into the project's recipe shape:
  *        { title, ingredients: [{ quantity, unit, name }], preparation: [string] }
  *
- * Uses only Node built-ins (global fetch from Node 18+). No npm install needed.
+ * Network access goes through ./fetcher.js, which uses the global fetch
+ * (Node 18+) with an optional headless-browser (Playwright) fallback for the
+ * site's bot protection. The core needs no npm install; the fallback is opt-in.
  */
 
-const BASE = 'https://www.pingodoce.pt';
-
-// Browser-like headers help get past basic bot filtering / WAF rules.
-const DEFAULT_HEADERS = {
-  'User-Agent':
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 ' +
-    '(KHTML, like Gecko) Version/17.4 Safari/605.1.15',
-  Accept:
-    'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-  'Accept-Language': 'pt-PT,pt;q=0.9,en;q=0.8',
-  'Cache-Control': 'no-cache',
-};
+import { fetchText, closeBrowser, BASE } from './fetcher.js';
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-
-/**
- * Fetches a URL as text with browser headers and exponential-backoff retries.
- */
-async function fetchText(url, { retries = 3, referer = BASE } = {}) {
-  let lastErr;
-  for (let attempt = 0; attempt <= retries; attempt++) {
-    try {
-      const res = await fetch(url, {
-        headers: { ...DEFAULT_HEADERS, Referer: referer },
-        redirect: 'follow',
-      });
-      if (!res.ok) {
-        throw new Error(`HTTP ${res.status} for ${url}`);
-      }
-      return await res.text();
-    } catch (err) {
-      lastErr = err;
-      if (attempt < retries) await sleep(1000 * 2 ** attempt); // 1s, 2s, 4s…
-    }
-  }
-  throw lastErr;
-}
 
 // ─── LISTING / PAGINATION ────────────────────────────────────────────────────
 
@@ -93,14 +61,15 @@ function listingUrl(term, page) {
  * Walks the paginated search results collecting unique recipe URLs.
  * Stops when a page returns no new recipes or maxPages is reached.
  */
-async function collectRecipeUrls(term, { maxPages = 20, onProgress = () => {} } = {}) {
+async function collectRecipeUrls(term, { maxPages = 20, mode = 'auto', onProgress = () => {} } = {}) {
+  const notice = (message) => onProgress({ type: 'notice', message });
   const all = new Set();
   for (let page = 1; page <= maxPages; page++) {
     const url = listingUrl(term, page);
     onProgress({ type: 'listing', page, url });
     let html;
     try {
-      html = await fetchText(url, { referer: `${BASE}/receitas/` });
+      html = await fetchText(url, { referer: `${BASE}/receitas/`, mode, onNotice: notice });
     } catch (err) {
       onProgress({ type: 'listing-error', page, url, message: err.message });
       break;
@@ -310,8 +279,9 @@ function cleanName(name) {
  * Fetches a recipe page and returns the project-shaped recipe, or null if the
  * page has no parseable Recipe JSON-LD.
  */
-async function scrapeRecipe(url, { onProgress = () => {} } = {}) {
-  const html = await fetchText(url, { referer: `${BASE}/receitas/` });
+async function scrapeRecipe(url, { mode = 'auto', onProgress = () => {} } = {}) {
+  const notice = (message) => onProgress({ type: 'notice', message });
+  const html = await fetchText(url, { referer: `${BASE}/receitas/`, mode, onNotice: notice });
   const recipeNode = extractJsonLd(html).find((n) => hasType(n, 'Recipe'));
   if (!recipeNode) {
     onProgress({ type: 'recipe-skip', url, reason: 'no JSON-LD Recipe found' });
@@ -343,29 +313,34 @@ async function scrapeRecipe(url, { onProgress = () => {} } = {}) {
  *
  * @returns {Promise<Array<{title, ingredients, preparation, sourceUrl}>>}
  */
-async function scrapeRecipes(term, { maxPages = 20, onProgress = () => {} } = {}) {
-  onProgress({ type: 'start', term, maxPages });
-  const urls = await collectRecipeUrls(term, { maxPages, onProgress });
-  onProgress({ type: 'urls', total: urls.length });
+async function scrapeRecipes(term, { maxPages = 20, mode = 'auto', onProgress = () => {} } = {}) {
+  onProgress({ type: 'start', term, maxPages, mode });
+  try {
+    const urls = await collectRecipeUrls(term, { maxPages, mode, onProgress });
+    onProgress({ type: 'urls', total: urls.length });
 
-  const recipes = [];
-  for (let i = 0; i < urls.length; i++) {
-    const url = urls[i];
-    onProgress({ type: 'recipe-start', index: i + 1, total: urls.length, url });
-    try {
-      const recipe = await scrapeRecipe(url, { onProgress });
-      if (recipe) {
-        recipes.push(recipe);
-        onProgress({ type: 'recipe-done', index: i + 1, total: urls.length, title: recipe.title });
+    const recipes = [];
+    for (let i = 0; i < urls.length; i++) {
+      const url = urls[i];
+      onProgress({ type: 'recipe-start', index: i + 1, total: urls.length, url });
+      try {
+        const recipe = await scrapeRecipe(url, { mode, onProgress });
+        if (recipe) {
+          recipes.push(recipe);
+          onProgress({ type: 'recipe-done', index: i + 1, total: urls.length, title: recipe.title });
+        }
+      } catch (err) {
+        onProgress({ type: 'recipe-error', url, message: err.message });
       }
-    } catch (err) {
-      onProgress({ type: 'recipe-error', url, message: err.message });
+      await sleep(300);
     }
-    await sleep(300);
-  }
 
-  onProgress({ type: 'finish', scraped: recipes.length });
-  return recipes;
+    onProgress({ type: 'finish', scraped: recipes.length });
+    return recipes;
+  } finally {
+    // Tear down the headless browser if the fallback ever launched one.
+    await closeBrowser();
+  }
 }
 
 export {
